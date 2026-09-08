@@ -1,4 +1,4 @@
-# CLAUDE.md — English Reading Mastery
+# CLAUDE.md — English Mastery
 
 Project-level instructions for Claude Code sessions working in this
 repository. Read this before turning any lesson content into a

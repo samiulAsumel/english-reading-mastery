@@ -149,7 +149,7 @@ function coursePage(publishedLessons) {
 
   return layout({
     title: 'Course Overview',
-    description: 'The full English Reading Mastery curriculum: nine levels, their modules, and what each stage teaches.',
+    description: 'The full English Mastery curriculum: nine levels, their modules, and what each stage teaches.',
     path: '/course/',
     bodyHtml: body,
   });
@@ -171,7 +171,7 @@ function levelsIndexPage(publishedLessons) {
     </div>`;
   return layout({
     title: 'Levels',
-    description: 'Browse the nine skill levels of English Reading Mastery, from orientation to near-native reading.',
+    description: 'Browse the nine skill levels of English Mastery, from orientation to near-native reading.',
     path: '/levels/',
     bodyHtml: body,
   });
@@ -238,7 +238,7 @@ function modulesIndexPage(publishedLessons) {
 
   return layout({
     title: 'Modules',
-    description: 'Every module in the English Reading Mastery curriculum, grouped by skill level.',
+    description: 'Every module in the English Mastery curriculum, grouped by skill level.',
     path: '/modules/',
     bodyHtml: body,
   });
@@ -303,7 +303,7 @@ function lessonsIndexPage(publishedLessons) {
 
   return layout({
     title: 'All Lessons',
-    description: 'Browse and search every published lesson in the English Reading Mastery course.',
+    description: 'Browse and search every published lesson in the English Mastery course.',
     path: '/lessons/',
     bodyHtml: body,
     extraScripts: '<script defer src="/scripts/lessons-filter.js"></script>',

@@ -2,7 +2,7 @@
 
 const { escapeHtml } = require('./content');
 
-const SITE_NAME = 'English Reading Mastery';
+const SITE_NAME = 'English Mastery';
 const SITE_URL = process.env.SITE_URL || 'http://localhost:4000';
 
 function attrEscape(str) {

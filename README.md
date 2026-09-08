@@ -1,4 +1,4 @@
-# English Reading Mastery
+# English Mastery
 
 A structured English reading course, built as a content-driven static
 site: sentence-level foundations through near-native critical reading,
