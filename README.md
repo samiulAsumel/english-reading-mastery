@@ -13,6 +13,14 @@ past lesson 85 without redesign. See [`ARCHITECTURE.md`](./ARCHITECTURE.md)
 for why it's built this way, and [`CONTENT_GUIDE.md`](./CONTENT_GUIDE.md)
 for how to add a lesson.
 
+**Live:** [englishmastery.pages.dev](https://englishmastery.pages.dev) —
+auto-deploys on every push to `main` (Cloudflare Pages).
+
+> **If you're Claude Code and the user just handed you raw lesson
+> material:** read [`CLAUDE.md`](./CLAUDE.md) first. Lesson content gets
+> rewritten to a specific voice and quality bar before it's saved — it is
+> never uploaded verbatim.
+
 ## Prerequisites
 
 - Node.js 18+ (build tooling only — nothing Node-specific ships to the browser)
@@ -82,6 +90,7 @@ dist/                     Generated output (gitignored) — this is what you dep
 
 ## Docs
 
+- [`CLAUDE.md`](./CLAUDE.md) — the voice and quality bar for lesson content, and the English/Bangla language rule (read this before writing any lesson)
 - [`ARCHITECTURE.md`](./ARCHITECTURE.md) — how the content/curriculum/build system works and why
 - [`CONTENT_GUIDE.md`](./CONTENT_GUIDE.md) — the exact steps to add Lesson 86 (or any lesson), and every custom content block
 - [`CONTRIBUTING.md`](./CONTRIBUTING.md) — code style and PR expectations

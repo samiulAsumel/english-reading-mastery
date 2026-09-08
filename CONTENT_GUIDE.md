@@ -4,6 +4,11 @@ This is the exact workflow for adding a lesson (86, 87, or any future
 number) with Claude Code, or by hand. Nothing outside `content/lessons/`
 needs to change for a normal new lesson.
 
+> This guide covers the *mechanics* — file structure, frontmatter,
+> available blocks. For the *voice* the lesson body should be written in
+> (and the English/Bangla language rule), see [`CLAUDE.md`](./CLAUDE.md)
+> first — raw material the user sends is never uploaded as-is.
+
 ## The one-command path
 
 ```bash
