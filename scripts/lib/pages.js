@@ -48,7 +48,7 @@ function journeyHtml() {
 function homePage(publishedLessons) {
   const lessonCount = publishedLessons.length;
   const stats = [
-    { value: String(lessonCount), label: 'Lessons published' },
+    { value: String(lessonCount), label: lessonCount === 1 ? 'Lesson published' : 'Lessons published' },
     { value: String(levels.length), label: 'Skill levels' },
     { value: String(modules.length), label: 'Modules mapped' },
   ];
