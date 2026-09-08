@@ -1,82 +1,87 @@
 # English Reading Mastery
 
-A structured English reading course, built as a content-driven Next.js
-platform: sentence-level foundations through near-native critical reading,
-across nine skill levels.
+A structured English reading course, built as a content-driven static
+site: sentence-level foundations through near-native critical reading,
+across nine skill levels. **Pure HTML, CSS, and vanilla JavaScript** —
+no framework runtime ships to the browser. A small dependency-light Node
+script generates real `.html` files from Markdown lesson content at build
+time.
 
 This is a long-term platform, not a one-off site — every lesson is a
-version-controlled content file, and the architecture is built to grow past
-lesson 85 without redesign. See [`ARCHITECTURE.md`](./ARCHITECTURE.md) for
-why it's built this way, and [`CONTENT_GUIDE.md`](./CONTENT_GUIDE.md) for
-how to add a lesson.
+version-controlled content file, and the architecture is built to grow
+past lesson 85 without redesign. See [`ARCHITECTURE.md`](./ARCHITECTURE.md)
+for why it's built this way, and [`CONTENT_GUIDE.md`](./CONTENT_GUIDE.md)
+for how to add a lesson.
 
 ## Prerequisites
 
-- Node.js 20+
+- Node.js 18+ (build tooling only — nothing Node-specific ships to the browser)
 - npm
 
-> **This repo lives on an exFAT drive**, which has no symlink support. Two
-> consequences baked into `package.json`, both there on purpose — don't
-> "simplify" them back:
-> - `.npmrc` sets `bin-links=false`, and every script calls its tool's JS
->   entrypoint directly (`node node_modules/next/dist/bin/next dev`)
->   instead of relying on `node_modules/.bin`, which npm can't populate here.
-> - `dev` and `build` pass `--webpack`. Turbopack (Next.js 16's default)
->   symlinks `.next/node_modules/*` back into `node_modules/` as part of
->   its build cache, which also fails on exFAT — webpack doesn't need to.
+> **This repo lives on an exFAT drive**, which has no symlink support.
+> `.npmrc` sets `bin-links=false` (one dependency, `marked`, ships a CLI
+> bin npm would otherwise try to symlink) — not that it matters much here,
+> since every script is already just `node scripts/whatever.js`, never a
+> `node_modules/.bin` shim.
 
 ## Setup
 
 ```bash
 npm install
-cp .env.example .env.local
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Open [http://localhost:4000](http://localhost:4000). `npm run dev`
+rebuilds automatically when you edit anything under `content/` or `src/`
+— refresh the browser after a rebuild finishes (logged to the terminal).
+There's no hot-reload/HMR; it's a full static rebuild, and it's fast.
 
 ## Commands
 
 | Command | Does |
 |---|---|
-| `npm run dev` | Start the dev server |
-| `npm run build` | Validate content, then production build |
-| `npm run start` | Serve the production build |
-| `npm run lint` | ESLint |
-| `npm run typecheck` | `tsc --noEmit` |
+| `npm run dev` | Build once, serve `dist/` at :4000, rebuild on file changes |
+| `npm run build` | Validate content, then generate the full site into `dist/` |
+| `npm run serve` | Serve the already-built `dist/` (no rebuilding) |
 | `npm run validate:content` | Check every lesson file against the content schema (see CONTENT_GUIDE.md) |
-| `npm run new:lesson -- --title "..."` | Scaffold the next lesson file with the right number/level/module pre-filled |
+| `npm run new:lesson -- --title "..."` | Scaffold the next lesson file with number/level/module pre-filled |
 
-## Environment variables
+## Deploying
 
-See [`.env.example`](./.env.example) — currently just the public site URL
-used for SEO metadata. There's no backend yet; progress tracking is
-local-only (see `src/lib/progress/`).
+`dist/` after `npm run build` is the entire site — plain files. Any static
+host works (upload the folder, or point a host at this repo with build
+command `npm run build` and publish directory `dist`). Set
+`SITE_URL=https://yourdomain.com` in the environment before building so
+canonical URLs, Open Graph tags, and `sitemap.xml` point at the real
+domain instead of `http://localhost:4000`.
 
 ## Project structure
 
 ```
 content/
-  curriculum/       Levels, modules, skills — the taxonomy lessons plug into
+  curriculum/       Levels, modules, skills — the taxonomy lessons plug into (plain .js data)
   lessons/
-    _template/       Reference lesson.mdx showing every content block (not a real route)
-    lesson-XXX/       One folder per lesson, numbered, containing lesson.mdx
+    _template/       Reference lesson.md showing every content block (not a real page)
+    lesson-XXX/       One folder per lesson, numbered, containing lesson.md
 src/
-  app/               Routes (App Router)
-  components/
-    content/          MDX blocks lessons can use (<GoldenRule>, <Framework>, ...)
-    course/, lesson/  UI for curriculum browsing and the lesson reading page
-    layout/, search/, ui/
+  styles/main.css     The entire hand-written design system (no build step)
+  scripts/            Vanilla JS shipped to the browser (theme, search, progress, TOC, nav)
+  assets/             favicon.svg etc. — copied to dist/ as-is
+scripts/               Node build tooling — none of this ships to the browser
   lib/
-    content/           Filesystem content loader, Zod schema, TOC/vocab extraction
-    progress/          LocalStorage-backed progress tracking behind a swappable interface
-scripts/
-  new-lesson.ts        Scaffold a new lesson
-  validate-content.ts  Content integrity checks (runs before every build)
+    content.js          Loads + validates lessons, renders Markdown+custom blocks to HTML
+    templates.js         Page shell (head, header, footer, search dialog) + shared card partials
+    pages.js              One function per page type, building on templates.js
+  build.js              Orchestrates the whole build → dist/
+  serve.js               Zero-dependency static file server
+  dev.js                  build + serve + rebuild on change
+  validate-content.js    Content integrity checks (also runs before every build)
+  new-lesson.js           Scaffold a new lesson
+dist/                     Generated output (gitignored) — this is what you deploy
 ```
 
 ## Docs
 
-- [`ARCHITECTURE.md`](./ARCHITECTURE.md) — how the content/curriculum system works and why
-- [`CONTENT_GUIDE.md`](./CONTENT_GUIDE.md) — the exact steps to add Lesson 86 (or any lesson)
+- [`ARCHITECTURE.md`](./ARCHITECTURE.md) — how the content/curriculum/build system works and why
+- [`CONTENT_GUIDE.md`](./CONTENT_GUIDE.md) — the exact steps to add Lesson 86 (or any lesson), and every custom content block
 - [`CONTRIBUTING.md`](./CONTRIBUTING.md) — code style and PR expectations

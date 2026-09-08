@@ -14,39 +14,38 @@ This:
 
 1. Reads every folder under `content/lessons/` to find the highest existing
    lesson number and uses `number + 1`.
-2. Guesses a `level` and `module` from `content/curriculum/modules.ts`'
+2. Guesses a `level` and `module` from `content/curriculum/modules.js`'
    `lessonRangeHint`s (override with `--level <slug> --module <slug>` if the
    guess is wrong — the ranges are approximate, not authoritative).
-3. Writes `content/lessons/lesson-NNN/lesson.mdx` with frontmatter filled in
+3. Writes `content/lessons/lesson-NNN/lesson.md` with frontmatter filled in
    and every content block stubbed out with `TODO`s, `status: "draft"`.
 
 Then:
 
 1. Open the new file and replace every `TODO` with real content.
-2. Set `prerequisites`, `skills` (see `content/curriculum/skills.ts` for the
+2. Set `prerequisites`, `skills` (see `content/curriculum/skills.js` for the
    valid slugs), `objectives`, and `tags`.
 3. Change `status` to `"published"` when it's ready to appear in navigation,
    search, and the lessons index.
-4. `npm run validate:content` (also runs automatically as part of `npm run
-   build`).
+4. `npm run build` (runs `validate:content` first automatically).
 
 That's it. The lesson automatically:
 
-- appears in `/lessons`, its level page, and its module page
+- appears in `/lessons/`, its level page, and its module page
 - gets previous/next navigation (by lesson number, among published lessons)
-- is searchable (title, description, tags, skills) via the search index at `/api/search`
-- has any `<Vocabulary />` blocks it uses aggregated into `/vocabulary`
+- is searchable (title, description, tags, skills) via `/search-index.json`
+- has any `::: vocabulary` blocks it uses aggregated into `/vocabulary/`
 - is included in `sitemap.xml`
-- gets a route at `/lessons/<number>` with SEO metadata from its `title`/`description`
+- gets a real static page at `/lessons/<number>/index.html` with SEO metadata from its `title`/`description`
 
-No other file needs editing. If you find yourself editing a page component
-or a routing file to "add" a lesson, stop — that's a sign something is
-wrong with the content, not a normal step.
+No other file needs editing. If you find yourself editing a template
+function or a routing bit of `scripts/build.js` to "add" a lesson, stop —
+that's a sign something is wrong with the content, not a normal step.
 
 ## Doing it by hand
 
-Copy `content/lessons/_template/lesson.mdx` (it demonstrates every content
-block) to `content/lessons/lesson-NNN/lesson.mdx`, using a zero-padded
+Copy `content/lessons/_template/lesson.md` (it demonstrates every content
+block) to `content/lessons/lesson-NNN/lesson.md`, using a zero-padded
 3-digit number, and fill in the frontmatter yourself:
 
 ```yaml
@@ -56,8 +55,8 @@ number: 86
 slug: "evidence-boundaries-and-calibrated-conclusions"
 title: "Evidence Boundaries and Calibrated Conclusions"
 description: "One to two sentences — shows up in search results and social previews."
-level: "c2-mastery"          # must match a slug in content/curriculum/levels.ts
-module: "book-level-reasoning"  # must match a slug in content/curriculum/modules.ts,
+level: "c2-mastery"          # must match a slug in content/curriculum/levels.js
+module: "book-level-reasoning"  # must match a slug in content/curriculum/modules.js,
                                   # and that module's `level` must equal the level above
 estimatedTime: "25 min"
 difficulty: "c2"              # beginner | elementary | intermediate | upper-intermediate | advanced | c1 | c2
@@ -71,33 +70,49 @@ status: "draft"                # draft lessons build but stay out of nav/search/
 ---
 ```
 
-## Content blocks available in the MDX body
+## Writing the body: Markdown + custom blocks
 
-All registered in `src/components/content/mdx-components.tsx`. See
-`content/lessons/_template/lesson.mdx` for one of each in context.
+The body is plain Markdown (headings, **bold**, lists, links, tables,
+blockquotes, `` `code` `` all work as-is) plus a small custom block syntax
+for the platform's special content types:
 
-| Block | Use for |
-|---|---|
-| `<LearningObjectives>` | "By the end of this lesson..." list (wrap `<li>`s) |
-| `<KeyConcept>` | The core idea of the lesson |
-| `<Example>` | A worked example |
-| `<Framework>` + `<Step>` (`last` prop on the final one) | A vertical process/argument diagram |
-| `<GoldenRule>` | The one-sentence memorable rule |
-| `<Important>` | Something the reader must not skim past |
-| `<Warning>` | A common mistake |
-| `<Note>` | A reading-strategy tip |
-| `<Vocabulary word="..." partOfSpeech="..." meaning="..." example="..." />` | A vocabulary entry — self-closing, plain string attributes only (it's picked up by regex for `/vocabulary`, not a full MDX parse) |
-| `<Collocation>` | Inline collocation styling, e.g. `mitigate <Collocation>risk</Collocation>` |
-| `<ComparisonTable>` | Wraps a markdown table for consistent styling |
+```markdown
+::: TYPE key="value" key2="value2"
+Body content, treated as Markdown (except `vocabulary`, which is
+self-contained in its attributes and needs no body).
+:::
+```
 
-All of `<KeyConcept>`, `<Example>`, `<Framework>`, `<Important>`, `<Warning>`,
-and `<Note>` accept an optional `title="..."` prop to override their default
-heading. Standard markdown (`##`/`###` headings, lists, tables, `**bold**`,
-blockquotes, links) works as-is and picks up the platform's reading
-typography automatically — you don't need a custom block for everyday prose.
+See `content/lessons/_template/lesson.md` for one of every block in
+context. The block types:
 
-`##` and `###` headings automatically appear in the lesson's "On this page"
-sidebar navigation.
+| Type | Renders as | Notes |
+|---|---|---|
+| `::: concept` | "Core Concept" callout | optional `title="..."` overrides the heading |
+| `::: example` | "Example" callout | optional `title="..."` |
+| `::: important` | "Important" callout | optional `title="..."` |
+| `::: warning` | "Common Mistake" callout | optional `title="..."` |
+| `::: note` | Reading-strategy callout | optional `title="..."` |
+| `::: golden` | Golden Rule callout | body rendered as one inline sentence, no paragraph wrapping |
+| `::: framework` | Vertical step diagram with arrows | body is a Markdown list (`- Step text`); each `- ` line becomes one box |
+| `::: vocabulary word="..." pos="..." meaning="..." example="..."` | Vocabulary card | self-closing (empty body between the `:::` lines is fine); attributes are plain strings, no Markdown inside them |
+
+Two more things baked into the Markdown itself (no block needed):
+
+- `` ==text== `` → highlighted inline "collocation" styling, e.g. `mitigate ==risk==`.
+- `## Heading` and `### Subheading` automatically get an `id` and show up
+  in the lesson's "On this page" sidebar — no extra markup.
+
+`objectives:` (the "By the end of this lesson…" list) comes from
+frontmatter, not a content block — it renders automatically above the body.
+
+### Adding a new block type
+
+Register it in `scripts/lib/content.js`'s `renderBlock()`/`CALLOUT_DEFAULTS`
+(or write a dedicated `render<Type>()` function next to `renderFramework`/
+`renderGolden` for anything that isn't a simple callout), style it in
+`src/styles/main.css`, and add its row to the table above. All three need
+to move together or content authoring quietly breaks.
 
 ## What validation checks
 
@@ -106,13 +121,14 @@ if:
 
 - a lesson folder name doesn't match `lesson-NNN`, or doesn't match its own
   frontmatter `number`
-- frontmatter fails the schema in `src/lib/content/types.ts` (missing
-  required field, wrong type, bad `slug` format, etc.)
+- frontmatter is missing a required field, has the wrong type, or has a
+  malformed `slug`/`difficulty`/`status` (checked in
+  `scripts/lib/content.js`'s `validateFrontmatter()`)
 - `level` or `module` isn't defined in `content/curriculum/`, or the module
   belongs to a different level than the lesson declares
 - two lessons share a `number`, `slug`, or `id`
 - a `prerequisites` entry references a lesson number that doesn't exist
-- the MDX body is empty
+- the Markdown body is empty
 
 Fix the reported file and re-run — the error message names the exact file
 and field.

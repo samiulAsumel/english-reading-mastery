@@ -2,37 +2,42 @@
 
 ## Stack
 
-Next.js 16 (App Router, RSC by default), TypeScript, Tailwind CSS v4,
-`next-mdx-remote/rsc` for content, Zod for schema validation, `next-themes`
-for dark mode, `cmdk` + FlexSearch for the command-palette search, Radix UI
-primitives behind a small `src/components/ui/` shadcn-style layer.
+Pure static HTML/CSS/vanilla JS at runtime — no framework ships to the
+browser. A small Node build script (`scripts/build.js`) generates it from
+Markdown lesson files. Two runtime dependencies: `gray-matter`
+(frontmatter parsing) and `marked` (Markdown → HTML). No bundler, no
+TypeScript, no CSS framework, no client-side router.
 
-No database, no auth, no CMS. Content is Git-versioned MDX files. This is
-deliberate — see "Why filesystem content, not a CMS" below.
+This is a rebuild of an earlier Next.js/React/TypeScript version of this
+same project (see git history) — the user explicitly wanted pure
+HTML/CSS/JS instead. The content model and curriculum taxonomy carried
+over unchanged; only the rendering layer changed.
 
-## Content vs. curriculum vs. UI — three separate systems
+## Content vs. curriculum vs. rendering — three separate systems
 
 This is the load-bearing decision in the whole codebase, so it's worth
 being explicit about the boundary:
 
-1. **`content/lessons/lesson-NNN/lesson.mdx`** — one file per lesson: its
-   own frontmatter (metadata) and MDX body (the actual teaching content).
-   This is the only place lesson content lives.
-2. **`content/curriculum/{levels,modules,skills}.ts`** — the *taxonomy*
+1. **`content/lessons/lesson-NNN/lesson.md`** — one file per lesson: its
+   own frontmatter (metadata) and Markdown+custom-block body (the actual
+   teaching content). This is the only place lesson content lives.
+2. **`content/curriculum/{levels,modules,skills}.js`** — the *taxonomy*
    lessons plug into. A level or module doesn't know which lessons belong
    to it; a lesson declares its own `level`/`module`/`skills` in
-   frontmatter. This file only defines what each level/module/skill means.
-3. **`src/components/`, `src/app/`** — presentation. Pages read lessons and
-   curriculum data through `src/lib/content/lessons.ts` and render them;
-   they never contain lesson content themselves.
+   frontmatter. These files only define what each level/module/skill means.
+3. **`scripts/lib/templates.js` + `scripts/lib/pages.js`** — presentation.
+   Functions that read lessons and curriculum data through
+   `scripts/lib/content.js` and return HTML strings; they never contain
+   lesson content themselves.
 
-The reason this split matters: **nothing in `src/app` or `src/components`
-hard-codes a lesson number, title, or count.** `getPublishedLessons()`
-reads whatever is on disk. Add lesson 86 and every page that lists lessons,
-every prev/next link, the search index, the vocabulary index, and the
-sitemap update themselves — because they were never told about lesson 85
-specifically in the first place. This is what makes "add lesson 86" a
-one-file change instead of a ten-file change (see CONTENT_GUIDE.md).
+The reason this split matters: **nothing in `scripts/lib/pages.js` or
+`scripts/build.js` hard-codes a lesson number, title, or count.**
+`loadLessons()` reads whatever is on disk. Add lesson 86 and every page
+that lists lessons, every prev/next link, the search index, the vocabulary
+index, and the sitemap regenerate themselves on the next `npm run build` —
+because they were never told about lesson 85 specifically in the first
+place. This is what makes "add lesson 86" a one-file change instead of a
+many-file change (see CONTENT_GUIDE.md).
 
 ## Why no lesson-number routing table
 
@@ -45,88 +50,107 @@ one giant file"). Two concrete reasons it breaks down:
   that every other lesson touches. With one file per lesson, adding lesson
   86 touches exactly one new file.
 - **It re-couples content and code.** The whole point of the frontmatter +
-  MDX split is that a lesson is *data*, checked by a schema
-  (`src/lib/content/types.ts`), not application code. A routing table
-  blurs that line back together.
+  Markdown split is that a lesson is *data*, checked by a schema
+  (`validateFrontmatter()` in `scripts/lib/content.js`), not build code.
+  A routing table blurs that line back together.
 
-`content/curriculum/modules.ts`'s `lessonRangeHint` looks similar to a
-routing table but isn't one: it's read only by `scripts/new-lesson.ts` as a
-scaffolding suggestion, never by any page at runtime. See the comment on
-`suggestPlacement()` if you're tempted to import it from `src/app`.
+`content/curriculum/modules.js`'s `lessonRangeHint` looks similar to a
+routing table but isn't one: it's read only by `scripts/new-lesson.js` as a
+scaffolding suggestion, never by the build/render pipeline. See the
+comment on `suggestPlacement()` if you're tempted to import it from
+`scripts/build.js` or `scripts/lib/pages.js`.
 
-## Why filesystem content, not a CMS
+## Why a generator, not a CMS or a client-side SPA
 
-The brief explicitly says "don't over-engineer authentication initially"
-and "don't create unnecessary backend infrastructure." For a single-author
-course where lessons are written with Claude Code, a CMS adds an admin UI,
-a database, and a sync step with no corresponding benefit — Git already
-gives version history, diffs, and review. `src/lib/content/lessons.ts` is
-the one seam where this could change later (swap the filesystem reader for
-a database query) without touching any page component.
+Three options were on the table: (1) fully hand-written HTML per lesson,
+(2) a client-side single-page app that fetches lesson content at runtime,
+(3) a static generator producing real per-lesson HTML at build time. (3)
+won because:
 
-## Progress tracking: the swap point
+- **vs. hand-written HTML:** with hundreds of lessons planned, the
+  header/nav/footer/search-dialog markup repeated in every file would need
+  to be kept in sync by hand across every one of them. A shared
+  `layout()` function in `templates.js` means changing the header once
+  changes it everywhere on the next build.
+- **vs. a client-side SPA:** search engines and no-JS readers would see an
+  empty shell per lesson instead of real content, and every lesson visit
+  would show a loading flash while JSON is fetched and rendered. Real
+  per-lesson `.html` files avoid both — this is genuinely "pure HTML," not
+  JS pretending to be a page.
 
-`src/lib/progress/types.ts` defines a `ProgressStore` interface.
-`src/lib/progress/localStorageStore.ts` is the only implementation today,
-selected in `src/lib/progress/useProgress.ts` via the `PROGRESS_ADAPTER`
-constant. Every dashboard/skill component calls `useProgress()`, never
-`localStorageStore` directly. Adding a real backend later means writing one
-new file implementing `ProgressStore` and changing one line in
-`useProgress.ts` — no component changes.
+The generator itself (`scripts/build.js` and friends) never ships to the
+browser — it's dev-time tooling, same category as a compiler.
 
-This is intentionally the only piece of "fake-looking" data in the app,
-and it's labeled as such everywhere it's shown (`/progress`, `/skills`) —
-see the brief's "never use fake progress statistics without labeling them."
-Course-structure data (lesson counts, module coverage) is never fake; it's
-always a live read of `content/lessons/`.
+## Content parsing pipeline
+
+`scripts/lib/content.js`'s `renderLessonBody()`: the raw Markdown body is
+scanned line-by-line for `::: type ... :::` blocks (regex
+`BLOCK_OPEN_RE`); each one is rendered immediately by its own function
+(`renderCallout`/`renderGolden`/`renderFramework`/`renderVocabulary`) and
+replaced in the source with a placeholder (`<div data-erm-block="N">`) —
+a raw HTML block that `marked` passes through untouched. The remaining
+prose runs through a `Marked` instance with a custom `heading` renderer
+that stamps `id`s using `baseSlugify()`. After `marked.parse()`, the
+placeholders are string-replaced with the pre-rendered block HTML.
+
+`extractToc()` (used to build the sidebar) walks the same raw body for
+`##`/`###` lines and slugifies them with the identical `createSlugger()`
+function used inside the heading renderer, via the same de-duplication
+logic — so TOC links and actual heading `id`s never drift apart, without
+needing a shared "slugger" npm package.
 
 ## Vocabulary index: derived, not hand-maintained
 
-`/vocabulary` doesn't come from a separate vocabulary data file. It's built
-by `src/lib/content/vocabulary.ts` scanning every published lesson's raw
-MDX for `<Vocabulary word="..." meaning="..." .../>` tags. An author writes
-the tag once, in the lesson where the word is introduced, and the index —
-including "appears in Lesson N, Lesson M" — updates automatically. See
-CONTENT_GUIDE.md for the tag's exact shape (plain string attributes; it's a
-regex scan, not a full MDX parse, by design — pulling in a full AST parser
-for one feature wasn't worth the dependency weight at this stage).
+`/vocabulary/` doesn't come from a separate vocabulary data file. It's
+built by `build.js`'s `buildVocabulary()`, scanning every published
+lesson's raw Markdown for `::: vocabulary word="..." meaning="..." :::`
+blocks via `extractVocabularyFromBody()`. An author writes the block once,
+in the lesson where the word is introduced, and the index — including
+"appears in Lesson N, Lesson M" — regenerates on every build.
 
-## Rendering pipeline
+## Progress tracking: the swap point
 
-`src/app/lessons/[number]/page.tsx` is the whole path:
-`getLessonByNumber()` (fs + gray-matter + Zod, in `src/lib/content/lessons.ts`)
-→ `extractToc()` for the sidebar (`src/lib/content/toc.ts`, using the same
-`github-slugger` algorithm as the `rehype-slug` plugin so anchor links
-match) → `<MDXRemote>` from `next-mdx-remote/rsc` with the component map in
-`src/components/content/mdx-components.tsx`.
+Progress is entirely client-side, in `src/scripts/progress.js`, backed by
+`localStorage` (`window.ErmProgress`, mirroring the previous version's
+`ProgressStore` interface but as a plain object since there's no
+TypeScript here). Three independent pieces of UI hydrate themselves if
+their markup is present on the page: the lesson mark-complete button
+(`#mark-complete-btn`), the `/progress/` dashboard (`#progress-app`), and
+the `/skills/` per-skill bars (`.skill-row[data-skill-lessons]`). Swapping
+to a real backend later means replacing the `Store` object's
+implementation in that one file — no page-template changes.
 
-`generateStaticParams` on that page (and on `/levels/[level]` and
-`/modules/[module]`) statically generates a route per published lesson at
-build time — this is what keeps hundreds of lessons fast (no per-request
-filesystem scan in production; see the brief's performance section on
-"85 → 150 → 300 → 500+ lessons").
+This is intentionally the only piece of "fake-looking" data in the app,
+and it's labeled as such everywhere it's shown (`/progress/`, `/skills/`)
+— see the brief's "never use fake progress statistics without labeling
+them." Course-structure data (lesson counts, module coverage) is never
+fake; it's always a live build-time read of `content/lessons/`.
 
 ## Search
 
-`/api/search` is a route handler that calls `getPublishedLessons()` and
-returns a flat JSON array — no build-time search index file to regenerate.
-`SearchDialog` fetches it once when opened and filters client-side with
-FlexSearch. This trades a small amount of payload size (fine at hundreds of
-lessons; would need revisiting well past that) for zero index-maintenance
-steps, which matters more given how often content changes early on.
+`/search-index.json` is generated at build time from `getPublishedLessons()`
+— a flat JSON array, no separate index-build step to remember (it's just
+one more thing `build.js` writes). `src/scripts/search.js` fetches it once
+when the search dialog (a native `<dialog>` element — Esc-to-close,
+`::backdrop`, and modal focus all come free, no ARIA reimplementation
+needed) is first opened, and filters it client-side with a small
+hand-written scoring function. No search-library dependency.
 
 ## Design tokens
 
-Colors live as CSS custom properties in `src/app/globals.css`
+Colors live as CSS custom properties in `src/styles/main.css`
 (`--brand-primary` / `--brand-accent`, the port navy/orange from the
-project's global style guide), redefined under `.dark`, and exposed to
-Tailwind via `@theme inline`. Dark mode uses `next-themes`' class strategy
-(`.dark` on `<html>`), not `prefers-color-scheme` alone, so the toggle in
-the header actually overrides the OS setting.
+project's global style guide), redefined for dark mode both via
+`prefers-color-scheme` (system default) and `[data-theme="dark"]`/`"light"`
+(explicit override, so the toggle always wins over the OS setting). The
+toggle itself is `src/scripts/theme.js`; a tiny inline script in
+`templates.js`'s `layout()` applies any saved choice before first paint,
+so there's no flash of the wrong theme.
 
 ## What's deliberately not built yet (see brief §45, Phase 2+)
 
 Quizzes/exercises, flashcard spaced review, sentence/paragraph/argument
 analyzers, and any backend (auth, real database, AI features). The content
-schema (`src/lib/content/types.ts`) and MDX component list are written so
-none of these require a schema migration to add — they're additive.
+schema (`validateFrontmatter()` in `scripts/lib/content.js`) and block
+type list are written so none of these require a schema migration to add
+— they're additive.
