@@ -347,15 +347,6 @@ Add the pieces back in order:
 understand complex ideas more easily.*
 :::
 
-## The Reading Golden Rule
-
-::: golden
-Never try to understand a long sentence all at once. Break it, find the core, understand each clause's relationship to that core, then rebuild the full meaning.
-:::
-
-This is the central reading skill of the entire Foundation phase — every
-lesson so far has been building toward exactly this habit.
-
 ## Vocabulary in Context
 
 ::: vocabulary word="recognize" pos="verb" meaning="to identify or become aware of something (চিনতে/উপলব্ধি করতে)" example="A trained reader can recognize a pattern across several sentences."
@@ -408,7 +399,8 @@ suggested, or indicated.
 
 ## Guided Reading Practice
 
-Read the paragraph once, slowly, without a dictionary.
+Read the paragraph once, slowly, marking every dependent, relative, and
+noun clause you can find before checking the breakdown below.
 
 > Although people often believe that they make decisions rationally,
 > research suggests that many factors can influence their judgment.
@@ -435,7 +427,7 @@ Main: *they can make more deliberate choices.* Time clause: *When people
 understand…* Object (noun) clause inside it: *how their emotions and
 experiences affect their decisions.*
 
-## Today's Mental Model
+## Golden Rule
 
 So far, the course has built up one continuous chain:
 
@@ -461,6 +453,13 @@ SENTENCE
 Your reading of real English books should now be noticeably more
 structural than it was four lessons ago.
 
+::: golden
+Never try to understand a long sentence all at once. Break it, find the core, understand each clause's relationship to that core, then rebuild the full meaning.
+:::
+
+This is the central reading skill of the entire Foundation phase — every
+lesson so far has been building toward exactly this habit.
+
 ## Lesson Summary
 
 Today you learned to tell an independent clause from a dependent one
@@ -479,7 +478,9 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. This lesson especially rewards a wrong answer: naming the
+wrong clause type tells you exactly which comparison in this lesson
+to reread.
 :::
 
 ### Part A — Identify the Clause Type
@@ -514,5 +515,5 @@ condition, contrast, or relative).
 
 14. Write the main idea of this sentence in your own English — not a Bangla translation: *Although people may believe that their decisions are completely rational, research shows that emotions, previous experiences, and social influences can affect the way they think.*
 
-Send me your answers to all 14 questions, and we'll move on to Lesson 5:
-Verb Tenses & Time — how tense changes meaning as you read.
+Next: Lesson 5 — Verb Tenses & Time: how tense changes meaning as you
+read.
