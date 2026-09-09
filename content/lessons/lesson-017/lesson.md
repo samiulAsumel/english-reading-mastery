@@ -9,7 +9,7 @@ module: "clause-and-paragraph"
 estimatedTime: "70 min"
 difficulty: "beginner"
 prerequisites: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
-skills: ["grammar-mechanics", "sentence-structure"]
+skills: ["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]
 objectives:
   - "Read may/might/could/can as a rough scale of possibility, and must/should/will/would by their specific function"
   - "Recognise hedging phrases (is associated with, appears to, tends to, may contribute to) and understand why academic writers reach for them"
@@ -105,8 +105,8 @@ may / could
 might / possibly
 ```
 
-This is not a precise mathematical scale — always let context confirm
-the exact shade of certainty.
+Treat this as a ladder, not a ruler: it tells you which direction a word
+moves the certainty, not an exact, measurable amount.
 
 ## "Must" — Strong Necessity
 
@@ -298,31 +298,27 @@ studies/evidence have demonstrated this — but exactly *who* showed it
 often has to be worked out from context.
 :::
 
-## "Is Believed To"
+## "Is Believed To" / "Is Thought To" / "Is Considered To Be"
 
-::: example title="A belief, attributed but not always to a named source"
-**The treatment is believed to improve memory.**
+::: concept title="Three interchangeable shapes for an unnamed source's view"
+All three follow the same pattern — **be + reporting verb (passive) +
+to + verb** — and all three let a writer report a widely-held view
+without naming exactly who holds it.
 
-Roughly equivalent to: *Researchers believe that the treatment improves
-memory.* But as a passive, the focus stays on *treatment*, and the
-believer often stays unnamed.
-:::
+**The treatment is believed to improve memory.** — roughly equivalent
+to *Researchers believe that the treatment improves memory*, but as a
+passive, the focus stays on *treatment*, and the believer stays
+unnamed.
 
-## "Is Thought To"
+**The behavior is thought to reflect social learning.** — same shape:
+*someone* thinks this, but the sentence never says who.
 
-::: example title="Same shape, same caution"
-**The behavior is thought to reflect social learning.**
+**The method is considered to be effective.** — *is considered*
+(passive reporting) + *to be effective* (infinitive); again, no named
+source.
 
-Meaning: this behavior is thought to reflect social learning — source
-unspecified.
-:::
-
-## "Is Considered To Be"
-
-::: example title="Passive reporting + infinitive"
-**The method is considered to be effective.**
-
-*is considered* = passive reporting. *to be effective* = infinitive.
+Treat all three as one recognisable pattern rather than three separate
+verbs to memorise.
 :::
 
 ## A Master Map of Certainty Expressions
@@ -337,6 +333,10 @@ unspecified.
 Once again, this is a rough reading guide, not an absolute scale.
 
 ## What Is Hedging?
+
+Connecting back to Lesson 9: you met hedging there through degree and
+certainty words; here the focus shifts to the specific modal and
+passive-reporting shapes that carry it.
 
 ::: concept title="Formulating a claim so it doesn't overstate certainty"
 **Strong:** Exercise improves memory.
@@ -525,7 +525,7 @@ result. The author has deliberately limited the claim: training *could
 help*, but is *unlikely* to *eliminate completely* — improving is not
 the same as completely solving.
 
-## Today's Most Important Skill
+## Golden Rule
 
 ::: golden
 Never stop at "what does this sentence say?" Always ask a second question: "how certain is the author that it's true?" Content and certainty are two separate pieces of information — read them both.
@@ -553,7 +553,8 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. Underestimating or overestimating an author's certainty is
+the exact mistake today's lesson is designed to catch.
 :::
 
 ### Part A — Modal Function
@@ -586,8 +587,7 @@ Which is more cautious?
 
 11. Explain the difference between "Stress is associated with poor sleep" and "Stress causes poor sleep," and explain why the first is often more appropriate in scientific/academic writing.
 
-Next: Lesson 18 — Nominalization & Dense Academic English (already
-published) — how "The implementation of the policy resulted in a
-significant reduction in costs" compresses "The company implemented the
-policy, and costs fell significantly," and how to take that compression
-apart.
+Next: Lesson 18 — Nominalization & Dense Academic English: how "The
+implementation of the policy resulted in a significant reduction in
+costs" compresses "The company implemented the policy, and costs fell
+significantly," and how to take that compression apart.
