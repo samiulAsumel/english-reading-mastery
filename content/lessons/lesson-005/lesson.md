@@ -9,7 +9,7 @@ module: "sentence-foundations"
 estimatedTime: "65 min"
 difficulty: "beginner"
 prerequisites: [1, 2, 3, 4]
-skills: ["grammar-mechanics", "sentence-structure"]
+skills: ["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]
 objectives:
   - "Tell apart present tense used for 'right now' from present tense used for a general truth or fact"
   - "Recognise why non-fiction writers switch between Past Simple and Present Perfect, and what that switch signals"
@@ -272,12 +272,21 @@ distinction click.
 
 ## Modals Add a Tense-Like Meaning of Their Own
 
+Modal verbs sit on top of everything you've just learned, adding a
+layer of possibility, necessity, or expectation rather than a fixed
+point in time:
+
 > People can learn. — ability or possibility
 > People could learn. — past ability, or a weaker, context-dependent possibility
 > People may learn. — possibility
 > People might learn. — weaker possibility
 > People should learn. — recommendation or expectation
 > People must learn. — necessity
+
+Notice that none of these six sentences commits to a single moment on
+the timeline the way a plain tense does — a modal is the author telling
+you how likely, how required, or how expected something is, which is
+exactly the reading skill the rest of this course keeps returning to.
 
 ## Passive Voice + Tense
 
@@ -359,42 +368,6 @@ The whole point of learning tense is being able to look at a verb's
 *form* and immediately picture its place on this timeline.
 :::
 
-## Guided Reading Practice
-
-Read the paragraph once, slowly, without a dictionary.
-
-> Researchers have studied human decision-making for many years. Early
-> studies focused mainly on the idea that people were rational
-> decision-makers. Later research showed that emotions, habits, and
-> unconscious biases can influence judgment. Today, researchers continue
-> to examine how these factors affect the decisions people make. Future
-> studies may provide a deeper understanding of human behavior.
-
-**Sentence 1 — Researchers have studied human decision-making for many
-years.**
-*have studied* → Present Perfect: decades of research, still relevant to
-current knowledge.
-
-**Sentence 2 — Early studies focused mainly on the idea that people were
-rational decision-makers.**
-*focused* → Past Simple: an early, historical body of research. *were* →
-Past Simple: the belief people held at that time.
-
-**Sentence 3 — Later research showed that emotions, habits, and
-unconscious biases can influence judgment.**
-*showed* → Past Simple: a later historical finding. *can influence* →
-modal + base form: a general possibility or capability, not tied to one
-moment.
-
-**Sentence 4 — Today, researchers continue to examine how these factors
-affect the decisions people make.**
-*continue* → Present Simple: describing the current, ongoing state of
-the field.
-
-**Sentence 5 — Future studies may provide a deeper understanding of
-human behavior.**
-*may provide* → modal: a future possibility.
-
 ## Vocabulary in Context
 
 ::: vocabulary word="discover" pos="verb" meaning="to find or learn something for the first time (আবিষ্কার করা)" example="Researchers discovered a surprising pattern in the data."
@@ -436,7 +409,47 @@ the shape instantly is worth more than knowing any single word in
 isolation.
 :::
 
-## Today's Core Skill, as One Timeline
+## Guided Reading Practice
+
+Read the paragraph once, slowly, tracking which tense each verb uses and
+why.
+
+> Researchers have studied human decision-making for many years. Early
+> studies focused mainly on the idea that people were rational
+> decision-makers. Later research showed that emotions, habits, and
+> unconscious biases can influence judgment. Today, researchers continue
+> to examine how these factors affect the decisions people make. Future
+> studies may provide a deeper understanding of human behavior.
+
+**Sentence 1 — Researchers have studied human decision-making for many
+years.**
+*have studied* → Present Perfect: decades of research, still relevant to
+current knowledge.
+
+**Sentence 2 — Early studies focused mainly on the idea that people were
+rational decision-makers.**
+*focused* → Past Simple: an early, historical body of research. *were* →
+Past Simple: the belief people held at that time.
+
+**Sentence 3 — Later research showed that emotions, habits, and
+unconscious biases can influence judgment.**
+*showed* → Past Simple: a later historical finding. *can influence* →
+modal + base form: a general possibility or capability, not tied to one
+moment.
+
+**Sentence 4 — Today, researchers continue to examine how these factors
+affect the decisions people make.**
+*continue* → Present Simple: describing the current, ongoing state of
+the field.
+
+**Sentence 5 — Future studies may provide a deeper understanding of
+human behavior.**
+*may provide* → modal: a future possibility.
+
+## Golden Rule
+
+Every tense you met today fits on one timeline, and seeing the whole
+timeline at once is worth more than memorising each tense in isolation:
 
 ```
 PAST -------------------- PRESENT -------------------- FUTURE
@@ -451,7 +464,8 @@ Past Continuous             Present Continuous
   ongoing in the past          ongoing now
 ```
 
-## A Reading Strategy: Who + Verb + Time + State
+Turn that timeline into a habit by asking four questions of any verb
+phrase you meet:
 
 ::: framework title="Four questions for reading any verb phrase"
 - Who? (the subject)
@@ -495,7 +509,8 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. Naming the wrong tense out loud is exactly how you find out
+which timeline distinction still needs work.
 :::
 
 ### Part A — Identify the Tense and Meaning
@@ -530,6 +545,5 @@ questions. A wrong answer is useful information, not a failure.
 16. Write one Past Simple sentence.
 17. Write one Future sentence.
 
-Send me your answers to all 17 questions, and next we move on to Lesson
-6: Articles — "a, an, the" — and why they matter more for meaning in a
-book than most learners expect.
+Next: Lesson 6 — Articles: "a, an, the" — and why they matter more for
+meaning in a book than most learners expect.
