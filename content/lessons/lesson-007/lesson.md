@@ -9,7 +9,7 @@ module: "sentence-foundations"
 estimatedTime: "65 min"
 difficulty: "beginner"
 prerequisites: [1, 2, 3, 4, 5, 6]
-skills: ["grammar-mechanics", "phrases-and-clauses"]
+skills: ["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]
 objectives:
   - "Read a preposition as a relationship-builder between two things, not as a single word to translate"
   - "Recognise the core meaning of the most common prepositions: of, in, on, at, for, with, by, from, to, about, between, among, through"
@@ -109,9 +109,8 @@ work · at first · at least.*
 
 **Benefit:** exercise is good for health.
 
-**Duration:** for three years · for many years —
-
-**Researchers have studied the problem for many years.**
+**Duration:** for three years · for many years — as in **Researchers
+have studied the problem for many years.**
 :::
 
 ## WITH — Together, Having, or Using
@@ -137,8 +136,13 @@ book was written by a psychologist.* — Who wrote it? *a psychologist.*
 
 ## FROM — Source or Origin
 
+*from* points back to where something originated:
+
 > information from a reliable source · a letter from a friend · people
 > from different cultures
+
+In each case, whatever follows *from* is the origin point the rest of
+the phrase traces back to.
 
 ## TO — Direction, Target, or Relationship
 
@@ -150,6 +154,8 @@ someone · a relationship to society.
 :::
 
 ## ABOUT — Topic
+
+*about* marks the subject matter something concerns:
 
 > talk about psychology · think about a problem · a book about
 > leadership · research about human behavior
@@ -222,6 +228,13 @@ Remove the prepositional phrases first:
 
 Then reattach them: *of experienced managers* — whose opinions? *in
 large organizations* — in what context?
+:::
+
+::: framework title="Reading any sentence dense with prepositional phrases"
+- Find the main subject and main verb first
+- Temporarily set aside every prepositional phrase
+- Read the short core sentence that's left
+- Reattach each phrase one at a time, asking what relationship it adds
 :::
 
 ## Multiple Prepositions in One Sentence
@@ -348,7 +361,10 @@ Adverb: *more effectively*
 back.
 :::
 
-## Today's Mental Model
+## A Preposition Reference Table
+
+Thirteen prepositions, thirteen core relationships — keep this table in
+mind as a reference, not a set of rigid definitions:
 
 | Preposition | Core relationship |
 |---|---|
@@ -405,7 +421,8 @@ effect on · reason for*
 
 ## Guided Reading Practice
 
-Read the paragraph once, slowly, without a dictionary.
+Read the paragraph once, slowly, naming the relationship each
+preposition is building rather than translating it.
 
 > People learn from different sources of information, including books,
 > teachers, personal experience, and other people. The quality of the
@@ -426,7 +443,7 @@ information* (belonging/relationship).
 **Sentence 4** — *Through careful analysis* (method/process) ·
 *discussion with others* (together/interaction).
 
-## Today's Reading Principle
+## Golden Rule
 
 ::: golden
 Don't translate a preposition the moment you see it — ask what relationship it's building between the word before it and the word after it.
@@ -455,7 +472,9 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. If a preposition trips you up, name the relationship you
+think it's building — that's the part worth getting right, more than
+the label.
 :::
 
 ### Part A — Identify the Function
@@ -494,6 +513,6 @@ building.
 17. Write one sentence using *through*.
 18. Write one sentence using *because* together with a prepositional phrase.
 
-Next lesson: Lesson 8 — Conjunctions & Logical Connections: *and, but,
+Next: Lesson 8 — Conjunctions & Logical Connections: *and, but,
 because, although, therefore, however, while, as a result* — how to read
 an author's logic.
