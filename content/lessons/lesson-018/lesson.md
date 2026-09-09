@@ -9,7 +9,7 @@ module: "clause-and-paragraph"
 estimatedTime: "70 min"
 difficulty: "beginner"
 prerequisites: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
-skills: ["grammar-mechanics", "sentence-structure", "phrases-and-clauses"]
+skills: ["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]
 objectives:
   - "Recognise a nominalization (a verb or adjective turned into a noun) and recover its underlying action"
   - "Decode of-phrases stacked after a nominalization (the analysis of the data) back into a simple action"
@@ -138,8 +138,7 @@ Simple: *The committee approved the proposal late.*
 ## "-ity"
 
 > possible → possibility · responsible → responsibility · available →
-> availability · similar → similarity · effective → effectiveness ·
-> different → difference
+> availability · similar → similarity
 
 ::: example title="Recovering the underlying action"
 **The possibility of error should be considered.**
@@ -340,9 +339,11 @@ Simple: *People recognize that better communication is necessary.*
 ## "The Possibility Of…"
 
 ::: example title="A common academic hedge"
-**The possibility of error should be considered.**
+**The possibility of bias should not be ignored when interpreting the
+results.**
 
-Simple: *We should consider whether an error is possible.*
+Simple: *We should not ignore that bias is possible when interpreting
+the results.*
 :::
 
 ## "The Assumption That…"
@@ -561,7 +562,7 @@ consideration* ← consider carefully. Core: *Organizations need to
 carefully consider their needs, employee behavior, and limitations
 when integrating technology.*
 
-## Today's Golden Rule
+## Golden Rule
 
 ::: golden
 See "the + abstract noun + of…"? Ask immediately: what action is hiding behind this noun? Recover it, and dense academic English stops being dense.
@@ -592,7 +593,8 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. If a noun's hidden verb doesn't come to you immediately,
+that's fine — write your best guess and check it against the lesson.
 :::
 
 ### Part A — Identify the Nominalization
@@ -622,6 +624,11 @@ Rewrite each sentence in simple English.
 ### Part D — Advanced Reading
 
 12. Decode this sentence: **The extent to which the implementation of new technologies affects employee performance depends on the quality of the training provided to employees.** Identify: the main subject, the head noun, every nominalization, the main verb, the simple meaning of "the extent to which," and which noun "provided to employees" describes.
+
+### Part E — Create
+
+13. Write one dense, nominalized sentence of your own, then rewrite it in simple English underneath.
+14. Write one sentence using the pattern "the effect of X on Y."
 
 Next: Lesson 19 — Parallel Structure & Comparison: *reading, writing,
 and speaking · to analyze, to compare, and to evaluate · more effective
