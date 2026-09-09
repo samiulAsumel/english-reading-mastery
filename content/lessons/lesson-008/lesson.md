@@ -9,7 +9,7 @@ module: "sentence-foundations"
 estimatedTime: "65 min"
 difficulty: "beginner"
 prerequisites: [1, 2, 3, 4, 5, 6, 7]
-skills: ["sentence-structure", "grammar-mechanics"]
+skills: ["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]
 objectives:
   - "Identify the logical relationship a connector signals: addition, contrast, result, reason, condition, or restatement"
   - "Tell 'because' and 'so' apart even though they describe the same underlying cause-and-effect relationship"
@@ -431,7 +431,8 @@ example · explain a reason*
 
 ## Guided Reading Practice
 
-Read the paragraph once, slowly, without a dictionary.
+Read the paragraph once, slowly, circling every connector before you
+read the sentence breakdown below.
 
 > Learning a new skill requires time and consistent practice. Although
 > some people may improve quickly at first, progress often becomes
@@ -464,7 +465,7 @@ That final line is the author's actual argument — and you only reach it
 by following the connectors, not by translating each sentence in
 isolation.
 
-## Today's Biggest Skill
+## Golden Rule
 
 Earlier lessons built **sentence structure**. Today added **idea
 structure**:
@@ -512,7 +513,8 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. Naming the wrong relationship for a connector is exactly the
+kind of mistake worth making now, while it's cheap to correct.
 :::
 
 ### Part A — Identify the Relationship
