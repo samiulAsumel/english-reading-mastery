@@ -218,7 +218,10 @@ an advanced business program* → the timing/context of joining · *that
 the accounting department had prepared* → report · *for the board* →
 the purpose/recipient of that preparation.
 
-**Final meaning:** An experienced manager carefully reviewed the report.
+**Final meaning, with every layer back in place:** An experienced
+manager, who had joined the company after completing an advanced
+business program, carefully reviewed the financial report that the
+accounting department had prepared for the board.
 :::
 
 ## Finding the Main Verb Among Several Verb Forms
@@ -355,7 +358,8 @@ this same short list, applied once.
 
 ## Guided Reading Practice
 
-Read the paragraph once, slowly, without a dictionary.
+Read the paragraph once, slowly, finding each sentence's backbone
+before its relative clauses.
 
 > Researchers who study human decision-making often examine the factors
 > that influence the choices people make in situations where information
@@ -415,7 +419,7 @@ Especially useful: **be faced with** — *People are often faced with
 difficult decisions.*
 :::
 
-## Today's Master Rule
+## Golden Rule
 
 ::: golden
 However many clauses stack up in a sentence, it has exactly one backbone — find the main subject and main verb first, then attach every clause to whichever noun or idea it actually describes.
@@ -445,7 +449,8 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. If a sentence has several layers, write out each one
+separately rather than guessing the whole meaning at once.
 :::
 
 ### Part A — Identify the Relative Clause
