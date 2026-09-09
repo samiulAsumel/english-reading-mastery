@@ -6,20 +6,17 @@ title: "How English Really Works"
 description: "The four building blocks of an English sentence — word, phrase, clause, sentence — and how to find the Subject, Verb, Object, and Complement so you can decode meaning directly instead of translating word by word."
 level: "foundation"
 module: "sentence-foundations"
-estimatedTime: "50 min"
+estimatedTime: "65 min"
 difficulty: "beginner"
 prerequisites: []
 skills: ["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]
 objectives:
-  - "Understand how English builds meaning through sentence structure, not word-by-word translation"
   - "Distinguish a word, a phrase, a clause, and a complete sentence"
-  - "Identify the Subject and the Verb in any English sentence"
-  - "Identify the Object and the Complement, and explain the difference between them"
+  - "Identify the Subject and Verb in any English sentence, then the Object and Complement, and explain the difference between them"
   - "Apply English's fixed Subject-Verb-Object word order correctly"
   - "Decode a long or complex sentence into its core meaning plus its modifiers"
-  - "Recognise why literal, word-by-word translation from Bangla causes errors in English"
-  - "Begin reading English passages the way a confident reader does — structure first, translation last"
-tags: ["sentence-structure", "subject-verb-object", "word-order", "phrasal-verbs", "reading-strategy"]
+  - "Recognise why word-by-word translation from Bangla causes errors, and begin reading structure first"
+tags: ["subject-verb-object", "word-order", "phrasal-verbs", "reading-strategy"]
 status: "published"
 ---
 
@@ -233,9 +230,12 @@ being received. It is simply describing what *she* is like.
 acting upon.
 :::
 
-A useful test: if the word after the verb could answer *"what happened to
-it?"*, it is probably an Object. If it answers *"what is the Subject
-like, or what has it become?"*, it is a Complement.
+A useful test: ask *"the Subject [verb]ed what?"* — if the word after the
+verb answers that question as a separate thing being acted on (*People
+read **books***), it is an Object. If instead it answers *"what is the
+Subject like, or what has the Subject become?"* (*She is **intelligent**;
+He became **a leader***), it is a Complement — it renames or describes
+the Subject rather than naming something the Subject acted on.
 
 ## English Word Order Is Fixed
 
@@ -433,7 +433,7 @@ vocabulary in this course is never taught as a bare equation —
 **word + meaning + how it is used + the words it appears with + context**
 :::
 
-## Core Vocabulary
+## Vocabulary in Context
 
 Twenty words for this lesson. Do not try to memorise the list — you will
 meet every one of them again, in context, in the reading passage below
@@ -551,7 +551,7 @@ just notice its shape: *believe* … *but* … *research shows* — the author
 is setting up a contrast between what people believe and what research
 actually shows.
 
-## The Most Important Idea in This Lesson
+## Golden Rule
 
 You do not need to become a native speaker today. Your first goal is much
 smaller, and far more achievable:
@@ -570,13 +570,16 @@ Never translate word by word — find the Subject and the Verb first. Everything
 
 ## Lesson Summary
 
-Today you learned that English builds meaning through structure, not
-word order flexibility the way Bangla does. You can now recognise the
-four layers of English — word, phrase, clause, sentence — and identify
-the Subject, Verb, Object, and Complement inside any sentence you meet.
-You also picked up the single most useful reading habit in this entire
-course: find the core of a sentence before you try to understand the
-whole thing. Hold onto that habit — every lesson from here builds on it.
+This lesson replaced translation with structure. English builds its
+meaning through a fixed word order — Subject, then Verb, then Object or
+Complement — rather than through the word-ending flexibility Bangla
+relies on, which is exactly why word-by-word translation from Bangla
+keeps producing broken English. You can now recognise the four layers of
+English — word, phrase, clause, sentence — and identify the Subject,
+Verb, Object, and Complement inside any sentence you meet. Hold onto the
+single habit this lesson was really about: find the core of a sentence
+before you try to understand the whole thing. Every lesson from here
+builds on it.
 
 ## Practice: Test What You've Learned
 
@@ -584,9 +587,10 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. Getting an answer wrong is not a problem — your mistakes are
-exactly what will show me where your English foundation currently
-stands, so the next lesson can be built around what you actually need.
+questions. Getting an answer wrong is not a problem — a wrong answer
+tells you exactly which part of today's structure hasn't clicked yet,
+which is far more useful right now than a right answer you didn't
+actually work out.
 :::
 
 ### Part A — Identify the Subject, Verb, Object, and Complement
@@ -634,8 +638,7 @@ Translate the following into English.
 21. Write one sentence using Subject + Verb + Object.
 22. Write one sentence using Subject + Verb + Complement.
 
-Send me your answers to all 22 questions. I will go through each one —
-marking it correct, explaining why an incorrect answer is wrong, showing
-the natural English version, naming the pattern involved, and giving you
-a short practice drill where it is useful. Then we will move on to Lesson
-2.
+Next: Lesson 2 — Sentence Structure: How to Read Long English Sentences.
+You now have the four building blocks; the next lesson shows you how
+authors stack modifiers and clauses onto them to build the long,
+intimidating sentences real books are full of.

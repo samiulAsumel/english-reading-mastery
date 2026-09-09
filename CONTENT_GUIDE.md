@@ -145,3 +145,48 @@ lesson's content when editing it. If you notice a contradiction or
 duplicate concept between lessons, flag it in the PR/commit description
 rather than silently deleting either one — see the root `CLAUDE.md` /
 project instructions for the full rule.
+
+## Course-specific structure conventions
+
+Beyond the block-type mechanics above, every lesson in this course
+(Level 1 Foundation onward) follows one locked skeleton. `content/lessons/_template/lesson.md`
+demonstrates it directly — treat deviations from it as bugs to fix, not
+stylistic variation.
+
+**Frontmatter**
+- `skills`: always exactly `["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]`, in that order.
+- `objectives`: always exactly 5.
+- `tags`: 4-6 kebab-case tags; never reuse a skill slug as a tag.
+- `estimatedTime`: should track the file's actual length/density, not be picked arbitrarily.
+
+**Body, in this order**
+1. `## Introduction`
+2. Topic sections. Never let a heading run straight into a block or bare
+   list with zero connecting prose — that reads as a glossary entry, not
+   teaching.
+3. `## Vocabulary in Context` (this exact heading) — 6-10 `::: vocabulary`
+   cards. Reusing an earlier word with a new collocation is fine; say so
+   explicitly with `Connecting back to Lesson N:` rather than silently
+   re-teaching it as if new.
+4. `## Guided Reading Practice` (this exact heading, singular — never
+   split into "...Practice 1" / "...Practice 2"). Vary the intro line
+   every lesson and name what to watch for; don't repeat a generic
+   "read the paragraph, no dictionary" instruction verbatim lesson after
+   lesson.
+5. `## Golden Rule` (this exact heading, not "Today's Mental Model" or
+   similar). The `::: golden` block must be a portable *reading
+   instruction* — never a restatement of whatever the lesson's own worked
+   example happened to conclude.
+6. `## Lesson Summary` — vary the opening beyond "Today you learned...".
+7. `## Practice: Test What You've Learned` (this exact heading). 5 parts
+   (`### Part A` through `### Part E`), numbered continuously across
+   parts (never resetting), roughly 12-18 items total. Vary the
+   "Before you start" reminder's wording each time.
+8. Closing paragraph — exactly one form: `Next: Lesson N — Title:
+   one-sentence teaser.` No "send me your answers, I will mark them"
+   promise — this is a static self-study site with no submission or
+   marking mechanism, so that promise doesn't match how the site works.
+
+Every lesson should contain at least one `::: framework` block and
+exactly one `::: golden` block. `::: warning` is optional — use it only
+where a genuine, common learner confusion exists, not as decoration.
