@@ -9,7 +9,7 @@ module: "sentence-foundations"
 estimatedTime: "65 min"
 difficulty: "beginner"
 prerequisites: [1, 2, 3, 4, 5, 6, 7, 8]
-skills: ["grammar-mechanics", "sentence-structure"]
+skills: ["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]
 objectives:
   - "Tell an adjective (describes a noun) apart from an adverb (modifies a verb, adjective, another adverb, or a whole sentence)"
   - "Read adverbs of degree (very, highly, relatively, extremely) as a strength signal, not just a word to translate"
@@ -278,9 +278,10 @@ dramatically easier to read accurately.
 
 ## Adjective + Preposition, Revisited
 
-Connecting back to Lesson 7: > interested in · responsible for · aware
-of · familiar with · similar to · different from · capable of ·
-important for
+Connecting back to Lesson 7:
+
+> interested in · responsible for · aware of · familiar with · similar
+> to · different from · capable of · important for
 
 > Researchers are interested in human behavior. · People should be
 > aware of their biases. · The two methods are similar to each other.
@@ -312,6 +313,10 @@ Core: *factor*.
 
 ## Reading Strategy: Find the Head Noun First
 
+Connecting back to Lesson 3: the technique is unchanged, but today's
+modifiers are degree and certainty words rather than plain description,
+so it's worth re-testing the habit here.
+
 ::: example title="However many modifiers stack up, the head noun anchors the phrase"
 **The highly influential ideas of several experienced researchers…**
 
@@ -325,7 +330,8 @@ Find the head noun first, then add the details back around it.
 
 ## Guided Reading Practice
 
-Read the paragraph once, slowly, without a dictionary.
+Read the paragraph once, slowly, and underline every word that signals
+degree, certainty, or frequency rather than plain description.
 
 > People are often influenced by factors that they do not consciously
 > recognize. These influences can be particularly important when
@@ -394,7 +400,7 @@ Recognising these shapes instantly, as single units, is what fast,
 accurate reading is built from.
 :::
 
-## The Master Reading Rule
+## Golden Rule
 
 ::: framework title="Three questions for any adjective or adverb"
 - If it's an adjective — which noun does it describe?
@@ -404,9 +410,7 @@ accurate reading is built from.
 
 Never jump straight to a Bangla translation. Answer these three
 questions first, and the word's real contribution to the sentence
-becomes clear.
-
-## Today's Core Framework
+becomes clear. Everything you met today collapses into one small map:
 
 ```
 ADJECTIVE   → describes a noun/state
@@ -439,7 +443,8 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. Misjudging an author's certainty is a very normal mistake at
+this stage — it's exactly what this lesson exists to sharpen.
 :::
 
 ### Part A — Identify the Function
