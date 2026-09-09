@@ -324,6 +324,12 @@ always settle it.
 ::: vocabulary word="verify" pos="verb" meaning="to check that something is true or accurate (যাচাই করা)" example="Important claims should be verified before they are accepted."
 :::
 
+::: vocabulary word="focus" pos="noun" meaning="the main point of attention in a sentence or paragraph (কেন্দ্রবিন্দু)" example="Passive voice lets a writer control which noun becomes the sentence's focus."
+:::
+
+::: vocabulary word="receive" pos="verb" meaning="to be given, sent, or handed something (গ্রহণ করা)" example="The department received several complaints about the new system."
+:::
+
 ::: note title="Chunks worth learning as whole units"
 *conduct a study · conduct an experiment · collect data · analyze data ·
 identify a factor · examine a relationship · observe a pattern ·

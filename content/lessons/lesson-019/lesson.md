@@ -553,6 +553,12 @@ dimensions.
 ::: vocabulary word="perspective" pos="noun" meaning="a particular way of thinking about or viewing something (দৃষ্টিভঙ্গি)" example="Good communication requires considering alternative perspectives."
 :::
 
+::: vocabulary word="boundary" pos="noun" meaning="a limit that marks where one thing ends and another begins (সীমা)" example="Digital tools have created opportunities for collaboration across geographical boundaries."
+:::
+
+::: vocabulary word="appropriate" pos="adjective" meaning="suitable or correct for a particular situation (উপযুক্ত)" example="Choosing the appropriate technology matters as much as adopting new technology at all."
+:::
+
 ::: note title="Chunks worth learning as whole units"
 *not only X but also Y · both X and Y · either X or Y · neither X nor Y
 · whether X or Y · more effective than · less expensive than · as

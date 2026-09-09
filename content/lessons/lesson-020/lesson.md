@@ -139,57 +139,49 @@ what kind of relationship the author is building right now.
 
 Think of these as a paragraph's **signposts.**
 
-## "However" = Contrast
+## Nine Markers You Already Know, at Paragraph Level
 
-::: example title="Look for the opposite of the previous idea"
-**Digital communication is fast and convenient. However, it can also
-create misunderstandings.**
+Connecting back to Lesson 8: *however, therefore, as a result, because,
+for example, in addition, in contrast, similarly,* and *in other words*
+were all covered there at the sentence level. Nothing about their core
+job has changed — the only difference today is that you're now using
+them to locate a piece of a *paragraph's* architecture, not just a
+sentence's logic.
 
-Structure: advantage ↓ however ↓ limitation.
-:::
+::: example title="The same nine markers, doing the same jobs, inside a paragraph"
+**However** (contrast): *Digital communication is fast and convenient.
+However, it can also create misunderstandings.* — the paragraph's claim
+meets a limitation.
 
-## "Therefore" = Conclusion / Result
+**Therefore** (conclusion/result): *The evidence is limited. Therefore,
+strong conclusions cannot be drawn.* — this is very often where a
+paragraph's conclusion sentence starts.
 
-::: example title="Basis leads to a conclusion"
-**The evidence is limited. Therefore, strong conclusions cannot be
-drawn.**
+**As a result** (result): *The company introduced automation. As a
+result, processing time decreased.*
 
-Structure: evidence limited ↓ therefore ↓ conclusion.
-:::
+**Because** (reason): *People often make mistakes because they have
+limited information.* — this is where a paragraph's reason sentence
+usually sits.
 
-## "As a Result" = Result
+**For example** (example): *Many factors influence decision-making. For
+example, stress can affect how people evaluate alternatives.*
 
-::: example title="Cause followed by effect"
-**The company introduced automation. As a result, processing time
-decreased.**
+**In addition** (addition): *Reading improves vocabulary. In addition,
+it helps learners recognize grammatical patterns.* — a second
+supporting point for the same claim.
 
-Cause: automation. Result: processing time decreased.
-:::
+**In contrast** (contrast): *Traditional systems depend heavily on
+manual processes. In contrast, modern systems rely on automation.*
 
-## "Because" = Reason
+**Similarly** (similarity): *The first study found a relationship
+between stress and memory. Similarly, the second study reported a
+comparable pattern.*
 
-::: example title="A direct reason"
-**People often make mistakes because they have limited information.**
-
-Main claim: people make mistakes. Reason: limited information.
-:::
-
-## "For Example" = Example
-
-::: example title="General claim, then a specific instance"
-**Many factors influence decision-making. For example, stress can
-affect how people evaluate alternatives.**
-
-Sentence 1: general claim. Sentence 2: specific example.
-:::
-
-## "In Addition" = Addition
-
-::: example title="One more supporting point"
-**Reading improves vocabulary. In addition, it helps learners recognize
-grammatical patterns.**
-
-Structure: Point 1 + Point 2.
+**In other words** (restatement): *The evidence is inconclusive. In
+other words, we do not yet have enough information to determine the
+cause.* — don't look for a new claim here; look for a plainer version of
+the one just made.
 :::
 
 ## "Moreover" = Stronger Addition
@@ -199,31 +191,6 @@ Structure: Point 1 + Point 2.
 
 The second point isn't just additional — the author is presenting it as
 further, reinforcing support for the same overall position.
-:::
-
-## "In Contrast" = Strong Contrast
-
-::: example title="An explicit side-by-side comparison"
-**Traditional systems depend heavily on manual processes. In contrast,
-modern systems rely on automation.**
-:::
-
-## "Similarly" = Similarity
-
-::: example title="Two findings, the same pattern"
-**The first study found a relationship between stress and memory.
-Similarly, the second study reported a comparable pattern.**
-:::
-
-## "In Other Words" = Restatement
-
-::: important title="Not a new claim — the same idea, said more plainly"
-**The evidence is inconclusive. In other words, we do not yet have
-enough information to determine the cause.**
-
-The author is restating the same idea in simpler terms. Don't go
-looking for new information after *in other words* — look for a
-plainer version of what was just said.
 :::
 
 ## "Specifically" = More Precise Detail
@@ -237,12 +204,18 @@ General: several factors. Specific: sleep, stress, workload.
 
 ## "For Instance"
 
+A direct substitute for *for example* — no difference in job, only in
+formality.
+
 ::: note title="Functions exactly like 'for example'"
 **Many organizations use automation. For instance, automated systems
 can process routine transactions.**
 :::
 
 ## "Nevertheless" / "Nonetheless"
+
+A close cousin of *however*, but specifically for a limitation that
+doesn't cancel out the point that came before it.
 
 ::: example title="Despite that / even so"
 **The evidence is limited. Nevertheless, the findings are useful.**
@@ -277,6 +250,9 @@ expensive…
 
 ## "Whereas"
 
+A formal way of placing two things side by side for direct comparison,
+without the stronger "surprise" flavour of *however*.
+
 ::: example title="A paragraph-level comparison"
 **Traditional systems rely on manual processes, whereas modern
 platforms automate many routine tasks.**
@@ -284,12 +260,18 @@ platforms automate many routine tasks.**
 
 ## "Meanwhile"
 
+Where *whereas* compares two things, *meanwhile* places two things in
+the same stretch of time.
+
 ::: example title="Two things happening at the same time"
 **The company was developing a new platform. Meanwhile, employees
 continued using the existing system.**
 :::
 
 ## "Instead"
+
+Signals that the alternative you might have expected didn't happen —
+something else did.
 
 ::: example title="Expected option X didn't happen — Y did"
 **The company did not replace the entire system. Instead, it upgraded
@@ -319,6 +301,9 @@ could be reached.
 
 ## "First, Second, Finally"
 
+Some authors don't leave the paragraph's structure for you to find —
+they announce it directly.
+
 ::: example title="Explicit organization signals"
 **First, researchers collected the data. Second, they analyzed the
 results. Finally, they published their findings.**
@@ -327,6 +312,9 @@ The author is showing the reader the structure directly.
 :::
 
 ## "On the One Hand … On the Other Hand"
+
+A more explicit, more formal version of the advantage/disadvantage
+pattern you'll meet constantly in balanced arguments.
 
 ::: example title="A balanced two-sided comparison"
 **On the one hand, remote work provides flexibility. On the other hand,
@@ -337,12 +325,19 @@ Advantage: flexibility. Disadvantage: less face-to-face interaction.
 
 ## "For This Reason"
 
+Points back at the sentence just given and treats it as the cause of
+what follows — functionally close to *therefore*, but explicitly framed
+as a reason.
+
 ::: example title="Previous information, then its consequence"
 **The evidence is inconsistent. For this reason, researchers remain
 cautious about the conclusion.**
 :::
 
 ## "As a Consequence"
+
+Another *therefore*-family marker, favoured in slightly more formal
+writing.
 
 ::: example title="Cause, then effect"
 **Employees received insufficient training. As a consequence, many
@@ -361,12 +356,18 @@ against what the previous sentence might have suggested.
 
 ## "Indeed"
 
+A close relative of *in fact*, but used to strengthen a claim rather
+than correct one.
+
 ::: example title="Reinforcing a previous statement"
 **The problem is serious. Indeed, several organizations have already
 reported similar failures.**
 :::
 
 ## "Of Course"
+
+Flags a point the author expects the reader to find unsurprising or
+already obvious, usually right before qualifying the main claim.
 
 ::: example title="A context-dependent, often obvious qualification"
 **Technology can improve efficiency. Of course, this depends on how it
@@ -384,6 +385,9 @@ true without exception.
 :::
 
 ## "In Particular"
+
+Functions like *specifically*: it narrows a general claim down to the
+one part the author wants you to focus on.
 
 ::: example title="From general to a specific focus"
 **Many factors affect learning. In particular, regular practice is
@@ -591,7 +595,24 @@ learning outcomes.**
 The whole argument: access → limitation → solution/implication.
 :::
 
-## A Full Passage, Decoded
+## Vocabulary in Context
+
+::: vocabulary word="cognitive" pos="adjective" meaning="relating to thinking, understanding, and mental processes (চিন্তা-সম্পর্কিত/বৌদ্ধিক)" example="Regular exercise may support cognitive performance."
+:::
+
+::: vocabulary word="implication" pos="noun" meaning="something suggested or implied, without being stated directly (তাৎপর্য/ইঙ্গিত)" example="The findings carry an important implication for how schools use technology."
+:::
+
+::: vocabulary word="overload" pos="noun" meaning="an amount too large to be dealt with comfortably (অতিরিক্ত চাপ/ভার)" example="Excessive digital communication can lead to information overload."
+:::
+
+::: vocabulary word="architecture" pos="noun" meaning="the underlying structure of something, not just its surface content (গঠন/স্থাপত্য)" example="Reading a paragraph's architecture means seeing its claim, reason, and conclusion, not just its sentences."
+:::
+
+::: vocabulary word="qualification" pos="noun" meaning="a statement that limits or adds a condition to an earlier claim (সীমাবদ্ধতা/শর্ত)" example="A careful writer adds a qualification rather than letting a claim stand unlimited."
+:::
+
+## Guided Reading Practice
 
 Read the paragraph once, slowly, tracking its architecture.
 
@@ -629,7 +650,7 @@ create problems.
 
 ## The Whole Argument, in One Line
 
-::: golden
+::: important title="What the passage's architecture adds up to"
 Technology can provide major benefits, but technology itself is not enough — successful use also depends on people, processes, and organizational conditions.
 :::
 
@@ -671,22 +692,15 @@ place at once.
 | in fact / indeed | reinforcement or correction |
 | finally / for this reason | final point / reason → conclusion |
 
-## The Most Important Rule
+## Golden Rule
 
 Memorising a Bangla translation for each discourse marker is not the
 goal. The goal is recognising its **function.** See *however* and don't
 just think "but" — ask: *what exactly is being contrasted with what
 came before?*
 
-## Vocabulary in Context
-
-::: vocabulary word="cognitive" pos="adjective" meaning="relating to thinking, understanding, and mental processes (চিন্তা-সম্পর্কিত/বৌদ্ধিক)" example="Regular exercise may support cognitive performance."
-:::
-
-::: vocabulary word="implication" pos="noun" meaning="something suggested or implied, without being stated directly (তাৎপর্য/ইঙ্গিত)" example="The findings carry an important implication for how schools use technology."
-:::
-
-::: vocabulary word="overload" pos="noun" meaning="an amount too large to be dealt with comfortably (অতিরিক্ত চাপ/ভার)" example="Excessive digital communication can lead to information overload."
+::: golden
+For every sentence in a paragraph, ask not only "what does it mean?" but "why is this sentence here?" That second question is what turns a pile of translated sentences into a visible argument.
 :::
 
 ## Lesson Summary
@@ -708,7 +722,8 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. Naming the wrong role for a sentence tells you exactly which
+part of the paragraph's architecture to look at again.
 :::
 
 ### Part A — Identify Function

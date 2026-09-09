@@ -482,6 +482,12 @@ from the word alone.
 ::: vocabulary word="certainty" pos="noun" meaning="the state of being completely sure about something (নিশ্চয়তা)" example="Scientific findings are rarely stated with complete certainty."
 :::
 
+::: vocabulary word="cautious" pos="adjective" meaning="careful to avoid stating more than the evidence supports (সতর্ক)" example="A cautious writer says a factor 'may contribute to' an outcome, not that it causes it."
+:::
+
+::: vocabulary word="qualify" pos="verb" meaning="to limit or add a condition to a statement so it isn't taken as absolute (সীমিত করা)" example="Academic writers often qualify a claim with a word like 'may' or 'tends to'."
+:::
+
 ::: note title="Chunks worth learning as whole units"
 *may affect · may contribute to · might explain · could lead to · could
 result in · is likely to · is unlikely to · appears to be · seems to

@@ -514,6 +514,12 @@ policy was and found several problems in how it worked in practice.
 ::: vocabulary word="collaboration" pos="noun" meaning="the act of working together with others toward a shared goal (সহযোগিতা)" example="Digital tools have created new opportunities for remote collaboration."
 :::
 
+::: vocabulary word="availability" pos="noun" meaning="the state of being able to be obtained or used (প্রাপ্যতা)" example="The increased availability of digital communication created new opportunities."
+:::
+
+::: vocabulary word="consideration" pos="noun" meaning="careful thought given to something before a decision is made (বিবেচনা)" example="Successful integration requires careful consideration of organizational needs."
+:::
+
 ::: note title="Chunks worth learning as whole units"
 *implementation of a policy · development of technology · improvement
 in performance · reduction in costs · analysis of data · examination of
