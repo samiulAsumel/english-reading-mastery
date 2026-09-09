@@ -9,7 +9,7 @@ module: "clause-and-paragraph"
 estimatedTime: "70 min"
 difficulty: "beginner"
 prerequisites: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
-skills: ["grammar-mechanics", "sentence-structure"]
+skills: ["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]
 objectives:
   - "Identify all four conditional types (zero, first, second, third) by their verb-tense pattern, and match each to what it claims"
   - "Recognise that a past-tense verb after 'if' signals a hypothetical situation, not past time"
@@ -247,20 +247,19 @@ decisions.**
 Condition: *better information.* Result: *better decisions.*
 :::
 
-## COULD vs. WOULD
+## COULD vs. WOULD vs. MIGHT
 
-::: example title="Possible vs. expected"
+::: example title="Possible, expected, or genuinely uncertain"
 **If we had more data, we could make a better decision.** — a better
 decision would be *possible.*
 
 **If we had more data, we would make a better decision.** — a better
 decision would be *expected.*
+
+**If we had more data, we might reach a different conclusion.** — a
+different conclusion is *possible, but genuinely uncertain* — the
+weakest commitment of the three.
 :::
-
-## MIGHT, Once More
-
-> **If we had more data, we might reach a different conclusion.** — a
-> different conclusion is possible, but genuinely uncertain.
 
 ## Conditionals Without "If"
 
@@ -409,9 +408,52 @@ These describe opposite situations — don't let their surface similarity
 blur that difference.
 :::
 
+## Vocabulary in Context
+
+::: vocabulary word="guarantee" pos="verb" meaning="to promise that something will definitely happen or be true (নিশ্চয়তা দেওয়া)" example="More information does not guarantee a better decision."
+:::
+
+::: vocabulary word="reliable" pos="adjective" meaning="able to be trusted to be accurate or to work correctly (বিশ্বাসযোগ্য/নির্ভরযোগ্য)" example="Researchers prefer to build conclusions on reliable evidence."
+:::
+
+::: vocabulary word="accurate" pos="adjective" meaning="correct and true in every detail (নির্ভুল)" example="Even accurate information can be interpreted differently by different people."
+:::
+
+::: vocabulary word="unreliable" pos="adjective" meaning="not able to be trusted to be accurate or consistent (অবিশ্বাস্য/অনির্ভরযোগ্য)" example="Unreliable information can make decision-making more complicated, not less."
+:::
+
+::: vocabulary word="interpret" pos="verb" meaning="to explain or decide the meaning of something (ব্যাখ্যা করা)" example="Two readers can interpret the same accurate information quite differently."
+:::
+
+::: note title="Chunks worth learning as whole units"
+*if necessary · if possible · if appropriate · if required · unless
+otherwise stated · provided that · as long as · even if · even though ·
+not necessarily · be likely to · be unlikely to · could potentially ·
+might lead to · would result in · would have resulted in*
+:::
+
+## A Few Combinations Worth Learning Specifically
+
+::: example title="be likely to / be unlikely to / lead to / result in / result from"
+**be likely to:** People are likely to make mistakes when they are
+tired. — a higher probability.
+
+**be unlikely to:** People are unlikely to change their beliefs
+immediately. — a lower probability.
+
+**lead to:** Stress can lead to poor decisions.
+
+**result in:** Poor planning can result in serious problems.
+
+**result from:** The problem resulted from poor planning.
+
+These five patterns are the backbone of cause-and-effect reading.
+:::
+
 ## Guided Reading Practice
 
-Read the paragraph once, slowly, without a dictionary.
+Read the paragraph once, slowly, marking each conditional's type before
+you read the sentence-by-sentence breakdown below.
 
 > If people had unlimited access to information, they might assume that
 > they could always make better decisions. However, more information
@@ -443,43 +485,16 @@ beliefs influence…*
 both access to information *and* the ability to evaluate and interpret
 it.
 
-## Vocabulary in Context
+## Golden Rule
 
-::: vocabulary word="guarantee" pos="verb" meaning="to promise that something will definitely happen or be true (নিশ্চয়তা দেওয়া)" example="More information does not guarantee a better decision."
+::: framework title="Identifying a conditional's type on sight"
+- Check the verb after "if": present tense → zero or first
+- Check what follows the comma: present simple → zero; "will" → first
+- Past-tense verb after "if" → second (hypothetical present/future)
+- Past perfect after "if" → third (hypothetical past)
 :::
 
-::: vocabulary word="reliable" pos="adjective" meaning="able to be trusted to be accurate or to work correctly (বিশ্বাসযোগ্য/নির্ভরযোগ্য)" example="Researchers prefer to build conclusions on reliable evidence."
-:::
-
-::: vocabulary word="accurate" pos="adjective" meaning="correct and true in every detail (নির্ভুল)" example="Even accurate information can be interpreted differently by different people."
-:::
-
-::: note title="Chunks worth learning as whole units"
-*if necessary · if possible · if appropriate · if required · unless
-otherwise stated · provided that · as long as · even if · even though ·
-not necessarily · be likely to · be unlikely to · could potentially ·
-might lead to · would result in · would have resulted in*
-:::
-
-## A Few Combinations Worth Learning Specifically
-
-::: example title="be likely to / be unlikely to / lead to / result in / result from"
-**be likely to:** People are likely to make mistakes when they are
-tired. — a higher probability.
-
-**be unlikely to:** People are unlikely to change their beliefs
-immediately. — a lower probability.
-
-**lead to:** Stress can lead to poor decisions.
-
-**result in:** Poor planning can result in serious problems.
-
-**result from:** The problem resulted from poor planning.
-
-These five patterns are the backbone of cause-and-effect reading.
-:::
-
-## The Master Conditional Map
+Every conditional this lesson covered collapses into one small map:
 
 ```
 ZERO      If + present  → present                        general truth
@@ -515,7 +530,8 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. Mixing up second and third conditional is one of the most
+common mistakes at this stage — catching it now is the whole point.
 :::
 
 ### Part A — Identify the Conditional Type
