@@ -16,7 +16,7 @@ objectives:
   - "Recognise a clause, and tell an independent clause apart from a dependent one"
   - "Spot a relative clause and identify exactly which noun it describes"
   - "Apply a six-step method to decode any long or complex sentence, on sight"
-tags: ["sentence-structure", "modifiers", "clauses", "relative-clauses", "reading-strategy"]
+tags: ["modifiers", "clauses", "relative-clauses", "skeleton-reading", "reading-strategy"]
 status: "published"
 ---
 
@@ -135,11 +135,13 @@ together. When you meet a phrase like:
 
 don't decode it word by word. Grab the whole phrase as one unit:
 
-**Description:** highly successful business
 **Core noun:** leader
+**Noun modifier (what kind of leader):** business
+**Adjective describing that modifier:** successful
+**Adverb strengthening the adjective:** highly
 
-Read the description as a block wrapped around the noun, not as four
-separate translation problems.
+Read the whole description as one block wrapped around the noun, not as
+four separate translation problems.
 
 ## Adverbs: Extra Information About a Verb
 
@@ -347,29 +349,6 @@ This layered, step-by-step decoding is exactly how you should approach
 every long sentence from now on.
 :::
 
-## From Translating to Understanding Directly
-
-::: golden
-Find the skeleton — Subject, Verb, Object or Complement, and any clause — before you look at a single modifier; everything else is detail hanging off that frame.
-:::
-
-Build this habit today, on every sentence you read:
-
-::: framework title="Don't translate — decode, understand, reconstruct"
-- English sentence
-- Main Subject
-- Main Verb
-- Object or Complement
-- Clauses (independent, dependent, relative)
-- Modifiers (adjectives, adverbs, prepositional phrases)
-- Overall meaning
-:::
-
-The old habit — English word → Bangla word → another Bangla word →
-assemble a Bangla sentence — gets slower the longer the sentence gets.
-This new habit gets *faster* the more you practise it, because you are
-recognising shapes, not translating words.
-
 ## Vocabulary in Context
 
 You already met **affect** in Lesson 1. Here it returns with a wider set
@@ -420,7 +399,8 @@ will recognise instantly.
 
 ## Guided Reading Practice
 
-Read the paragraph once, slowly, with no dictionary.
+Read the paragraph once, slowly, watching for the core skeleton inside
+each sentence before its modifiers and clauses.
 
 > People do not always make decisions based on facts alone. Their
 > emotions, previous experiences, beliefs, and social environment can
@@ -452,6 +432,29 @@ effective decisions.**
 Core: *They may be able to make decisions.* Extra: *As a result* links
 this sentence to the one before it; *more careful and effective*
 describes the kind of decisions.
+
+## Golden Rule
+
+Build this habit on every sentence you read from now on:
+
+::: framework title="Don't translate — decode, understand, reconstruct"
+- English sentence
+- Main Subject
+- Main Verb
+- Object or Complement
+- Clauses (independent, dependent, relative)
+- Modifiers (adjectives, adverbs, prepositional phrases)
+- Overall meaning
+:::
+
+The old habit — English word → Bangla word → another Bangla word →
+assemble a Bangla sentence — gets slower the longer the sentence gets.
+This new habit gets *faster* the more you practise it, because you are
+recognising shapes, not translating words.
+
+::: golden
+Find the skeleton — Subject, Verb, Object or Complement, and any clause — before you look at a single modifier; everything else is detail hanging off that frame.
+:::
 
 ## Lesson Summary
 
@@ -520,9 +523,5 @@ Translate the following into English.
 18. Write one sentence using Subject + Verb + Object.
 19. Write one sentence using Subject + Verb + Object + a relative clause. (Example shape: *People develop skills that help them solve problems.*)
 
-Send me your answers to all 19 questions. I will go through each one —
-marking it correct, explaining why an incorrect answer is wrong, showing
-the natural English version, naming the pattern involved, and giving you
-a short practice drill where it is useful. Then we will move on to
-Lesson 3: Noun Phrases & Verb Phrases — two of the most common building
-blocks you will meet in real English books.
+Next: Lesson 3 — Noun Phrase & Verb Phrase: two of the most common
+building blocks you will meet in real English books.
