@@ -15,6 +15,15 @@
  */
 const modules = [
   {
+    slug: 'course-orientation',
+    level: 'orientation',
+    order: 1,
+    name: 'Course Orientation',
+    description:
+      'How this course works before any English content begins: the reading-first philosophy, how a lesson page is laid out, and how to use the platform.',
+    lessonRangeHint: [0, 0],
+  },
+  {
     slug: 'sentence-foundations',
     level: 'foundation',
     order: 1,
