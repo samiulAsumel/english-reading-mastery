@@ -16,7 +16,7 @@ objectives:
   - "Tell a phrase apart from a clause, and recognise a clause hiding inside a noun phrase"
   - "Read a sentence in noun-phrase and verb-phrase chunks instead of word by word"
   - "Break a long sentence into its four main blocks: noun phrase, verb phrase, object/complement, and extra information"
-tags: ["noun-phrase", "verb-phrase", "chunking", "reading-strategy", "phrases-and-clauses"]
+tags: ["noun-phrase", "verb-phrase", "chunking", "head-noun", "reading-strategy"]
 status: "published"
 ---
 
@@ -422,7 +422,8 @@ instantly the next time you meet it in a real sentence.
 
 ## Guided Reading Practice
 
-Read the paragraph once, slowly, without a dictionary.
+Read the paragraph once, slowly, spotting each noun phrase and verb
+phrase as one chunk rather than several separate words.
 
 > People who want to improve their understanding of a subject need to
 > develop several important reading skills. They must be able to
@@ -448,7 +449,7 @@ and careful reading.**
 Subject: *These skills* · Verb phrase: *can be developed* · Extra
 information: *through regular practice and careful reading.*
 
-## Today's Mental Model
+## Golden Rule
 
 Every sentence, however long, is built from the same handful of blocks:
 
@@ -502,7 +503,9 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. If you're unsure whether something is a noun phrase or a
+verb phrase, guess and explain your reasoning — the reasoning is what
+this lesson is actually testing.
 :::
 
 ### Part A — Find the Head Noun
@@ -543,6 +546,6 @@ Write the overall meaning of each sentence in your own English.
 16. Write one sentence that contains a helping verb plus a main verb.
 17. Write one sentence that contains a Noun Phrase + Verb Phrase + Object + Relative Clause.
 
-Send me your answers to all 17 questions. I will go through each one with
-a line-by-line correction, and then we will move on to Lesson 4: Clauses
-— Independent, Dependent, Relative & Adverb Clauses.
+Next: Lesson 4 — Clauses: The Key to Understanding Complex English. You
+already met the independent/dependent distinction briefly here; the next
+lesson builds a full toolkit around it.
