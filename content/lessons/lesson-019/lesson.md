@@ -9,7 +9,7 @@ module: "clause-and-paragraph"
 estimatedTime: "70 min"
 difficulty: "beginner"
 prerequisites: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
-skills: ["sentence-structure", "grammar-mechanics", "phrases-and-clauses"]
+skills: ["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]
 objectives:
   - "Recognise parallel structure (matching grammatical forms joined by and/or/but/not only...but also) as a signal that several ideas are being presented as equal and related"
   - "Read more...than, less...than, and as...as accurately, including the easily-missed negative not as...as"
@@ -482,8 +482,10 @@ but
 
 > more effective · more reliable · more efficient
 
-Recognising which nouns/adjectives pair with *higher* versus *more* is
-a small but genuinely helpful reading habit.
+The rule behind the pattern: **higher** pairs with a noun (*higher
+costs*), while **more** pairs with an adjective or adverb (*more
+effective*). Recognising which one a word needs is a small but
+genuinely helpful reading habit.
 :::
 
 ## "Increasingly"
@@ -499,6 +501,9 @@ not the same thing as a plain *very.*
 :::
 
 ## "Relatively"
+
+Connecting back to Lesson 9: you met *relatively* there as a degree
+word; here it's the comparison itself that matters.
 
 ::: example title="A comparison-dependent claim, once more"
 **The new system is relatively simple compared with the old system.**
@@ -523,14 +528,39 @@ Meaning: simple *by comparison* — not an absolute claim.
 approach.**
 
 ```
-NEW              OLD
-cheaper      >    (baseline)
-faster       >    (baseline)
-more reliable >   (baseline)
+The old approach is the baseline.
+The new approach beats it on three separate dimensions:
+  - cost:        cheaper
+  - speed:       faster
+  - reliability: more reliable
 ```
 
 **Core:** New approach beats the old approach across three separate
 dimensions.
+:::
+
+## Vocabulary in Context
+
+::: vocabulary word="flexibility" pos="noun" meaning="the ability to change or adapt easily (নমনীয়তা)" example="Digital platforms can provide greater flexibility than traditional systems."
+:::
+
+::: vocabulary word="capability" pos="noun" meaning="the ability to do something, especially something requiring skill (সক্ষমতা)" example="Greater technological capability does not always mean better performance."
+:::
+
+::: vocabulary word="adapt" pos="verb" meaning="to change your approach to suit new conditions (খাপ খাওয়ানো)" example="Employees must adapt to new communication practices."
+:::
+
+::: vocabulary word="perspective" pos="noun" meaning="a particular way of thinking about or viewing something (দৃষ্টিভঙ্গি)" example="Good communication requires considering alternative perspectives."
+:::
+
+::: note title="Chunks worth learning as whole units"
+*not only X but also Y · both X and Y · either X or Y · neither X nor Y
+· whether X or Y · more effective than · less expensive than · as
+important as · compared with · in contrast · similarly · unlike ·
+whereas · rather than · instead of · the more…, the more… · the less…,
+the less… · the more…, the less… · respectively · the former · the
+latter · that of · those of · increasingly important · relatively
+simple*
 :::
 
 ## Guided Reading Practice
@@ -569,29 +599,7 @@ again.
 **6** — *The more complex… the more important…* — a correlation:
 complexity ↑, importance of training/support ↑.
 
-## Vocabulary in Context
-
-::: vocabulary word="flexibility" pos="noun" meaning="the ability to change or adapt easily (নমনীয়তা)" example="Digital platforms can provide greater flexibility than traditional systems."
-:::
-
-::: vocabulary word="capability" pos="noun" meaning="the ability to do something, especially something requiring skill (সক্ষমতা)" example="Greater technological capability does not always mean better performance."
-:::
-
-::: vocabulary word="adapt" pos="verb" meaning="to change your approach to suit new conditions (খাপ খাওয়ানো)" example="Employees must adapt to new communication practices."
-:::
-
-::: vocabulary word="perspective" pos="noun" meaning="a particular way of thinking about or viewing something (দৃষ্টিভঙ্গি)" example="Good communication requires considering alternative perspectives."
-:::
-
-::: note title="Chunks worth learning as whole units"
-*not only X but also Y · both X and Y · either X or Y · neither X nor Y
-· whether X or Y · more effective than · less expensive than · as
-important as · compared with · in contrast · similarly · unlike ·
-whereas · rather than · instead of · the more…, the more… · the less…,
-the less… · the more…, the less… · respectively · the former · the
-latter · that of · those of · increasingly important · relatively
-simple*
-:::
+## Golden Rule
 
 ::: golden
 Whenever you see and, or, but, both, either, neither, or not only...but also, check that every joined item shares the same grammatical shape. That shared shape is exactly what tells you they're meant to be read as one list of equal, related ideas.
@@ -615,7 +623,8 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. Missing a hidden "not" in a comparison (as vs. not as) is an
+easy, natural mistake — read each comparison twice before answering.
 :::
 
 ### Part A — Identify the Parallel Elements
