@@ -420,6 +420,12 @@ words.**
 ::: vocabulary word="review" pos="verb" meaning="to examine or study something again carefully (পর্যালোচনা করা)" example="Having reviewed the evidence, the committee reached a decision."
 :::
 
+::: vocabulary word="compress" pos="verb" meaning="to make something take up less space, or say something in fewer words (সংকুচিত করা)" example="A participle lets a writer compress a whole clause into a short phrase."
+:::
+
+::: vocabulary word="imply" pos="verb" meaning="to suggest something without stating it directly (ইঙ্গিত করা)" example="A dangling modifier can imply the wrong subject performed the action."
+:::
+
 ::: note title="Chunks worth learning as whole units"
 *collect data · analyze data · conduct an experiment · complete a study
 · identify a pattern · examine evidence · influence decisions · affect
@@ -470,7 +476,7 @@ with a large amount of data…*
 describes *findings.* Full: *The findings that were presented in the
 final report…*
 
-## Today's Ultimate Reading Technique
+## Golden Rule
 
 ::: golden
 When a sentence looks too complicated, temporarily remove every participial phrase, read what's left, then add the phrases back in one at a time.
@@ -503,7 +509,8 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. Try expanding every reduced clause back to its full form
+before answering — that expansion is where the real understanding is.
 :::
 
 ### Part A — Identify
@@ -532,6 +539,12 @@ Expand each reduced clause back to its full form.
 ### Part D — Advanced Reading
 
 11. Decode this sentence: **Having reviewed the evidence collected from several sources, the researchers identified a pattern influencing the participants' decisions.** Identify: the main subject, the main verb, the object, the *Having + V3* phrase, the V3 reduced clause, and the V-ing reduced clause.
+
+### Part E — Create
+
+12. Write one sentence with a reduced relative clause (noun + V-ing or noun + V3).
+13. Write one sentence using *Having + V3* to show an earlier completed action.
+14. Write one sentence using *Although + V-ing* as a reduced contrast clause.
 
 Next: Lesson 16 — Reported Speech & "That"-Clauses: *Researchers argue
 that…, The author suggests that…, Studies show that…, He believed
