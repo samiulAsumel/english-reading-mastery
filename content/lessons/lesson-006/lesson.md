@@ -6,10 +6,10 @@ title: "Articles — a, an, the"
 description: "Why a/an, the, and no article at all are not really about 'a/an' versus 'the' — they're the writer telling you whether something is new, already identifiable, or being spoken of in general. Includes the countable/uncountable trap behind mistakes like 'informations' and 'a research'."
 level: "foundation"
 module: "sentence-foundations"
-estimatedTime: "60 min"
+estimatedTime: "65 min"
 difficulty: "beginner"
 prerequisites: [1, 2, 3, 4, 5]
-skills: ["grammar-mechanics", "phrases-and-clauses"]
+skills: ["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]
 objectives:
   - "Tell whether a/an introduces something new and unspecified, while the marks something the reader can already identify"
   - "Choose between a and an based on the sound that follows, not the spelling"
@@ -37,6 +37,9 @@ English nouns are usually preceded by one of three signals:
 **Indefinite articles:** a / an
 **Definite article:** the
 **Zero article:** no article at all
+
+Each one answers a different question about the noun that follows it —
+which is exactly what the rest of this lesson unpacks.
 
 ## The Simplest Distinction First
 
@@ -201,15 +204,13 @@ books are useful.** (specific books).
 
 ## A Reading Skill: Ask the Right Question
 
-::: note title="Different articles invite different questions"
-See **the decision** → ask **which decision?** and look to the context
-for the answer.
+Each article invites a different question, and asking the right one is
+most of the work of reading a noun phrase accurately:
 
-See **a decision** → ask **what kind of decision?** — one unspecified
-decision.
-
-See **decisions** (no article) → this is a general or plural
-possibility.
+::: framework title="Match the article to its question"
+- See "the decision" → ask "which decision?" and look to the context for the answer
+- See "a decision" → ask "what kind of decision?" — one unspecified decision
+- See "decisions" (no article) → read it as a general or plural possibility
 :::
 
 ## Article + Adjective + Noun
@@ -279,12 +280,19 @@ ranking.
 
 ## THE + Superlative
 
+A superlative names a unique, one-of-a-kind ranking, so *the* is almost
+always required in front of one:
+
 > the best · the most important · the largest · the most effective · the
 > greatest
 
 ::: example title="A common non-fiction shape"
 **This is one of the most important factors affecting human
 behavior.**
+
+The article here isn't marking a previously mentioned factor — it's
+marking the superlative *most important*, which by definition can only
+apply to one thing.
 :::
 
 ## "One of the…"
@@ -325,33 +333,6 @@ This distinction is central to accurate English comprehension — get it
 right, and a huge amount of ambiguity in real writing simply disappears.
 :::
 
-## Guided Reading Practice 1 — Reference Tracking
-
-> A researcher wanted to understand how people make decisions. The
-> researcher designed an experiment involving several participants. The
-> experiment showed that people do not always use the same strategy when
-> making decisions. Research on decision-making has continued to develop
-> since then.
-
-**a researcher** → new person.
-**the researcher** (next sentence) → the same, already-known person.
-**an experiment** → new experiment.
-**the experiment** (next sentence) → the same, specific experiment.
-**Research** (final sentence, no article) → the general field of study,
-not one specific project.
-
-## Guided Reading Practice 2
-
-> People need information to make decisions. However, the information
-> they receive is not always complete or accurate. A lack of information
-> can make a decision more difficult.
-
-**information** (first mention) → general, uncountable.
-**the information they receive** → specific: narrowed by the relative
-clause *they receive*.
-**a lack of information** → one particular, countable instance — *a
-lack* — even though *information* itself stays uncountable.
-
 ## Vocabulary in Context
 
 Article choice is easiest to see through real noun pairs. Compare each
@@ -375,7 +356,8 @@ row below in your head before moving on:
 | factors | factors in general |
 | the factors | specific factors |
 
-Three of today's head nouns haven't had their own vocabulary card yet:
+Three of today's head nouns haven't had their own vocabulary card yet,
+and three more are worth adding for words this lesson leans on heavily:
 
 ::: vocabulary word="information" pos="noun" meaning="facts or details about something; uncountable (তথ্য)" example="People often need more information before they can make a good decision."
 :::
@@ -386,11 +368,42 @@ Three of today's head nouns haven't had their own vocabulary card yet:
 ::: vocabulary word="study" pos="noun" meaning="a piece of research that examines a specific question — countable, unlike research itself (গবেষণা/সমীক্ষা)" example="A study of two hundred participants produced an unexpected result."
 :::
 
-## The Big Reading Principle
-
-::: golden
-a/an assumes the reader knows nothing yet; the assumes the reader can already identify exactly which one; no article at all means the writer is speaking in general.
+::: vocabulary word="specific" pos="adjective" meaning="particular and clearly identified, not general (সুনির্দিষ্ট)" example="The article is used before a specific, already-identified noun."
 :::
+
+::: vocabulary word="context" pos="noun" meaning="the situation or circumstances that help explain a word's or sentence's meaning (প্রসঙ্গ)" example="Whether 'the' or 'a' is correct often depends entirely on context."
+:::
+
+::: vocabulary word="unique" pos="adjective" meaning="being the only one of its kind (অদ্বিতীয়/একক)" example="A superlative names a unique, one-of-a-kind ranking, which is why it almost always takes 'the'."
+:::
+
+## Guided Reading Practice — Reference Tracking
+
+Read each passage once, slowly, tracking which nouns are new and which
+are already known.
+
+> A researcher wanted to understand how people make decisions. The
+> researcher designed an experiment involving several participants. The
+> experiment showed that people do not always use the same strategy when
+> making decisions. Research on decision-making has continued to develop
+> since then.
+
+**a researcher** → new person.
+**the researcher** (next sentence) → the same, already-known person.
+**an experiment** → new experiment.
+**the experiment** (next sentence) → the same, specific experiment.
+**Research** (final sentence, no article) → the general field of study,
+not one specific project.
+
+> People need information to make decisions. However, the information
+> they receive is not always complete or accurate. A lack of information
+> can make a decision more difficult.
+
+**information** (first mention) → general, uncountable.
+**the information they receive** → specific: narrowed by the relative
+clause *they receive*.
+**a lack of information** → one particular, countable instance — *a
+lack* — even though *information* itself stays uncountable.
 
 ## A Fully Worked Example
 
@@ -411,7 +424,10 @@ important evidence about the factors that influence human judgment.**
 *factors* — telling you exactly which factors.
 :::
 
-## Today's Mental Model
+## Golden Rule
+
+Every article decision this lesson covered collapses into one small
+diagram:
 
 ```
 ARTICLE
@@ -427,6 +443,10 @@ established**
 
 This reference-tracking skill is central to comprehending a real English
 book.
+
+::: golden
+a/an assumes the reader knows nothing yet; the assumes the reader can already identify exactly which one; no article at all means the writer is speaking in general.
+:::
 
 ## Lesson Summary
 
@@ -446,7 +466,8 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. If you pick the wrong article, work out afterward which
+question you should have asked instead — that's the actual skill.
 :::
 
 ### Part A — Choose the Correct Article
@@ -496,7 +517,6 @@ Explain in your own, simple English:
 19. Write a second sentence that refers back to that same thing with *the*.
 20. Write one sentence with a plural noun in a general sense, using no article at all.
 
-Send me your answers to all 20 questions, and next we move on to Lesson
-7 — Prepositions & Phrasal Relationships: how words like *of, in, on,
-at, for, with, by, from,* and *to* build the relationships inside a
+Next: Lesson 7 — Prepositions & Relationships: how words like *of, in,
+on, at, for, with, by, from,* and *to* build the relationships inside a
 sentence.
