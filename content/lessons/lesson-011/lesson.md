@@ -5,7 +5,7 @@ slug: "relative-clauses-advanced-sentence-decoding"
 title: "Relative Clauses & Advanced Sentence Decoding"
 description: "How an author layers a huge amount of information onto a single sentence using who, which, that, whose, where, and when — and a repeatable method for taking a 40-60 word sentence apart without losing the thread."
 level: "foundation"
-module: "sentence-foundations"
+module: "clause-and-paragraph"
 estimatedTime: "70 min"
 difficulty: "beginner"
 prerequisites: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]

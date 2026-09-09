@@ -5,7 +5,7 @@ slug: "passive-voice-and-information-focus"
 title: "Passive Voice & Information Focus"
 description: "'Researchers conducted the study' versus 'The study was conducted by researchers' — why an author chooses one over the other, and how to read a passive sentence for what it puts in focus, not just for who did what."
 level: "foundation"
-module: "sentence-foundations"
+module: "clause-and-paragraph"
 estimatedTime: "65 min"
 difficulty: "beginner"
 prerequisites: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]

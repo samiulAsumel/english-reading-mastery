@@ -5,7 +5,7 @@ slug: "conditionals-and-hypothetical-thinking"
 title: "Conditionals & Hypothetical Thinking"
 description: "How to recognise a general rule, a realistic future possibility, a hypothetical situation, and a hypothetical past — and why a past-tense verb after 'if' almost never means past time."
 level: "foundation"
-module: "sentence-foundations"
+module: "clause-and-paragraph"
 estimatedTime: "70 min"
 difficulty: "beginner"
 prerequisites: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
