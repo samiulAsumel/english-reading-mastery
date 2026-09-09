@@ -9,7 +9,7 @@ module: "clause-and-paragraph"
 estimatedTime: "70 min"
 difficulty: "beginner"
 prerequisites: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
-skills: ["sentence-structure", "grammar-mechanics", "phrases-and-clauses"]
+skills: ["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]
 objectives:
   - "Separate a claim from its source: who is saying it, and how confidently"
   - "Tell a that-clause (a noun clause, functioning as a verb's object) apart from a relative clause that also happens to use 'that'"
@@ -480,7 +480,7 @@ inside a further claim from the same source.
 Claim: *both positions may contain some truth.* *may* → hedging,
 uncertainty.
 
-## Today's Reading Skill
+## Golden Rule
 
 ::: golden
 Before absorbing any claim in non-fiction, split it into five parts: source, reporting verb, claim, certainty, and claim owner. That habit alone separates a careful reader from someone just decoding words.
@@ -512,7 +512,8 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. Confusing the source with the author's own view is a very
+common mistake — catching yourself doing it is real progress.
 :::
 
 ### Part A — Identify the That-Clause
