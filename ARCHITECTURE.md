@@ -147,6 +147,22 @@ toggle itself is `src/scripts/theme.js`; a tiny inline script in
 `templates.js`'s `layout()` applies any saved choice before first paint,
 so there's no flash of the wrong theme.
 
+`--bg`/`--fg` deliberately diverge from that style guide's pure white
+`#ffffff` / `#1f2937` — this course is read for long stretches at a time,
+and near-maximum contrast on pure white causes real eye fatigue over a
+study session. Both themes are retuned to a softer ~11:1 body-text
+contrast (still WCAG AAA) on a warm paper ground in light mode and a
+dimmed navy-black in dark mode, while keeping the navy/orange brand hues.
+`--brand-accent` and `--brand-accent-strong` are split on purpose:
+`--brand-accent` colors graphics (icons, borders, the focus ring — 3:1
+floor), while `--brand-accent-strong` is for text-bearing button
+backgrounds like `.btn-accent` (4.5:1 floor) — one value can't clear both
+bars without either dulling the accent or failing text contrast. The six
+semantic callout colors (`--concept-color`, `--example-color`, etc.) are
+explicitly re-defined in both dark blocks rather than inherited from
+light, since an unadjusted light-mode color can land under the 3:1
+minimum against a dark background.
+
 ## What's deliberately not built yet (see brief §45, Phase 2+)
 
 Quizzes/exercises, flashcard spaced review, sentence/paragraph/argument
