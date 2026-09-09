@@ -349,9 +349,40 @@ name for this — call it the **pronoun replacement test** — but practise
 it deliberately whenever a reference feels unclear.
 :::
 
+## Vocabulary in Context
+
+::: vocabulary word="represent" pos="verb" meaning="to stand for or be a symbol of something (প্রতিনিধিত্ব করা)" example="In this diagram, the arrow represents the flow of information."
+:::
+
+::: vocabulary word="identify" pos="verb" meaning="to recognise or establish exactly what something is (চিহ্নিত করা)" example="Careful readers can identify a pronoun's reference from context."
+:::
+
+::: vocabulary word="distinguish" pos="verb" meaning="to recognise a difference between two things (পার্থক্য করা)" example="Strong readers distinguish between a relative clause and a reason clause."
+:::
+
+::: vocabulary word="relate" pos="verb" meaning="to show or form a connection between two things (সম্পর্কিত করা)" example="This paragraph relates to the study discussed earlier."
+:::
+
+::: vocabulary word="associate" pos="verb" meaning="to connect one thing with another in your mind (যুক্ত করা)" example="Researchers associate this pattern with a specific cause."
+:::
+
+::: vocabulary word="lead" pos="verb" meaning="to result in something, or to cause a particular outcome (পরিচালিত করা/নিয়ে যাওয়া)" example="Emotional decisions can lead to unexpected mistakes."
+:::
+
+::: note title="Chunks worth learning as whole units"
+*refer to something · describe something · represent something ·
+indicate something · identify something · distinguish between · relate
+to · be associated with · depend on · be based on · point to · lead to ·
+result in*
+
+Especially useful: **refer to** — *The word "this" refers to the
+previous idea.*
+:::
+
 ## Guided Reading Practice
 
-Read the paragraph once, slowly, without a dictionary.
+Read the paragraph once, slowly, tracing every pronoun back to the noun
+it stands for.
 
 > A researcher conducted a long-term study of decision-making. The
 > researcher collected information from several groups of participants
@@ -407,36 +438,6 @@ and you can lose the paragraph's meaning even while understanding every
 individual word.
 :::
 
-## Vocabulary in Context
-
-::: vocabulary word="represent" pos="verb" meaning="to stand for or be a symbol of something (প্রতিনিধিত্ব করা)" example="In this diagram, the arrow represents the flow of information."
-:::
-
-::: vocabulary word="identify" pos="verb" meaning="to recognise or establish exactly what something is (চিহ্নিত করা)" example="Careful readers can identify a pronoun's reference from context."
-:::
-
-::: vocabulary word="distinguish" pos="verb" meaning="to recognise a difference between two things (পার্থক্য করা)" example="Strong readers distinguish between a relative clause and a reason clause."
-:::
-
-::: vocabulary word="relate" pos="verb" meaning="to show or form a connection between two things (সম্পর্কিত করা)" example="This paragraph relates to the study discussed earlier."
-:::
-
-::: vocabulary word="associate" pos="verb" meaning="to connect one thing with another in your mind (যুক্ত করা)" example="Researchers associate this pattern with a specific cause."
-:::
-
-::: vocabulary word="lead" pos="verb" meaning="to result in something, or to cause a particular outcome (পরিচালিত করা/নিয়ে যাওয়া)" example="Emotional decisions can lead to unexpected mistakes."
-:::
-
-::: note title="Chunks worth learning as whole units"
-*refer to something · describe something · represent something ·
-indicate something · identify something · distinguish between · relate
-to · be associated with · depend on · be based on · point to · lead to ·
-result in*
-
-Especially useful: **refer to** — *The word "this" refers to the
-previous idea.*
-:::
-
 ## A Reminder Worth Repeating
 
 If a pronoun's reference isn't immediately obvious, don't panic —
@@ -464,6 +465,8 @@ Track each one, and the paragraph becomes far easier to follow than it
 first appeared.
 :::
 
+## Golden Rule
+
 ::: golden
 Never let "it", "this", "they", or "which" slide past untested — mentally replace it with the noun it stands for. If the sentence stops making sense, you've picked the wrong reference.
 :::
@@ -486,7 +489,8 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. If a reference feels ambiguous, say which candidate you
+chose and why — that reasoning is exactly what's being tested.
 :::
 
 ### Part A — Identify the Reference
