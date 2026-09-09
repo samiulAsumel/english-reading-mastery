@@ -4,10 +4,12 @@ const { levels, getLevel } = require('../../content/curriculum/levels');
 const { modules, getModule, getModulesForLevel } = require('../../content/curriculum/modules');
 const { skills, GROUP_LABELS } = require('../../content/curriculum/skills');
 const { escapeHtml } = require('./content');
+const { icon } = require('./icons');
 const {
   layout,
   breadcrumbsHtml,
   badgeHtml,
+  badgeIconHtml,
   levelCardHtml,
   moduleCardHtml,
   lessonCardHtml,
@@ -320,9 +322,9 @@ function lessonDetailPage({ lesson, bodyHtml, toc, previous, next }) {
 
   const objectivesHtml = fm.objectives.length
     ? `<div class="objectives-box">
-        <p class="callout-title"><span class="callout-glyph" aria-hidden="true">&#9678;</span>Learning Objectives</p>
+        <p class="callout-title">${icon('target', 'callout-glyph')}Learning Objectives</p>
         <p class="small muted" style="margin-bottom:0.5rem;">By the end of this lesson, you should be able to:</p>
-        <ul>${fm.objectives.map((o) => `<li>${escapeHtml(o)}</li>`).join('')}</ul>
+        <ul>${fm.objectives.map((o) => `<li>${icon('check')}<span>${escapeHtml(o)}</span></li>`).join('')}</ul>
       </div>`
     : '';
 
@@ -341,13 +343,13 @@ function lessonDetailPage({ lesson, bodyHtml, toc, previous, next }) {
 
   const prevHtml = previous
     ? `<a href="/lessons/${previous.frontmatter.number}/" class="lesson-nav-link prev">
-        <span class="lesson-nav-eyebrow">&#8592; Previous Lesson</span>
+        <span class="lesson-nav-eyebrow">${icon('arrowLeft')}Previous Lesson</span>
         <span class="lesson-nav-title">${previous.frontmatter.number}. ${escapeHtml(previous.frontmatter.title)}</span>
       </a>`
     : '<span></span>';
   const nextHtml = next
     ? `<a href="/lessons/${next.frontmatter.number}/" class="lesson-nav-link next">
-        <span class="lesson-nav-eyebrow">Next Lesson &#8594;</span>
+        <span class="lesson-nav-eyebrow">Next Lesson${icon('arrowRight')}</span>
         <span class="lesson-nav-title">${next.frontmatter.number}. ${escapeHtml(next.frontmatter.title)}</span>
       </a>`
     : '<span></span>';
@@ -362,8 +364,8 @@ function lessonDetailPage({ lesson, bodyHtml, toc, previous, next }) {
             <h1 class="h1" style="margin-top:0.5rem;">Lesson ${fm.number}: ${escapeHtml(fm.title)}</h1>
             <p class="lesson-desc">${escapeHtml(fm.description)}</p>
             <div class="lesson-meta">
-              ${badgeHtml(fm.difficulty, 'muted')}
-              ${badgeHtml(fm.estimatedTime, 'muted')}
+              ${badgeIconHtml('gauge', fm.difficulty, 'muted')}
+              ${badgeIconHtml('clock', fm.estimatedTime, 'muted')}
               ${tagsHtml}
             </div>
           </header>
@@ -376,7 +378,7 @@ function lessonDetailPage({ lesson, bodyHtml, toc, previous, next }) {
 
           <div class="lesson-footer-bar">
             <p class="xs muted">Lesson ${fm.number} of ${level ? escapeHtml(level.name) : 'the course'}</p>
-            <button type="button" class="btn btn-outline btn-sm" id="mark-complete-btn" data-lesson-number="${fm.number}">Mark as complete</button>
+            <button type="button" class="btn btn-outline btn-sm" id="mark-complete-btn" data-lesson-number="${fm.number}">${icon('circle')}<span>Mark as complete</span></button>
           </div>
 
           <nav class="lesson-nav">
@@ -394,7 +396,8 @@ function lessonDetailPage({ lesson, bodyHtml, toc, previous, next }) {
     description: fm.description,
     path: `/lessons/${fm.number}/`,
     bodyHtml: body,
-    extraScripts: '<script defer src="/scripts/toc.js"></script>',
+    readingProgress: true,
+    extraScripts: '<script defer src="/scripts/toc.js"></script>\n  <script defer src="/scripts/reading-progress.js"></script>',
   });
 }
 
@@ -521,7 +524,8 @@ function progressPage(publishedLessons) {
             <p class="dashboard-tile-label">Continue Learning</p>
             <a class="dashboard-tile-value" id="progress-continue" href="/lessons/" style="color:var(--brand-primary);text-decoration:none;">&mdash;</a>
           </div>
-          <div class="dashboard-tile" style="display:flex;align-items:center;gap:0.75rem;">
+          <div class="dashboard-tile dashboard-tile-icon">
+            ${icon('trendingUp', 'dashboard-tile-icon-glyph')}
             <div>
               <p class="dashboard-tile-label">Learning Streak</p>
               <p class="dashboard-tile-value" id="progress-streak">0 days</p>
@@ -529,7 +533,7 @@ function progressPage(publishedLessons) {
           </div>
         </div>
 
-        <button type="button" class="btn btn-ghost btn-sm" id="progress-reset" style="width:fit-content;">Reset local progress</button>
+        <button type="button" class="btn btn-ghost btn-sm" id="progress-reset" style="width:fit-content;">${icon('rotateCcw')}<span>Reset local progress</span></button>
       </div>
     </div>`;
 

@@ -79,9 +79,12 @@
     const number = Number(btn.getAttribute('data-lesson-number'));
     Store.markStarted(number);
 
+    var CHECK = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>';
+    var CIRCLE = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/></svg>';
+
     function refresh() {
       const done = completedSet(Store.getSnapshot()).has(number);
-      btn.textContent = done ? '✓ Completed' : '○ Mark as complete';
+      btn.innerHTML = (done ? CHECK : CIRCLE) + '<span>' + (done ? 'Completed' : 'Mark as complete') + '</span>';
       btn.classList.toggle('btn-primary', done);
       btn.classList.toggle('btn-outline', !done);
     }

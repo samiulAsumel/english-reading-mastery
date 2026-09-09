@@ -6,6 +6,7 @@ const matter = require('gray-matter');
 const { Marked } = require('marked');
 const { levels } = require('../../content/curriculum/levels');
 const { modules } = require('../../content/curriculum/modules');
+const { icon } = require('./icons');
 
 const LESSONS_DIR = path.join(__dirname, '..', '..', 'content', 'lessons');
 
@@ -141,11 +142,11 @@ function parseAttrs(raw) {
 }
 
 const CALLOUT_DEFAULTS = {
-  concept: { title: 'Core Concept', tone: 'concept', glyph: '◆' },
-  example: { title: 'Example', tone: 'example', glyph: '✎' },
-  important: { title: 'Important', tone: 'important', glyph: 'ℹ' },
-  warning: { title: 'Common Mistake', tone: 'warning', glyph: '⚠' },
-  note: { title: 'Note', tone: 'note', glyph: 'ℹ' },
+  concept: { title: 'Core Concept', tone: 'concept', icon: 'target' },
+  example: { title: 'Example', tone: 'example', icon: 'edit' },
+  important: { title: 'Important', tone: 'important', icon: 'info' },
+  warning: { title: 'Common Mistake', tone: 'warning', icon: 'alertTriangle' },
+  note: { title: 'Note', tone: 'note', icon: 'info' },
 };
 
 function renderCallout(type, attrs, bodyText, marked) {
@@ -153,7 +154,7 @@ function renderCallout(type, attrs, bodyText, marked) {
   const title = attrs.title || def.title;
   const bodyHtml = marked.parse(bodyText.trim());
   return `<div class="callout callout-${def.tone}">
-  <p class="callout-title"><span class="callout-glyph" aria-hidden="true">${def.glyph}</span>${escapeHtml(title)}</p>
+  <p class="callout-title">${icon(def.icon, 'callout-glyph')}${escapeHtml(title)}</p>
   <div class="callout-body">${bodyHtml}</div>
 </div>`;
 }
@@ -161,7 +162,7 @@ function renderCallout(type, attrs, bodyText, marked) {
 function renderGolden(attrs, bodyText, marked) {
   const html = marked.parseInline(bodyText.trim());
   return `<div class="callout callout-golden">
-  <p class="callout-title"><span class="callout-glyph" aria-hidden="true">★</span>Golden Rule</p>
+  <p class="callout-title">${icon('star', 'callout-glyph')}Golden Rule</p>
   <p class="golden-rule-text">${html}</p>
 </div>`;
 }
@@ -177,14 +178,14 @@ function renderFramework(attrs, bodyText, marked) {
   const stepsHtml = steps
     .map((step, i) => {
       const isLast = i === steps.length - 1;
-      return `<div class="framework-step">${marked.parseInline(step)}</div>${
-        isLast ? '' : '<div class="framework-arrow" aria-hidden="true">&#8595;</div>'
+      return `<div class="framework-step"><span class="framework-step-index">${i + 1}</span>${marked.parseInline(step)}</div>${
+        isLast ? '' : `<div class="framework-arrow">${icon('arrowDown')}</div>`
       }`;
     })
     .join('\n');
 
   return `<div class="callout callout-framework">
-  <p class="callout-title"><span class="callout-glyph" aria-hidden="true">≡</span>${escapeHtml(title)}</p>
+  <p class="callout-title">${icon('list', 'callout-glyph')}${escapeHtml(title)}</p>
   <div class="framework-steps">${stepsHtml}</div>
 </div>`;
 }
@@ -221,6 +222,24 @@ function renderLessonBody(rawBody) {
         const html = this.parser.parseInline(tokens);
         const text = html.replace(/<[^>]+>/g, '');
         return `<h${depth} id="${slug(text)}">${html}</h${depth}>`;
+      },
+      // Numbers are rendered as real text (not CSS counter(list-item)) so
+      // an <ol start="8"> continuing a multi-part question list (see
+      // CONTENT_GUIDE.md's practice-question convention) always shows the
+      // right number — Chrome's implicit list-item counter does not
+      // reliably pick up `start` the way `<ol>`'s own default marker does.
+      list(token) {
+        if (!token.ordered) {
+          const items = token.items.map((item) => this.listitem(item)).join('');
+          return `<ul>\n${items}</ul>\n`;
+        }
+        const items = token.items
+          .map((item, i) => {
+            const inner = this.parser.parse(item.tokens, !!item.loose);
+            return `<li><span class="li-num" aria-hidden="true">${token.start + i}</span><div class="li-body">${inner}</div></li>\n`;
+          })
+          .join('');
+        return `<ol>\n${items}</ol>\n`;
       },
     },
   });

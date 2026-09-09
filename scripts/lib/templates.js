@@ -1,6 +1,7 @@
 'use strict';
 
 const { escapeHtml } = require('./content');
+const { icon } = require('./icons');
 
 const SITE_NAME = 'English Mastery';
 const SITE_URL = process.env.SITE_URL || 'http://localhost:4000';
@@ -31,17 +32,17 @@ function headerHtml(activePath) {
 
   return `<header class="site-header">
     <div class="site-header-inner">
-      <a href="/" class="brand"><span class="brand-mark" aria-hidden="true">&#9642;</span>${SITE_NAME}</a>
+      <a href="/" class="brand">${icon('bookOpen', 'brand-mark')}${SITE_NAME}</a>
       <nav class="main-nav" aria-label="Main">
         ${navLinks}
       </nav>
       <div class="header-actions">
         <button type="button" class="btn btn-outline btn-sm search-trigger" data-search-open>
-          Search lessons <kbd>&#8984;K</kbd>
+          ${icon('search')} Search <kbd>&#8984;K</kbd>
         </button>
-        <button type="button" class="icon-btn search-icon-btn" data-search-open aria-label="Search">&#128269;</button>
-        <button type="button" class="icon-btn" id="theme-toggle" aria-label="Toggle theme">&#9789;</button>
-        <button type="button" class="icon-btn mobile-nav-toggle" id="mobile-nav-toggle" aria-expanded="false" aria-controls="mobile-nav" aria-label="Toggle menu">&#9776;</button>
+        <button type="button" class="icon-btn search-icon-btn" data-search-open aria-label="Search">${icon('search')}</button>
+        <button type="button" class="icon-btn" id="theme-toggle" aria-label="Toggle theme">${icon('moon')}</button>
+        <button type="button" class="icon-btn mobile-nav-toggle" id="mobile-nav-toggle" aria-expanded="false" aria-controls="mobile-nav" aria-label="Toggle menu">${icon('menu', 'icon-menu-open')}${icon('x', 'icon-menu-close')}</button>
       </div>
     </div>
     <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile">
@@ -69,7 +70,7 @@ function searchDialogHtml() {
   return `<dialog id="search-dialog" aria-label="Search lessons">
     <div class="search-panel">
       <div class="search-input-row">
-        <span aria-hidden="true">&#128269;</span>
+        ${icon('search')}
         <input id="search-input" type="search" placeholder="Search lesson titles, concepts, vocabulary…" autocomplete="off">
       </div>
       <div id="search-results"></div>
@@ -79,7 +80,7 @@ function searchDialogHtml() {
 
 function breadcrumbsHtml(items) {
   const parts = items.map((item, i) => {
-    const sep = i > 0 ? '<span class="sep">&#8250;</span>' : '';
+    const sep = i > 0 ? `<span class="sep">${icon('chevronRight')}</span>` : '';
     const content = item.href
       ? `<a href="${item.href}">${escapeHtml(item.label)}</a>`
       : `<span aria-current="page">${escapeHtml(item.label)}</span>`;
@@ -95,10 +96,15 @@ function badgeHtml(text, variant) {
   return `<span class="badge${cls}">${escapeHtml(text)}</span>`;
 }
 
+function badgeIconHtml(iconName, text, variant) {
+  const cls = variant ? ` badge-${variant}` : '';
+  return `<span class="badge badge-icon${cls}">${icon(iconName)}${escapeHtml(text)}</span>`;
+}
+
 // ---------------------------------------------------------------------------
 // Page shell
 // ---------------------------------------------------------------------------
-function layout({ title, description, path, bodyHtml, extraHead = '', extraScripts = '' }) {
+function layout({ title, description, path, bodyHtml, extraHead = '', extraScripts = '', readingProgress = false }) {
   const fullTitle = path === '/' ? SITE_NAME : `${title} · ${SITE_NAME}`;
   return `<!doctype html>
 <html lang="en">
@@ -124,6 +130,7 @@ function layout({ title, description, path, bodyHtml, extraHead = '', extraScrip
 <body>
   <a href="#main-content" class="skip-link">Skip to content</a>
   ${headerHtml(path)}
+  ${readingProgress ? '<div id="reading-progress"><div id="reading-progress-fill"></div></div>' : ''}
   <main id="main-content">
 ${bodyHtml}
   </main>
@@ -171,7 +178,7 @@ function lessonCardHtml(lesson) {
   return `<a href="/lessons/${fm.number}/" class="card" data-level="${fm.level}" data-search="${attrEscape(searchBlob)}">
         <div class="lesson-card-top">
           <span>Lesson ${fm.number}</span>
-          <span>${escapeHtml(fm.estimatedTime)}</span>
+          <span class="lesson-card-time">${icon('clock')}${escapeHtml(fm.estimatedTime)}</span>
         </div>
         <p class="lesson-card-title">${escapeHtml(fm.title)}</p>
         <p class="lesson-card-desc">${escapeHtml(fm.description)}</p>
@@ -188,6 +195,7 @@ module.exports = {
   footerHtml,
   breadcrumbsHtml,
   badgeHtml,
+  badgeIconHtml,
   levelCardHtml,
   moduleCardHtml,
   lessonCardHtml,
