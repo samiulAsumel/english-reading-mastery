@@ -6,10 +6,10 @@ title: "Passive Voice & Information Focus"
 description: "'Researchers conducted the study' versus 'The study was conducted by researchers' — why an author chooses one over the other, and how to read a passive sentence for what it puts in focus, not just for who did what."
 level: "foundation"
 module: "clause-and-paragraph"
-estimatedTime: "65 min"
+estimatedTime: "70 min"
 difficulty: "beginner"
 prerequisites: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
-skills: ["grammar-mechanics", "sentence-structure"]
+skills: ["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]
 objectives:
   - "Recognise the be + past participle pattern, including with modals and perfect aspect, as passive voice"
   - "Mentally convert a passive sentence to active to check its core meaning"
@@ -174,7 +174,8 @@ explanations, not the researchers.
 before the experiment started.
 
 ```
-Data collected → experiment began
+earlier:  Data collected
+later:    Experiment began
 ```
 :::
 
@@ -369,7 +370,7 @@ supported by evidence.
 passive + modal. *when* → time/condition. Main message: with limited
 evidence, conclusions should be interpreted carefully.
 
-## Today's Most Important Skill
+## Golden Rule
 
 ::: example title="Reading a passive sentence for its focus, not just its meaning"
 **The results were interpreted differently by different researchers.**
@@ -412,7 +413,8 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. Converting a passive sentence to active in your head, even
+if you get it slightly wrong, is more valuable than skipping the step.
 :::
 
 ### Part A — Active or Passive?
