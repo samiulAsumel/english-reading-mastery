@@ -9,7 +9,7 @@ module: "clause-and-paragraph"
 estimatedTime: "70 min"
 difficulty: "beginner"
 prerequisites: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
-skills: ["grammar-mechanics", "sentence-structure"]
+skills: ["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]
 objectives:
   - "Recognise a gerund (verb+ing acting as a noun) and tell it apart from a present-continuous verb and from a participle describing a noun"
   - "Recognise an infinitive (to + base verb) and tell its two common jobs apart: purpose, and a verb's required complement"
@@ -408,6 +408,12 @@ looks like.
 ::: vocabulary word="confidence" pos="noun" meaning="a feeling of trust in your own ability to do something (আত্মবিশ্বাস)" example="Regular reading gradually builds a learner's confidence."
 :::
 
+::: vocabulary word="benefit" pos="verb" meaning="to gain an advantage from something (উপকৃত হওয়া)" example="Learners benefit from practicing the same pattern in several sentences."
+:::
+
+::: vocabulary word="succeed" pos="verb" meaning="to achieve something you were trying to do (সফল হওয়া)" example="Readers who succeed in identifying the head noun decode sentences faster."
+:::
+
 ::: note title="Chunks worth learning as whole units"
 *learn to understand · try to improve · need to consider · decide to
 change · attempt to explain · ability to recognize · opportunity to
@@ -450,7 +456,7 @@ recognize* (noun + infinitive) · *to identify* (infinitive).
 → infinitive. *without depending on translation* → *without*
 (preposition) + *depending* (gerund).
 
-## Four Rules Worth Fixing in Memory
+## Golden Rule
 
 ::: framework title="Today's four load-bearing rules"
 - Preposition + V-ing (by reading, after studying, without understanding)
@@ -481,7 +487,8 @@ Work through every question yourself before checking anything.
 
 ::: important title="Before you start"
 Do not use Google Translate or any other translation tool for these
-questions. A wrong answer is useful information, not a failure.
+questions. Confusing a gerund with a continuous verb is one of today's
+most natural mistakes — noticing it is more useful than avoiding it.
 :::
 
 ### Part A — Identify
@@ -508,6 +515,12 @@ Say whether the *-ing* or *to + verb* form is a gerund, an infinitive, part of a
 ### Part D — Reading
 
 11. Find the core idea of: **By practicing regularly, learners can develop the ability to understand complex English sentences without translating every word.** Identify: the *by + V-ing* phrase, the infinitive, the *without + V-ing* phrase, the main subject, and the main verb.
+
+### Part E — Create
+
+12. Write one sentence using a gerund as the subject.
+13. Write one sentence using a verb + infinitive pattern (want to, decide to, or similar).
+14. Write one sentence using preposition + gerund (by, without, or after + V-ing).
 
 Next: Lesson 15 — Participles & Reduced Clauses: "The man standing
 there…", "The information collected…", "Having completed the study…".
