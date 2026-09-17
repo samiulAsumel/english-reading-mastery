@@ -9,6 +9,12 @@ html, body, h1, h2, h3, h4, p, figure, blockquote, dl, dd, ul, ol { margin: 0; }
 ul[class], ol[class] { list-style: none; padding: 0; }
 img, picture, svg { display: block; max-width: 100%; }
 input, button, textarea, select { font: inherit; color: inherit; }
+/* Any element toggled with `el.hidden = true` (filters, empty states) must
+   actually disappear, even when a component class sets its own `display`
+   (e.g. `.card { display: block }`) — author rules normally beat the
+   browser's built-in `[hidden]` rule regardless of source order or
+   specificity, so this needs !important to always win. */
+[hidden] { display: none !important; }
 button { cursor: pointer; }
 a { color: inherit; }
 
