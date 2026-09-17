@@ -503,7 +503,7 @@ in warehouses.
 11. Identify the confounding variable the researchers themselves acknowledge, and explain why it prevents a causal conclusion.
 12. Write a one-sentence summary of this passage that preserves its central finding and its explicit causal limitation.
 
-Next: Lesson 57 — Advanced Reading of Technical Definitions,
-Classifications & Taxonomies: how authors define, distinguish, and
-divide concepts into categories, and why a classification is always a
-useful model of reality, not reality itself.
+Next: Lesson 56 — Advanced Reading of Data, Charts, Tables &
+Quantitative Arguments: moving from precise quantitative language to
+the full argument a number is being used to support — observation,
+interpretation, and causal claim.

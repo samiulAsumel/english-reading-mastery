@@ -8,7 +8,7 @@ level: "advanced"
 module: "technical-conceptual-reading"
 estimatedTime: "120 min"
 difficulty: "advanced"
-prerequisites: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49, 50, 51, 52, 53, 54, 55]
+prerequisites: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49, 50, 51, 52, 53, 54, 55, 56]
 skills: ["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]
 objectives:
   - "Distinguish a formal definition from an explanation and from an example, and recognise definition-by-contrast as a legitimate alternative to 'X means Y'"
@@ -23,7 +23,8 @@ status: "published"
 ## Introduction
 
 Lesson 52 built the skill of reading a single abstract concept
-precisely; Lesson 55 built precise quantitative reading. Today's lesson
+precisely; Lessons 55 and 56 built precise quantitative reading, from
+vocabulary through full data-argument evaluation. Today's lesson
 brings those threads together around a different, equally important
 structure: how authors **define, distinguish, and classify** concepts
 — especially in technical, academic, business, and scientific writing,
