@@ -560,6 +560,7 @@ maintenance systems.
 11. Using the master reading algorithm from this lesson, describe the sequence of steps you would actually follow reading this paragraph for the first time.
 12. Explain what would be lost if a reader summarized this paragraph simply as "predictive maintenance reduces downtime."
 
-Next: Lesson 47 — Paragraph-to-Argument Flow: how a chain of paragraphs
-builds one continuous argument across a whole section, before the
+Next: Lesson 47 — Reading Complex Paragraphs: From Sentence Meaning to
+Argument Flow: how to read a whole paragraph as one connected argument
+rather than a list of separately understood sentences, before the
 course moves up to full chapter- and book-level reading.

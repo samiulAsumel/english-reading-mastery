@@ -8,7 +8,7 @@ level: "advanced"
 module: "structural-academic-reading"
 estimatedTime: "115 min"
 difficulty: "advanced"
-prerequisites: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+prerequisites: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]
 skills: ["sentence-structure", "phrases-and-clauses", "grammar-mechanics"]
 objectives:
   - "Read a chapter as one continuous argument — spine, sections, and paragraphs each playing a distinct role — rather than as a sequence of independently understood paragraphs"
@@ -25,7 +25,9 @@ status: "published"
 Lesson 44 gave you a single paragraph's architecture — topic, claim,
 evidence, qualification, conclusion. Lesson 46 gave you a macro-to-
 micro reading algorithm for moving through dense text efficiently.
-Today we combine both and go one level higher still: how a chain of
+Lesson 47 then showed how to read one paragraph as a connected
+argument rather than a list of separately understood sentences. Today
+we combine all three and go one level higher still: how a chain of
 paragraphs builds into a section, and a chain of sections builds into
 a chapter's own larger argument. Once you can see this, reading a
 serious nonfiction chapter stops being "understand paragraph after
