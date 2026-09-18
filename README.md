@@ -1,5 +1,8 @@
 # English Mastery
 
+[![CI](https://github.com/samiulAsumel/english-reading-mastery/actions/workflows/ci.yml/badge.svg)](https://github.com/samiulAsumel/english-reading-mastery/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+
 A structured English reading course, built as a content-driven static
 site: sentence-level foundations through near-native critical reading,
 across nine skill levels. **Pure HTML, CSS, and vanilla JavaScript** —
@@ -15,6 +18,11 @@ for how to add a lesson.
 
 **Live:** [englishmastery.pages.dev](https://englishmastery.pages.dev) —
 auto-deploys on every push to `main` (Cloudflare Pages).
+
+<p>
+  <img src="./docs/screenshots/homepage.jpg" alt="English Mastery homepage — 88 published lessons across 9 skill levels" width="49%" />
+  <img src="./docs/screenshots/lesson-page.jpg" alt="A lesson page showing learning objectives and an on-this-page table of contents" width="49%" />
+</p>
 
 > **If you're Claude Code and the user just handed you raw lesson
 > material:** read [`CLAUDE.md`](./CLAUDE.md) first. Lesson content gets
@@ -94,3 +102,17 @@ dist/                     Generated output (gitignored) — this is what you dep
 - [`ARCHITECTURE.md`](./ARCHITECTURE.md) — how the content/curriculum/build system works and why
 - [`CONTENT_GUIDE.md`](./CONTENT_GUIDE.md) — the exact steps to add Lesson 86 (or any lesson), and every custom content block
 - [`CONTRIBUTING.md`](./CONTRIBUTING.md) — code style and PR expectations
+
+## CI
+
+Every push and pull request against `main` runs
+[`.github/workflows/ci.yml`](./.github/workflows/ci.yml): install, then
+`npm run build`, which validates every lesson against the content schema
+before generating the site. A red check means a lesson file is malformed
+or the site failed to build — never a hand-edited `dist/`.
+
+## License
+
+[MIT](./LICENSE) — see the `LICENSE` file. Course content (everything
+under `content/lessons/`) is original work; reuse it under the same
+license.

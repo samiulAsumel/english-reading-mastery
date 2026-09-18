@@ -3,7 +3,7 @@ id: "lesson-078"
 number: 78
 slug: "advanced-reading-authors-purpose-rhetorical-moves-and-argument-function"
 title: "Advanced Reading: Author's Purpose, Rhetorical Moves & Argument Function"
-description: "Why understanding a sentence's meaning is not the same as understanding why the author put it there — a taxonomy of authorial purpose, the difference between a sentence's grammatical and rhetorical function, and how sentence position predicts its role in a paragraph's argument."
+description: "Why understanding a sentence's meaning is not the same as understanding why the author put it there — new territory beyond Lesson 71's discourse markers: a taxonomy of authorial purpose, the difference between a sentence's grammatical and rhetorical function, and how sentence position predicts its role in a paragraph's argument."
 level: "advanced"
 module: "technical-conceptual-reading"
 estimatedTime: "125 min"

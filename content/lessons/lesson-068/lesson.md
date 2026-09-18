@@ -3,7 +3,7 @@ id: "lesson-068"
 number: 68
 slug: "advanced-reading-of-exceptions-conditions-limitations-and-edge-cases"
 title: "Advanced Reading of Exceptions, Conditions, Limitations & Edge Cases"
-description: "How to reconstruct a dense rule paragraph as one connected flowchart — main rule, condition, exception, fallback path, and edge case — and how to tell a genuine exception apart from a limitation, a precaution, or a parallel alternative."
+description: "A second, deeper pass on Lesson 67's conditional logic — how to reconstruct a dense rule paragraph as one connected flowchart (main rule, condition, exception, fallback path, edge case), and how to tell a genuine exception apart from a limitation, a precaution, or a parallel alternative."
 level: "advanced"
 module: "technical-conceptual-reading"
 estimatedTime: "135 min"
