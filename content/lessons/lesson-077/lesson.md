@@ -514,3 +514,7 @@ tracking app.
 14. Identify the evaluative language the passage uses, and apply the "remove the adjective" test to it.
 15. Identify the passage's weakest link, and explain why it sits at the recommendation stage.
 16. Explain why summarising this passage as "the app fixed the airline's baggage problem" would overstate what the passage's own evidence establishes.
+
+Next: Lesson 78 — Advanced Reading: Author's Purpose, Rhetorical Moves
+& Argument Function: why understanding a sentence's meaning is not the
+same as understanding why the author put it there.
