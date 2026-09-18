@@ -639,3 +639,8 @@ declarations.
 14. Identify every exception or conditional clause in the passage, and explain exactly what each one modifies.
 15. Explain the difference in function between "may still be accepted" and "should be referred to the compliance team."
 16. Explain why the passage's final sentence is a recommendation layered on top of the rule, rather than a restatement of the rule itself.
+
+Next: Lesson 65 — Advanced Reading of Evaluation, Criteria, Rankings &
+"Better/Worse" Judgments: how to treat every "better," "effective," and
+"preferable" as an incomplete claim until its criterion, evidence, and
+conditions are found.
