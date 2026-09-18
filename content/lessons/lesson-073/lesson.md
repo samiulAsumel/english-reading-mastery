@@ -456,3 +456,8 @@ forecasting algorithm.
 14. Identify the generalization gap in the passage, and explain what would need to be true to close it.
 15. Identify the measurement gap in the passage, and explain what kind of evidence it should not be mistaken for.
 16. Explain why the correct verdict on this passage is "the evidence is insufficient to justify a nationwide rollout," not "the algorithm doesn't work."
+
+Next: Lesson 74 — Advanced Reading: Argument Strength, Evidence
+Sufficiency & Burden of Proof: the third and final part of this
+course's argument-analysis arc, judging not whether evidence exists but
+whether it's actually enough.
