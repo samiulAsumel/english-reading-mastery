@@ -612,3 +612,7 @@ book.
 14. Identify at least three chapters and name the relationship each one likely has to the chapter before it.
 15. Explain why this book's thesis is a distributed thesis rather than one stated in chapter 1.
 16. Compress the entire book, as described, into a single sentence, preserving its condition and its mechanism.
+
+Next: Lesson 82 — Advanced Reading: Tracking an Author's Ideas Across
+an Entire Book: a deep dive on how a single concept gets introduced,
+expanded, narrowed, reframed, and refined across hundreds of pages.
