@@ -450,10 +450,10 @@ is true.
 ### Part A — Author Purpose
 
 1. **The company introduced the system in 2024.** What is this
-   sentence's primary purpose?
+   sentence's primary purpose? <details class="answer"><summary>Show answer</summary><div class="answer-body">To inform. It simply reports a fact with no evaluative language and no attempt to move the reader toward a belief or decision.</div></details>
 2. **The company should introduce the system because it could
    significantly reduce operating costs.** What is this sentence's
-   primary purpose, and how does it differ from question 1?
+   primary purpose, and how does it differ from question 1? <details class="answer"><summary>Show answer</summary><div class="answer-body">To persuade/recommend. Unlike question 1, which only reports information, this sentence uses "should" and a stated reason to move the reader toward a specific decision.</div></details>
 
 ### Part B — Rhetorical Structure
 
@@ -464,40 +464,40 @@ increasingly costly. Automated scheduling could reduce such problems.
 Companies should therefore consider adopting intelligent scheduling
 systems.**
 
-3. Label each sentence's role in the problem-solution structure.
-4. Identify this paragraph's claim, support, and implication.
+3. Label each sentence's role in the problem-solution structure. <details class="answer"><summary>Show answer</summary><div class="answer-body">Sentence 1 (manual scheduling) is the problem; sentence 2 (avoidable delays) is evidence of the problem; sentence 3 (inefficiencies becoming costlier) is the consequence; sentence 4 (automated scheduling could reduce such problems) is the solution; sentence 5 (companies should therefore consider adopting) is the recommendation.</div></details>
+4. Identify this paragraph's claim, support, and implication. <details class="answer"><summary>Show answer</summary><div class="answer-body">Claim: manual scheduling produces avoidable delays that are becoming costlier. Support: growing network complexity makes these inefficiencies worse over time. Implication: companies should therefore consider adopting intelligent scheduling systems.</div></details>
 
 ### Part C — Loaded Language and Framing
 
 5. Rewrite **"The company eliminated hundreds of jobs"** using positive
-   framing, and explain what the reframed version foregrounds instead.
+   framing, and explain what the reframed version foregrounds instead. <details class="answer"><summary>Show answer</summary><div class="answer-body">"The company streamlined its workforce." This reframed version foregrounds efficiency and organizational improvement, pushing the human cost of the job losses into the background.</div></details>
 6. **"Bureaucratic interference"** vs. **"regulation"** — which is
-   loaded, and which is closer to neutral? Explain your reasoning.
+   loaded, and which is closer to neutral? Explain your reasoning. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Bureaucratic interference" is loaded — both words carry a built-in negative verdict, framing the action as obstructive. "Regulation" is closer to neutral: it names the mechanism without judging whether it helps or hinders.</div></details>
 
 ### Part D — Rhetorical Signals
 
 7. **The system is expensive, but it can significantly reduce
    long-term costs.** Which half of this sentence carries the author's
-   main point, and how do you know?
+   main point, and how do you know? <details class="answer"><summary>Show answer</summary><div class="answer-body">The second half, after "but." As this lesson notes, but/however slow the reader down to signal a direction change, and the author's main point typically follows that shift rather than preceding it.</div></details>
 8. **The issue is not whether technology can be adopted, but whether
    it can be adopted responsibly.** What is the author's real focus,
-   according to this "not X, but Y" structure?
+   according to this "not X, but Y" structure? <details class="answer"><summary>Show answer</summary><div class="answer-body">The author's real focus is responsible adoption, not adoption itself. The "not X, but Y" structure tells the reader directly that whether technology can be adopted at all is not the real question — how it is adopted is.</div></details>
 9. **Performance improved even among inexperienced employees.** What
    does *even* signal here, and what should a careful reader infer
-   about other employee groups?
+   about other employee groups? <details class="answer"><summary>Show answer</summary><div class="answer-body">"Even" foregrounds an unexpected or extreme case — the reader was expected to assume inexperienced employees would struggle most, so their improvement is the most surprising evidence. A careful reader should infer that more experienced employees likely improved too, probably by at least as much.</div></details>
 
 ### Part E — Deep Analysis
 
 Return to this lesson's port yard-management passage.
 
-10. What is the author's purpose?
-11. What rhetorical structure does the paragraph follow?
+10. What is the author's purpose? <details class="answer"><summary>Show answer</summary><div class="answer-body">Primarily to persuade, with informational background — the author is building toward a recommendation about how yard-management technology should be adopted, not simply reporting facts about container terminals.</div></details>
+11. What rhetorical structure does the paragraph follow? <details class="answer"><summary>Show answer</summary><div class="answer-body">Problem (predictability breaking down) → an oversimplified solution the author rejects (replacing planners with software) → the author's actual, nuanced recommendation (software for routine allocation, staff for exceptions).</div></details>
 12. Where does the author make a concession, and where does the
-    rebuttal follow it?
+    rebuttal follow it? <details class="answer"><summary>Show answer</summary><div class="answer-body">The concession is "that view, though understandable" — acknowledging the appeal of replacing planners with software. The rebuttal follows immediately: it "overlooks the tacit knowledge experienced planners bring to unusual situations software has never encountered."</div></details>
 13. State the author's final position in your own words, being careful
-    to avoid flattening it into either extreme.
+    to avoid flattening it into either extreme. <details class="answer"><summary>Show answer</summary><div class="answer-body">The author favors a hybrid approach: software handling routine cargo allocation while experienced planners remain free to manage genuine exceptions. This is neither "keep planners exactly as they are" nor "replace them with automation."</div></details>
 14. Identify one place in the passage where rhetorical force and
-    evidential strength should be judged separately.
+    evidential strength should be judged separately. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Overlooks the tacit knowledge experienced planners bring" is asserted with confident rhetorical force, but the passage offers no actual evidence — no data or study — that automated software genuinely fails in unusual situations; the claim's persuasive force outruns what's been demonstrated.</div></details>
 
 Lesson 35 — Tone, Attitude, Bias & Objectivity in English Reading:
 going one layer deeper than purpose and structure to ask how the

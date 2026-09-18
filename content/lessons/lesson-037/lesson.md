@@ -457,42 +457,42 @@ whole sentence at once on a first pass.
 
 1. **John Smith, the company's chief engineer, designed the system.**
    Apply the appositive remove test, and state the sentence's core
-   meaning.
+   meaning. <details class="answer"><summary>Show answer</summary><div class="answer-body">Removing "the company's chief engineer" leaves "John Smith designed the system" — still grammatical, confirming it was appositive, non-essential information. Core meaning: John Smith designed the system.</div></details>
 2. **The system, as the researchers acknowledge, has several
    limitations.** Identify the parenthetical, and rewrite the sentence
-   without it.
+   without it. <details class="answer"><summary>Show answer</summary><div class="answer-body">Parenthetical: "as the researchers acknowledge." Without it: "The system has several limitations."</div></details>
 
 ### Part B — Inversion
 
 3. Rewrite in normal word order: **Rarely have researchers observed
-   such a pattern.**
+   such a pattern.** <details class="answer"><summary>Show answer</summary><div class="answer-body">"Researchers have rarely observed such a pattern."</div></details>
 4. Rewrite using inversion: **The researchers recognized the problem
-   only then.**
+   only then.** <details class="answer"><summary>Show answer</summary><div class="answer-body">"Only then did the researchers recognize the problem."</div></details>
 5. Explain the meaning difference, if any, between **"the company did
    not identify the problem until the system failed"** and its
    inverted form, **"not until the system failed did the company
-   identify the problem."**
+   identify the problem."** <details class="answer"><summary>Show answer</summary><div class="answer-body">There is no meaning difference — both express the same core relationship, that identification came only after the system failed. The inverted form simply places extra rhetorical emphasis on the timing by fronting "not until the system failed."</div></details>
 
 ### Part C — Cleft, Dummy It, and Existential There
 
 6. Rewrite as a cleft sentence: **The lack of reliable data caused the
-   problem.**
+   problem.** <details class="answer"><summary>Show answer</summary><div class="answer-body">"It was the lack of reliable data that caused the problem."</div></details>
 7. **It is difficult to determine whether the policy was effective.**
-   Identify the dummy subject and rewrite the sentence without it.
+   Identify the dummy subject and rewrite the sentence without it. <details class="answer"><summary>Show answer</summary><div class="answer-body">Dummy subject: "it," which refers to nothing specific. Rewritten: "Determining whether the policy was effective is difficult."</div></details>
 8. **There is growing evidence that automation can improve accuracy.**
-   Identify the real subject of this sentence's information.
+   Identify the real subject of this sentence's information. <details class="answer"><summary>Show answer</summary><div class="answer-body">The real information centers on "evidence" — specifically, growing evidence that automation can improve accuracy; "there is" is only a grammatical placeholder that delays the actual content.</div></details>
 
 ### Part D — Finding the Skeleton
 
 9. Find the skeleton of: **Only after several months of careful
    evaluation, during which the system was tested under a range of
    operating conditions, did the company decide to implement the
-   technology on a larger scale.**
+   technology on a larger scale.** <details class="answer"><summary>Show answer</summary><div class="answer-body">Skeleton: "the company decided to implement the technology on a larger scale only after several months of evaluation." Everything else — the inversion trigger, the relative clause about testing conditions — is bracketed detail attached to that core.</div></details>
 10. Find the skeleton of: **What is particularly important in
     evaluating automated systems is not simply whether they increase
     processing speed, but whether the improvements they produce
     justify the additional costs and risks associated with their
-    implementation.**
+    implementation.** <details class="answer"><summary>Show answer</summary><div class="answer-body">Skeleton: "what is important is X" (a what-cleft), with a "not simply A, but B" focus structure. A = whether they increase processing speed; B = whether the improvements justify the additional costs and risks. Core point: speed alone is insufficient — cost and risk must also be weighed.</div></details>
 
 ### Part E — Full Passage Analysis
 
@@ -500,11 +500,11 @@ Return to this lesson's Guided Reading Practice passage about the port
 terminal's gate system.
 
 11. Find the skeleton of the first sentence, and identify its
-    discontinuous insertion.
+    discontinuous insertion. <details class="answer"><summary>Show answer</summary><div class="answer-body">Skeleton: "a single technological change does not resolve every operational challenge a port terminal faces" (with inversion via "rarely does"). Discontinuous insertion: "however well designed," interrupting the flow of the main clause as a concessive aside.</div></details>
 12. Find the skeleton of the second sentence, and identify its two
-    relative clauses.
+    relative clauses. <details class="answer"><summary>Show answer</summary><div class="answer-body">Skeleton: "the new automated gate system has not eliminated the congestion." First relative clause: "that builds up during the first hour of each shift" (describing the congestion). Second, stacked inside it: "when arrival volumes are at their highest" (describing that first hour).</div></details>
 13. Explain what the *what*-cleft in the third sentence is emphasizing,
-    and rewrite that sentence in plain, uncompressed English.
+    and rewrite that sentence in plain, uncompressed English. <details class="answer"><summary>Show answer</summary><div class="answer-body">The what-cleft ("what terminal managers have found... is that...") emphasizes the managers' discovery itself, foregrounding it as the sentence's key point. Plain English: "After several months of monitoring, terminal managers found that technology alone cannot smooth out demand that is unevenly distributed across the day; only combining staggered arrival scheduling with automated processing seems able to fully address the problem."</div></details>
 
 Lesson 38 — Advanced Logical Connectors: Nuance, Qualification & Hidden
 Relationships: reading connectors not just as translation words but as

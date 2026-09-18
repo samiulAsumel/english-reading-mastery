@@ -469,29 +469,29 @@ lesson's material.
 ### Part A — Identify Tone
 
 1. **AI offers promising opportunities to improve logistics
-   operations.** Identify the tone and the words that signal it.
+   operations.** Identify the tone and the words that signal it. <details class="answer"><summary>Show answer</summary><div class="answer-body">The tone is positive/optimistic, signaled by "promising" and "opportunities" — both evaluative words that frame AI's potential effect favorably rather than describing it neutrally.</div></details>
 2. **AI introduces serious risks that organizations have yet to
    address adequately.** Identify the tone and the words that signal
-   it.
+   it. <details class="answer"><summary>Show answer</summary><div class="answer-body">The tone is concerned/negative, signaled by "serious risks" and "yet to address adequately" — both frame AI's current state as a source of legitimate worry rather than settled danger.</div></details>
 3. **The study fails to adequately address several important
-   methodological limitations.** Identify the tone.
+   methodological limitations.** Identify the tone. <details class="answer"><summary>Show answer</summary><div class="answer-body">Critical. "Fails to" is one of this lesson's stronger critical signals — it actively challenges the study's adequacy rather than merely expressing doubt about it.</div></details>
 
 ### Part B — Tone vs. Certainty
 
 4. **The approach may be highly effective.** State the tone and the
-   certainty level separately.
+   certainty level separately. <details class="answer"><summary>Show answer</summary><div class="answer-body">Tone: positive ("highly effective"). Certainty: low ("may" signals a hedge, not a firm commitment).</div></details>
 5. **The proposal is clearly inadequate.** State the tone and the
-   certainty level separately.
+   certainty level separately. <details class="answer"><summary>Show answer</summary><div class="answer-body">Tone: negative ("inadequate"). Certainty: high ("clearly" signals a firm, confident commitment to the claim).</div></details>
 6. Write one sentence of your own that combines a positive tone with
-   low certainty.
+   low certainty. <details class="answer"><summary>Show answer</summary><div class="answer-body">"The new scheduling software might offer meaningful benefits for smaller terminals." "Might" keeps certainty low, while "meaningful benefits" keeps the tone positive.</div></details>
 
 ### Part C — Detecting Bias
 
 7. A report highlights automation's productivity gains but never
    mentions its implementation costs or error rates. Which bias-
-   detection question from this lesson does this best illustrate?
+   detection question from this lesson does this best illustrate? <details class="answer"><summary>Show answer</summary><div class="answer-body">"What evidence is omitted?" The report isn't stating anything false — it's simply leaving out costs and error rates, which is exactly the omission-based bias this lesson describes.</div></details>
 8. Explain why "both sides are equally valid" can itself be a form of
-   bias, using the concept of false balance.
+   bias, using the concept of false balance. <details class="answer"><summary>Show answer</summary><div class="answer-body">If 95% of credible evidence supports one position and only 5% of weak evidence supports the other, calling them "equally valid" misrepresents the actual weight of evidence. True balance means representing evidence proportionally to its strength, not splitting the page in half regardless of quality.</div></details>
 
 ### Part D — Authorial Distance
 
@@ -499,10 +499,10 @@ lesson's material.
    most distant: *"critics have alleged that the policy is
    ineffective"* / *"the policy is ineffective"* / *"some commentators
    have suggested that the policy may be ineffective"* / *"critics
-   claim that the policy is ineffective."*
+   claim that the policy is ineffective."* <details class="answer"><summary>Show answer</summary><div class="answer-body">Closest to most distant: "the policy is ineffective" (direct statement) → "critics claim that the policy is ineffective" (some distance, attributed) → "critics have alleged that the policy is ineffective" (more distance, implies dispute) → "some commentators have suggested that the policy may be ineffective" (most distant, doubly hedged with "suggested" and "may").</div></details>
 10. Explain the difference in implication between *"the company
     admitted that the system had limitations"* and *"the company
-    acknowledged that the system had limitations."*
+    acknowledged that the system had limitations."* <details class="answer"><summary>Show answer</summary><div class="answer-body">"Admitted" can carry a hint of fault or reluctance, as though the company was forced to concede something it would rather not have. "Acknowledged" reads as more neutral, simply reporting that the company recognized the limitations openly.</div></details>
 
 ### Part E — Deep Analysis
 
@@ -510,12 +510,12 @@ Return to this lesson's predictive-maintenance passage.
 
 11. Identify the sentence where the tone shifts from cautiously
     positive to skeptical, and name the signal word that marks the
-    shift.
-12. What specific form of bias does the passage warn readers about?
+    shift. <details class="answer"><summary>Show answer</summary><div class="answer-body">"It would, however, be a mistake to treat vendor marketing as independent evidence." The signal word is "however," marking the pivot away from the earlier cautious credibility given to early adopters' reports.</div></details>
+12. What specific form of bias does the passage warn readers about? <details class="answer"><summary>Show answer</summary><div class="answer-body">Selection bias in the evidence base — most published results come from vendors themselves or from case studies they commissioned, so the available evidence is skewed toward sources with a financial stake in a positive result.</div></details>
 13. State the passage's final position on the tone spectrum from this
-    lesson (strongly negative through strongly positive).
+    lesson (strongly negative through strongly positive). <details class="answer"><summary>Show answer</summary><div class="answer-body">Skeptical — closer to the critical end of the spectrum than to neutral, but well short of strongly negative, since the passage never claims the technology doesn't work.</div></details>
 14. Explain, in your own words, why this position counts as "qualified
-    skepticism" rather than outright rejection.
+    skepticism" rather than outright rejection. <details class="answer"><summary>Show answer</summary><div class="answer-body">The passage never claims predictive maintenance doesn't work or that ports shouldn't consider it — it only argues that the current evidence base, being mostly vendor-sourced, doesn't yet support the strongest marketing claims. That's a doubt about the evidence, not a rejection of the technology itself.</div></details>
 
 Lesson 36 — Context, Meaning & Ambiguity in Advanced English: how a
 word's meaning is shaped by the words around it rather than stored

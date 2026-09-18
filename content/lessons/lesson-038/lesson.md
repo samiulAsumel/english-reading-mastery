@@ -437,51 +437,51 @@ misjudged the connector's function.
 1. Explain the difference between **however** and **nevertheless** in
    these two contexts: *the system is efficient. However, it is
    expensive* vs. *the system is expensive. Nevertheless, the company
-   adopted it.*
+   adopted it.* <details class="answer"><summary>Show answer</summary><div class="answer-body">"However" simply signals a plain contrast between two facts, efficient versus expensive, with no implication about outcomes. "Nevertheless" signals concession plus persistence: the difficulty (expense) is acknowledged, but the company's decision to adopt the system went ahead despite it.</div></details>
 2. Explain why **on the contrary** would be the wrong choice in this
    sentence, and what should replace it: *manual systems are flexible;
-   on the contrary, automated systems are more standardized.*
+   on the contrary, automated systems are more standardized.* <details class="answer"><summary>Show answer</summary><div class="answer-body">"On the contrary" declares that a previous statement was simply wrong and asserts its opposite — but nothing here claims manual systems' flexibility is false. This is an ordinary A-versus-B comparison, so "in contrast" is the correct connector.</div></details>
 3. **Even though the system is expensive, the company adopted it.**
    vs. **Even if the system is expensive, the company should adopt
-   it.** Explain the factual/hypothetical difference between these two.
+   it.** Explain the factual/hypothetical difference between these two. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Even though" treats the expense as an established fact — the system really is expensive. "Even if" treats the expense as only hypothetical or supposed for argument's sake — it may or may not be expensive, but the recommendation holds regardless.</div></details>
 
 ### Part B — Cause vs. Result
 
 4. **The system failed because the server overheated.** Rewrite this
    using *therefore* instead of *because*, adjusting the sentence
-   order as needed.
+   order as needed. <details class="answer"><summary>Show answer</summary><div class="answer-body">"The server overheated; therefore, the system failed."</div></details>
 5. Explain why *because* and *therefore* point in grammatically
-   opposite directions even when describing the same underlying event.
+   opposite directions even when describing the same underlying event. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Because" introduces the cause directly, moving from effect back to cause (system failed because server overheated). "Therefore" moves forward from a stated fact to its consequence (server overheated; therefore, system failed). Same two events, but the connector's direction of travel is reversed.</div></details>
 
 ### Part C — Qualification and Exception
 
 6. **Automation improves efficiency in many cases.** Explain what this
-   sentence does *not* claim.
+   sentence does *not* claim. <details class="answer"><summary>Show answer</summary><div class="answer-body">It does not claim that automation always improves efficiency. "In many cases" leaves room for cases where it does not, and says nothing about how large that exception group might be.</div></details>
 7. **The system will remain stable unless demand increases sharply.**
-   Rewrite this using *if… not* instead of *unless*.
+   Rewrite this using *if… not* instead of *unless*. <details class="answer"><summary>Show answer</summary><div class="answer-body">"If demand does not increase sharply, the system will remain stable."</div></details>
 8. Give one example each of *otherwise* used as an alternative, and
-   *otherwise* used to signal a consequence if a condition fails.
+   *otherwise* used to signal a consequence if a condition fails. <details class="answer"><summary>Show answer</summary><div class="answer-body">Alternative: "You can submit the form online; otherwise, mail it to the office." Consequence if a condition fails: "Back up the database regularly; otherwise, you risk losing critical records."</div></details>
 
 ### Part D — Removal and Substitution Tests
 
 9. Apply the removal test to: **The evidence is limited. Nevertheless,
    the finding is important.** What is lost when *nevertheless* is
-   removed?
+   removed? <details class="answer"><summary>Show answer</summary><div class="answer-body">Without "nevertheless," the two sentences sit side by side with no explicit logical relationship — a reader could not tell that the importance of the finding is being asserted despite the limited evidence. Removing it confirms the connector was carrying real logical weight, signaling concession plus persistence.</div></details>
 10. Apply the substitution test to confirm the function of
     *conversely* in: **Higher investment may improve capacity.
-    Conversely, reduced investment may limit expansion.**
+    Conversely, reduced investment may limit expansion.** <details class="answer"><summary>Show answer</summary><div class="answer-body">Substituting "in the opposite pattern" keeps the meaning intact: "reduced investment may limit expansion, in the opposite pattern." This confirms "conversely" is functioning as a contrast connector, presenting the inverse relationship to the first sentence.</div></details>
 
 ### Part E — Full Paragraph Mapping
 
 Return to this lesson's automated straddle-carrier passage.
 
 11. Map every connector in the passage onto the connector function
-    table from this lesson.
+    table from this lesson. <details class="answer"><summary>Show answer</summary><div class="answer-body">However = contrast/qualification; by contrast = contrast; which = restatement of a consequence via relative clause; nevertheless = concession; overall, therefore = conclusion/result.</div></details>
 12. Identify the sentence carrying the paragraph's final conclusion,
     and explain how its structure echoes Lesson 25's information-
-    structure work.
+    structure work. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Overall, therefore, the value of automated straddle carriers appears to depend less on the technology itself than on how adaptable the surrounding software and procedures are." Its "depends less on X than on Y" structure places the real emphasis on Y (adaptability), echoing Lesson 25's technique of pushing the author's actual priority to the end of the sentence.</div></details>
 13. Rewrite the passage's argument as a short chain: CLAIM →
-    QUALIFICATION → LIMITATION → CONCESSION → CONCLUSION.
+    QUALIFICATION → LIMITATION → CONCESSION → CONCLUSION. <details class="answer"><summary>Show answer</summary><div class="answer-body">CLAIM: automated fleets speed up container handling. QUALIFICATION: those gains typically come from simple yard layouts. LIMITATION: complex yards often need extensive reprogramming, offsetting the speed advantage. CONCESSION: terminals with flexible routing software report fewer disruptions. CONCLUSION: the technology's value depends less on the technology itself than on the adaptability of the surrounding software and procedures.</div></details>
 
 Lesson 39 — Advanced Reference, Substitution & Ellipsis: how English
 avoids repeating itself — through pronouns, demonstratives, substitute

@@ -484,25 +484,25 @@ inference habit, not testing your existing vocabulary.
 ### Part A — Polysemy and Homonymy
 
 1. Explain why *head* (as in *head of a department* and *head of a
-   queue*) is an example of polysemy rather than homonymy.
+   queue*) is an example of polysemy rather than homonymy. <details class="answer"><summary>Show answer</summary><div class="answer-body">Both uses share an underlying concept — the top or leading position of something — so the meanings are conceptually related rather than coincidentally identical in spelling. That relatedness is exactly what defines polysemy, as opposed to homonymy, where the meanings share nothing but form.</div></details>
 2. **The bank increased interest rates** and **the village lies on the
    bank of the river** — explain why *bank* here is a case of
-   homonymy, and how context resolves each sentence.
+   homonymy, and how context resolves each sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">The two meanings — financial institution and riverside — are entirely unrelated in concept and only happen to share spelling and pronunciation, which is the definition of homonymy. Context resolves each case: "interest rates" points to the financial sense, while "village" and "river" point to the riverside sense.</div></details>
 
 ### Part B — Resolving Ambiguity
 
 3. **The manager discussed the report with the employees.** Give both
-   plausible readings of this sentence.
+   plausible readings of this sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">Reading 1: the manager and the employees together discussed the report (employees as co-participants in the discussion). Reading 2: the manager discussed a report about the employees (employees as the report's subject matter).</div></details>
 4. **Only the manager approved the new system.** vs. **The manager
    approved only the new system.** Explain the meaning difference
-   created by *only*'s position.
+   created by *only*'s position. <details class="answer"><summary>Show answer</summary><div class="answer-body">In the first sentence, "only" attaches to "the manager": nobody else approved it. In the second, "only" attaches to "the new system": the manager approved nothing else. Moving only two words changes which part of the sentence gets restricted.</div></details>
 
 ### Part C — Quantifiers and Negation
 
 5. Explain the difference between **little evidence** and **a little
-   evidence**.
+   evidence**. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Little evidence" means the evidence is very sparse, almost insufficient — a near-negative claim. "A little evidence" means some evidence does exist, even if limited — a positive, if modest, claim.</div></details>
 6. Does **"not all employees support the policy"** mean the same thing
-   as **"no employees support the policy"**? Explain.
+   as **"no employees support the policy"**? Explain. <details class="answer"><summary>Show answer</summary><div class="answer-body">No. "Not all" only claims that some employees do not support it — the proportion could be nearly all, half, or just a few. "No employees" is a universal claim that support is zero. Not all is never equivalent to none.</div></details>
 
 ### Part D — Context Clues
 
@@ -510,9 +510,9 @@ Read this sentence: **The system is highly resilient, meaning that it
 can continue operating despite unexpected disruptions.**
 
 7. Which of the seven context-clue types does this sentence use to
-   define *resilient*?
+   define *resilient*? <details class="answer"><summary>Show answer</summary><div class="answer-body">The definition clue — signaled by "meaning that," which directly hands the reader the word's meaning rather than requiring inference from example or contrast.</div></details>
 8. Write your own sentence that defines an unfamiliar word using the
-   contrast clue ("unlike X…").
+   contrast clue ("unlike X…"). <details class="answer"><summary>Show answer</summary><div class="answer-body">"Unlike a rigid schedule, a flexible schedule allows employees to adjust their hours around personal commitments." The contrast with "rigid" lets a reader infer that "flexible" means adaptable rather than fixed.</div></details>
 
 ### Part E — Deep Analysis
 
@@ -521,13 +521,13 @@ systems.
 
 9. Explain, in your own words, why "a system that processes
    transactions more quickly cannot automatically be considered more
-   efficient overall."
+   efficient overall." <details class="answer"><summary>Show answer</summary><div class="answer-body">Because "efficiency" is defined differently across studies — sometimes narrowly as processing speed, sometimes broadly as speed plus labor costs, error rates, resource use, and service quality. A system that wins on speed alone might still lose on the broader definition, so speed can't stand in for overall efficiency.</div></details>
 10. Using this passage as a model, explain what definition drift would
     look like if the passage later used "efficiency" to mean only
-    processing speed again, without acknowledging the shift.
+    processing speed again, without acknowledging the shift. <details class="answer"><summary>Show answer</summary><div class="answer-body">Definition drift would occur if, after establishing that efficiency includes labor costs, error rates, and service quality, the passage later concluded "therefore, the system is more efficient" based solely on faster processing speed — silently reverting to the narrow definition while still claiming the broader one had been proven.</div></details>
 11. Apply the same reasoning to the Guided Reading Practice passage:
     explain why comparing two terminals' "capacity" alone, without
-    considering "throughput," could be misleading.
+    considering "throughput," could be misleading. <details class="answer"><summary>Show answer</summary><div class="answer-body">Capacity only measures the theoretical maximum volume the infrastructure could handle, while throughput measures what is actually achieved once congestion, staffing, and equipment reliability are factored in. A terminal could have high capacity but chronically low throughput, so comparing capacity alone would overstate how well a terminal is actually performing.</div></details>
 
 Lesson 37 — Advanced Sentence Compression: Appositives, Parentheticals,
 Inversion & Discontinuous Structures: learning to unpack the dense,

@@ -455,24 +455,24 @@ than a clearly stated, testable assumption.
 
 1. **Employees using AI completed tasks 30% faster. Therefore, AI
    increases employee productivity.** Identify the evidence and the
-   conclusion.
-2. Write one hidden assumption this argument depends on.
+   conclusion. <details class="answer"><summary>Show answer</summary><div class="answer-body">The evidence is that employees using AI completed tasks 30 percent faster. The conclusion is that AI increases employee productivity. Between them sits an unstated bridge connecting speed to productivity.</div></details>
+2. Write one hidden assumption this argument depends on. <details class="answer"><summary>Show answer</summary><div class="answer-body">The argument assumes that faster task completion reflects genuinely higher productivity, meaning the quality of the work did not decline and the speed gain was not offset by other costs, such as increased errors or extra training time.</div></details>
 
 ### Part B — Hidden Assumption
 
 3. **Port A processes more vessels per day than Port B. Therefore,
    Port A is more efficient than Port B.** Using the "what must be
-   true?" test, write the hidden assumption in full.
+   true?" test, write the hidden assumption in full. <details class="answer"><summary>Show answer</summary><div class="answer-body">For this conclusion to follow, we must assume that the two ports are being compared under sufficiently similar conditions, such as vessel size, staffing levels, and equipment, and that vessels processed per day is itself an appropriate measure of operational efficiency rather than of size or resources alone.</div></details>
 4. Apply the negation test to that assumption: what happens to the
-   conclusion if the assumption is false?
+   conclusion if the assumption is false? <details class="answer"><summary>Show answer</summary><div class="answer-body">If the assumption is negated, so the ports are not comparable, for instance if Port A simply handles smaller vessels with far more staff and cranes, then a higher vessel count no longer demonstrates efficiency. The conclusion that Port A is more efficient collapses, which shows the original assumption was doing real, load-bearing work.</div></details>
 
 ### Part C — Necessary vs. Helpful
 
 5. **The new software reduced billing errors. Therefore, it improved
-   billing accuracy.** Identify the necessary assumption.
+   billing accuracy.** Identify the necessary assumption. <details class="answer"><summary>Show answer</summary><div class="answer-body">The necessary assumption is that the observed reduction in errors is relevant to, and a valid indicator of, billing accuracy. Without this connection, a drop in errors and an improvement in accuracy have no guaranteed relationship, and the conclusion has nothing to stand on.</div></details>
 6. **Employees found the new software easy to use.** Explain why this
    is a helpful assumption rather than a necessary one for the claim
-   in question 5.
+   in question 5. <details class="answer"><summary>Show answer</summary><div class="answer-body">Ease of use might help explain why errors fell, but the accuracy conclusion could still stand even if employees found the software difficult, as long as errors actually decreased. Since the argument does not collapse without it, it only strengthens the case rather than being required by it.</div></details>
 
 ### Part D — Logical Gap and Assumption vs. Inference
 
@@ -483,12 +483,12 @@ system significantly improved overall port efficiency.**
 
 7. Which of the ten logical-gap patterns from this lesson best
    describes the jump from "waiting time fell" to "overall efficiency
-   improved"?
-8. Name two alternative explanations for the 30% reduction.
+   improved"? <details class="answer"><summary>Show answer</summary><div class="answer-body">This is a measurement mismatch: one specific, narrow metric (truck waiting time) improved, but the conclusion claims improvement in a much broader concept (overall port efficiency) that waiting time alone does not establish.</div></details>
+8. Name two alternative explanations for the 30% reduction. <details class="answer"><summary>Show answer</summary><div class="answer-body">Traffic volume at the port may have decreased independently of the tracking system, or additional gates may have opened and extra staff may have been added during the same period, speeding up processing regardless of the new system.</div></details>
 9. Write a reasonable inference a careful reader could draw from this
-   passage.
+   passage. <details class="answer"><summary>Show answer</summary><div class="answer-body">A careful reader could reasonably infer that the vehicle-tracking system may have contributed to the reduction in truck waiting time, without claiming it was the sole or primary cause.</div></details>
 10. Write an assumption the argument itself depends on. How does it
-    differ from your answer to question 9?
+    differ from your answer to question 9? <details class="answer"><summary>Show answer</summary><div class="answer-body">The argument assumes that the reduction in waiting time was caused primarily by the tracking system and that it reflects genuine improvement in overall efficiency. This differs from the cautious inference in question 9 because an inference is what a reader carefully derives from the evidence, while an assumption is the stronger, unstated claim the argument needs accepted for its confident "therefore" to actually hold.</div></details>
 
 ### Part E — Full Paragraph Critical Analysis
 
@@ -496,14 +496,14 @@ Return to this lesson's deep reading passage about the logistics
 company that introduced AI-based scheduling across three distribution
 centers.
 
-11. List all five hidden assumptions identified in the lesson.
+11. List all five hidden assumptions identified in the lesson. <details class="answer"><summary>Show answer</summary><div class="answer-body">1) Delivery delays are an adequate indicator of operational efficiency. 2) The reduction was not primarily caused by the concurrent employee training. 3) No other operational changes explain the improvement. 4) The three distribution centers were sufficiently comparable. 5) Greater AI usage is meaningfully associated with the larger improvement at the center that used it most.</div></details>
 12. Which of these five would you classify as necessary, and which as
-    merely helpful? Justify your choice for at least two of them.
+    merely helpful? Justify your choice for at least two of them. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Delivery delays are an adequate indicator of operational efficiency" is necessary, because if this is false, the entire efficiency conclusion has no measurement to stand on. "The reduction was not primarily caused by employee training" is also necessary, because if training were the real cause, crediting the AI system would be unfounded. "The centers were sufficiently comparable" and "greater AI usage is associated with the larger improvement" are more helpful than necessary, since they strengthen confidence in the causal story but the core claim could survive some unevenness between centers, as the dose-response pattern is only supporting evidence rather than the argument's foundation.</div></details>
 13. Write your own critical-reader response to this passage, following
     the model given in this lesson (not "the managers are wrong," but a
-    calibrated judgment).
+    calibrated judgment). <details class="answer"><summary>Show answer</summary><div class="answer-body">The evidence is consistent with the claim that the scheduling system improved delivery performance, but it does not by itself establish that the system was the primary cause. Concurrent employee training remains a plausible alternative explanation, and the dose-response pattern, while suggestive, does not rule out other operational differences between centers. An 18 percent reduction in delivery delays is real, but it may not fully capture the broader concept of operational efficiency the managers are claiming.</div></details>
 14. Apply the principle of charity: state the strongest reasonable
-    version of the managers' argument before you critique it.
+    version of the managers' argument before you critique it. <details class="answer"><summary>Show answer</summary><div class="answer-body">The strongest reasonable version is that a company-wide AI scheduling system was followed by a substantial, sustained 18 percent reduction in delivery delays across three centers, with the largest gains concentrated at the center that used the system most heavily, a dose-response pattern that at least suggests the system made a genuine causal contribution even though training occurred at the same time.</div></details>
 
 Lesson 32 — Counterfactual Thinking, Causal Reasoning & "What Would
 Happen If…?": pushing causal reasoning one step further by asking not

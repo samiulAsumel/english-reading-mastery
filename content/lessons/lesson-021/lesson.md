@@ -797,10 +797,10 @@ supported matters more than matching a single expected phrasing.
 
 1. Read: **The company reduced its advertising budget and postponed
    plans to open two new branches.** Write one explicit fact stated in
-   the sentence.
-2. Write one reasonable inference the sentence supports.
+   the sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">The company reduced its advertising budget (or, equally valid: it postponed plans to open two new branches). Both are stated directly, not inferred.</div></details>
+2. Write one reasonable inference the sentence supports. <details class="answer"><summary>Show answer</summary><div class="answer-body">The company may be exercising financial caution or trying to control costs — both actions described are exactly the kind of cost-control behavior a company under financial pressure would take.</div></details>
 3. Write one unsupported speculation the sentence does **not** support,
-   and explain what evidence would be missing.
+   and explain what evidence would be missing. <details class="answer"><summary>Show answer</summary><div class="answer-body">"The company is going bankrupt" is unsupported. The sentence never mentions debts, losses, or the company's actual financial state — reduced advertising and postponed expansion are consistent with caution, not necessarily crisis.</div></details>
 
 ### Part B — Strength of Inference
 
@@ -809,7 +809,7 @@ supported matters more than matching a single expected phrasing.
    A. The company has permanently closed.
    B. The office is probably closed at the moment.
    C. The company is bankrupt.
-   D. The employees have resigned.
+   D. The employees have resigned. <details class="answer"><summary>Show answer</summary><div class="answer-body">B. Dark lights, locked doors, and empty offices are exactly what you would expect from an office that is simply closed right now, such as outside business hours. Options A, C, and D each claim something far larger and more permanent than the evidence given can support.</div></details>
 
 ### Part C — Cause vs. Association
 
@@ -818,19 +818,19 @@ supported matters more than matching a single expected phrasing.
    A. Exercise definitely causes lower stress.
    B. Lower stress causes people to exercise.
    C. Exercise and lower stress are associated.
-   D. Exercise has no relationship with stress.
+   D. Exercise has no relationship with stress. <details class="answer"><summary>Show answer</summary><div class="answer-body">C. "Tend to report" describes a pattern of co-occurrence, not a proven causal mechanism, so the sentence only supports an association. A claims causation the sentence never establishes; B reverses a causal direction the sentence doesn't specify at all; D contradicts the pattern the sentence does describe.</div></details>
 
 ### Part D — Author Stance and Attribution
 
 6. In this sentence — **The minister claims that the new policy will
    eliminate unemployment, although the report provides limited
-   evidence to support this prediction** — who is making the claim?
-7. What exactly is being claimed?
-8. What is the author's own stance toward that claim?
+   evidence to support this prediction** — who is making the claim? <details class="answer"><summary>Show answer</summary><div class="answer-body">The minister. The verb claims attributes the statement to the minister specifically, not to the author of the sentence.</div></details>
+7. What exactly is being claimed? <details class="answer"><summary>Show answer</summary><div class="answer-body">That the new policy will eliminate unemployment — a strong, specific prediction about the policy's future effect.</div></details>
+8. What is the author's own stance toward that claim? <details class="answer"><summary>Show answer</summary><div class="answer-body">Skeptical. Using claims rather than a neutral or endorsing verb, and then pointing out that the report offers limited evidence, signals that the author is not simply passing the minister's prediction along as established fact.</div></details>
 9. What relationship does *although* create between the two halves of
-   the sentence?
+   the sentence? <details class="answer"><summary>Show answer</summary><div class="answer-body">A contrast or concession: the minister's confident prediction is set against the report's weak evidentiary support, undercutting the claim's credibility.</div></details>
 10. What does *limited evidence* tell you about how certain the
-    prediction is?
+    prediction is? <details class="answer"><summary>Show answer</summary><div class="answer-body">It tells you the prediction rests on weak or insufficient support, so it should be treated with real caution — but it does not mean the prediction is proven false, only that it isn't well proven true.</div></details>
 
 ### Part E — Advanced Inference
 
@@ -843,16 +843,16 @@ difficulties. The software remains widely used, but the continuing
 release of corrective updates suggests that the product has not yet
 reached complete technical stability.**
 
-11. List at least three explicit facts from the passage.
-12. Write at least two reasonable inferences the passage supports.
+11. List at least three explicit facts from the passage. <details class="answer"><summary>Show answer</summary><div class="answer-body">The software initially received positive reviews for speed and interface; several months later, users reported frequent crashes and compatibility problems; the developer released multiple updates; some users continued to experience difficulties; the software remains widely used.</div></details>
+12. Write at least two reasonable inferences the passage supports. <details class="answer"><summary>Show answer</summary><div class="answer-body">The software has genuine, unresolved technical problems, since updates continued to be needed even after multiple releases. Also, despite these problems, the software offers enough value that many users have kept using it rather than switching away.</div></details>
 13. Name one inference that would **not** be justified, and explain
-    what's missing from the evidence.
+    what's missing from the evidence. <details class="answer"><summary>Show answer</summary><div class="answer-body">"The software is a total failure" is not justified. The passage states it remains widely used and that updates were actively released to fix problems — both facts are inconsistent with total failure.</div></details>
 14. Is the author's overall stance positive, negative, or mixed? Justify
-    your answer from the text.
+    your answer from the text. <details class="answer"><summary>Show answer</summary><div class="answer-body">Mixed. The author acknowledges the software's initial positive reception and continued wide use, but also details ongoing crashes, compatibility problems, and unresolved difficulties, concluding that the product has not yet reached complete technical stability.</div></details>
 15. Why does the author write *"suggests that"* rather than a flatter
-    statement like *"proves that"* or *"shows that"*?
+    statement like *"proves that"* or *"shows that"*? <details class="answer"><summary>Show answer</summary><div class="answer-body">Because the conclusion about incomplete stability is an inference drawn from indirect evidence, the continuing release of corrective updates, not a directly stated fact. Suggests matches the actual strength of that evidence; proves or shows would claim more certainty than the passage earns.</div></details>
 16. Rewrite *"has not yet reached complete technical stability"* in your
-    own, simpler English.
+    own, simpler English. <details class="answer"><summary>Show answer</summary><div class="answer-body">The software still has some technical problems that have not been completely fixed.</div></details>
 
 Next: Lesson 22 — Complex Noun Phrases: how to unpack stacked phrases
 like "the extent to which," "the ability of," and "the process by

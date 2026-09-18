@@ -472,19 +472,19 @@ question you should have asked instead — that's the actual skill.
 
 ### Part A — Choose the Correct Article
 
-1. I bought ___ book yesterday. ___ book is about psychology.
-2. ___ human brain is extremely complex.
-3. ___ books can provide valuable knowledge.
-4. She conducted ___ study about human behavior.
-5. ___ study produced interesting results.
-6. ___ information can help people make better decisions.
-7. ___ information provided by the researcher was incomplete.
+1. I bought ___ book yesterday. ___ book is about psychology. <details class="answer"><summary>Show answer</summary><div class="answer-body">I bought a book yesterday. The book is about psychology. The first mention is new and unspecified, so it takes a; the second mention refers back to that same, now-known book, so it takes the.</div></details>
+2. ___ human brain is extremely complex. <details class="answer"><summary>Show answer</summary><div class="answer-body">The human brain is extremely complex. This the is generic, naming the whole class rather than one specific brain.</div></details>
+3. ___ books can provide valuable knowledge. <details class="answer"><summary>Show answer</summary><div class="answer-body">Books can provide valuable knowledge. No article is needed, because this is a general statement about books as a category, not specific books.</div></details>
+4. She conducted ___ study about human behavior. <details class="answer"><summary>Show answer</summary><div class="answer-body">She conducted a study about human behavior. This is the first mention of the study, so it is new and unspecified.</div></details>
+5. ___ study produced interesting results. <details class="answer"><summary>Show answer</summary><div class="answer-body">The study produced interesting results. This refers back to the same, already-identified study.</div></details>
+6. ___ information can help people make better decisions. <details class="answer"><summary>Show answer</summary><div class="answer-body">Information can help people make better decisions. Information is uncountable and used here in a general sense, so it takes no article.</div></details>
+7. ___ information provided by the researcher was incomplete. <details class="answer"><summary>Show answer</summary><div class="answer-body">The information provided by the researcher was incomplete. Here the relative-like phrase provided by the researcher narrows it down to one specific, identifiable set of information, so it takes the.</div></details>
 
 ### Part B — Explain the Difference
 
-8. People need information. — versus — People need the information.
-9. I saw a dog. — versus — I saw the dog.
-10. Experience is important. — versus — The experience was important.
+8. People need information. — versus — People need the information. <details class="answer"><summary>Show answer</summary><div class="answer-body">People need information speaks about information in general, as a concept. People need the information points to one specific, already-identified set of information.</div></details>
+9. I saw a dog. — versus — I saw the dog. <details class="answer"><summary>Show answer</summary><div class="answer-body">I saw a dog introduces an unspecified dog for the first time. I saw the dog refers to a specific dog the listener can already identify from context.</div></details>
+10. Experience is important. — versus — The experience was important. <details class="answer"><summary>Show answer</summary><div class="answer-body">Experience is important speaks about experience as a general concept. The experience was important refers to one specific, already-identified experience.</div></details>
 
 ### Part C — Find the Reference
 
@@ -494,10 +494,10 @@ Read this paragraph, then answer:
 > report carefully and noticed a problem. The employee had described the
 > problem in detail, but the report did not explain its cause.
 
-11. "the manager" refers to whom?
-12. "the report" refers to what?
-13. "the problem" refers to what?
-14. Why does the writer use *a manager* first, and *the manager* afterward?
+11. "the manager" refers to whom? <details class="answer"><summary>Show answer</summary><div class="answer-body">It refers to the same manager introduced at the start of the passage as a manager.</div></details>
+12. "the report" refers to what? <details class="answer"><summary>Show answer</summary><div class="answer-body">It refers to the same report first mentioned as a report from an employee.</div></details>
+13. "the problem" refers to what? <details class="answer"><summary>Show answer</summary><div class="answer-body">It refers to the specific problem the manager noticed while reading the report, the same problem the employee later described in detail.</div></details>
+14. Why does the writer use *a manager* first, and *the manager* afterward? <details class="answer"><summary>Show answer</summary><div class="answer-body">A manager introduces the person as new, unspecified information on first mention. Once the reader knows exactly who is meant, the writer switches to the manager to refer back to that same, already-identified person.</div></details>
 
 ### Part D — Reading
 
@@ -507,15 +507,15 @@ Explain in your own, simple English:
 > pressure. The experiment showed that the participants did not always
 > make the same decisions under different conditions.
 
-15. Why is *a researcher* used?
-16. Why is *the experiment* used in the second sentence?
-17. What did the experiment show?
+15. Why is *a researcher* used? <details class="answer"><summary>Show answer</summary><div class="answer-body">Because the researcher is being introduced for the first time; the reader has no prior knowledge of which researcher, so the indefinite article marks new, unspecified information.</div></details>
+16. Why is *the experiment* used in the second sentence? <details class="answer"><summary>Show answer</summary><div class="answer-body">Because it refers back to the same experiment already introduced in the first sentence, which the reader can now identify specifically.</div></details>
+17. What did the experiment show? <details class="answer"><summary>Show answer</summary><div class="answer-body">It showed that the participants did not always make the same decisions under different conditions.</div></details>
 
 ### Part E — Create
 
-18. Write one sentence that introduces something new with *a/an*.
-19. Write a second sentence that refers back to that same thing with *the*.
-20. Write one sentence with a plural noun in a general sense, using no article at all.
+18. Write one sentence that introduces something new with *a/an*. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: A teacher started a new project.</div></details>
+19. Write a second sentence that refers back to that same thing with *the*. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: The teacher presented the project to the school board, referring back to the same teacher and project introduced in the previous sentence.</div></details>
+20. Write one sentence with a plural noun in a general sense, using no article at all. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: Computers have changed the way people work. Computers here means computers in general, not specific ones, so no article is used.</div></details>
 
 Next: Lesson 7 — Prepositions & Relationships: how words like *of, in,
 on, at, for, with, by, from,* and *to* build the relationships inside a

@@ -440,33 +440,33 @@ the rule it's built on.
 
 ### Part A — Definition vs. Explanation vs. Example
 
-1. **A single point of failure is a component whose failure can bring down an entire system.** Identify whether this is a definition, explanation, or example.
-2. **For instance, a single unshared power supply serving an entire data center is a single point of failure.** Identify whether this is a definition, explanation, or example, and explain how it relates to item 1.
+1. **A single point of failure is a component whose failure can bring down an entire system.** Identify whether this is a definition, explanation, or example. <details class="answer"><summary>Show answer</summary><div class="answer-body">This is a definition. It answers what is it by stating the concept's essential feature in an X-is-Y form, with no illustrative case and no cause given for why the feature holds.</div></details>
+2. **For instance, a single unshared power supply serving an entire data center is a single point of failure.** Identify whether this is a definition, explanation, or example, and explain how it relates to item 1. <details class="answer"><summary>Show answer</summary><div class="answer-body">This is an example, signaled by "for instance." It relates to item 1 by taking the general definition given there and showing a concrete case that satisfies it: the shared power supply is a component whose failure would bring down the entire data center.</div></details>
 
 ### Part B — Classification and Criteria
 
-3. **Cloud services can be classified into three categories: infrastructure, platform, and software services.** Identify the classification criterion, and propose one additional category the criterion might allow for.
-4. **Systems are divided into fast, reliable, and expensive.** Identify why this classification mixes criteria, and explain the problem that creates.
+3. **Cloud services can be classified into three categories: infrastructure, platform, and software services.** Identify the classification criterion, and propose one additional category the criterion might allow for. <details class="answer"><summary>Show answer</summary><div class="answer-body">The criterion is the layer of the technology stack being delivered to the customer, from raw computing resources up to finished applications. The same criterion could allow a fourth category such as function-based or serverless services, where the provider manages everything except the individual pieces of code the customer runs.</div></details>
+4. **Systems are divided into fast, reliable, and expensive.** Identify why this classification mixes criteria, and explain the problem that creates. <details class="answer"><summary>Show answer</summary><div class="answer-body">Fast and reliable describe performance qualities, while expensive describes cost, so two unrelated rules are being applied inside a single classification. This breaks the mutually exclusive requirement, since a system can easily be both fast and expensive at once, leaving it unclear which category such a system actually belongs to.</div></details>
 
 ### Part C — Part Of vs. Type Of
 
-5. **A processor is part of a computer.** vs. **A laptop is a type of computer.** Explain the structural difference between these two relationships.
-6. Give your own example of a meronymy (part-of) relationship and a hyponymy (type-of) relationship, using a domain of your choice.
+5. **A processor is part of a computer.** vs. **A laptop is a type of computer.** Explain the structural difference between these two relationships. <details class="answer"><summary>Show answer</summary><div class="answer-body">The processor sentence is meronymy: it describes a component that makes up a whole, and a processor cannot itself be called a computer. The laptop sentence is hyponymy: it describes category membership, and a laptop is itself a complete computer, just a specific member of that broader category.</div></details>
+6. Give your own example of a meronymy (part-of) relationship and a hyponymy (type-of) relationship, using a domain of your choice. <details class="answer"><summary>Show answer</summary><div class="answer-body">Meronymy: a berth is part of a port, since a berth is one structural component within the larger facility. Hyponymy: a container ship is a type of vessel, since a container ship is itself a complete vessel, just one specific category of it.</div></details>
 
 ### Part D — MECE and Model vs. Reality
 
-7. **Employees are classified as full-time or part-time.** Explain what would need to be true for this classification to be both mutually exclusive and collectively exhaustive.
-8. Explain why an author adding "although these categories are analytically useful, real-world cases often overlap" at the end of a classification paragraph does not undermine the classification's usefulness.
+7. **Employees are classified as full-time or part-time.** Explain what would need to be true for this classification to be both mutually exclusive and collectively exhaustive. <details class="answer"><summary>Show answer</summary><div class="answer-body">It would need a single, consistently applied threshold, such as a fixed number of weekly hours, that assigns every employee to exactly one of the two categories. Mutual exclusivity requires that no employee can satisfy both definitions at once, and collective exhaustiveness requires that no employee, such as someone on an irregular or seasonal contract, falls outside both categories entirely.</div></details>
+8. Explain why an author adding "although these categories are analytically useful, real-world cases often overlap" at the end of a classification paragraph does not undermine the classification's usefulness. <details class="answer"><summary>Show answer</summary><div class="answer-body">The qualification is honest about the classification being a simplified model rather than a perfect description of reality, which is exactly what a model is supposed to be. Naming the overlap actually strengthens the classification's credibility, because it prevents a reader from misapplying the categories to messy real-world cases where the boundaries genuinely blur.</div></details>
 
 ### Part E — Full Passage Analysis
 
 Return to this lesson's guided reading passage about software
 licenses.
 
-9. State the passage's classification criterion in your own words.
-10. Identify the sentence that draws a conceptual boundary, and explain what common misunderstanding it is preventing.
-11. Using the taxonomy-reading algorithm from this lesson, explain whether "cost" would be a valid criterion for classifying the same set of licenses differently.
-12. Explain why treating "open-source" and "free of charge" as synonyms would misread this passage's central distinction.
+9. State the passage's classification criterion in your own words. <details class="answer"><summary>Show answer</summary><div class="answer-body">The criterion is the legal usage rights a license grants or restricts, specifically whether users may copy, modify, and redistribute the source code, not the price charged for the software.</div></details>
+10. Identify the sentence that draws a conceptual boundary, and explain what common misunderstanding it is preventing. <details class="answer"><summary>Show answer</summary><div class="answer-body">The final sentence, stating that the distinction should not be confused with whether software is free of charge, draws the boundary. It prevents readers from assuming that proprietary automatically means paid and open-source automatically means free, when in fact some proprietary software costs nothing while remaining legally restricted.</div></details>
+11. Using the taxonomy-reading algorithm from this lesson, explain whether "cost" would be a valid criterion for classifying the same set of licenses differently. <details class="answer"><summary>Show answer</summary><div class="answer-body">Cost is a valid criterion for building a separate classification, such as free versus paid licenses, but it is not the criterion this passage uses. Applying it to the existing proprietary versus open-source categories would mix two different rules in one classification, the same mixed-criteria problem seen in question 4.</div></details>
+12. Explain why treating "open-source" and "free of charge" as synonyms would misread this passage's central distinction. <details class="answer"><summary>Show answer</summary><div class="answer-body">The passage explicitly separates legal restriction from price, so equating the two terms would collapse a two-dimensional distinction into one dimension. A reader making this error could wrongly classify free-of-charge proprietary software as open-source, missing the actual criterion, usage rights, that the author establishes.</div></details>
 
 Next: Lesson 58 — Advanced Reading of Processes, Mechanisms &
 "Why/How" Explanations: reconstructing not just what happens, but the

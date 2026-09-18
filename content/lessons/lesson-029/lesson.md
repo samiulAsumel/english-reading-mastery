@@ -495,14 +495,14 @@ three are easy to blur together on a fast read.
 1. Rank these five sentences from weakest to strongest causal claim,
    and briefly justify the order: **(a)** X is associated with Y.
    **(b)** X may contribute to Y. **(c)** X is a major factor in Y.
-   **(d)** X causes Y. **(e)** X is the sole cause of Y.
+   **(d)** X causes Y. **(e)** X is the sole cause of Y. <details class="answer"><summary>Show answer</summary><div class="answer-body">Weakest to strongest: (a), (b), (c), (d), (e). (a) claims only a relationship, no causal role. (b) adds a tentative causal contribution. (c) asserts a significant causal role while still allowing other factors. (d) makes a direct, unqualified causal claim. (e) is strongest, since it claims X is the only cause and rules out every other explanation.</div></details>
 
 ### Part B — Direction
 
 2. **Poor planning resulted in delays.** Which is the cause, and which
-   is the effect?
+   is the effect? <details class="answer"><summary>Show answer</summary><div class="answer-body">Cause: poor planning. Effect: delays. "Resulted in" points forward from cause to effect.</div></details>
 3. **The delays resulted from poor planning.** How has the direction
-   changed from question 2?
+   changed from question 2? <details class="answer"><summary>Show answer</summary><div class="answer-body">The underlying relationship is unchanged, but the grammar now runs backward: "resulted from" points from effect to cause, so the sentence opens with the effect (delays) and names the cause (poor planning) afterward, rather than the reverse order used in question 2.</div></details>
 
 ### Part C — Critical Reading
 
@@ -516,36 +516,36 @@ than the software alone. Although the software appears to have
 contributed to the improvement, the available evidence does not
 establish that it was the sole cause.**
 
-4. What is the observed outcome?
-5. What is management's causal claim?
-6. What alternative explanations does the passage raise?
-7. Identify the hedge that signals the author's own caution.
-8. What is the author's final position?
-9. Explain why *"after"* does not, by itself, prove causation here.
+4. What is the observed outcome? <details class="answer"><summary>Show answer</summary><div class="answer-body">Customer complaints declined substantially after the new software platform was introduced.</div></details>
+5. What is management's causal claim? <details class="answer"><summary>Show answer</summary><div class="answer-body">That the software improved service quality — in other words, that the software caused the decline in complaints.</div></details>
+6. What alternative explanations does the passage raise? <details class="answer"><summary>Show answer</summary><div class="answer-body">Increased staffing levels and a new customer-support procedure, both introduced during the same period as the software.</div></details>
+7. Identify the hedge that signals the author's own caution. <details class="answer"><summary>Show answer</summary><div class="answer-body">"May therefore reflect a combination of these changes rather than the software alone" — also echoed in "appears to have contributed" later in the passage.</div></details>
+8. What is the author's final position? <details class="answer"><summary>Show answer</summary><div class="answer-body">A qualified causal conclusion: the software appears to have contributed to the improvement, but the available evidence does not establish it as the sole cause.</div></details>
+9. Explain why *"after"* does not, by itself, prove causation here. <details class="answer"><summary>Show answer</summary><div class="answer-body">"After" only establishes that the decline in complaints followed the software's introduction in time — a temporal sequence. It does not rule out the staffing increase or the new support procedure, both introduced in that same period, as the real or partial cause, so sequence alone cannot establish that the software caused the decline.</div></details>
 
 ### Part D — Apply the Checklist
 
 Return to this lesson's Guided Reading Practice passage about the
 crane-scheduling algorithm.
 
-10. What is the observed outcome?
-11. What is terminal management's causal claim?
-12. What alternative explanation does the passage raise?
-13. Identify the hedge that signals the author's caution.
-14. What is the author's final position?
+10. What is the observed outcome? <details class="answer"><summary>Show answer</summary><div class="answer-body">Average vessel turnaround time fell by 12 percent in the quarter following implementation.</div></details>
+11. What is terminal management's causal claim? <details class="answer"><summary>Show answer</summary><div class="answer-body">That the new crane-scheduling algorithm caused the improvement.</div></details>
+12. What alternative explanation does the passage raise? <details class="answer"><summary>Show answer</summary><div class="answer-body">A renegotiated labor agreement that increased the number of crane operators available during peak shifts in the same quarter.</div></details>
+13. Identify the hedge that signals the author's caution. <details class="answer"><summary>Show answer</summary><div class="answer-body">"The improvement may therefore reflect a combination of the new algorithm and increased staffing rather than the algorithm alone."</div></details>
+14. What is the author's final position? <details class="answer"><summary>Show answer</summary><div class="answer-body">A qualified causal conclusion: the algorithm appears to have contributed to faster turnaround, but the available evidence is insufficient to establish it as the sole cause.</div></details>
 15. What mechanism, if any, does the passage suggest for how the
-    algorithm might improve turnaround time?
+    algorithm might improve turnaround time? <details class="answer"><summary>Show answer</summary><div class="answer-body">None is given explicitly — the passage reports the outcome and management's attribution without explaining how the algorithm actually produces faster turnaround (for example, by optimizing crane assignments or reducing idle time), leaving the causal mechanism unstated.</div></details>
 
 ### Part E — Necessary vs. Sufficient, and Confounders
 
 16. Using this lesson's oxygen/combustion analogy, explain the
     difference between *"training is necessary for successful
     implementation"* and *"training is sufficient for successful
-    implementation."*
+    implementation."* <details class="answer"><summary>Show answer</summary><div class="answer-body">Oxygen is necessary for combustion — without it, fire cannot occur — but oxygen alone is not sufficient, since fuel and a heat source are also required; it only makes combustion possible, not guaranteed. In the same way, "training is necessary" means implementation cannot succeed without it, but "training is sufficient" would mean training alone guarantees success, which is a much stronger claim than the evidence supports, since other conditions such as usable software, management support, and infrastructure are also needed.</div></details>
 17. A study finds that towns with more fire trucks tend to have more
     fire damage. Identify the likely confounding variable, and explain
     why *"more fire trucks"* does not causally produce *"more fire
-    damage."*
+    damage."* <details class="answer"><summary>Show answer</summary><div class="answer-body">The likely confounder is town size (or population and number of buildings). Larger towns both maintain more fire trucks and, simply by having more structures, experience more fires and greater total fire damage. Town size drives both variables independently, so the fire-truck/fire-damage association is misleading — the trucks don't cause the damage; a third factor produces both.</div></details>
 
 Cause, evidence, and explanation now sit alongside claims, comparison,
 and stance as tools for reading any argumentative passage — the next

@@ -515,35 +515,35 @@ which timeline distinction still needs work.
 
 ### Part A — Identify the Tense and Meaning
 
-1. People learn from experience.
-2. People are learning new skills.
-3. Researchers studied the problem.
-4. Researchers have studied the problem.
-5. Researchers had studied the problem before the new experiment began.
-6. Researchers have been studying the problem for many years.
+1. People learn from experience. <details class="answer"><summary>Show answer</summary><div class="answer-body">Present Simple, expressing a general truth rather than something happening right now.</div></details>
+2. People are learning new skills. <details class="answer"><summary>Show answer</summary><div class="answer-body">Present Continuous, describing an action actively in progress during the current period.</div></details>
+3. Researchers studied the problem. <details class="answer"><summary>Show answer</summary><div class="answer-body">Past Simple, describing a completed event that is finished, with no stated connection to now.</div></details>
+4. Researchers have studied the problem. <details class="answer"><summary>Show answer</summary><div class="answer-body">Present Perfect, showing that past research is still relevant to current knowledge.</div></details>
+5. Researchers had studied the problem before the new experiment began. <details class="answer"><summary>Show answer</summary><div class="answer-body">Past Perfect, marking the earlier of two past events — the studying happened before the new experiment began.</div></details>
+6. Researchers have been studying the problem for many years. <details class="answer"><summary>Show answer</summary><div class="answer-body">Present Perfect Continuous, showing an activity that started in the past and has continued without stopping up to now.</div></details>
 
 ### Part B — Explain the Difference
 
-7. People learn English. — versus — People are learning English.
-8. Researchers studied the problem. — versus — Researchers have studied the problem.
+7. People learn English. — versus — People are learning English. <details class="answer"><summary>Show answer</summary><div class="answer-body">People learn English states a general fact or habit, with no sense of it happening at this moment. People are learning English describes an action actively in progress during the current period.</div></details>
+8. Researchers studied the problem. — versus — Researchers have studied the problem. <details class="answer"><summary>Show answer</summary><div class="answer-body">Researchers studied the problem describes a finished past event with no stated link to now. Researchers have studied the problem connects that same past work to present-day relevance or knowledge.</div></details>
 
 ### Part C — Find the Verb Phrase
 
-9. Human behavior can be influenced by many factors.
-10. Researchers have been studying human decision-making for decades.
-11. The results may have changed our understanding of the problem.
+9. Human behavior can be influenced by many factors. <details class="answer"><summary>Show answer</summary><div class="answer-body">Verb phrase: can be influenced — a modal plus passive form, treated as one unit.</div></details>
+10. Researchers have been studying human decision-making for decades. <details class="answer"><summary>Show answer</summary><div class="answer-body">Verb phrase: have been studying — Present Perfect Continuous, one four-part unit.</div></details>
+11. The results may have changed our understanding of the problem. <details class="answer"><summary>Show answer</summary><div class="answer-body">Verb phrase: may have changed — a modal combined with the perfect form, read as one unit.</div></details>
 
 ### Part D — Reading
 
-12. Explain the meaning of this sentence in your own, simple English: *Researchers have found that people who regularly practice a skill can improve their performance significantly over time.*
+12. Explain the meaning of this sentence in your own, simple English: *Researchers have found that people who regularly practice a skill can improve their performance significantly over time.* <details class="answer"><summary>Show answer</summary><div class="answer-body">Studies have discovered that when someone practices a skill on a regular basis, their performance gets noticeably better as time passes.</div></details>
 
 ### Part E — Create
 
-13. Write one Present Simple sentence.
-14. Write one Present Continuous sentence.
-15. Write one Present Perfect sentence.
-16. Write one Past Simple sentence.
-17. Write one Future sentence.
+13. Write one Present Simple sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: Birds migrate south in winter. This states a general, recurring fact.</div></details>
+14. Write one Present Continuous sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: The team is preparing for the presentation. This describes an action currently in progress.</div></details>
+15. Write one Present Perfect sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: She has completed the project. This connects a finished past action to its present relevance.</div></details>
+16. Write one Past Simple sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: He visited Paris last year. This describes a completed event in the past.</div></details>
+17. Write one Future sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: The company will launch a new product next month. This expresses a prediction about the future.</div></details>
 
 Next: Lesson 6 — Articles: "a, an, the" — and why they matter more for
 meaning in a book than most learners expect.

@@ -456,48 +456,48 @@ in sentence one."
 
 1. **The company failed to train its employees properly. This resulted
    in widespread errors.** What does *this* refer to, and why is it
-   not simply "training"?
+   not simply "training"? <details class="answer"><summary>Show answer</summary><div class="answer-body">This refers to the whole prior event, the company's failure to train its employees properly, not to training itself. Training is the thing that was missing; "this" points to the act of neglecting to provide it, which is what actually caused the errors.</div></details>
 2. **The company failed to maintain the system and ignored repeated
    warnings. Such behavior eventually led to serious operational
-   problems.** What does *such behavior* summarize?
+   problems.** What does *such behavior* summarize? <details class="answer"><summary>Show answer</summary><div class="answer-body">Such behavior summarizes the entire preceding situation as one package: both failing to maintain the system and ignoring the repeated warnings together, not just one of those two actions on its own.</div></details>
 
 ### Part B — Substitution
 
 3. **I prefer the newer system to the older one.** What does *one*
-   substitute for?
+   substitute for? <details class="answer"><summary>Show answer</summary><div class="answer-body">One substitutes for the noun "system," letting the writer avoid repeating "the older system" a second time.</div></details>
 4. **The operating costs of large organizations are often higher than
-   those of smaller organizations.** What does *those* substitute for?
+   those of smaller organizations.** What does *those* substitute for? <details class="answer"><summary>Show answer</summary><div class="answer-body">Those substitutes for the whole noun phrase "the operating costs," so the sentence compares the operating costs of large organizations against the operating costs of smaller organizations, without repeating "operating costs" a second time.</div></details>
 
 ### Part C — Another, Other, The Other, Others
 
 5. **One approach focuses on speed; the other focuses on
    reliability.** Explain why *the other* is correct here rather than
-   *another*.
+   *another*. <details class="answer"><summary>Show answer</summary><div class="answer-body">The other is correct because exactly two known approaches are being discussed, and "the other" specifically means the second of exactly two items already identified. "Another" would wrongly suggest a third, unspecified additional approach beyond the two named here.</div></details>
 6. **Some researchers support the theory; others reject it.** What
-   does *others* stand for?
+   does *others* stand for? <details class="answer"><summary>Show answer</summary><div class="answer-body">Others stands for "other researchers," with the noun "researchers" omitted because it is easily recoverable from the first clause.</div></details>
 
 ### Part D — Cataphoric, Exophoric, and Bridging Reference
 
 7. **This was the main problem: employees had not received adequate
    training.** Explain why this is an example of cataphoric, not
-   ordinary backward, reference.
+   ordinary backward, reference. <details class="answer"><summary>Show answer</summary><div class="answer-body">This is cataphoric because "this" appears before its explanation, which only arrives after the colon. Ordinary backward reference points to something already mentioned earlier in the text, but here nothing has been mentioned yet, so the reader must keep reading forward to resolve it.</div></details>
 8. **I entered a house. The kitchen was unusually small.** Explain how
    bridging inference lets a reader understand *the kitchen* without
-   it being explicitly introduced.
+   it being explicitly introduced. <details class="answer"><summary>Show answer</summary><div class="answer-body">The kitchen was never directly introduced in the first sentence, but readers know from ordinary world knowledge that houses generally contain kitchens. This bridging inference lets the reader connect "house" to "kitchen" automatically, without the writer needing to state the connection explicitly.</div></details>
 
 ### Part E — Deep Analysis
 
 Return to this lesson's container-stacking passage.
 
 9. Resolve *this difference* — what two things is it distinguishing
-   between?
+   between? <details class="answer"><summary>Show answer</summary><div class="answer-body">This difference distinguishes between the automated system's reliability when handling unusual or damaged containers and the manual crews' reliability when handling those same containers, not the earlier-mentioned speed difference between the two.</div></details>
 10. Resolve *the latter observation* — which of the two storm-related
-    facts does it point to, and how do you know?
+    facts does it point to, and how do you know? <details class="answer"><summary>Show answer</summary><div class="answer-body">The latter observation points to the second-mentioned storm-related fact, that the crews continued working without major incident, rather than the first-mentioned fact that the automated system's error rate rose sharply. This follows because "the latter" always refers to the second of exactly two items just named, and the sentence names the error rate rising first and the crews' performance second.</div></details>
 11. Explain what *a limitation* at the end of the passage refers back
     to, and why packaging it this way is more efficient than repeating
-    the full explanation.
+    the full explanation. <details class="answer"><summary>Show answer</summary><div class="answer-body">A limitation refers back to the whole preceding conclusion, that full automation might not be advisable until the system can better handle atypical, high-demand conditions. Packaging this entire multi-clause idea into a single noun phrase is more efficient because it lets the writer make that idea the subject of the next clause, "which the vendor has since acknowledged," without restating the whole explanation again.</div></details>
 12. Using the reference resolution procedure from this lesson, explain
-    step by step how you determined your answer to question 10.
+    step by step how you determined your answer to question 10. <details class="answer"><summary>Show answer</summary><div class="answer-body">First, list the possible antecedents: the error rate rising sharply, and the crews continuing without major incident. Both are grammatically singular events, so number does not decide it. Semantically, "the latter" requires a second-mentioned item, so check the order in the sentence: the error rate rising is named first, and the crews continuing is named second. Checking logical fit, the following clause about concluding that full automation might not be advisable fits naturally with the crews having succeeded manually. The structural rule that "latter" means second-mentioned settles the choice: the crews continuing without major incident.</div></details>
 
 With reference, substitution, and ellipsis now fully mapped, you have
 the complete set of tools this course has built for reading dense,

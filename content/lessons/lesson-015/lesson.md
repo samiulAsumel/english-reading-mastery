@@ -517,34 +517,34 @@ before answering — that expansion is where the real understanding is.
 
 What is the bold part doing in each sentence?
 
-1. The researchers conducting the experiment published the results.
-2. The data collected from participants were analyzed.
-3. Having completed the study, the researchers wrote the report.
-4. While analyzing the data, they discovered a pattern.
+1. The researchers conducting the experiment published the results. <details class="answer"><summary>Show answer</summary><div class="answer-body">Conducting the experiment is an active reduced relative clause describing researchers, standing in for who are conducting the experiment.</div></details>
+2. The data collected from participants were analyzed. <details class="answer"><summary>Show answer</summary><div class="answer-body">Collected from participants is a passive reduced relative clause describing data, standing in for that were collected from participants.</div></details>
+3. Having completed the study, the researchers wrote the report. <details class="answer"><summary>Show answer</summary><div class="answer-body">Having completed the study is a Having plus V3 phrase marking an earlier completed action, equivalent to after they had completed the study.</div></details>
+4. While analyzing the data, they discovered a pattern. <details class="answer"><summary>Show answer</summary><div class="answer-body">While analyzing the data is a reduced adverb clause showing two actions happening at the same time, equivalent to while they were analyzing the data.</div></details>
 
 ### Part B — Expand
 
 Expand each reduced clause back to its full form.
 
-5. The information collected during the experiment was useful.
-6. Researchers conducting the study identified several factors.
-7. Having completed the analysis, the team published the results.
+5. The information collected during the experiment was useful. <details class="answer"><summary>Show answer</summary><div class="answer-body">The information that was collected during the experiment was useful.</div></details>
+6. Researchers conducting the study identified several factors. <details class="answer"><summary>Show answer</summary><div class="answer-body">Researchers who were conducting the study identified several factors.</div></details>
+7. Having completed the analysis, the team published the results. <details class="answer"><summary>Show answer</summary><div class="answer-body">After the team had completed the analysis, they published the results.</div></details>
 
 ### Part C — Core Sentence
 
-8. Find the core sentence of: **The researchers working in Germany analyzed the data collected from 500 participants.**
-9. Which part is a passive description in: **The evidence presented by the researchers was convincing.**?
-10. Which part is an active description in: **The researchers examining the evidence identified several problems.**?
+8. Find the core sentence of: **The researchers working in Germany analyzed the data collected from 500 participants.** <details class="answer"><summary>Show answer</summary><div class="answer-body">The researchers analyzed the data. Working in Germany describes researchers, and collected from 500 participants describes data — both are extra description, not part of the core.</div></details>
+9. Which part is a passive description in: **The evidence presented by the researchers was convincing.**? <details class="answer"><summary>Show answer</summary><div class="answer-body">Presented by the researchers — a passive reduced relative clause describing evidence, standing in for that was presented by the researchers.</div></details>
+10. Which part is an active description in: **The researchers examining the evidence identified several problems.**? <details class="answer"><summary>Show answer</summary><div class="answer-body">Examining the evidence — an active reduced relative clause describing researchers, standing in for who were examining the evidence.</div></details>
 
 ### Part D — Advanced Reading
 
-11. Decode this sentence: **Having reviewed the evidence collected from several sources, the researchers identified a pattern influencing the participants' decisions.** Identify: the main subject, the main verb, the object, the *Having + V3* phrase, the V3 reduced clause, and the V-ing reduced clause.
+11. Decode this sentence: **Having reviewed the evidence collected from several sources, the researchers identified a pattern influencing the participants' decisions.** Identify: the main subject, the main verb, the object, the *Having + V3* phrase, the V3 reduced clause, and the V-ing reduced clause. <details class="answer"><summary>Show answer</summary><div class="answer-body">Main subject: the researchers. Main verb: identified. Object: a pattern. Having plus V3 phrase: Having reviewed the evidence — an earlier completed action, equivalent to after they had reviewed the evidence. V3 reduced clause: collected from several sources, a passive description of evidence (that was collected from several sources). V-ing reduced clause: influencing the participants' decisions, an active description of pattern (that influences the participants' decisions).</div></details>
 
 ### Part E — Create
 
-12. Write one sentence with a reduced relative clause (noun + V-ing or noun + V3).
-13. Write one sentence using *Having + V3* to show an earlier completed action.
-14. Write one sentence using *Although + V-ing* as a reduced contrast clause.
+12. Write one sentence with a reduced relative clause (noun + V-ing or noun + V3). <details class="answer"><summary>Show answer</summary><div class="answer-body">Sample answer: The report written by the committee received wide attention.</div></details>
+13. Write one sentence using *Having + V3* to show an earlier completed action. <details class="answer"><summary>Show answer</summary><div class="answer-body">Sample answer: Having finished the interviews, the team began analyzing the responses.</div></details>
+14. Write one sentence using *Although + V-ing* as a reduced contrast clause. <details class="answer"><summary>Show answer</summary><div class="answer-body">Sample answer: Although facing a tight deadline, the team delivered the project on time.</div></details>
 
 Next: Lesson 16 — Reported Speech & "That"-Clauses: *Researchers argue
 that…, The author suggests that…, Studies show that…, He believed

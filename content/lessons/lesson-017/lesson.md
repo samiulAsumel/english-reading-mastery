@@ -567,31 +567,31 @@ the exact mistake today's lesson is designed to catch.
 
 Identify each modal's function.
 
-1. Stress may affect memory.
-2. Researchers must consider alternative explanations.
-3. The method could improve performance.
-4. The results should be available tomorrow.
-5. He must be tired.
+1. Stress may affect memory. <details class="answer"><summary>Show answer</summary><div class="answer-body">POSSIBILITY. May signals that stress affecting memory is a possible outcome, not a proven or certain one.</div></details>
+2. Researchers must consider alternative explanations. <details class="answer"><summary>Show answer</summary><div class="answer-body">OBLIGATION. Here must expresses a requirement — considering alternative explanations is necessary, not optional.</div></details>
+3. The method could improve performance. <details class="answer"><summary>Show answer</summary><div class="answer-body">POSSIBILITY or POTENTIAL. Could describes a possible future effect the method might have, without claiming it will happen.</div></details>
+4. The results should be available tomorrow. <details class="answer"><summary>Show answer</summary><div class="answer-body">EXPECTATION. This is not advice; should here means the results are expected, probably, to arrive tomorrow.</div></details>
+5. He must be tired. <details class="answer"><summary>Show answer</summary><div class="answer-body">DEDUCTION. This is must's second function: the speaker is confidently inferring, from available evidence, that he is surely tired, not stating an obligation.</div></details>
 
 ### Part B — Certainty
 
 Which is more cautious?
 
-6. A: The results show that the method works. — B: The results suggest that the method may work.
-7. A: Stress causes poor decisions. — B: Stress may contribute to poorer decisions.
+6. A: The results show that the method works. — B: The results suggest that the method may work. <details class="answer"><summary>Show answer</summary><div class="answer-body">B is more cautious. Show is a strong reporting verb asserting a fact, while suggest already weakens the claim, and may on top of it adds a second layer of possibility rather than certainty.</div></details>
+7. A: Stress causes poor decisions. — B: Stress may contribute to poorer decisions. <details class="answer"><summary>Show answer</summary><div class="answer-body">B is more cautious. Causes is a flat, direct claim of causation, while may contribute to hedges twice over: may lowers certainty to possibility, and contribute to claims only a partial role rather than being the sole cause.</div></details>
 
 ### Part C — Meaning
 
-8. What does "The results are unlikely to change" mean?
-9. What is the exact logical meaning of "This does not necessarily mean that the theory is wrong"?
+8. What does "The results are unlikely to change" mean? <details class="answer"><summary>Show answer</summary><div class="answer-body">It means there is a low probability that the results will change — change is improbable, not impossible. Unlikely leaves the door open; it does not deny that change could still happen.</div></details>
+9. What is the exact logical meaning of "This does not necessarily mean that the theory is wrong"? <details class="answer"><summary>Show answer</summary><div class="answer-body">It means the evidence does not guarantee that the theory is wrong, but it does not rule that out either. Necessarily blocks the automatic, forced conclusion "therefore the theory is wrong," leaving room for the theory to still be correct despite this evidence.</div></details>
 
 ### Part D — Reading Analysis
 
-10. Decode this sentence: **The available evidence appears to suggest that the treatment may be effective, although further research is likely to be necessary.** Identify: the source, the reporting/stance expression, the main claim, hedge 1, hedge 2, the probability expression, and the contrast connector.
+10. Decode this sentence: **The available evidence appears to suggest that the treatment may be effective, although further research is likely to be necessary.** Identify: the source, the reporting/stance expression, the main claim, hedge 1, hedge 2, the probability expression, and the contrast connector. <details class="answer"><summary>Show answer</summary><div class="answer-body">Source: the available evidence. Reporting or stance expression: appears to suggest. Main claim: the treatment may be effective. Hedge 1: appears to suggest, which lowers the evidence's own status to a tentative impression rather than a clear finding. Hedge 2: may be effective, which lowers the treatment's effect to a mere possibility. Probability expression: is likely to be necessary, describing a high but not certain chance that more research is needed. Contrast connector: although, which introduces a limitation on the main claim.</div></details>
 
 ### Part E — Advanced
 
-11. Explain the difference between "Stress is associated with poor sleep" and "Stress causes poor sleep," and explain why the first is often more appropriate in scientific/academic writing.
+11. Explain the difference between "Stress is associated with poor sleep" and "Stress causes poor sleep," and explain why the first is often more appropriate in scientific/academic writing. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Is associated with" claims only that stress and poor sleep are found together statistically, without saying which one, if either, produces the other; "causes" makes the much stronger claim that stress directly brings about poor sleep. The first is usually the more responsible choice in scientific writing because evidence is typically correlational rather than experimental, and other factors, or even reverse causation, could explain the link the researchers observed.</div></details>
 
 Next: Lesson 18 — Nominalization & Dense Academic English: how "The
 implementation of the policy resulted in a significant reduction in

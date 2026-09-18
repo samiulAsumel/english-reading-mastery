@@ -730,28 +730,28 @@ part of the paragraph's architecture to look at again.
 
 Name each marker's function.
 
-1. however
-2. therefore
-3. for example
-4. in addition
-5. nevertheless
-6. in other words
-7. specifically
-8. consequently
+1. however <details class="answer"><summary>Show answer</summary><div class="answer-body">Contrast — it signals that the coming sentence pushes back against or limits the point just made.</div></details>
+2. therefore <details class="answer"><summary>Show answer</summary><div class="answer-body">Conclusion or result — it turns the preceding information into a logical consequence.</div></details>
+3. for example <details class="answer"><summary>Show answer</summary><div class="answer-body">Example — it makes a preceding abstract or general claim concrete and specific.</div></details>
+4. in addition <details class="answer"><summary>Show answer</summary><div class="answer-body">Addition — it introduces a second, separate supporting point for the same claim.</div></details>
+5. nevertheless <details class="answer"><summary>Show answer</summary><div class="answer-body">Contrast despite a limitation — close to however, but it specifically signals that a stated limitation does not cancel out the value of the point made before it.</div></details>
+6. in other words <details class="answer"><summary>Show answer</summary><div class="answer-body">Restatement — it rephrases the previous claim more plainly rather than introducing new information.</div></details>
+7. specifically <details class="answer"><summary>Show answer</summary><div class="answer-body">Specification — it narrows a general statement down to particular, more precise details.</div></details>
+8. consequently <details class="answer"><summary>Show answer</summary><div class="answer-body">Result — a formal marker showing that what follows happened because of what came before.</div></details>
 
 ### Part B — Paragraph Architecture
 
-9. Identify the claim, reason, example, limitation/qualification, and conclusion in this paragraph: **Regular reading can significantly improve English comprehension. It exposes learners to common vocabulary and grammatical structures in meaningful contexts. For example, readers repeatedly encounter expressions that are difficult to understand when studied in isolation. However, reading alone may not be sufficient for learners who have very limited vocabulary. Therefore, combining reading with targeted vocabulary study may produce better results.**
+9. Identify the claim, reason, example, limitation/qualification, and conclusion in this paragraph: **Regular reading can significantly improve English comprehension. It exposes learners to common vocabulary and grammatical structures in meaningful contexts. For example, readers repeatedly encounter expressions that are difficult to understand when studied in isolation. However, reading alone may not be sufficient for learners who have very limited vocabulary. Therefore, combining reading with targeted vocabulary study may produce better results.** <details class="answer"><summary>Show answer</summary><div class="answer-body">Claim: regular reading can significantly improve English comprehension. Reason: it exposes learners to vocabulary and grammatical structures in meaningful contexts. Example: readers repeatedly encounter expressions that are hard to understand in isolation. Limitation/qualification: however, reading alone may not be enough for learners with very limited vocabulary. Conclusion: therefore, combining reading with targeted vocabulary study may produce better results.</div></details>
 
 ### Part C — Logical Relationship
 
-10. What is being contrasted in: **The system is relatively expensive. However, it provides excellent performance.**?
-11. What logical relationship does "Therefore" create in: **The evidence is incomplete. Therefore, further research is required.**?
-12. What does "for example" make specific in: **Many factors affect learning. For example, sleep and stress can influence concentration.**?
+10. What is being contrasted in: **The system is relatively expensive. However, it provides excellent performance.**? <details class="answer"><summary>Show answer</summary><div class="answer-body">The system's cost is being contrasted with its performance: a negative (expensive) is set against a positive (excellent performance), signaling that despite the drawback, the system is still worth considering.</div></details>
+11. What logical relationship does "Therefore" create in: **The evidence is incomplete. Therefore, further research is required.**? <details class="answer"><summary>Show answer</summary><div class="answer-body">A cause-to-conclusion relationship: the incompleteness of the evidence is presented as the reason that further research follows as a necessary consequence.</div></details>
+12. What does "for example" make specific in: **Many factors affect learning. For example, sleep and stress can influence concentration.**? <details class="answer"><summary>Show answer</summary><div class="answer-body">It makes the general claim "many factors affect learning" concrete by naming two specific factors, sleep and stress, and specifying concentration as the particular aspect of learning they influence.</div></details>
 
 ### Part D — Advanced Reading
 
-13. State the central argument, in your own words, of this paragraph, and identify its main claim, supporting reason, addition, contrast, limitation, example/evidence, conclusion, and the author's final position: **Artificial intelligence can significantly improve workplace productivity by automating repetitive tasks and assisting employees with information processing. In addition, AI systems can analyze large amounts of data more rapidly than humans can. However, these benefits do not necessarily mean that organizations should automate every task. Some activities require human judgment, contextual understanding, and interpersonal communication. Moreover, poorly designed AI systems may introduce new errors or biases. Therefore, organizations should evaluate both the potential benefits and the limitations of AI before deciding which tasks to automate.**
+13. State the central argument, in your own words, of this paragraph, and identify its main claim, supporting reason, addition, contrast, limitation, example/evidence, conclusion, and the author's final position: **Artificial intelligence can significantly improve workplace productivity by automating repetitive tasks and assisting employees with information processing. In addition, AI systems can analyze large amounts of data more rapidly than humans can. However, these benefits do not necessarily mean that organizations should automate every task. Some activities require human judgment, contextual understanding, and interpersonal communication. Moreover, poorly designed AI systems may introduce new errors or biases. Therefore, organizations should evaluate both the potential benefits and the limitations of AI before deciding which tasks to automate.** <details class="answer"><summary>Show answer</summary><div class="answer-body">Central argument: AI offers real productivity benefits, but those benefits do not justify automating everything — organizations must weigh AI's strengths against its limits before deciding what to automate. Main claim: AI can significantly improve workplace productivity through automation and faster information processing. Supporting reason/evidence: it automates repetitive tasks and analyzes large amounts of data more rapidly than humans. Addition: AI systems can also process data faster than people (in addition). Contrast: however, these benefits do not mean every task should be automated. Limitation: some tasks need human judgment, contextual understanding, and interpersonal skill, and poorly designed AI may introduce errors or bias (moreover). Conclusion: therefore, organizations should weigh AI's benefits against its limitations before automating. Author's final position: AI adoption should be selective and evaluated case by case, not applied everywhere automatically.</div></details>
 
 Next: Lesson 21 — Inference, Implication & Reading Between the Lines.
 There we learn how to follow what an author says, what they imply, what

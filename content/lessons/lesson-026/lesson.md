@@ -690,19 +690,19 @@ expensive. However, these costs may be outweighed by the long-term
 benefits of faster adoption. Therefore, training should be treated as
 an investment rather than simply as an expense.**
 
-1. Identify the claim.
-2. Identify the reason.
-3. Identify the evidence.
-4. Identify the counterargument.
-5. Identify the rebuttal.
-6. Identify the conclusion.
+1. Identify the claim. <details class="answer"><summary>Show answer</summary><div class="answer-body">Companies should provide structured training when introducing new digital systems.</div></details>
+2. Identify the reason. <details class="answer"><summary>Show answer</summary><div class="answer-body">Employees often struggle when they encounter unfamiliar software.</div></details>
+3. Identify the evidence. <details class="answer"><summary>Show answer</summary><div class="answer-body">Research has found that structured training can improve adaptation.</div></details>
+4. Identify the counterargument. <details class="answer"><summary>Show answer</summary><div class="answer-body">Some managers argue that training is expensive.</div></details>
+5. Identify the rebuttal. <details class="answer"><summary>Show answer</summary><div class="answer-body">However, these costs may be outweighed by the long-term benefits of faster adoption.</div></details>
+6. Identify the conclusion. <details class="answer"><summary>Show answer</summary><div class="answer-body">Training should be treated as an investment rather than simply as an expense.</div></details>
 
 ### Part B — Claim Strength
 
 7. Which of these is the strongest claim, and why? **A.** Training may
    improve performance. **B.** Training often improves performance.
    **C.** Training improves performance. **D.** Training always
-   improves performance for every employee.
+   improves performance for every employee. <details class="answer"><summary>Show answer</summary><div class="answer-body">D is the strongest claim. "Always" and "every employee" make it universal, ruling out any exception, which means it also demands far more evidence to justify than A, B, or C, each of which leaves real room for exceptions.</div></details>
 
 ### Part C — Critical Reading
 
@@ -710,7 +710,7 @@ an investment rather than simply as an expense.**
    AI system and subsequently increased productivity. Therefore, AI
    systems increase productivity in all organizations.** Consider
    sample size, generalization, alternative explanations, causation,
-   and evidence strength in your answer.
+   and evidence strength in your answer. <details class="answer"><summary>Show answer</summary><div class="answer-body">This is a textbook overgeneralization: one company's experience, a sample size of exactly one, is stretched into a universal claim about "all organizations." It also assumes causation from mere sequence, ignoring alternative explanations such as staffing changes, seasonal demand, or new management that could equally explain the productivity rise. A single anecdote is weak evidence, far below what a claim this broad would require.</div></details>
 
 ### Part D — Advanced Argument Analysis
 
@@ -726,14 +726,14 @@ appropriate technology, and regular team interaction. Therefore, the
 effectiveness of remote work depends less on whether employees work
 remotely than on how the arrangement is designed and managed.**
 
-9. What is the main claim?
-10. What are the supporting reasons?
-11. What is the counterargument?
-12. What is the rebuttal?
-13. What is the qualification?
-14. What mechanism or solution does the author propose?
-15. What is the final conclusion?
-16. What is the author's overall position?
+9. What is the main claim? <details class="answer"><summary>Show answer</summary><div class="answer-body">That the effectiveness of remote work depends less on whether employees work remotely than on how the arrangement is designed and managed.</div></details>
+10. What are the supporting reasons? <details class="answer"><summary>Show answer</summary><div class="answer-body">Lower office costs, access to a wider talent pool, and the flexibility that employees may value in remote arrangements.</div></details>
+11. What is the counterargument? <details class="answer"><summary>Show answer</summary><div class="answer-body">Critics argue that remote work can reduce collaboration and make it more difficult for managers to coordinate teams.</div></details>
+12. What is the rebuttal? <details class="answer"><summary>Show answer</summary><div class="answer-body">Although these concerns are legitimate, they do not necessarily mean that remote work is ineffective.</div></details>
+13. What is the qualification? <details class="answer"><summary>Show answer</summary><div class="answer-body">"Although these concerns are legitimate" — the author accepts the coordination problem as real rather than dismissing it, while still narrowing rather than abandoning the main claim.</div></details>
+14. What mechanism or solution does the author propose? <details class="answer"><summary>Show answer</summary><div class="answer-body">Organizations can reduce these problems through clear communication procedures, appropriate technology, and regular team interaction.</div></details>
+15. What is the final conclusion? <details class="answer"><summary>Show answer</summary><div class="answer-body">The effectiveness of remote work depends less on the employees' location than on how the arrangement is designed and managed.</div></details>
+16. What is the author's overall position? <details class="answer"><summary>Show answer</summary><div class="answer-body">Cautiously favorable toward remote work: the author acknowledges the real coordination challenges critics raise but argues they are manageable, and ultimately reframes the whole debate away from location and toward management design.</div></details>
 
 Lesson 27 — Comparison, Contrast & Concession in Advanced English: a
 close look at although, even though, while, whereas, despite, unlike,

@@ -608,37 +608,37 @@ not yet a complete answer.
 
 ### Part A — Fact, Recommendation, Obligation, and Permission
 
-1. **Drivers must log their rest hours after every shift.** State the function of "must" here, and contrast it with how "should" would change the sentence's meaning.
-2. **Supervisors may approve overtime requests up to four hours.** Explain whether "may" here signals permission or possibility, and how you know.
-3. **The shipment should clear customs by Thursday.** Explain which of this lesson's three meanings of "should" applies here.
+1. **Drivers must log their rest hours after every shift.** State the function of "must" here, and contrast it with how "should" would change the sentence's meaning. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Must" states an obligation — a requirement that is not optional. Replacing it with "should" would soften the sentence into a recommendation, something drivers ought to do but are not strictly required to do.</div></details>
+2. **Supervisors may approve overtime requests up to four hours.** Explain whether "may" here signals permission or possibility, and how you know. <details class="answer"><summary>Show answer</summary><div class="answer-body">"May" here signals permission, not possibility, because the sentence grants supervisors the authority to approve overtime up to a stated limit. The context describes an authorized action with a defined boundary, not an uncertain future event.</div></details>
+3. **The shipment should clear customs by Thursday.** Explain which of this lesson's three meanings of "should" applies here. <details class="answer"><summary>Show answer</summary><div class="answer-body">This uses the expectation meaning of "should" — it predicts that the shipment is likely to clear customs by Thursday, not that clearing customs by Thursday is something anyone ought to do.</div></details>
 
 ### Part B — Policy Structure, Scope, and Exceptions
 
-4. **Contractors working on-site must complete a safety briefing before starting work.** Identify this rule's exact scope.
-5. **Refunds will be processed within five business days unless the item shows signs of damage.** Identify the main rule and the exception, and restate both as a mental IF/THEN rule.
-6. **The extended warranty applies to all purchases made online, provided that the product is registered within 30 days.** Identify the condition attached to this policy's scope.
+4. **Contractors working on-site must complete a safety briefing before starting work.** Identify this rule's exact scope. <details class="answer"><summary>Show answer</summary><div class="answer-body">The scope is contractors who work on-site specifically, not all contractors in general and not employees, so a contractor working remotely would fall outside this rule.</div></details>
+5. **Refunds will be processed within five business days unless the item shows signs of damage.** Identify the main rule and the exception, and restate both as a mental IF/THEN rule. <details class="answer"><summary>Show answer</summary><div class="answer-body">Main rule: refunds are processed within five business days. Exception: the item shows signs of damage. As an IF/THEN rule: if the item shows no damage, process the refund within five business days; if the item shows damage, the standard timeline no longer applies.</div></details>
+6. **The extended warranty applies to all purchases made online, provided that the product is registered within 30 days.** Identify the condition attached to this policy's scope. <details class="answer"><summary>Show answer</summary><div class="answer-body">The condition is that the product must be registered within 30 days of purchase. Without that registration, the extended warranty does not apply, even though the purchase itself was made online.</div></details>
 
 ### Part C — Certainty and Evidence Language
 
-7. **The new packaging is designed to reduce shipping damage.** Explain why this sentence does not yet prove shipping damage has actually decreased.
-8. **Independent testing has shown that the new packaging reduces shipping damage by 20%.** Rank this claim against the previous question's sentence on this lesson's certainty hierarchy.
-9. **The revised onboarding process should improve new-hire retention.** State what kind of claim this is, and what would need to be true for it to become a stronger, evidence-based claim.
+7. **The new packaging is designed to reduce shipping damage.** Explain why this sentence does not yet prove shipping damage has actually decreased. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Designed to reduce" states the packaging's intended purpose, not a measured outcome. The sentence tells us what the packaging was built to accomplish, not whether shipping damage has actually gone down.</div></details>
+8. **Independent testing has shown that the new packaging reduces shipping damage by 20%.** Rank this claim against the previous question's sentence on this lesson's certainty hierarchy. <details class="answer"><summary>Show answer</summary><div class="answer-body">This sentence sits much higher on the certainty hierarchy than "designed to reduce," since "has been shown to" is an evidence-supported claim backed by independent testing and a specific measured figure, rather than a bare statement of intended purpose.</div></details>
+9. **The revised onboarding process should improve new-hire retention.** State what kind of claim this is, and what would need to be true for it to become a stronger, evidence-based claim. <details class="answer"><summary>Show answer</summary><div class="answer-body">This is a recommendation-flavored expectation, predicting an outcome rather than reporting one. For it to become a stronger, evidence-based claim, the passage would need actual data showing retention improved after the revised process was implemented, such as a before-and-after comparison against a stated baseline.</div></details>
 
 ### Part D — Decisions and Trade-offs
 
-10. **The team could either hire a specialist contractor or train an existing employee.** Identify the two options, and propose one plausible criterion the author might use to evaluate them.
-11. **Outsourcing production would reduce costs but would also reduce quality control.** Identify the trade-off explicitly, naming both sides.
-12. **This is the fastest deployment method.** Explain why "fastest" still leaves other evaluation dimensions unaddressed, the way "best" does in this lesson.
+10. **The team could either hire a specialist contractor or train an existing employee.** Identify the two options, and propose one plausible criterion the author might use to evaluate them. <details class="answer"><summary>Show answer</summary><div class="answer-body">The two options are hiring a specialist contractor and training an existing employee. A plausible criterion is cost versus speed: a contractor may be faster to bring in but more expensive, while training an employee may be slower but cheaper in the long run.</div></details>
+11. **Outsourcing production would reduce costs but would also reduce quality control.** Identify the trade-off explicitly, naming both sides. <details class="answer"><summary>Show answer</summary><div class="answer-body">The trade-off is between cost and quality control: outsourcing lowers costs but weakens quality control, so the benefit on one dimension is gained only by sacrificing something on the other.</div></details>
+12. **This is the fastest deployment method.** Explain why "fastest" still leaves other evaluation dimensions unaddressed, the way "best" does in this lesson. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Fastest" only evaluates speed; it says nothing about cost, reliability, risk, or ease of implementation. A method that wins on speed could still lose badly on those other dimensions, exactly the way "best" needs its criterion named before it means anything specific.</div></details>
 
 ### Part E — Full Passage Analysis
 
 Return to this lesson's guided reading passage about customs
 declarations.
 
-13. State the passage's main rule and its scope in your own words.
-14. Identify every exception or conditional clause in the passage, and explain exactly what each one modifies.
-15. Explain the difference in function between "may still be accepted" and "should be referred to the compliance team."
-16. Explain why the passage's final sentence is a recommendation layered on top of the rule, rather than a restatement of the rule itself.
+13. State the passage's main rule and its scope in your own words. <details class="answer"><summary>Show answer</summary><div class="answer-body">The main rule is that customs declarations must be submitted electronically at least 24 hours before a vessel's arrival. The scope is all commercial vessels, except those covered by a designated humanitarian or emergency exemption.</div></details>
+14. Identify every exception or conditional clause in the passage, and explain exactly what each one modifies. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Provided that the delay does not affect berth scheduling" modifies the permission to accept late declarations, limiting exactly when that permission holds. "Except those under a designated humanitarian or emergency exemption" modifies the rule's scope, carving certain vessels out of the 24-hour requirement entirely.</div></details>
+15. Explain the difference in function between "may still be accepted" and "should be referred to the compliance team." <details class="answer"><summary>Show answer</summary><div class="answer-body">"May still be accepted" grants conditional permission — late declarations can be allowed, but only if berth scheduling is unaffected. "Should be referred" is a recommendation directed at whoever manages compliance, instructing them to send repeat offenders for review, rather than granting or restricting any permission to the agents themselves.</div></details>
+16. Explain why the passage's final sentence is a recommendation layered on top of the rule, rather than a restatement of the rule itself. <details class="answer"><summary>Show answer</summary><div class="answer-body">The final sentence does not restate the 24-hour requirement. It adds new guidance urging agents to submit even earlier than required and explicitly rejects relying on the grace period, which is a distinct piece of advice built on top of the existing rule, not a repetition of it.</div></details>
 
 Next: Lesson 65 — Advanced Reading of Evaluation, Criteria, Rankings &
 "Better/Worse" Judgments: how to treat every "better," "effective," and

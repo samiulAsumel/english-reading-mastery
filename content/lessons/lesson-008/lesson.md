@@ -519,40 +519,40 @@ kind of mistake worth making now, while it's cheap to correct.
 
 ### Part A — Identify the Relationship
 
-1. People practice regularly, so they improve. — what relationship?
-2. People improve because they practice regularly. — what relationship?
-3. Although the task is difficult, people can learn the skill. — what relationship?
-4. The evidence is limited. However, the theory remains interesting. — what relationship?
-5. People need practice. Therefore, regular practice is important. — what relationship?
+1. People practice regularly, so they improve. — what relationship? <details class="answer"><summary>Show answer</summary><div class="answer-body">Result — the cause, practicing regularly, is stated first, and so introduces its consequence, improving.</div></details>
+2. People improve because they practice regularly. — what relationship? <details class="answer"><summary>Show answer</summary><div class="answer-body">Reason — the result, improving, is stated first, and because introduces the explanation behind it.</div></details>
+3. Although the task is difficult, people can learn the skill. — what relationship? <details class="answer"><summary>Show answer</summary><div class="answer-body">Contrast — the difficulty does not prevent the outcome, which is what although signals.</div></details>
+4. The evidence is limited. However, the theory remains interesting. — what relationship? <details class="answer"><summary>Show answer</summary><div class="answer-body">Contrast — however sets the limited evidence against the theory's continuing interest.</div></details>
+5. People need practice. Therefore, regular practice is important. — what relationship? <details class="answer"><summary>Show answer</summary><div class="answer-body">Result or conclusion — therefore draws a conclusion from the statement that came before it.</div></details>
 
 ### Part B — Identify the Connector's Function
 
 For each connector, name the relationship it signals.
 
-6. and
-7. but
-8. because
-9. although
-10. therefore
-11. for example
-12. in addition
-13. however
+6. and <details class="answer"><summary>Show answer</summary><div class="answer-body">Addition — it adds one idea to another without implying any contrast, reason, or result.</div></details>
+7. but <details class="answer"><summary>Show answer</summary><div class="answer-body">Contrast — it signals that the second idea pulls against the first.</div></details>
+8. because <details class="answer"><summary>Show answer</summary><div class="answer-body">Reason — it introduces the explanation behind a result that is usually stated first.</div></details>
+9. although <details class="answer"><summary>Show answer</summary><div class="answer-body">Contrast — it signals a despite-relationship, where one idea holds true even given the other.</div></details>
+10. therefore <details class="answer"><summary>Show answer</summary><div class="answer-body">Result or conclusion — it draws a conclusion from what was just stated.</div></details>
+11. for example <details class="answer"><summary>Show answer</summary><div class="answer-body">Example — it introduces one concrete instance that illustrates a claim already made.</div></details>
+12. in addition <details class="answer"><summary>Show answer</summary><div class="answer-body">Addition — it adds a new supporting point to a claim already made, like furthermore or moreover.</div></details>
+13. however <details class="answer"><summary>Show answer</summary><div class="answer-body">Contrast — it is the more formal equivalent of but.</div></details>
 
 ### Part C — Analyze the Logic
 
-14. Read this paragraph, then identify its main claim, its example, its additional support, its contrast, and its conclusion: *People do not always make decisions based entirely on facts. However, emotions can also influence judgment. For example, people may make different choices when they are tired or stressed. In addition, previous experiences can affect the way people interpret information. Therefore, understanding decision-making requires more than simply examining the facts available to a person.*
+14. Read this paragraph, then identify its main claim, its example, its additional support, its contrast, and its conclusion: *People do not always make decisions based entirely on facts. However, emotions can also influence judgment. For example, people may make different choices when they are tired or stressed. In addition, previous experiences can affect the way people interpret information. Therefore, understanding decision-making requires more than simply examining the facts available to a person.* <details class="answer"><summary>Show answer</summary><div class="answer-body">Main claim: people do not always make decisions based entirely on facts. Contrast (However): emotions also influence judgment, pulling against a fact-only view of decisions. Example (For example): people may choose differently when tired or stressed. Additional support (In addition): previous experiences also affect how information is interpreted. Conclusion (Therefore): understanding decision-making requires more than examining the available facts.</div></details>
 
 ### Part D — Own Sentences
 
-15. Write one sentence using *because*.
-16. Write one sentence using *although*.
-17. Write two contrasting sentences using *however*.
-18. Write a cause and a conclusion joined by *therefore*.
-19. Write a claim followed by an example, using *for example*.
+15. Write one sentence using *because*. <details class="answer"><summary>Show answer</summary><div class="answer-body">Sample answer: The meeting was postponed because several team members were traveling.</div></details>
+16. Write one sentence using *although*. <details class="answer"><summary>Show answer</summary><div class="answer-body">Sample answer: Although the exam was difficult, most students passed it.</div></details>
+17. Write two contrasting sentences using *however*. <details class="answer"><summary>Show answer</summary><div class="answer-body">Sample answer: The company increased its marketing budget. However, sales did not improve.</div></details>
+18. Write a cause and a conclusion joined by *therefore*. <details class="answer"><summary>Show answer</summary><div class="answer-body">Sample answer: The bridge showed signs of structural damage. Therefore, engineers closed it to traffic.</div></details>
+19. Write a claim followed by an example, using *for example*. <details class="answer"><summary>Show answer</summary><div class="answer-body">Sample answer: Regular exercise improves overall health. For example, walking for thirty minutes a day can lower blood pressure.</div></details>
 
 ### Part E — Reading Skill
 
-20. Explain the logic of this sentence in your own, simple English — your explanation must name the contrast, the reason, and the main idea: *Although people may have access to a large amount of information, they may still make poor decisions because they do not always know which information is reliable.*
+20. Explain the logic of this sentence in your own, simple English — your explanation must name the contrast, the reason, and the main idea: *Although people may have access to a large amount of information, they may still make poor decisions because they do not always know which information is reliable.* <details class="answer"><summary>Show answer</summary><div class="answer-body">Main idea: people may still make poor decisions. Contrast (Although): having a large amount of information does not, by itself, prevent poor decisions, even though we might expect more information to lead to better ones. Reason (because): those poor decisions happen because people do not always know which of that information is reliable — the contrast tells us information access is not enough, and the reason explains exactly why it falls short.</div></details>
 
 Next: Lesson 9 — Adjectives & Adverbs: how to read description, emphasis,
 certainty, degree, and the author's tone.

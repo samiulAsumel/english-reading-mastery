@@ -360,33 +360,33 @@ mediator/moderator explicitly — a vague "they are being compared" or
 
 ### Part A — Comparison Dimensions
 
-1. **The new supplier is more reliable than the old one.** Identify the comparison dimension, and list two other plausible dimensions this claim says nothing about.
-2. **Unlike quarterly reporting, real-time dashboards allow managers to react to problems immediately.** Identify the comparison dimension being drawn here.
+1. **The new supplier is more reliable than the old one.** Identify the comparison dimension, and list two other plausible dimensions this claim says nothing about. <details class="answer"><summary>Show answer</summary><div class="answer-body">The stated dimension is reliability. The claim says nothing about cost or delivery speed, either of which the new supplier could plausibly be worse on even while being more reliable.</div></details>
+2. **Unlike quarterly reporting, real-time dashboards allow managers to react to problems immediately.** Identify the comparison dimension being drawn here. <details class="answer"><summary>Show answer</summary><div class="answer-body">The comparison dimension is speed of response, specifically how quickly a manager can notice and act on a problem after it occurs.</div></details>
 
 ### Part B — Contrast and Similarity Signals
 
-3. **The issue is not a lack of funding but a lack of coordinated planning.** Explain why this is reframing the problem, not simply contrasting two nouns.
-4. **Just as a thermostat regulates temperature by responding to deviations, a quality-control system regulates output by responding to defects.** Map this analogy's source and target domains, relationship by relationship.
+3. **The issue is not a lack of funding but a lack of coordinated planning.** Explain why this is reframing the problem, not simply contrasting two nouns. <details class="answer"><summary>Show answer</summary><div class="answer-body">This is reframing because it redirects where the reader should look for a solution, shifting attention from a resource problem to a process problem. Simply contrasting two nouns would just note that funding and planning are different things, but here the author is actively rejecting one category of explanation in favor of a different, more accurate one.</div></details>
+4. **Just as a thermostat regulates temperature by responding to deviations, a quality-control system regulates output by responding to defects.** Map this analogy's source and target domains, relationship by relationship. <details class="answer"><summary>Show answer</summary><div class="answer-body">Source domain: thermostat regulates temperature by detecting deviations from a set point and correcting them. Target domain: quality-control system regulates output by detecting defects and correcting them. Mapped relationship by relationship, thermostat corresponds to quality-control system, temperature corresponds to output, and deviation corresponds to defect, with both systems sharing the same underlying regulatory mechanism of detect-then-correct.</div></details>
 
 ### Part C — Conceptual Models
 
-5. **Employee morale affects productivity, and this effect is stronger in teams with supportive management.** Identify what is being mediated and what is being moderated, if either applies.
-6. **Higher advertising spend is associated with higher sales.** Explain why this describes a correlation model rather than a causal model, and what would need to be added to make it causal.
+5. **Employee morale affects productivity, and this effect is stronger in teams with supportive management.** Identify what is being mediated and what is being moderated, if either applies. <details class="answer"><summary>Show answer</summary><div class="answer-body">No pathway is named here, so mediation does not apply. Supportive management is a moderator, since it changes the strength of the morale-productivity relationship without sitting on the causal pathway itself.</div></details>
+6. **Higher advertising spend is associated with higher sales.** Explain why this describes a correlation model rather than a causal model, and what would need to be added to make it causal. <details class="answer"><summary>Show answer</summary><div class="answer-body">This is a correlation model because it only states that the two variables move together, using "associated with," without specifying any mechanism connecting them. To make it causal, the sentence would need to name the intermediate process, for example that higher advertising spend increases brand awareness, which in turn drives more purchases.</div></details>
 
 ### Part D — Model vs. Framework vs. Taxonomy, and In Principle vs. Practice
 
-7. Classify each of the following as a model, a framework, or a taxonomy: (a) "People, Process, Technology" as three analysis dimensions; (b) "Technology → Adoption → Performance"; (c) "Vehicles: cars, trucks, motorcycles."
-8. **In principle, remote work should increase flexibility for all employees. In practice, employees with caregiving responsibilities often report less flexibility, not more.** Explain the gap this passage identifies.
+7. Classify each of the following as a model, a framework, or a taxonomy: (a) "People, Process, Technology" as three analysis dimensions; (b) "Technology → Adoption → Performance"; (c) "Vehicles: cars, trucks, motorcycles." <details class="answer"><summary>Show answer</summary><div class="answer-body">(a) is a framework, since it organizes concepts for analysis without specifying how they causally relate. (b) is a model, since the arrows specify a direction of relationship among the elements. (c) is a taxonomy, since it organizes categories under a broader concept without claiming any relationship between them.</div></details>
+8. **In principle, remote work should increase flexibility for all employees. In practice, employees with caregiving responsibilities often report less flexibility, not more.** Explain the gap this passage identifies. <details class="answer"><summary>Show answer</summary><div class="answer-body">The gap is between remote work's theoretical capability, flexibility for everyone, and its actual real-world outcome for one specific group, where caregiving responsibilities blur the boundary between work and home life and can reduce rather than increase flexibility. This is exactly the "in principle" versus "in practice" pattern, showing that a design's intended benefit does not automatically apply uniformly to every user.</div></details>
 
 ### Part E — Full Passage Analysis
 
 Return to this lesson's guided reading passage about centralized
 inventory systems.
 
-9. State the passage's comparison dimension in your own words.
-10. Identify whether the passage describes mediation or moderation, and justify your answer.
-11. Using the model-reading algorithm from this lesson, list the model's elements, direction, and stated condition.
-12. Explain why summarizing this passage as "centralized systems are more consistent" would lose its actual, qualified argument.
+9. State the passage's comparison dimension in your own words. <details class="answer"><summary>Show answer</summary><div class="answer-body">The comparison dimension is consistency of stock data across locations, not speed, cost, or ease of use.</div></details>
+10. Identify whether the passage describes mediation or moderation, and justify your answer. <details class="answer"><summary>Show answer</summary><div class="answer-body">The passage describes moderation. Network reliability is not an intermediate step through which centralization produces consistency; instead, it changes how strongly that centralization-consistency relationship actually holds, weakening or removing the advantage when connectivity is unstable.</div></details>
+11. Using the model-reading algorithm from this lesson, list the model's elements, direction, and stated condition. <details class="answer"><summary>Show answer</summary><div class="answer-body">Elements: system design (centralized vs. decentralized) and consistency of stock counts. Direction: centralized design leads to better consistency, since a single source of truth eliminates conflicting counts. Stated condition: this advantage holds only if network connectivity to the central system is reliable, since instability forces warehouses onto outdated cached data.</div></details>
+12. Explain why summarizing this passage as "centralized systems are more consistent" would lose its actual, qualified argument. <details class="answer"><summary>Show answer</summary><div class="answer-body">That summary states the "in principle" claim as if it were unconditional, dropping the moderating condition of network reliability entirely. The passage's real argument is that centralization's consistency advantage is conditional, and can be undermined precisely when connectivity is unstable, which the flattened summary erases.</div></details>
 
 Next: Lesson 61 — Advanced Reading of Definitions, Distinctions,
 Categories & Conceptual Boundaries: how to read the precise boundary an

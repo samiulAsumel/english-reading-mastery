@@ -519,33 +519,33 @@ a single sentence pulled out of context.
 
 ### Part A — Chapter Structure and Prediction
 
-1. **Chapter title: "Why Remote Teams Struggle with Communication."** List five topics you would predict this chapter covers, based on the title alone.
-2. Explain the difference in scope between a paragraph, a section, and a chapter, using your own one-sentence definition for each.
+1. **Chapter title: "Why Remote Teams Struggle with Communication."** List five topics you would predict this chapter covers, based on the title alone. <details class="answer"><summary>Show answer</summary><div class="answer-body">Time-zone differences, the loss of nonverbal cues in text-based tools, fragmentation across too many communication platforms, unclear or undocumented expectations, and cultural or language differences among team members are all reasonable predictions from the title alone.</div></details>
+2. Explain the difference in scope between a paragraph, a section, and a chapter, using your own one-sentence definition for each. <details class="answer"><summary>Show answer</summary><div class="answer-body">A paragraph develops one central idea across a few sentences. A section develops one sub-question or sub-topic of a larger question, built from several paragraphs. A chapter develops one larger question or argument, built from several sections — three nested layers, each wider in scope than the one before it.</div></details>
 
 ### Part B — Information Hierarchy
 
-3. Explain why a chapter's central argument deserves more reading attention than its individual supporting examples, using this lesson's five-level hierarchy.
-4. **A port reduced billing errors after introducing automated software.** Explain why this sentence, on its own, is likely an example rather than the chapter's actual central claim.
+3. Explain why a chapter's central argument deserves more reading attention than its individual supporting examples, using this lesson's five-level hierarchy. <details class="answer"><summary>Show answer</summary><div class="answer-body">The central argument sits at Level 1, the top of the hierarchy, and is what the whole chapter's meaning depends on, while an individual example sits at Level 4, a concrete illustration of one instance of that argument. Forgetting one example costs little because other examples could replace it, but missing the central argument means missing the chapter's actual point.</div></details>
+4. **A port reduced billing errors after introducing automated software.** Explain why this sentence, on its own, is likely an example rather than the chapter's actual central claim. <details class="answer"><summary>Show answer</summary><div class="answer-body">It is a single, concrete, vivid case about one port and one outcome, not a general principle. The chapter's actual argument is likely broader and conditional, such as "automation can reduce errors under appropriate conditions," of which this port is just one supporting illustration.</div></details>
 
 ### Part C — Counterarguments and Turning Points
 
-5. **Some critics argue that automation creates more problems than it solves. However, this view often overlooks how implementation quality affects outcomes.** Identify the counterargument, the turning-point word, and the rebuttal.
-6. Explain why the word "but" often deserves more attention from a reader than the word "and."
+5. **Some critics argue that automation creates more problems than it solves. However, this view often overlooks how implementation quality affects outcomes.** Identify the counterargument, the turning-point word, and the rebuttal. <details class="answer"><summary>Show answer</summary><div class="answer-body">Counterargument: automation creates more problems than it solves. Turning-point word: "However." Rebuttal: that critical view often overlooks how implementation quality affects outcomes, implying the real problem is poor implementation, not automation itself.</div></details>
+6. Explain why the word "but" often deserves more attention from a reader than the word "and." <details class="answer"><summary>Show answer</summary><div class="answer-body">"But" signals a contrast, limitation, or correction of what came immediately before it, often marking exactly where the author's real position lies, while "and" simply adds another item of the same kind. Skimming past a "but" risks missing the qualification the author considered important enough to flag.</div></details>
 
 ### Part D — Chapter-Level Qualification and the Four-Pass Method
 
-7. A chapter opens with "automation improves efficiency" and closes with "however, these benefits depend on organizational conditions." State the chapter's actual, combined claim in one sentence.
-8. Explain why Pass 4 (precision) should come after, not before, Pass 1 (preview) when reading a new chapter.
+7. A chapter opens with "automation improves efficiency" and closes with "however, these benefits depend on organizational conditions." State the chapter's actual, combined claim in one sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">Automation can improve efficiency, but only under certain organizational conditions — the closing qualification does not cancel the opening claim, it completes it.</div></details>
+8. Explain why Pass 4 (precision) should come after, not before, Pass 1 (preview) when reading a new chapter. <details class="answer"><summary>Show answer</summary><div class="answer-body">Opening a dictionary on every unfamiliar word from the first sentence forces micro-level vocabulary work to compete with macro-level structure before either is secure. Previewing first gives the reader a structural frame — the chapter's spine — that makes precise, word-level reading far easier to place correctly later.</div></details>
 
 ### Part E — Full Chapter Analysis
 
 Return to this lesson's guided reading example about automated
 scheduling systems.
 
-9. Using only the section headings, write your own predicted one-sentence summary of the chapter before reading the confirmation paragraph again.
-10. Identify which section most likely contains the chapter's turning point, and explain your reasoning.
-11. Using the five-line chapter summary formula from this lesson, write a full summary of this chapter based only on its title and headings.
-12. Explain what carry-forward information from "Hidden Data Requirements" would most likely matter for understanding "What Successful Adopters Do Differently."
+9. Using only the section headings, write your own predicted one-sentence summary of the chapter before reading the confirmation paragraph again. <details class="answer"><summary>Show answer</summary><div class="answer-body">Automated scheduling systems promise efficiency gains but underperform in practice because of hidden data requirements and staff resistance, and since a purely technical fix is not enough, successful adopters address these organizational factors directly.</div></details>
+10. Identify which section most likely contains the chapter's turning point, and explain your reasoning. <details class="answer"><summary>Show answer</summary><div class="answer-body">The turning point most likely sits between "A Counterargument: Better Software Would Fix This" and "Why Software Alone Is Not Enough," because that is where the chapter raises and then rejects a purely technical solution, redirecting the whole argument toward organizational causes.</div></details>
+11. Using the five-line chapter summary formula from this lesson, write a full summary of this chapter based only on its title and headings. <details class="answer"><summary>Show answer</summary><div class="answer-body">Mainly about: why automated scheduling systems underperform despite their promise. Author argues: technology alone cannot fix the problem. Main reasons/evidence: hidden data requirements and staff resistance to the new system. Limitation/counterargument: the claim that better software would solve everything is raised and then rejected. Overall: successful adopters succeed by addressing organizational factors, not just the technology itself.</div></details>
+12. Explain what carry-forward information from "Hidden Data Requirements" would most likely matter for understanding "What Successful Adopters Do Differently." <details class="answer"><summary>Show answer</summary><div class="answer-body">Knowing exactly what data the system needs and why that data is often missing or poor quality would carry forward, since successful adopters likely differ precisely by how they solved that same data problem rather than ignoring it.</div></details>
 
 Next: Lesson 49 — Book-Level Reading: Understanding the Author's
 Overall Argument: how a whole book's chapters work together to build,

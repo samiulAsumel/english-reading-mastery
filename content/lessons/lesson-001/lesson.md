@@ -595,48 +595,48 @@ actually work out.
 
 ### Part A — Identify the Subject, Verb, Object, and Complement
 
-1. People learn.
-2. People study English.
-3. Good leaders understand people.
-4. Emotions influence decisions.
-5. She is intelligent.
-6. Successful people develop useful skills.
-7. Practice improves performance.
+1. People learn. <details class="answer"><summary>Show answer</summary><div class="answer-body">People is the Subject and learn is the Verb. There is no Object or Complement here, because the sentence is already complete with just Subject plus Verb.</div></details>
+2. People study English. <details class="answer"><summary>Show answer</summary><div class="answer-body">People is the Subject, study is the Verb, and English is the Object, since English is the thing being studied.</div></details>
+3. Good leaders understand people. <details class="answer"><summary>Show answer</summary><div class="answer-body">Good leaders is the Subject, understand is the Verb, and people is the Object, since people are what the leaders understand.</div></details>
+4. Emotions influence decisions. <details class="answer"><summary>Show answer</summary><div class="answer-body">Emotions is the Subject, influence is the Verb, and decisions is the Object, since decisions are what emotions influence.</div></details>
+5. She is intelligent. <details class="answer"><summary>Show answer</summary><div class="answer-body">She is the Subject, is is the Verb, and intelligent is the Complement, because intelligent describes what she is like rather than something she is acting on.</div></details>
+6. Successful people develop useful skills. <details class="answer"><summary>Show answer</summary><div class="answer-body">Successful people is the Subject, develop is the Verb, and useful skills is the Object, since useful skills are what they develop.</div></details>
+7. Practice improves performance. <details class="answer"><summary>Show answer</summary><div class="answer-body">Practice is the Subject, improves is the Verb, and performance is the Object, since performance is what practice improves.</div></details>
 
 ### Part B — Sentence Decoding
 
 Find the core sentence (Subject + Verb + Object/Complement) hiding inside
 each of these.
 
-8. Intelligent people carefully analyze complex problems.
-9. Good leaders often listen carefully to different opinions.
-10. People who understand human behavior communicate more effectively.
+8. Intelligent people carefully analyze complex problems. <details class="answer"><summary>Show answer</summary><div class="answer-body">The core is People analyze problems. Intelligent describes people, carefully describes how they analyze, and complex describes problems, so those three words are all decoration hanging off that small core sentence.</div></details>
+9. Good leaders often listen carefully to different opinions. <details class="answer"><summary>Show answer</summary><div class="answer-body">The core is Leaders listen, since listen does not take a direct object here. To different opinions is a prepositional phrase adding detail about what they listen to, while often and carefully describe how frequently and how carefully they listen.</div></details>
+10. People who understand human behavior communicate more effectively. <details class="answer"><summary>Show answer</summary><div class="answer-body">The core is People communicate. Who understand human behavior is a relative clause telling you exactly which people, and more effectively describes how they communicate.</div></details>
 
 ### Part C — Reading Comprehension
 
 Answer these using the paragraph from the Guided Reading Practice section
 above.
 
-11. What influences people's decisions?
-12. What do people often believe about their decisions?
-13. What can affect human judgment?
-14. How can understanding biases help people?
+11. What influences people's decisions? <details class="answer"><summary>Show answer</summary><div class="answer-body">According to the passage, decisions are influenced by many factors, including emotions, experiences, beliefs, and social environment.</div></details>
+12. What do people often believe about their decisions? <details class="answer"><summary>Show answer</summary><div class="answer-body">People often believe that they make completely rational decisions.</div></details>
+13. What can affect human judgment? <details class="answer"><summary>Show answer</summary><div class="answer-body">Unconscious biases can affect human judgment, even though people are usually not aware of them.</div></details>
+14. How can understanding biases help people? <details class="answer"><summary>Show answer</summary><div class="answer-body">Understanding these biases can help people recognize when their thinking might be skewed, which in turn helps them make better decisions.</div></details>
 
 ### Part D — Translation
 
 Translate the following into English.
 
-15. মানুষ প্রতিদিন সিদ্ধান্ত নেয়।
-16. Emotion মানুষের behavior-কে প্রভাবিত করে।
-17. ভালো leaders মানুষের কথা মনোযোগ দিয়ে শোনে।
-18. Practice performance উন্নত করে।
-19. মানুষ নতুন skill practice-এর মাধ্যমে develop করে।
+15. মানুষ প্রতিদিন সিদ্ধান্ত নেয়। <details class="answer"><summary>Show answer</summary><div class="answer-body">People make decisions every day.</div></details>
+16. Emotion মানুষের behavior-কে প্রভাবিত করে। <details class="answer"><summary>Show answer</summary><div class="answer-body">Emotion influences human behavior.</div></details>
+17. ভালো leaders মানুষের কথা মনোযোগ দিয়ে শোনে। <details class="answer"><summary>Show answer</summary><div class="answer-body">Good leaders listen to people carefully.</div></details>
+18. Practice performance উন্নত করে। <details class="answer"><summary>Show answer</summary><div class="answer-body">Practice improves performance.</div></details>
+19. মানুষ নতুন skill practice-এর মাধ্যমে develop করে। <details class="answer"><summary>Show answer</summary><div class="answer-body">People develop new skills through practice.</div></details>
 
 ### Part E — Write Your Own
 
-20. Write one sentence using only Subject + Verb.
-21. Write one sentence using Subject + Verb + Object.
-22. Write one sentence using Subject + Verb + Complement.
+20. Write one sentence using only Subject + Verb. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: Birds fly. This is a complete sentence made of nothing but a Subject and a Verb.</div></details>
+21. Write one sentence using Subject + Verb + Object. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: Students read books. Students is the Subject, read is the Verb, and books is the Object.</div></details>
+22. Write one sentence using Subject + Verb + Complement. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: The manager seems confident. The manager is the Subject, seems is the Verb, and confident is the Complement describing the subject.</div></details>
 
 Next: Lesson 2 — Sentence Structure: How to Read Long English Sentences.
 You now have the four building blocks; the next lesson shows you how

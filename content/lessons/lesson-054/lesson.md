@@ -411,33 +411,33 @@ understood.
 
 ### Part A — Basic Process Structure
 
-1. **When a user submits a login form, the system first checks whether the username exists, then verifies the password if it does.** Identify the trigger, and the two sequential checks that follow it.
-2. Explain the difference between a process and a procedure, using your own one-sentence example of each.
+1. **When a user submits a login form, the system first checks whether the username exists, then verifies the password if it does.** Identify the trigger, and the two sequential checks that follow it. <details class="answer"><summary>Show answer</summary><div class="answer-body">Trigger: the user submits the login form. First check: whether the username exists. Second check, dependent on the first succeeding: whether the password is correct.</div></details>
+2. Explain the difference between a process and a procedure, using your own one-sentence example of each. <details class="answer"><summary>Show answer</summary><div class="answer-body">A process describes how a system behaves on its own, for example "the server validates the token before granting access." A procedure describes what a person must do, for example "click Login, enter your username, then enter your password." The process is automatic system behavior; the procedure is a set of instructions for a human.</div></details>
 
 ### Part B — Conditions and Dependencies
 
-3. **The report cannot be generated until all source data has been validated.** Explain why "until" here signals a dependency rather than plain sequence.
-4. **The discount applies unless the customer has already used a promotional code this month.** Identify the default outcome and the exception condition.
+3. **The report cannot be generated until all source data has been validated.** Explain why "until" here signals a dependency rather than plain sequence. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Until" establishes validation as a required prerequisite gate for report generation, not just an earlier step in time. Without validation complete, the report literally cannot be produced, which is a stronger claim than simply saying one event happens before another.</div></details>
+4. **The discount applies unless the customer has already used a promotional code this month.** Identify the default outcome and the exception condition. <details class="answer"><summary>Show answer</summary><div class="answer-body">Default outcome: the discount applies. Exception condition: the customer has already used a promotional code this month, in which case the discount does not apply.</div></details>
 
 ### Part C — Mechanism and Passive Voice
 
-5. **The platform reduces downtime by automatically failing over to a backup server.** Identify the stated result and its mechanism.
-6. **The transaction is logged, and the balance is updated.** Explain why passive voice is used here, and what the correct reading focus is (the agent, or the stages?).
+5. **The platform reduces downtime by automatically failing over to a backup server.** Identify the stated result and its mechanism. <details class="answer"><summary>Show answer</summary><div class="answer-body">Result: reduced downtime. Mechanism: automatically failing over to a backup server — the specific means by which that result is achieved.</div></details>
+6. **The transaction is logged, and the balance is updated.** Explain why passive voice is used here, and what the correct reading focus is (the agent, or the stages?). <details class="answer"><summary>Show answer</summary><div class="answer-body">Passive voice is used because the focus is on the stages themselves — the transaction being logged, the balance being updated — not on who or what performs those actions. The correct reading focus is the stages, asking what is happening to what, not who is doing it.</div></details>
 
 ### Part D — Sequence vs. Causation, and Feedback
 
-7. **After the new caching layer was added, page load times decreased.** Explain why this sentence, on its own, does not prove that the caching layer caused the improvement.
-8. **User engagement data is used to refine content recommendations, which affects future engagement and generates new data.** Identify this as a linear, conditional, or cyclic process, and explain your reasoning.
+7. **After the new caching layer was added, page load times decreased.** Explain why this sentence, on its own, does not prove that the caching layer caused the improvement. <details class="answer"><summary>Show answer</summary><div class="answer-body">"After" only establishes temporal sequence — the caching layer came first, the decrease came second — it does not rule out other changes happening at the same time, such as reduced traffic or a server upgrade. A causal claim needs more evidence than mere order of events.</div></details>
+8. **User engagement data is used to refine content recommendations, which affects future engagement and generates new data.** Identify this as a linear, conditional, or cyclic process, and explain your reasoning. <details class="answer"><summary>Show answer</summary><div class="answer-body">This is a cyclic process. Engagement data feeds into recommendations, which affect future engagement, which generates new data that again feeds into recommendations — a continuous loop with no stated ending point, rather than a straight line or a simple branch.</div></details>
 
 ### Part E — Full Passage Analysis
 
 Return to this lesson's guided reading passage about the return
 request process.
 
-9. Identify both decision points in the passage, and state the branch each one produces.
-10. Explain where a human-in-the-loop element appears in this process, and why it exists.
-11. Using the input/output table format from this lesson, build a table for this return-request process with at least four stages.
-12. Compress the entire passage into one flow sentence, in the style of this lesson's "input → validate → …" examples.
+9. Identify both decision points in the passage, and state the branch each one produces. <details class="answer"><summary>Show answer</summary><div class="answer-body">First decision: is the item within the eligible return window? No leads to automatic rejection and customer notification; yes leads onward. Second decision: what is the item's condition code? Damaged items are routed to a manual inspection queue; unused items proceed directly to refund processing.</div></details>
+10. Explain where a human-in-the-loop element appears in this process, and why it exists. <details class="answer"><summary>Show answer</summary><div class="answer-body">The human-in-the-loop element is the manual inspection queue for items marked as damaged. It exists because assessing damage, and deciding whether a return is legitimate, likely requires human judgment the automated system cannot safely make on its own.</div></details>
+11. Using the input/output table format from this lesson, build a table for this return-request process with at least four stages. <details class="answer"><summary>Show answer</summary><div class="answer-body">Stage 1 — Input: return request; Action: check return window; Output: eligible or not eligible. Stage 2 — Input: eligible request; Action: check item condition code; Output: damaged or unused. Stage 3 — Input: damaged item; Action: route to manual inspection; Output: inspector's approve/reject decision. Stage 4 — Input: unused item or approved inspection; Action: process refund; Output: payment credited and status updated to "refunded."</div></details>
+12. Compress the entire passage into one flow sentence, in the style of this lesson's "input → validate → …" examples. <details class="answer"><summary>Show answer</summary><div class="answer-body">Return request received → check return window (reject and notify if ineligible) → check item condition → damaged items go to manual inspection while unused items go straight to refund processing → credit payment and update status to "refunded."</div></details>
 
 Next: Lesson 55 — Advanced Reading of Data, Charts, Tables &
 Quantitative Language: reading numbers, percentages, and statistics as

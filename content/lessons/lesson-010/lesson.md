@@ -495,29 +495,29 @@ chose and why — that reasoning is exactly what's being tested.
 
 ### Part A — Identify the Reference
 
-1. The manager reviewed the report. He found several errors. — He → ?
-2. The company introduced a new system. It improved efficiency. — It → ?
-3. Researchers interviewed several participants. They recorded their responses. — They → ? their → ?
-4. The study produced unexpected results. These surprised the researchers. — These → ?
-5. People often make decisions emotionally. This can lead to mistakes. — This → ?
+1. The manager reviewed the report. He found several errors. — He → ? <details class="answer"><summary>Show answer</summary><div class="answer-body">He refers to the manager — the only singular, human candidate available.</div></details>
+2. The company introduced a new system. It improved efficiency. — It → ? <details class="answer"><summary>Show answer</summary><div class="answer-body">It refers to the new system — substituting company gives "the company improved efficiency," which is possible, but the logical subject that would directly improve efficiency is the system just introduced.</div></details>
+3. Researchers interviewed several participants. They recorded their responses. — They → ? their → ? <details class="answer"><summary>Show answer</summary><div class="answer-body">They refers to the researchers, since researchers are the ones who record data. Their refers to the participants, since it is the participants' responses being recorded.</div></details>
+4. The study produced unexpected results. These surprised the researchers. — These → ? <details class="answer"><summary>Show answer</summary><div class="answer-body">These refers to the unexpected results — a plural noun matching the plural pronoun.</div></details>
+5. People often make decisions emotionally. This can lead to mistakes. — This → ? <details class="answer"><summary>Show answer</summary><div class="answer-body">This refers to the whole preceding idea — the act of making decisions emotionally — not to any single noun in the sentence.</div></details>
 
 ### Part B — Relative Pronouns
 
-6. The researcher who conducted the experiment published the results. — who → which noun does it refer to?
-7. The study that examined social behavior produced useful evidence. — that → which noun does it refer to?
-8. The researcher whose work influenced the field received an award. — whose → what relationship does it show?
+6. The researcher who conducted the experiment published the results. — who → which noun does it refer to? <details class="answer"><summary>Show answer</summary><div class="answer-body">Who refers to the researcher, introducing a relative clause that identifies which researcher is meant: the one who conducted the experiment.</div></details>
+7. The study that examined social behavior produced useful evidence. — that → which noun does it refer to? <details class="answer"><summary>Show answer</summary><div class="answer-body">That refers to the study, introducing a relative clause that specifies which study is meant: the one that examined social behavior.</div></details>
+8. The researcher whose work influenced the field received an award. — whose → what relationship does it show? <details class="answer"><summary>Show answer</summary><div class="answer-body">Whose shows possession, linking the researcher to their work — it means the work belonging to that researcher was what influenced the field.</div></details>
 
 ### Part C — Decode the Sentence
 
-9. **The researchers developed a new method, which they tested on several participants before they used it in a larger study.** Identify: *which* → ? *they* (first) → ? *they* (second) → ? *it* → ? — and check carefully whether the two occurrences of *they* share the same reference.
+9. **The researchers developed a new method, which they tested on several participants before they used it in a larger study.** Identify: *which* → ? *they* (first) → ? *they* (second) → ? *it* → ? — and check carefully whether the two occurrences of *they* share the same reference. <details class="answer"><summary>Show answer</summary><div class="answer-body">Which refers to the new method. Both occurrences of they refer to the researchers — the subject stays the same across the whole sentence, they are the ones testing and later using the method. It also refers to the new method, matching which. So the sentence means: the researchers developed a new method; the researchers tested that method on participants; the researchers then used that same method in a larger study.</div></details>
 
 ### Part D — Advanced Reading
 
-10. Identify every pronoun's reference in this paragraph: *A company recently changed its hiring process because it wanted to attract more qualified employees. The new process requires applicants to complete several assessments before they receive an interview. These are designed to measure skills that are important for the position. Although this approach may require more time, it could help the company identify candidates who are better suited to the job.* Find: *its* → ? *it* → ? *they* → ? *These* → ? *that* → ? *this approach* → ? *who* → ?
+10. Identify every pronoun's reference in this paragraph: *A company recently changed its hiring process because it wanted to attract more qualified employees. The new process requires applicants to complete several assessments before they receive an interview. These are designed to measure skills that are important for the position. Although this approach may require more time, it could help the company identify candidates who are better suited to the job.* Find: *its* → ? *it* → ? *they* → ? *These* → ? *that* → ? *this approach* → ? *who* → ? <details class="answer"><summary>Show answer</summary><div class="answer-body">Its refers to the company (its hiring process). It (wanted) also refers to the company. They refers to the applicants, who receive the interview. These refers to the several assessments just mentioned. That refers to skills, specifying which skills matter. This approach refers to the whole new hiring process — requiring assessments before an interview. Who refers to candidates, identifying which candidates the company hopes to find.</div></details>
 
 ### Part E — Deep Reading
 
-11. Explain the complete reference structure of this sentence, then write its main idea in your own, simple English: *People who regularly receive useful feedback tend to improve their performance because it helps them recognize weaknesses that they might otherwise overlook.* Identify: *who* → ? *it* → ? *them* → ? *that* → ? *they* → ?
+11. Explain the complete reference structure of this sentence, then write its main idea in your own, simple English: *People who regularly receive useful feedback tend to improve their performance because it helps them recognize weaknesses that they might otherwise overlook.* Identify: *who* → ? *it* → ? *them* → ? *that* → ? *they* → ? <details class="answer"><summary>Show answer</summary><div class="answer-body">Who refers to people, specifying which people the sentence is about. It refers to the act of regularly receiving useful feedback, not to any single noun. Them and they both refer back to people. That refers to weaknesses. Main idea in simple English: people who get regular, useful feedback tend to perform better, because the feedback helps them notice weaknesses they might otherwise have missed.</div></details>
 
 Next: Lesson 11 — Relative Clauses & Advanced Sentence Decoding: *who,
 which, that, whose, where, when,* and nested clauses — how an author

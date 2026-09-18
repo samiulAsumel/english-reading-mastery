@@ -572,19 +572,19 @@ whole answer.
 
 Identify the author's certainty/stance in each sentence.
 
-1. The evidence clearly demonstrates that the policy was effective.
-2. The findings suggest that the policy may have improved efficiency.
-3. The policy appears to have had a limited effect.
-4. The policy does not necessarily improve outcomes.
+1. The evidence clearly demonstrates that the policy was effective. <details class="answer"><summary>Show answer</summary><div class="answer-body">Strong, definite certainty. "Clearly demonstrates" places this at the top of the certainty ladder, showing full author confidence in the claim.</div></details>
+2. The findings suggest that the policy may have improved efficiency. <details class="answer"><summary>Show answer</summary><div class="answer-body">Highly qualified. Two hedges are stacked here — "suggest" and "may have" — making this a deliberately cautious, weakly committed claim.</div></details>
+3. The policy appears to have had a limited effect. <details class="answer"><summary>Show answer</summary><div class="answer-body">Moderate certainty. "Appears to" signals a cautious interpretation of available evidence rather than a confirmed fact, and "limited" further scopes down the size of the claimed effect.</div></details>
+4. The policy does not necessarily improve outcomes. <details class="answer"><summary>Show answer</summary><div class="answer-body">This is a blocked inference rather than a certainty claim about a specific outcome: the author is explicitly denying that improvement is guaranteed, without asserting it never happens.</div></details>
 
 ### Part B — Attribution
 
 5. **Researchers argue that remote work improves productivity.** Whose
-   position is this?
+   position is this? <details class="answer"><summary>Show answer</summary><div class="answer-body">The researchers' position. The passage's author is reporting this claim through attribution, not necessarily adopting it as their own established view.</div></details>
 6. **The evidence indicates that remote work improves productivity.**
-   What is the source of this claim?
+   What is the source of this claim? <details class="answer"><summary>Show answer</summary><div class="answer-body">The evidence itself. "Indicates" attributes the claim directly to what the data show, rather than to a person or group's stated opinion.</div></details>
 7. **Critics claim that remote work reduces collaboration.** Is the
-   author necessarily accepting this claim?
+   author necessarily accepting this claim? <details class="answer"><summary>Show answer</summary><div class="answer-body">No. "Critics claim" is attribution marking this as the critics' position, and "claim" itself carries a slightly skeptical, distant tone, so the author is not automatically endorsing it as established fact.</div></details>
 
 ### Part C — Critical Reading, Part One
 
@@ -599,18 +599,18 @@ appear to have considerable potential, although their effectiveness is
 likely to depend on the type of work and the way the technology is
 implemented.**
 
-8. Identify the evidence and the qualification in this passage.
+8. Identify the evidence and the qualification in this passage. <details class="answer"><summary>Show answer</summary><div class="answer-body">Evidence: several studies have found that AI-assisted tools can improve employee productivity. Qualification: most of these studies focused on highly skilled workers, so the findings cannot necessarily be generalized to all occupations.</div></details>
 
-9. Identify the alternative explanation the passage raises.
+9. Identify the alternative explanation the passage raises. <details class="answer"><summary>Show answer</summary><div class="answer-body">That the observed productivity gains may partly result from differences in how employees use the tools, rather than from the tools' inherent effect.</div></details>
 
 ### Part D — Critical Reading, Part Two
 
 Continue with the same paragraph from Part C.
 
-10. How certain is the author, overall, about AI tools' effectiveness?
-11. What is the author's final position?
+10. How certain is the author, overall, about AI tools' effectiveness? <details class="answer"><summary>Show answer</summary><div class="answer-body">Moderately and cautiously positive. "Appear to have considerable potential" signals real but limited confidence, well short of certainty.</div></details>
+11. What is the author's final position? <details class="answer"><summary>Show answer</summary><div class="answer-body">AI-assisted tools show genuine promise for productivity, but their actual effectiveness depends on the type of work and how the technology is implemented — a qualified positive position, not a blanket endorsement.</div></details>
 12. Would you describe this final position as strong, moderate, or
-    highly qualified? Justify your answer.
+    highly qualified? Justify your answer. <details class="answer"><summary>Show answer</summary><div class="answer-body">Highly qualified. The author stacks a generalizability limit (mostly highly skilled workers), an alternative explanation (differences in tool usage), and a closing "although" clause tying effectiveness to context — three separate hedges layered onto a single claim.</div></details>
 
 ### Part E — Deep Reading
 
@@ -621,10 +621,10 @@ risks, the available evidence indicates that it can provide substantial
 long-term benefits when implementation is carefully managed.**
 
 13. Quote the exact phrase that marks the author's final position as
-    qualified rather than absolute.
+    qualified rather than absolute. <details class="answer"><summary>Show answer</summary><div class="answer-body">"When implementation is carefully managed" — this condition prevents the positive claim from standing as absolute, tying the promised benefit to a specific requirement being met.</div></details>
 14. State the author's overall stance toward automation in one
     sentence, being careful not to overstate it beyond what the
-    passage actually supports.
+    passage actually supports. <details class="answer"><summary>Show answer</summary><div class="answer-body">The author's stance is cautiously positive: automated billing carries significant costs and risks, but the available evidence indicates it can deliver substantial long-term benefits, provided implementation is carefully managed.</div></details>
 
 Lesson 29 — Cause, Evidence, Explanation & Alternative Explanations:
 combining this lesson's stance-tracking skill with Lesson 24's causal

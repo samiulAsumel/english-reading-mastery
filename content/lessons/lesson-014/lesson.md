@@ -495,32 +495,32 @@ most natural mistakes — noticing it is more useful than avoiding it.
 
 Say whether the *-ing* or *to + verb* form is a gerund, an infinitive, part of a continuous verb, or a participle.
 
-1. Reading improves comprehension.
-2. She is reading a book.
-3. I want to understand the article.
-4. He improved his English by reading regularly.
-5. The students studying in the library were quiet.
+1. Reading improves comprehension. <details class="answer"><summary>Show answer</summary><div class="answer-body">Gerund — Reading stands in subject position, functioning as a noun naming the activity, with no be verb attached to it.</div></details>
+2. She is reading a book. <details class="answer"><summary>Show answer</summary><div class="answer-body">Part of a continuous verb — is reading is the Present Continuous main verb, with is directly in front of the -ing form.</div></details>
+3. I want to understand the article. <details class="answer"><summary>Show answer</summary><div class="answer-body">Infinitive — to understand completes the meaning of the verb want, following the common verb + infinitive pattern.</div></details>
+4. He improved his English by reading regularly. <details class="answer"><summary>Show answer</summary><div class="answer-body">Gerund — reading follows the preposition by, taking the noun-like -ing form that a preposition requires before a verb idea.</div></details>
+5. The students studying in the library were quiet. <details class="answer"><summary>Show answer</summary><div class="answer-body">Participle — studying in the library describes students, functioning like an adjective (the students who were studying), while were quiet is the sentence's actual main verb.</div></details>
 
 ### Part B — Function
 
-6. What is the function of *to improve* in: "I read English books to improve my vocabulary."?
-7. What is the function of *reading* in: "Reading English books improves vocabulary."?
-8. Why is *reading* a gerund in: "You can improve by reading English books."?
+6. What is the function of *to improve* in: "I read English books to improve my vocabulary."? <details class="answer"><summary>Show answer</summary><div class="answer-body">It states the purpose of the reading — it answers why the person reads English books, not what they read or how.</div></details>
+7. What is the function of *reading* in: "Reading English books improves vocabulary."? <details class="answer"><summary>Show answer</summary><div class="answer-body">It is a gerund functioning as the subject of the sentence — the whole phrase Reading English books names the activity that improves vocabulary.</div></details>
+8. Why is *reading* a gerund in: "You can improve by reading English books."? <details class="answer"><summary>Show answer</summary><div class="answer-body">Because it directly follows the preposition by, and a preposition needs a noun-like form after it — the -ing form supplies that, naming reading as the method of improving.</div></details>
 
 ### Part C — Decode
 
-9. Find the main structure of: **The ability to understand complex sentences requires regular practice.**
-10. How many *to + verb* forms are in: **Researchers attempted to determine whether participants were able to recognize patterns.**?
+9. Find the main structure of: **The ability to understand complex sentences requires regular practice.** <details class="answer"><summary>Show answer</summary><div class="answer-body">Main subject: the ability, with to understand complex sentences as an infinitive specifying which ability is meant. Main verb: requires. Object: regular practice. Core: The ability requires practice.</div></details>
+10. How many *to + verb* forms are in: **Researchers attempted to determine whether participants were able to recognize patterns.**? <details class="answer"><summary>Show answer</summary><div class="answer-body">Two: to determine (completing attempted) and to recognize (completing were able).</div></details>
 
 ### Part D — Reading
 
-11. Find the core idea of: **By practicing regularly, learners can develop the ability to understand complex English sentences without translating every word.** Identify: the *by + V-ing* phrase, the infinitive, the *without + V-ing* phrase, the main subject, and the main verb.
+11. Find the core idea of: **By practicing regularly, learners can develop the ability to understand complex English sentences without translating every word.** Identify: the *by + V-ing* phrase, the infinitive, the *without + V-ing* phrase, the main subject, and the main verb. <details class="answer"><summary>Show answer</summary><div class="answer-body">Core idea: learners can develop the ability to understand complex English sentences. By plus V-ing phrase: by practicing regularly, naming the method. Infinitive: to understand complex English sentences, specifying which ability is meant. Without plus V-ing phrase: without translating every word, describing the condition under which this happens. Main subject: learners. Main verb: can develop.</div></details>
 
 ### Part E — Create
 
-12. Write one sentence using a gerund as the subject.
-13. Write one sentence using a verb + infinitive pattern (want to, decide to, or similar).
-14. Write one sentence using preposition + gerund (by, without, or after + V-ing).
+12. Write one sentence using a gerund as the subject. <details class="answer"><summary>Show answer</summary><div class="answer-body">Sample answer: Reading academic articles regularly builds vocabulary quickly.</div></details>
+13. Write one sentence using a verb + infinitive pattern (want to, decide to, or similar). <details class="answer"><summary>Show answer</summary><div class="answer-body">Sample answer: She decided to study abroad next year.</div></details>
+14. Write one sentence using preposition + gerund (by, without, or after + V-ing). <details class="answer"><summary>Show answer</summary><div class="answer-body">Sample answer: He improved his writing by revising each draft carefully.</div></details>
 
 Next: Lesson 15 — Participles & Reduced Clauses: "The man standing
 there…", "The information collected…", "Having completed the study…".

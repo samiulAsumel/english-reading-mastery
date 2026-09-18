@@ -706,19 +706,19 @@ everything in a single read.
 
 1. **The company introduced a new software platform. The platform
    reduced processing time.** In the second sentence, what is the
-   given information, and what is the new information?
+   given information, and what is the new information? <details class="answer"><summary>Show answer</summary><div class="answer-body">Given information: "the platform," since it refers back to the new software platform already introduced in the first sentence. New information: "reduced processing time," the fact this sentence adds about that platform.</div></details>
 2. **Researchers conducted a large study. This study produced several
-   unexpected findings.** Is *"this study"* given or new information?
+   unexpected findings.** Is *"this study"* given or new information? <details class="answer"><summary>Show answer</summary><div class="answer-body">Given information. "This study" recycles the study already named in the first sentence rather than introducing anything new.</div></details>
 3. In the same sentence, is *"unexpected findings"* given or new
-   information?
+   information? <details class="answer"><summary>Show answer</summary><div class="answer-body">New information. The findings have not been mentioned before this point, so they are what the sentence is introducing.</div></details>
 
 ### Part B — Topic and Focus
 
 4. **The new system significantly reduced billing errors.** Identify
-   the topic, the comment, and the focus.
+   the topic, the comment, and the focus. <details class="answer"><summary>Show answer</summary><div class="answer-body">Topic: the new system, the entity the sentence is about. Comment: significantly reduced billing errors, what is said about that topic. Focus: reduced billing errors, since that specific, noteworthy outcome carries the sentence's most important new information.</div></details>
 5. **It was the new system that reduced billing errors.** Where does
    the special emphasis fall in this sentence, and how does that
-   compare with question 4's plain version?
+   compare with question 4's plain version? <details class="answer"><summary>Show answer</summary><div class="answer-body">The cleft structure puts the emphasis squarely on "the new system," isolating it as specifically responsible for the reduction, as if answering the question "what exactly caused this?" In question 4's plain version, the sentence simply moves from topic to comment, with the reduction in billing errors carrying most of the new, noteworthy information; here the emphasis shifts onto the agent itself.</div></details>
 
 ### Part C — Information Flow
 
@@ -726,7 +726,7 @@ everything in a single read.
    a new platform. The platform collected customer data. This data was
    analyzed automatically. The analysis revealed several patterns.
    These patterns helped managers improve their decisions.** (Format:
-   *______ → ______ → ______ → ______ → ______*)
+   *______ → ______ → ______ → ______ → ______*) <details class="answer"><summary>Show answer</summary><div class="answer-body">A new platform → the platform's customer data → this data (now analyzed) → several patterns → managers' improved decisions. Each sentence's new information becomes the next sentence's given topic, carrying the paragraph forward.</div></details>
 
 ### Part D — Advanced Analysis
 
@@ -740,11 +740,11 @@ provide adequate support may reduce these difficulties. This support
 can include training, technical assistance, and clear implementation
 procedures.**
 
-7. Sentence 1.
-8. Sentence 2.
-9. Sentence 3.
-10. Sentence 4.
-11. Sentence 5.
+7. Sentence 1. <details class="answer"><summary>Show answer</summary><div class="answer-body">Topic: digital transformation. Given: none, since this opens the paragraph. New: it has changed how many organizations operate. No special focus marker is present yet.</div></details>
+8. Sentence 2. <details class="answer"><summary>Show answer</summary><div class="answer-body">Topic: these changes, given information recycled from sentence 1's "digital transformation." New: employees often need to learn new systems and processes.</div></details>
+9. Sentence 3. <details class="answer"><summary>Show answer</summary><div class="answer-body">Topic: such requirements, given information referring back to "learning new systems and processes." New: this can create short-term difficulties. Focus, signalled by "particularly": when training resources are limited.</div></details>
+10. Sentence 4. <details class="answer"><summary>Show answer</summary><div class="answer-body">Given: these difficulties, carried over from sentence 3. New/topic: organizations that provide adequate support; new information: such organizations may reduce these difficulties. "However" signals a shift toward a qualifying, more hopeful direction.</div></details>
+11. Sentence 5. <details class="answer"><summary>Show answer</summary><div class="answer-body">Topic: this support, given information recycled from "adequate support" in sentence 4. New: the specific list of what that support can include — training, technical assistance, and clear implementation procedures.</div></details>
 
 ### Part E — Deep Reading
 
@@ -758,12 +758,12 @@ technology itself that guarantees better decisions; rather, the quality
 of the information used and the way the technology is applied are
 critical.**
 
-12. Trace the paragraph's information flow from sentence to sentence.
+12. Trace the paragraph's information flow from sentence to sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">AI in business (new) becomes these technologies (given) → automating tasks and supporting decisions (new) becomes such capabilities (given) → new responsibilities for managers (new) becomes, via "in particular," the specific responsibility of evaluating AI reliability (new) → the closing sentence then redirects that new information onto information quality and how the technology is applied.</div></details>
 13. Explain what *"these technologies," "such capabilities," "in
     particular,"* and the closing *"it is not X that…; rather, Y…"*
     structure each contribute to how the author organizes and
-    emphasizes information.
-14. State the paragraph's central argument in your own words.
+    emphasizes information. <details class="answer"><summary>Show answer</summary><div class="answer-body">"These technologies" recycles "artificial intelligence" as given information so the sentence can move straight to new claims about automation and decision support. "Such capabilities" performs the same handoff one sentence later, turning the previous sentence's new information into this sentence's given topic. "In particular" narrows the general claim about new responsibilities down to the one responsibility the author wants highlighted: evaluating reliability. The closing cleft structure explicitly rejects technology itself as the guarantor of better decisions and redirects the reader's focus onto information quality and careful application, which is the sentence's true focus.</div></details>
+14. State the paragraph's central argument in your own words. <details class="answer"><summary>Show answer</summary><div class="answer-body">AI can automate routine work and support complex decisions, which expands what managers are responsible for, but adopting the technology does not by itself guarantee better decisions; what actually matters is the quality of the information behind it and how carefully it is applied.</div></details>
 
 Lesson 26 moves into **Argument Structure — Claims, Reasons, Evidence,
 Counterarguments & Rebuttals**: how an author builds a complete

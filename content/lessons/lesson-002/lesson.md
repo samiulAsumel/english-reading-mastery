@@ -483,45 +483,45 @@ shows exactly which part of the structure to focus on next.
 Write just the core sentence (Subject + Verb + Object/Complement) hiding
 inside each of these.
 
-1. Intelligent students carefully analyze difficult problems.
-2. Successful leaders often consider the opinions of their team members.
-3. People who understand human behavior communicate more effectively.
-4. The decisions of experienced managers can influence the future of an organization.
-5. People who regularly practice a skill usually improve their performance.
+1. Intelligent students carefully analyze difficult problems. <details class="answer"><summary>Show answer</summary><div class="answer-body">Students analyze problems. Intelligent, carefully, and difficult are all modifiers describing the students, how they analyze, and the problems.</div></details>
+2. Successful leaders often consider the opinions of their team members. <details class="answer"><summary>Show answer</summary><div class="answer-body">Leaders consider opinions. Successful describes leaders, often tells how frequently, and of their team members is a prepositional phrase telling you whose opinions.</div></details>
+3. People who understand human behavior communicate more effectively. <details class="answer"><summary>Show answer</summary><div class="answer-body">People communicate. Who understand human behavior is a relative clause naming which people, and more effectively describes how they communicate.</div></details>
+4. The decisions of experienced managers can influence the future of an organization. <details class="answer"><summary>Show answer</summary><div class="answer-body">The decisions can influence the future. Of experienced managers tells you whose decisions, and of an organization tells you whose future.</div></details>
+5. People who regularly practice a skill usually improve their performance. <details class="answer"><summary>Show answer</summary><div class="answer-body">People improve their performance. Who regularly practice a skill is a relative clause specifying which people, and usually describes how often they improve.</div></details>
 
 ### Part B — Identify the Clauses
 
 For each sentence, name the main clause and the dependent or relative
 clause separately.
 
-6. People improve when they practice regularly.
-7. Students who read widely develop better vocabulary.
-8. The book that I bought yesterday is very useful.
-9. People make mistakes because they do not always have complete information.
+6. People improve when they practice regularly. <details class="answer"><summary>Show answer</summary><div class="answer-body">The main clause is People improve. When they practice regularly is a dependent time clause telling you when they improve.</div></details>
+7. Students who read widely develop better vocabulary. <details class="answer"><summary>Show answer</summary><div class="answer-body">The main clause is Students develop better vocabulary. Who read widely is a relative clause describing which students.</div></details>
+8. The book that I bought yesterday is very useful. <details class="answer"><summary>Show answer</summary><div class="answer-body">The main clause is The book is very useful. That I bought yesterday is a relative clause describing which book.</div></details>
+9. People make mistakes because they do not always have complete information. <details class="answer"><summary>Show answer</summary><div class="answer-body">The main clause is People make mistakes. Because they do not always have complete information is a dependent reason clause explaining why.</div></details>
 
 ### Part C — Reading Comprehension
 
 Answer using the paragraph from the Guided Reading Practice section
 above.
 
-10. What can affect the way people think?
-11. What may happen when people understand these influences?
-12. What can help people make more careful decisions?
+10. What can affect the way people think? <details class="answer"><summary>Show answer</summary><div class="answer-body">Their emotions, previous experiences, beliefs, and social environment can all affect the way people think.</div></details>
+11. What may happen when people understand these influences? <details class="answer"><summary>Show answer</summary><div class="answer-body">They may become more aware of their own thinking patterns.</div></details>
+12. What can help people make more careful decisions? <details class="answer"><summary>Show answer</summary><div class="answer-body">Becoming aware of their own thinking patterns, as a result of understanding these influences, can help people make more careful and effective decisions.</div></details>
 
 ### Part D — Translation
 
 Translate the following into English.
 
-13. মানুষ সবসময় শুধু facts-এর ভিত্তিতে সিদ্ধান্ত নেয় না।
-14. মানুষের emotion তার thinking-কে প্রভাবিত করতে পারে।
-15. যারা নিয়মিত practice করে তারা সাধারণত তাদের performance উন্নত করে।
-16. অভিজ্ঞ মানুষের decision একটি organization-এর future-কে প্রভাবিত করতে পারে।
+13. মানুষ সবসময় শুধু facts-এর ভিত্তিতে সিদ্ধান্ত নেয় না। <details class="answer"><summary>Show answer</summary><div class="answer-body">People do not always make decisions based only on facts.</div></details>
+14. মানুষের emotion তার thinking-কে প্রভাবিত করতে পারে। <details class="answer"><summary>Show answer</summary><div class="answer-body">A person's emotions can affect their thinking.</div></details>
+15. যারা নিয়মিত practice করে তারা সাধারণত তাদের performance উন্নত করে। <details class="answer"><summary>Show answer</summary><div class="answer-body">People who practice regularly usually improve their performance.</div></details>
+16. অভিজ্ঞ মানুষের decision একটি organization-এর future-কে প্রভাবিত করতে পারে। <details class="answer"><summary>Show answer</summary><div class="answer-body">The decisions of experienced people can influence the future of an organization.</div></details>
 
 ### Part E — Write Your Own
 
-17. Write one sentence using Subject + Verb.
-18. Write one sentence using Subject + Verb + Object.
-19. Write one sentence using Subject + Verb + Object + a relative clause. (Example shape: *People develop skills that help them solve problems.*)
+17. Write one sentence using Subject + Verb. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: Prices rose. Prices is the Subject and rose is the Verb.</div></details>
+18. Write one sentence using Subject + Verb + Object. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: Teachers explain concepts. Teachers is the Subject, explain is the Verb, and concepts is the Object.</div></details>
+19. Write one sentence using Subject + Verb + Object + a relative clause. (Example shape: *People develop skills that help them solve problems.*) <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: Leaders develop strategies that improve outcomes. Leaders is the Subject, develop is the Verb, strategies is the Object, and that improve outcomes is a relative clause describing strategies.</div></details>
 
 Next: Lesson 3 — Noun Phrase & Verb Phrase: two of the most common
 building blocks you will meet in real English books.

@@ -607,34 +607,34 @@ that's fine — write your best guess and check it against the lesson.
 
 Write the underlying verb or adjective for each.
 
-1. development
-2. decision
-3. implementation
-4. reduction
-5. analysis
-6. effectiveness
+1. development <details class="answer"><summary>Show answer</summary><div class="answer-body">develop.</div></details>
+2. decision <details class="answer"><summary>Show answer</summary><div class="answer-body">decide.</div></details>
+3. implementation <details class="answer"><summary>Show answer</summary><div class="answer-body">implement.</div></details>
+4. reduction <details class="answer"><summary>Show answer</summary><div class="answer-body">reduce.</div></details>
+5. analysis <details class="answer"><summary>Show answer</summary><div class="answer-body">analyze.</div></details>
+6. effectiveness <details class="answer"><summary>Show answer</summary><div class="answer-body">effective (the adjective, not a verb).</div></details>
 
 ### Part B — Simplify
 
 Rewrite each sentence in simple English.
 
-7. The implementation of the new policy resulted in a significant improvement in employee performance.
-8. The analysis of the available evidence led to the identification of several important factors.
-9. The widespread adoption of digital technologies has contributed to the transformation of traditional communication practices.
+7. The implementation of the new policy resulted in a significant improvement in employee performance. <details class="answer"><summary>Show answer</summary><div class="answer-body">The company implemented the new policy, and employee performance significantly improved.</div></details>
+8. The analysis of the available evidence led to the identification of several important factors. <details class="answer"><summary>Show answer</summary><div class="answer-body">Researchers analyzed the available evidence and identified several important factors.</div></details>
+9. The widespread adoption of digital technologies has contributed to the transformation of traditional communication practices. <details class="answer"><summary>Show answer</summary><div class="answer-body">People have widely adopted digital technologies, and this has transformed traditional communication practices.</div></details>
 
 ### Part C — Identify the Structure
 
-10. What is the head noun in: **The rapid development of advanced communication technologies has created new opportunities.**?
-11. How many nominalizations are in: **The evaluation of the effectiveness of the new system resulted in an improvement in productivity.**?
+10. What is the head noun in: **The rapid development of advanced communication technologies has created new opportunities.**? <details class="answer"><summary>Show answer</summary><div class="answer-body">Development. Rapid modifies it, and of advanced communication technologies tells you what developed; the head noun is the word the whole subject phrase is built around.</div></details>
+11. How many nominalizations are in: **The evaluation of the effectiveness of the new system resulted in an improvement in productivity.**? <details class="answer"><summary>Show answer</summary><div class="answer-body">Four: evaluation (from evaluate), effectiveness (from effective), improvement (from improve), and productivity (from productive). Each hides a verb or adjective that could be recovered to rebuild the sentence in plain English.</div></details>
 
 ### Part D — Advanced Reading
 
-12. Decode this sentence: **The extent to which the implementation of new technologies affects employee performance depends on the quality of the training provided to employees.** Identify: the main subject, the head noun, every nominalization, the main verb, the simple meaning of "the extent to which," and which noun "provided to employees" describes.
+12. Decode this sentence: **The extent to which the implementation of new technologies affects employee performance depends on the quality of the training provided to employees.** Identify: the main subject, the head noun, every nominalization, the main verb, the simple meaning of "the extent to which," and which noun "provided to employees" describes. <details class="answer"><summary>Show answer</summary><div class="answer-body">Main subject: the whole noun clause "the extent to which the implementation of new technologies affects employee performance." Head noun: extent. Nominalizations: extent (from extend), implementation (from implement), and training (from train). Main verb: depends (on). "The extent to which" simply means "how much." "Provided to employees" describes training. In simple English: how much implementing new technologies affects employee performance depends on how good the training given to employees is.</div></details>
 
 ### Part E — Create
 
-13. Write one dense, nominalized sentence of your own, then rewrite it in simple English underneath.
-14. Write one sentence using the pattern "the effect of X on Y."
+13. Write one dense, nominalized sentence of your own, then rewrite it in simple English underneath. <details class="answer"><summary>Show answer</summary><div class="answer-body">Dense: The introduction of automated inspection systems resulted in a reduction in shipment delays. Simple: The port introduced automated inspection systems, and this reduced shipment delays.</div></details>
+14. Write one sentence using the pattern "the effect of X on Y." <details class="answer"><summary>Show answer</summary><div class="answer-body">The effect of container size on loading time is significant. In simple English: container size significantly affects loading time.</div></details>
 
 Next: Lesson 19 — Parallel Structure & Comparison: *reading, writing,
 and speaking · to analyze, to compare, and to evaluate · more effective

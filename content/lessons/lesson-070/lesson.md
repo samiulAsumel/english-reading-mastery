@@ -625,37 +625,37 @@ marker, or something else) and state explicitly what it spotlights.
 
 ### Part A — Not Only…But Also, and Reframing
 
-1. **The redesign not only shortened checkout time but also reduced cart abandonment.** Check this sentence for parallelism, and state its two benefits.
-2. **The delay was not so much a staffing issue as a scheduling one.** Explain what this sentence positions as more important, without fully denying the alternative.
-3. **The goal is to reduce onboarding friction rather than simply add more tutorial screens.** Identify the actual goal and the de-emphasised method.
+1. **The redesign not only shortened checkout time but also reduced cart abandonment.** Check this sentence for parallelism, and state its two benefits. <details class="answer"><summary>Show answer</summary><div class="answer-body">Parallelism holds: both halves use a matching verb-plus-object pattern, shortened checkout time and reduced cart abandonment. The two benefits are a shorter checkout time and reduced cart abandonment, with the second one, placed after "but also," carrying the greater rhetorical weight.</div></details>
+2. **The delay was not so much a staffing issue as a scheduling one.** Explain what this sentence positions as more important, without fully denying the alternative. <details class="answer"><summary>Show answer</summary><div class="answer-body">The sentence positions the scheduling problem as the more important, real cause of the delay. It does not fully deny that staffing played some role; the "not so much X as Y" pattern simply ranks scheduling above staffing rather than eliminating staffing as a factor entirely.</div></details>
+3. **The goal is to reduce onboarding friction rather than simply add more tutorial screens.** Identify the actual goal and the de-emphasised method. <details class="answer"><summary>Show answer</summary><div class="answer-body">The actual goal is reducing onboarding friction. The de-emphasised method is simply adding more tutorial screens, which "rather than" marks as an insufficient means that could easily be mistaken for the real end.</div></details>
 
 ### Part B — Explicit Focus Markers and Cleft Sentences
 
-4. **What matters is not how many features the app has, but how easily users can find the ones they need.** State the two options being weighed, and which one the sentence favours.
-5. **It was the lack of clear escalation procedures that caused the outage to last as long as it did.** Rewrite this cleft sentence in its plain, non-cleft form, and identify what it spotlights.
-6. **What the team needed was not more meetings, but clearer written specifications.** Identify the rejected option and the actual need this pseudo-cleft construction focuses on.
+4. **What matters is not how many features the app has, but how easily users can find the ones they need.** State the two options being weighed, and which one the sentence favours. <details class="answer"><summary>Show answer</summary><div class="answer-body">The two options weighed are the sheer number of features versus how easily users can find the features they need. The sentence explicitly favours findability, the ease of locating needed features, over feature quantity.</div></details>
+5. **It was the lack of clear escalation procedures that caused the outage to last as long as it did.** Rewrite this cleft sentence in its plain, non-cleft form, and identify what it spotlights. <details class="answer"><summary>Show answer</summary><div class="answer-body">Plain form: the lack of clear escalation procedures caused the outage to last as long as it did. The cleft structure spotlights that lack of clear escalation procedures specifically, as the cause of the outage's duration.</div></details>
+6. **What the team needed was not more meetings, but clearer written specifications.** Identify the rejected option and the actual need this pseudo-cleft construction focuses on. <details class="answer"><summary>Show answer</summary><div class="answer-body">The rejected option is more meetings. The actual need this pseudo-cleft construction spotlights is clearer written specifications.</div></details>
 
 ### Part C — Inversion and Exclusivity
 
-7. **Only after the migration was complete did the reporting errors disappear.** Rewrite this sentence in plain word order, and explain what the inversion emphasises.
-8. **Seldom does a single metric capture a system's overall health.** Rewrite this sentence in plain word order.
-9. **The only reason the launch succeeded was strong cross-team coordination.** Explain why a critical reader should question this claim rather than accept it outright.
+7. **Only after the migration was complete did the reporting errors disappear.** Rewrite this sentence in plain word order, and explain what the inversion emphasises. <details class="answer"><summary>Show answer</summary><div class="answer-body">Plain word order: the reporting errors disappeared only after the migration was complete. The inversion places stronger emphasis on the timing itself, underlining that nothing resolved the errors until the migration finished.</div></details>
+8. **Seldom does a single metric capture a system's overall health.** Rewrite this sentence in plain word order. <details class="answer"><summary>Show answer</summary><div class="answer-body">Plain word order: a single metric seldom captures a system's overall health.</div></details>
+9. **The only reason the launch succeeded was strong cross-team coordination.** Explain why a critical reader should question this claim rather than accept it outright. <details class="answer"><summary>Show answer</summary><div class="answer-body">"The only reason" makes an exclusive causal claim, ruling out every other possible contributing factor. A critical reader should ask whether other elements, such as adequate resourcing, good timing, or product quality, also contributed, since authors do not always back up such a strong exclusive claim with evidence that actually rules out every alternative.</div></details>
 
 ### Part D — In Fact, Far From, and Degree Words
 
-10. **The interface looks minimal. In fact, it hides a surprising amount of configurable complexity.** Explain whether "in fact" here corrects or reinforces the previous sentence.
-11. **Far from simplifying the workflow, the new tool added several extra approval steps.** Explain what expectation this sentence rejects.
-12. **The rollout was, for the most part, smooth.** Explain what this phrase leaves open that "completely smooth" would not.
+10. **The interface looks minimal. In fact, it hides a surprising amount of configurable complexity.** Explain whether "in fact" here corrects or reinforces the previous sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">Here "in fact" corrects the previous impression. It overturns the claim of minimalism by revealing that the interface actually hides considerable configurable complexity, rather than adding a stronger supporting detail to the minimalism claim.</div></details>
+11. **Far from simplifying the workflow, the new tool added several extra approval steps.** Explain what expectation this sentence rejects. <details class="answer"><summary>Show answer</summary><div class="answer-body">It rejects the expectation that the new tool would simplify the workflow, replacing that expected outcome with close to the opposite result: additional approval steps that make the workflow more complicated.</div></details>
+12. **The rollout was, for the most part, smooth.** Explain what this phrase leaves open that "completely smooth" would not. <details class="answer"><summary>Show answer</summary><div class="answer-body">"For the most part" leaves open the possibility of some exceptions or rough patches during the rollout. It claims the rollout was mostly smooth, not entirely smooth, whereas "completely smooth" would allow for no exceptions at all.</div></details>
 
 ### Part E — Full Passage Analysis
 
 Return to this lesson's guided reading passage about automated
 scheduling tools.
 
-13. State the passage's background information and its "not only… but also" addition in your own words.
-14. Identify the sentence that explicitly rejects an assumption, and state what assumption it rejects.
-15. Identify the passage's explicit focus marker, and what it directs the reader's attention toward.
-16. Explain why the passage's final sentence, not its first, holds its real point.
+13. State the passage's background information and its "not only… but also" addition in your own words. <details class="answer"><summary>Show answer</summary><div class="answer-body">Background: automated scheduling tools can generate berth assignments in seconds, far faster than manual planning ever could. The "not only... but also" addition: beyond reducing planning time, these tools also flag scheduling conflicts before they occur.</div></details>
+14. Identify the sentence that explicitly rejects an assumption, and state what assumption it rejects. <details class="answer"><summary>Show answer</summary><div class="answer-body">"However, speed is by no means the main advantage these tools offer" is the sentence that rejects an assumption. It rejects the assumption that speed is the main advantage automated scheduling tools provide.</div></details>
+15. Identify the passage's explicit focus marker, and what it directs the reader's attention toward. <details class="answer"><summary>Show answer</summary><div class="answer-body">The explicit focus marker is "what matters is." It directs the reader's attention toward whether the generated assignments actually reduce vessel waiting time in practice, rather than toward how quickly the tool produces them.</div></details>
+16. Explain why the passage's final sentence, not its first, holds its real point. <details class="answer"><summary>Show answer</summary><div class="answer-body">The final sentence warns that a fast scheduling tool ignoring real-world constraints, such as tug availability, may create more disruption than it prevents. This is the passage's most specific, consequential claim, showing that speed alone can backfire without accounting for real conditions, while the opening sentence only describes surface-level capability.</div></details>
 
 Next: Lesson 71 — Advanced Reading of Argument Development: How Authors
 Build, Shift, Refine & Conclude an Argument: how to track a claim as it

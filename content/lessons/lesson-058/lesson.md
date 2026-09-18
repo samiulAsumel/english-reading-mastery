@@ -409,33 +409,33 @@ questions turn on that exact distinction.
 
 ### Part A — Cause vs. Mechanism
 
-1. **Automation reduced errors.** vs. **Automation reduced errors by standardizing data entry formats.** Explain what the second sentence adds that the first lacks.
-2. **Performance improved because of the new server.** Explain what additional information a stated mechanism would need to add to this sentence.
+1. **Automation reduced errors.** vs. **Automation reduced errors by standardizing data entry formats.** Explain what the second sentence adds that the first lacks. <details class="answer"><summary>Show answer</summary><div class="answer-body">The first sentence only states the result, that errors fell. The second adds the mechanism, marked by "by," showing the actual intermediate step, standardized data entry formats, through which automation produced that reduction.</div></details>
+2. **Performance improved because of the new server.** Explain what additional information a stated mechanism would need to add to this sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">A mechanism would need to name the intermediate process connecting the new server to improved performance, for example that the new server has more processing capacity, which reduces queuing delays, which in turn speeds up response times. As written, the sentence gives only cause and effect, with no explanation of how the server actually produced the improvement.</div></details>
 
 ### Part B — Trigger vs. Root Cause
 
-3. **The website crashed after a sudden spike in traffic overwhelmed servers that had not been scaled to handle peak demand.** Identify the trigger and the root cause.
-4. Explain why fixing only the trigger of a recurring problem, without addressing its root cause, often fails to prevent the problem from happening again.
+3. **The website crashed after a sudden spike in traffic overwhelmed servers that had not been scaled to handle peak demand.** Identify the trigger and the root cause. <details class="answer"><summary>Show answer</summary><div class="answer-body">The trigger is the sudden spike in traffic, the immediate initiating event. The root cause is the deeper underlying condition, servers that had not been scaled to handle peak demand.</div></details>
+4. Explain why fixing only the trigger of a recurring problem, without addressing its root cause, often fails to prevent the problem from happening again. <details class="answer"><summary>Show answer</summary><div class="answer-body">The trigger is just the immediate event that exposed the weakness, while the root cause is the underlying condition that made the system vulnerable in the first place. If the underlying condition remains, a different trigger, or even the same one recurring, will produce the same failure again.</div></details>
 
 ### Part C — Conditional Gates and Failure Paths
 
-5. **The refund is issued unless the item shows signs of misuse.** Identify the default outcome and the exception condition.
-6. **If the primary sensor fails, the system switches to a backup sensor and logs the failure for review.** Identify the main path, the failure path, and the fallback mechanism.
+5. **The refund is issued unless the item shows signs of misuse.** Identify the default outcome and the exception condition. <details class="answer"><summary>Show answer</summary><div class="answer-body">The default outcome is that the refund is issued. The exception condition, signaled by "unless," is the item showing signs of misuse, which blocks that default outcome.</div></details>
+6. **If the primary sensor fails, the system switches to a backup sensor and logs the failure for review.** Identify the main path, the failure path, and the fallback mechanism. <details class="answer"><summary>Show answer</summary><div class="answer-body">The main path, left implicit, is the primary sensor functioning normally. The failure path begins when the primary sensor fails, and the fallback mechanism is the switch to the backup sensor, paired with logging the failure for later review.</div></details>
 
 ### Part D — Purpose vs. Outcome, and Mediation vs. Moderation
 
-7. **The policy was designed to reduce onboarding time for new employees.** Explain why this sentence alone does not prove onboarding time actually decreased.
-8. **The effect of exercise on mood was mediated by improved sleep quality, and this effect was stronger among younger participants.** Identify which part of this sentence describes mediation and which describes moderation.
+7. **The policy was designed to reduce onboarding time for new employees.** Explain why this sentence alone does not prove onboarding time actually decreased. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Designed to" states the policy's intended purpose, not a measured result. Onboarding time could have stayed the same or even increased if the policy failed in practice, so demonstrating the actual outcome would require separate evidence, such as measured onboarding times before and after.</div></details>
+8. **The effect of exercise on mood was mediated by improved sleep quality, and this effect was stronger among younger participants.** Identify which part of this sentence describes mediation and which describes moderation. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Mediated by improved sleep quality" describes mediation, naming the pathway through which exercise affects mood: exercise improves sleep quality, which improves mood. "Stronger among younger participants" describes moderation, since age changes the strength of that exercise-mood relationship without being part of the pathway itself.</div></details>
 
 ### Part E — Full Passage Analysis
 
 Return to this lesson's guided reading passage about the recommendation
 engine.
 
-9. State, in your own words, the mediating pathway between personalization and click-through rate.
-10. State, in your own words, what moderates the strength of that relationship.
-11. Using the seven-layer explanation model from this lesson, identify which layers this passage includes and which it omits.
-12. Compress the entire passage into one sentence using this lesson's "because X, Y happens through Z, provided that A; if B occurs…" template.
+9. State, in your own words, the mediating pathway between personalization and click-through rate. <details class="answer"><summary>Show answer</summary><div class="answer-body">Personalization affects click-through rate through the pathway of recent purchase history: incorporating a customer's recent purchases is the intermediate step that allows personalization to actually change what gets clicked.</div></details>
+10. State, in your own words, what moderates the strength of that relationship. <details class="answer"><summary>Show answer</summary><div class="answer-body">Whether a customer is returning or first-time moderates the relationship. Returning customers have more purchase history for the engine to draw on, so the personalization effect is stronger for them than for first-time visitors, who have little or no history available.</div></details>
+11. Using the seven-layer explanation model from this lesson, identify which layers this passage includes and which it omits. <details class="answer"><summary>Show answer</summary><div class="answer-body">The passage includes phenomenon (click-through rate), mechanism/pathway (recent purchase history), condition (customer type, data availability), effect (stronger or weaker personalization), and feedback/exception (the fallback to popular items when data is insufficient). It omits an explicit root cause discussion and does not describe a process with numbered sequential steps, since it is framed around a pathway and a condition rather than a strict procedure.</div></details>
+12. Compress the entire passage into one sentence using this lesson's "because X, Y happens through Z, provided that A; if B occurs…" template. <details class="answer"><summary>Show answer</summary><div class="answer-body">Because recent purchase history is available, personalization improves click-through rates through that history, provided the customer is a returning one with enough data; if insufficient data exists, the engine falls back to showing generally popular items instead.</div></details>
 
 Next: Lesson 59 — Advanced Reading of Examples, Analogies, Case
 Studies & Illustrations: why an example is never automatically evidence

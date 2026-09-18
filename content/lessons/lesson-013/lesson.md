@@ -425,34 +425,34 @@ if you get it slightly wrong, is more valuable than skipping the step.
 
 ### Part A — Active or Passive?
 
-1. Researchers examined the evidence.
-2. The evidence was examined carefully.
-3. The results have been published.
-4. Scientists developed the technology.
-5. The technology was developed in Germany.
+1. Researchers examined the evidence. <details class="answer"><summary>Show answer</summary><div class="answer-body">Active — the subject, researchers, performs the action directly, with no be plus past participle shape.</div></details>
+2. The evidence was examined carefully. <details class="answer"><summary>Show answer</summary><div class="answer-body">Passive — was examined follows the be plus past participle pattern, and the evidence receives the action rather than performing it.</div></details>
+3. The results have been published. <details class="answer"><summary>Show answer</summary><div class="answer-body">Passive — have been published combines present perfect with the passive marker been plus the past participle published; the results receive the action.</div></details>
+4. Scientists developed the technology. <details class="answer"><summary>Show answer</summary><div class="answer-body">Active — scientists is the subject performing the action, developed, directly on the object, the technology.</div></details>
+5. The technology was developed in Germany. <details class="answer"><summary>Show answer</summary><div class="answer-body">Passive — was developed is be plus past participle, and the technology receives the action; the doer is not named.</div></details>
 
 ### Part B — Rewrite as Active
 
-6. The data were collected from 500 participants.
-7. The results were analyzed by the researchers.
-8. Several factors have been identified.
+6. The data were collected from 500 participants. <details class="answer"><summary>Show answer</summary><div class="answer-body">Active version: Researchers collected data from 500 participants (the unnamed doer becomes an explicit subject).</div></details>
+7. The results were analyzed by the researchers. <details class="answer"><summary>Show answer</summary><div class="answer-body">Active version: The researchers analyzed the results.</div></details>
+8. Several factors have been identified. <details class="answer"><summary>Show answer</summary><div class="answer-body">Active version: Researchers have identified several factors (a plausible, unnamed doer is supplied, since none is given).</div></details>
 
 ### Part C — Information Focus
 
-9. Which sentence puts *researchers* more in focus — A: "Researchers conducted the experiment." or B: "The experiment was conducted by researchers."?
-10. Which sentence puts *experiment* more in focus — A: "Researchers conducted the experiment." or B: "The experiment was conducted by researchers."?
+9. Which sentence puts *researchers* more in focus — A: "Researchers conducted the experiment." or B: "The experiment was conducted by researchers."? <details class="answer"><summary>Show answer</summary><div class="answer-body">Sentence A — the active voice opens with researchers in subject position, the spot that carries a sentence's primary focus.</div></details>
+10. Which sentence puts *experiment* more in focus — A: "Researchers conducted the experiment." or B: "The experiment was conducted by researchers."? <details class="answer"><summary>Show answer</summary><div class="answer-body">Sentence B — the passive voice moves experiment into subject position at the front, even though researchers are still named at the end.</div></details>
 
 ### Part D — Decode
 
-11. Identify the main subject, main verb, passive part, and information focus of: **The relationship between stress and decision-making has been extensively studied by psychologists.**
+11. Identify the main subject, main verb, passive part, and information focus of: **The relationship between stress and decision-making has been extensively studied by psychologists.** <details class="answer"><summary>Show answer</summary><div class="answer-body">Main subject: the relationship between stress and decision-making. Main verb: studied. Passive part: has been extensively studied — present perfect passive, with by psychologists naming the doer. Information focus: the relationship itself, since it opens the sentence and stays the topic; psychologists is added, secondary information at the end.</div></details>
 
 ### Part E — Reading Comprehension
 
 Based on the guided reading passage above:
 
-12. Why should conclusions be interpreted carefully?
-13. What does "these explanations" refer to?
-14. What would "can be identified" become if rewritten as active?
+12. Why should conclusions be interpreted carefully? <details class="answer"><summary>Show answer</summary><div class="answer-body">Because the passage explains that explanations must be supported by evidence, and the available evidence is often limited — so a conclusion built on limited evidence deserves cautious, not overconfident, interpretation.</div></details>
+13. What does "these explanations" refer to? <details class="answer"><summary>Show answer</summary><div class="answer-body">It refers to the several explanations researchers may propose for their findings, mentioned in the sentence just before it.</div></details>
+14. What would "can be identified" become if rewritten as active? <details class="answer"><summary>Show answer</summary><div class="answer-body">It would become researchers can identify particular patterns — the unnamed doer is supplied as the active subject, and can identify replaces the passive can be identified.</div></details>
 
 Next: Lesson 14 — Gerunds & Infinitives: "Reading English," "to
 understand English," "learning through practice." We'll look at why real

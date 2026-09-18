@@ -482,36 +482,36 @@ the label.
 For each phrase, say what relationship the underlined preposition is
 building.
 
-1. people in modern society — what kind of information does "in modern society" add?
-2. learn from experience — what relationship is "from experience"?
-3. improve through practice — what does "through practice" express?
-4. responsible for the decision — what relationship is "for the decision"?
-5. aware of the problem — what relationship is "of the problem"?
+1. people in modern society — what kind of information does "in modern society" add? <details class="answer"><summary>Show answer</summary><div class="answer-body">It adds context, telling you the setting or era people belong to, not a literal physical location.</div></details>
+2. learn from experience — what relationship is "from experience"? <details class="answer"><summary>Show answer</summary><div class="answer-body">A source or origin relationship — experience is where the learning comes from.</div></details>
+3. improve through practice — what does "through practice" express? <details class="answer"><summary>Show answer</summary><div class="answer-body">A process or means relationship — practice is the method by which the improvement happens.</div></details>
+4. responsible for the decision — what relationship is "for the decision"? <details class="answer"><summary>Show answer</summary><div class="answer-body">It marks what the responsibility covers — the decision is the thing someone is accountable for.</div></details>
+5. aware of the problem — what relationship is "of the problem"? <details class="answer"><summary>Show answer</summary><div class="answer-body">It marks the object of the awareness — the problem is the thing the person has knowledge of.</div></details>
 
 ### Part B — Find the Prepositional Phrases
 
-6. The opinions of experienced managers in large organizations can influence important decisions.
-7. People with strong communication skills can deal with difficult situations more effectively.
-8. Researchers from different countries have studied the effects of social pressure on human behavior.
+6. The opinions of experienced managers in large organizations can influence important decisions. <details class="answer"><summary>Show answer</summary><div class="answer-body">Two prepositional phrases: of experienced managers, telling you whose opinions, and in large organizations, telling you in what context.</div></details>
+7. People with strong communication skills can deal with difficult situations more effectively. <details class="answer"><summary>Show answer</summary><div class="answer-body">Two prepositional phrases: with strong communication skills, describing which people, and with difficult situations, part of the fixed verb pattern deal with.</div></details>
+8. Researchers from different countries have studied the effects of social pressure on human behavior. <details class="answer"><summary>Show answer</summary><div class="answer-body">Three prepositional phrases: from different countries, describing the researchers; of social pressure, telling you whose effects; and on human behavior, telling you what those effects act on.</div></details>
 
 ### Part C — Choose the Correct Preposition
 
-9. Success depends ___ regular practice. — (a) in (b) on (c) at
-10. People learn ___ experience. — (a) from (b) at (c) on
-11. Leaders should be aware ___ their own biases. — (a) of (b) for (c) with
-12. Stress can result ___ poor decisions. — (a) in (b) to (c) with
-13. Poor decisions can result ___ stress. — (a) in (b) from (c) about
+9. Success depends ___ regular practice. — (a) in (b) on (c) at <details class="answer"><summary>Show answer</summary><div class="answer-body">(b) on — depend on is a fixed verb plus preposition pattern.</div></details>
+10. People learn ___ experience. — (a) from (b) at (c) on <details class="answer"><summary>Show answer</summary><div class="answer-body">(a) from — experience is the source the learning comes from.</div></details>
+11. Leaders should be aware ___ their own biases. — (a) of (b) for (c) with <details class="answer"><summary>Show answer</summary><div class="answer-body">(a) of — aware of is the fixed adjective plus preposition pairing.</div></details>
+12. Stress can result ___ poor decisions. — (a) in (b) to (c) with <details class="answer"><summary>Show answer</summary><div class="answer-body">(a) in — result in shows stress as the cause producing poor decisions as the effect.</div></details>
+13. Poor decisions can result ___ stress. — (a) in (b) from (c) about <details class="answer"><summary>Show answer</summary><div class="answer-body">(b) from — result from reverses the direction, showing stress as the cause behind the poor decisions.</div></details>
 
 ### Part D — Decode This Sentence
 
-14. **The effects of social pressure on human behavior can vary significantly between different cultures.** Identify the main subject, its head noun, the first prepositional phrase, the second prepositional phrase, the main verb, the third prepositional phrase, and the core sentence.
+14. **The effects of social pressure on human behavior can vary significantly between different cultures.** Identify the main subject, its head noun, the first prepositional phrase, the second prepositional phrase, the main verb, the third prepositional phrase, and the core sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">Main subject: The effects of social pressure on human behavior, with head noun effects. First prepositional phrase: of social pressure, telling you effects of what. Second prepositional phrase: on human behavior, telling you effects on what. Main verb: can vary. Third prepositional phrase: between different cultures. Core sentence: The effects can vary.</div></details>
 
 ### Part E — Own Sentences
 
-15. Write one sentence using *from*.
-16. Write one sentence using *with*.
-17. Write one sentence using *through*.
-18. Write one sentence using *because* together with a prepositional phrase.
+15. Write one sentence using *from*. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: The letter came from a close friend. From marks the source of the letter.</div></details>
+16. Write one sentence using *with*. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: She solved the puzzle with great patience. With here shows the means or manner of the action.</div></details>
+17. Write one sentence using *through*. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: He improved his English through daily reading. Through marks the process or means by which the improvement happened.</div></details>
+18. Write one sentence using *because* together with a prepositional phrase. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: They succeeded because of their dedication to the project. Because of their dedication is a reason expressed as a prepositional phrase, and to the project is a second prepositional phrase attached to dedication.</div></details>
 
 Next: Lesson 8 — Conjunctions & Logical Connections: *and, but,
 because, although, therefore, however, while, as a result* — how to read

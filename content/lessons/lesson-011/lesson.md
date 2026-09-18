@@ -455,28 +455,28 @@ separately rather than guessing the whole meaning at once.
 
 ### Part A — Identify the Relative Clause
 
-1. The researcher who conducted the study published the results. — which words make up the relative clause?
-2. The book that I bought yesterday explains human behavior. — which words make up the relative clause?
-3. The company whose employees receive regular training has better performance. — what relationship does *whose* show?
-4. The city where the company was founded has changed significantly. — which noun is *where* connected to?
+1. The researcher who conducted the study published the results. — which words make up the relative clause? <details class="answer"><summary>Show answer</summary><div class="answer-body">Who conducted the study is the relative clause, describing which researcher is meant.</div></details>
+2. The book that I bought yesterday explains human behavior. — which words make up the relative clause? <details class="answer"><summary>Show answer</summary><div class="answer-body">That I bought yesterday is the relative clause, describing which book is meant.</div></details>
+3. The company whose employees receive regular training has better performance. — what relationship does *whose* show? <details class="answer"><summary>Show answer</summary><div class="answer-body">Whose shows possession, linking company to employees — meaning the employees belonging to that company.</div></details>
+4. The city where the company was founded has changed significantly. — which noun is *where* connected to? <details class="answer"><summary>Show answer</summary><div class="answer-body">Where is connected to city, identifying the place in which the company was founded.</div></details>
 
 ### Part B — Find the Core Sentence
 
-5. The experienced manager who joined the organization last year carefully reviewed the financial report that the accounting department had prepared. — what is the core sentence?
-6. Researchers who study human behavior often examine social factors that influence people's decisions. — what is the core sentence?
+5. The experienced manager who joined the organization last year carefully reviewed the financial report that the accounting department had prepared. — what is the core sentence? <details class="answer"><summary>Show answer</summary><div class="answer-body">The core sentence is: The manager reviewed the report. Everything else — who joined the organization last year and that the accounting department had prepared — is added detail describing manager and report.</div></details>
+6. Researchers who study human behavior often examine social factors that influence people's decisions. — what is the core sentence? <details class="answer"><summary>Show answer</summary><div class="answer-body">The core sentence is: Researchers examine social factors. Who study human behavior describes researchers, and that influence people's decisions describes factors.</div></details>
 
 ### Part C — Identify the Main Verb
 
-7. The researcher who conducted the experiment analyzed the results carefully. — what is the main verb?
-8. The report that the team had prepared was submitted yesterday. — what is the main verb, and which clause does *had prepared* belong to?
+7. The researcher who conducted the experiment analyzed the results carefully. — what is the main verb? <details class="answer"><summary>Show answer</summary><div class="answer-body">Analyzed is the main verb — the action performed by the main subject, researcher. Conducted belongs to the relative clause who conducted the experiment.</div></details>
+8. The report that the team had prepared was submitted yesterday. — what is the main verb, and which clause does *had prepared* belong to? <details class="answer"><summary>Show answer</summary><div class="answer-body">The main verb is was submitted. Had prepared belongs to the relative clause that the team had prepared, which describes report and uses the Past Perfect because the preparing happened before the submitting.</div></details>
 
 ### Part D — Full Decoding
 
-9. Identify every layer of this sentence: **The researchers who conducted the experiment in several universities found that students who received regular feedback improved their performance significantly because they were able to identify their weaknesses more effectively.** Find: the main subject, the main verb, the main object, the first relative clause, the noun clause, the second relative clause, the reason clause, who *they* refers to, and the core sentence.
+9. Identify every layer of this sentence: **The researchers who conducted the experiment in several universities found that students who received regular feedback improved their performance significantly because they were able to identify their weaknesses more effectively.** Find: the main subject, the main verb, the main object, the first relative clause, the noun clause, the second relative clause, the reason clause, who *they* refers to, and the core sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">Main subject: researchers. Main verb: found. Main object: the noun clause that students who received regular feedback improved their performance significantly. First relative clause: who conducted the experiment in several universities, describing researchers. Noun clause: that students improved their performance significantly, functioning as the object of found. Second relative clause, nested inside the noun clause: who received regular feedback, describing students. Reason clause: because they were able to identify their weaknesses more effectively. They refers to students, not researchers. Core sentence: Researchers found that students improved their performance.</div></details>
 
 ### Part E — Deep Reading
 
-10. Explain this sentence in your own, simple English: **People who regularly read complex material tend to develop stronger reading skills because they become more familiar with the structures and vocabulary that authors commonly use.** Your explanation must show what *who* refers to, what *because* explains, what *that* refers to, and the sentence's main idea.
+10. Explain this sentence in your own, simple English: **People who regularly read complex material tend to develop stronger reading skills because they become more familiar with the structures and vocabulary that authors commonly use.** Your explanation must show what *who* refers to, what *because* explains, what *that* refers to, and the sentence's main idea. <details class="answer"><summary>Show answer</summary><div class="answer-body">Who refers to people, specifying which people — those who regularly read complex material. Because explains the reason their reading skills grow stronger: repeated exposure builds familiarity. That refers to the structures and vocabulary, specifying which ones — the kind authors commonly use. Main idea: reading complex material regularly makes you a stronger reader, because you get used to the sentence patterns and words that writers typically rely on.</div></details>
 
 Next: Lesson 12 — Conditionals & Hypothetical Thinking: *if, unless,
 would, could, might, had, were* — how to recognise when an author is

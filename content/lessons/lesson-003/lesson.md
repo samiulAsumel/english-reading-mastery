@@ -512,39 +512,39 @@ this lesson is actually testing.
 
 Identify the head noun in each noun phrase.
 
-1. successful business leaders
-2. the complex problems of modern society
-3. several important psychological factors
-4. the opinions of experienced managers
-5. people who understand human behavior
+1. successful business leaders <details class="answer"><summary>Show answer</summary><div class="answer-body">Head noun: leaders. Successful and business both describe what kind of leaders.</div></details>
+2. the complex problems of modern society <details class="answer"><summary>Show answer</summary><div class="answer-body">Head noun: problems. Complex describes them, and of modern society tells you in what context.</div></details>
+3. several important psychological factors <details class="answer"><summary>Show answer</summary><div class="answer-body">Head noun: factors. Several, important, and psychological all describe what kind of factors.</div></details>
+4. the opinions of experienced managers <details class="answer"><summary>Show answer</summary><div class="answer-body">Head noun: opinions. Of experienced managers tells you whose opinions.</div></details>
+5. people who understand human behavior <details class="answer"><summary>Show answer</summary><div class="answer-body">Head noun: people. Who understand human behavior is a relative clause tucked inside the phrase, describing which people.</div></details>
 
 ### Part B — Find the Verb Phrase
 
 Identify the complete verb phrase in each sentence.
 
-6. People can learn new skills.
-7. Human behavior is influenced by many factors.
-8. Successful leaders have developed strong communication skills.
-9. People should carefully consider important decisions.
-10. Their behavior may be affected by social pressure.
+6. People can learn new skills. <details class="answer"><summary>Show answer</summary><div class="answer-body">Verb phrase: can learn — the modal can plus the main verb learn, treated as one unit.</div></details>
+7. Human behavior is influenced by many factors. <details class="answer"><summary>Show answer</summary><div class="answer-body">Verb phrase: is influenced — a passive-voice form built from the helping verb is plus the main verb influenced.</div></details>
+8. Successful leaders have developed strong communication skills. <details class="answer"><summary>Show answer</summary><div class="answer-body">Verb phrase: have developed — the helping verb have plus the main verb developed.</div></details>
+9. People should carefully consider important decisions. <details class="answer"><summary>Show answer</summary><div class="answer-body">Verb phrase: should consider — the modal should plus the main verb consider; carefully is an adverb sitting inside the phrase but modifying consider.</div></details>
+10. Their behavior may be affected by social pressure. <details class="answer"><summary>Show answer</summary><div class="answer-body">Verb phrase: may be affected — a three-word passive verb phrase combining the modal may, the auxiliary be, and the main verb affected.</div></details>
 
 ### Part C — Break the Sentence into Chunks
 
-11. **The experienced manager carefully reviewed the financial report before making an important decision.** Identify its Subject/Noun Phrase, Verb Phrase, Object, and any extra information.
-12. **People who regularly read books about different subjects often develop a broader understanding of the world.** Identify the main subject, the relative clause inside it, the main verb phrase, the object, and any extra information.
+11. **The experienced manager carefully reviewed the financial report before making an important decision.** Identify its Subject/Noun Phrase, Verb Phrase, Object, and any extra information. <details class="answer"><summary>Show answer</summary><div class="answer-body">Noun phrase (subject): the experienced manager. Verb phrase: carefully reviewed. Object: the financial report. Extra information: before making an important decision, which tells you when the review happened.</div></details>
+12. **People who regularly read books about different subjects often develop a broader understanding of the world.** Identify the main subject, the relative clause inside it, the main verb phrase, the object, and any extra information. <details class="answer"><summary>Show answer</summary><div class="answer-body">Main subject: People. Relative clause inside it: who regularly read books about different subjects, describing which people. Main verb phrase: often develop. Object: a broader understanding of the world, where of the world is extra information attached to the object telling you whose understanding.</div></details>
 
 ### Part D — Understand Without Word-by-Word Translation
 
 Write the overall meaning of each sentence in your own English.
 
-13. People who develop strong reading skills can understand complex ideas more easily.
-14. Human behavior can be influenced by factors that people do not consciously recognize.
+13. People who develop strong reading skills can understand complex ideas more easily. <details class="answer"><summary>Show answer</summary><div class="answer-body">Someone who builds strong reading skills finds it easier to grasp complicated ideas.</div></details>
+14. Human behavior can be influenced by factors that people do not consciously recognize. <details class="answer"><summary>Show answer</summary><div class="answer-body">The way people behave can be shaped by things affecting them that they are not even consciously aware of.</div></details>
 
 ### Part E — Write Your Own
 
-15. Write one sentence that contains a long noun phrase.
-16. Write one sentence that contains a helping verb plus a main verb.
-17. Write one sentence that contains a Noun Phrase + Verb Phrase + Object + Relative Clause.
+15. Write one sentence that contains a long noun phrase. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: The highly motivated young researchers presented their findings. The highly motivated young researchers is the long noun phrase, built around the head noun researchers.</div></details>
+16. Write one sentence that contains a helping verb plus a main verb. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: She has finished the report. Has is the helping verb and finished is the main verb, together forming one verb phrase.</div></details>
+17. Write one sentence that contains a Noun Phrase + Verb Phrase + Object + Relative Clause. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: The company hired employees who show strong leadership potential. The company is the noun phrase subject, hired is the verb phrase, employees is the object, and who show strong leadership potential is the relative clause describing employees.</div></details>
 
 Next: Lesson 4 — Clauses: The Key to Understanding Complex English. You
 already met the independent/dependent distinction briefly here; the next

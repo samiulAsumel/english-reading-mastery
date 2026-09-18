@@ -665,11 +665,11 @@ visible, and that habit is worth keeping well beyond this lesson.
 ### Part A — Reference
 
 1. **The company introduced a new platform. It improved processing
-   speed.** What does *it* refer to?
+   speed.** What does *it* refer to? <details class="answer"><summary>Show answer</summary><div class="answer-body">It refers to the platform — a specific single noun, which is exactly what it typically points to.</div></details>
 2. **The system failed repeatedly. This created serious problems.**
-   What does *this* refer to?
+   What does *this* refer to? <details class="answer"><summary>Show answer</summary><div class="answer-body">This refers to the whole previous event — the system's repeated failure — not just the word "system."</div></details>
 3. **Employees lacked training and resources. These limitations
-   affected performance.** What does *these limitations* refer to?
+   affected performance.** What does *these limitations* refer to? <details class="answer"><summary>Show answer</summary><div class="answer-body">These limitations refers to both items named in the previous sentence together: the lack of training and the lack of resources.</div></details>
 
 ### Part B — Lexical Chain
 
@@ -681,8 +681,8 @@ different locations. However, the expansion also created challenges
 related to technical support and student engagement.**
 
 4. List the paragraph's education-related words, technology-related
-   words, and people-related words separately.
-5. What does *these resources* refer to?
+   words, and people-related words separately. <details class="answer"><summary>Show answer</summary><div class="answer-body">Education-related: education program, courses, teaching materials, lectures, assignments, assessments, student engagement. Technology-related: online, remotely, digital, resources, technical support. People-related: students, instructors, learners.</div></details>
+5. What does *these resources* refer to? <details class="answer"><summary>Show answer</summary><div class="answer-body">The new digital teaching materials that several instructors developed, mentioned in the sentence just before it.</div></details>
 
 ### Part C — Cohesion Type
 
@@ -690,12 +690,12 @@ For each pair of sentences, name the main type of cohesion at work
 (reference, repetition, synonym, nominalization, cause, or contrast).
 
 6. **Researchers analyzed the data. This analysis revealed several
-   patterns.**
+   patterns.** <details class="answer"><summary>Show answer</summary><div class="answer-body">Nominalization — the verb analyzed becomes the noun analysis, which the second sentence then picks up as its subject.</div></details>
 7. **The company introduced a new platform. The system improved
-   efficiency.**
-8. **The company reduced costs. As a result, profitability improved.**
+   efficiency.** <details class="answer"><summary>Show answer</summary><div class="answer-body">Synonym — platform and system refer to the same entity without repeating the exact word.</div></details>
+8. **The company reduced costs. As a result, profitability improved.** <details class="answer"><summary>Show answer</summary><div class="answer-body">Cause — as a result marks the second sentence as a consequence of the first.</div></details>
 9. **Some employees preferred the new system, while others preferred
-   the old one.**
+   the old one.** <details class="answer"><summary>Show answer</summary><div class="answer-body">Reference — others stands in for "other employees," the remaining part of the group introduced by "some employees," building a contrast between the two subgroups.</div></details>
 
 ### Part D — Advanced Reading
 
@@ -709,13 +709,13 @@ respond when unexpected problems occur. These responsibilities mean
 that successful automation depends not only on technology but also on
 human skills and organizational processes.**
 
-10. What does *these technologies* refer to?
-11. What does *such capabilities* refer to?
-12. What does *these responsibilities* refer to?
-13. What is the paragraph's main lexical chain?
-14. What is the paragraph's central argument?
+10. What does *these technologies* refer to? <details class="answer"><summary>Show answer</summary><div class="answer-body">The automated systems mentioned in the first sentence.</div></details>
+11. What does *such capabilities* refer to? <details class="answer"><summary>Show answer</summary><div class="answer-body">The whole previous idea: processing shipment data rapidly and providing managers with real-time information — a category of ability, not one single noun.</div></details>
+12. What does *these responsibilities* refer to? <details class="answer"><summary>Show answer</summary><div class="answer-body">The three parallel duties just listed: understanding the systems, monitoring their outputs, and responding when unexpected problems occur.</div></details>
+13. What is the paragraph's main lexical chain? <details class="answer"><summary>Show answer</summary><div class="answer-body">Automated systems, technologies, capabilities, automation, employees, outputs, responsibilities, human skills, organizational processes — a chain built around automation in logistics and what it requires from people and organizations.</div></details>
+14. What is the paragraph's central argument? <details class="answer"><summary>Show answer</summary><div class="answer-body">Automated systems bring real benefits, such as faster data processing and better planning, but successful automation depends on more than the technology itself — it also requires employee skills and organizational processes.</div></details>
 15. What contrast or relationship does the final sentence's *not only…
-    but also…* structure create?
+    but also…* structure create? <details class="answer"><summary>Show answer</summary><div class="answer-body">It rejects the idea that technology alone explains successful automation, presenting human skills and organizational processes as equally necessary alongside the technology, not as optional extras.</div></details>
 
 ### Part E — Deep Reading
 
@@ -727,7 +727,7 @@ human skills and organizational processes.**
     updates. These changes improved system stability, although some
     users continued to report minor issues.** (Trace the chain:
     *implemented → implementation → difficulties → testing → updates →
-    these changes → issues.*)
+    these changes → issues.*) <details class="answer"><summary>Show answer</summary><div class="answer-body">Sentence 1 introduces the action with the verb implemented. Sentence 2 turns that verb into the noun implementation (nominalization) and uses it as the new subject, then introduces technical problems. Sentence 3 relabels those problems as these difficulties, packaging the whole previous idea, and links them to insufficient testing. Sentence 4 picks testing back up and adds updates as the company's response. Sentence 5 relabels that response as these changes, again packaging a whole prior idea rather than one noun, and reports its effect, system stability, while some users continued to report minor issues closes the paragraph with a limiting concession. Each sentence hands off its key idea to the next as a fresh, more compact label, which is exactly how the paragraph stays connected without repeating a single phrase.</div></details>
 
 Next: Lesson 24 — Cause, Effect, Causation & Complex Logical
 Relationships: the full vocabulary of cause and result — contribute to,

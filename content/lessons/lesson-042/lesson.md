@@ -501,34 +501,34 @@ clauses very often come first.
 
 ### Part A — Coordination and Its Traps
 
-1. **The manager reviewed the data and approved the report.** Explain why this is not an example of two coordinated independent clauses, and rewrite it so that it is.
-2. **The system is efficient, but it is expensive.** Identify the two full propositions joined here, and explain what "but" signals about their relationship.
+1. **The manager reviewed the data and approved the report.** Explain why this is not an example of two coordinated independent clauses, and rewrite it so that it is. <details class="answer"><summary>Show answer</summary><div class="answer-body">There is only one subject, "the manager," shared by both verbs "reviewed" and "approved," so "and" here joins two verb phrases, not two independent clauses. Rewritten with a second subject, it becomes coordination: The manager reviewed the data, and the director approved the report.</div></details>
+2. **The system is efficient, but it is expensive.** Identify the two full propositions joined here, and explain what "but" signals about their relationship. <details class="answer"><summary>Show answer</summary><div class="answer-body">The two propositions are "the system is efficient" and "it is expensive," each a complete clause with its own subject and finite verb. "But" signals contrast, presenting the second proposition as working against the positive expectation set up by the first, without cancelling either claim.</div></details>
 
 ### Part B — Finite Verbs and Main Clauses
 
-3. **The system designed for large organizations was expensive.** Identify the sentence's one finite main verb, and explain why "designed" is not a second main verb.
-4. **The researchers found that the system performed better because it reduced errors.** List all three finite verbs and identify which clause is the main one.
+3. **The system designed for large organizations was expensive.** Identify the sentence's one finite main verb, and explain why "designed" is not a second main verb. <details class="answer"><summary>Show answer</summary><div class="answer-body">The one finite main verb is "was." "Designed" is a past participle introducing a reduced relative clause, short for "that was designed for large organizations," so it describes "the system" rather than carrying its own tense as a second main verb.</div></details>
+4. **The researchers found that the system performed better because it reduced errors.** List all three finite verbs and identify which clause is the main one. <details class="answer"><summary>Show answer</summary><div class="answer-body">The three finite verbs are found, performed, and reduced. The main clause is "the researchers found X," with "that the system performed better" as its complement clause and "because it reduced errors" as a reason clause nested inside that complement.</div></details>
 
 ### Part C — Complement Clauses vs. Relative Clauses
 
-5. **The evidence that automation reduces errors was presented at the conference.** Is the that-clause here a complement clause or a relative clause? Justify your answer.
-6. **The evidence that was collected during the study was presented at the conference.** Explain how this sentence differs in structure from question 5, despite the surface similarity.
+5. **The evidence that automation reduces errors was presented at the conference.** Is the that-clause here a complement clause or a relative clause? Justify your answer. <details class="answer"><summary>Show answer</summary><div class="answer-body">It is a complement clause. Asking "what is the evidence?" is answered by the whole clause, "automation reduces errors," which states the content of the evidence rather than identifying which evidence among several is meant.</div></details>
+6. **The evidence that was collected during the study was presented at the conference.** Explain how this sentence differs in structure from question 5, despite the surface similarity. <details class="answer"><summary>Show answer</summary><div class="answer-body">Here "that was collected during the study" is a relative clause identifying which evidence is meant, answerable by "which evidence?" rather than stating the evidence's content. In question 5 the that-clause names what the evidence shows; here it only picks out the evidence's source, without saying what it demonstrates.</div></details>
 
 ### Part D — Embedded Questions and Multi-Role Connectors
 
-7. **Researchers investigated whether automation reduced costs.** Rewrite the embedded question as a direct question, and explain what the embedded form allows the sentence to do that the direct form cannot.
-8. **While the system is efficient, it is expensive.** Explain which of "while's" two meanings applies here, and how you know.
-9. **As demand increased, prices rose.** Identify which of "as's" four possible meanings applies here.
+7. **Researchers investigated whether automation reduced costs.** Rewrite the embedded question as a direct question, and explain what the embedded form allows the sentence to do that the direct form cannot. <details class="answer"><summary>Show answer</summary><div class="answer-body">Direct question: Did automation reduce costs? The embedded form folds that question into the object slot of "investigated," letting the sentence report that the question was asked and studied without itself asserting or revealing the answer — something a standalone direct question cannot do inside a larger statement.</div></details>
+8. **While the system is efficient, it is expensive.** Explain which of "while's" two meanings applies here, and how you know. <details class="answer"><summary>Show answer</summary><div class="answer-body">"While" signals contrast here, not time. Efficiency and expense are not two events happening simultaneously in time; the sentence is setting one quality against another, the same relationship "although" or "whereas" would express.</div></details>
+9. **As demand increased, prices rose.** Identify which of "as's" four possible meanings applies here. <details class="answer"><summary>Show answer</summary><div class="answer-body">"As" carries the meaning of reason here, equivalent to "because" — rising demand is presented as the cause of rising prices, not merely as something happening at the same time.</div></details>
 
 ### Part E — Full Sentence Architecture
 
 Return to this lesson's guided reading passage about the terminal's
 automated gate processing.
 
-10. Identify the sentence's main clause following "although the terminal had already introduced automated gate processing."
-11. Explain what the relative clause "which had not been updated since the terminal's cargo volume had roughly doubled" is describing, and identify the time clause nested inside it.
-12. Using the master clause-decoding framework from this lesson, reduce the passage's final sentence to its skeleton, then restore its two concessions one at a time.
-13. Explain why treating the opening "although" clause as the passage's main point would misread the entire paragraph.
+10. Identify the sentence's main clause following "although the terminal had already introduced automated gate processing." <details class="answer"><summary>Show answer</summary><div class="answer-body">The main clause is "congestion during peak hours remained a persistent problem," which is itself coordinated with a second main clause, "managers eventually concluded that the bottleneck was not the gates themselves but the yard-planning system."</div></details>
+11. Explain what the relative clause "which had not been updated since the terminal's cargo volume had roughly doubled" is describing, and identify the time clause nested inside it. <details class="answer"><summary>Show answer</summary><div class="answer-body">The relative clause describes "the yard-planning system," identifying it as the system that had gone without an update. Nested inside it is the time clause "since the terminal's cargo volume had roughly doubled," which explains how long that gap has lasted rather than adding a separate main event.</div></details>
+12. Using the master clause-decoding framework from this lesson, reduce the passage's final sentence to its skeleton, then restore its two concessions one at a time. <details class="answer"><summary>Show answer</summary><div class="answer-body">Skeleton: congestion fell noticeably. First restoration: once the planning system was redesigned, congestion fell noticeably. Second restoration, adding the closing concession: once the planning system was redesigned, congestion fell noticeably, although a small number of peak-hour delays continued to occur.</div></details>
+13. Explain why treating the opening "although" clause as the passage's main point would misread the entire paragraph. <details class="answer"><summary>Show answer</summary><div class="answer-body">An opening "although" clause is a concession, not the main claim — exactly the "although trap" this lesson warns about. Treating "the terminal had already introduced automated gate processing" as the main point would miss that the passage's real message is that congestion persisted despite that technology, and was only resolved by fixing the yard-planning system.</div></details>
 
 With coordination, subordination, and embedding now mapped explicitly,
 you have the structural skeleton behind everything this course has

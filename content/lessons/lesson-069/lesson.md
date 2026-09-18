@@ -600,37 +600,37 @@ state explicitly what wrong conclusion it is preventing.
 
 ### Part A — Concession Versus Contrast
 
-1. **On-site staff work faster, whereas remote staff have lower overhead costs.** Explain why this is a contrast rather than a concession.
-2. **Although remote work reduces overhead costs, it can make spontaneous collaboration more difficult.** Identify the concession and the limitation that follows it.
-3. **The training program is expensive; nevertheless, most departments consider it worthwhile.** Explain what expected negative consequence "nevertheless" is working against here.
+1. **On-site staff work faster, whereas remote staff have lower overhead costs.** Explain why this is a contrast rather than a concession. <details class="answer"><summary>Show answer</summary><div class="answer-body">This is a contrast because it simply states a difference between two things — on-site staff faster, remote staff lower cost — without granting a point and then limiting it. Neither side is conceded to or qualified by the other; they are just placed side by side.</div></details>
+2. **Although remote work reduces overhead costs, it can make spontaneous collaboration more difficult.** Identify the concession and the limitation that follows it. <details class="answer"><summary>Show answer</summary><div class="answer-body">The concession is that remote work reduces overhead costs. The limitation that follows is that it can make spontaneous collaboration more difficult, added without denying the cost benefit already granted.</div></details>
+3. **The training program is expensive; nevertheless, most departments consider it worthwhile.** Explain what expected negative consequence "nevertheless" is working against here. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Nevertheless" works against the expectation that a high cost would make departments reluctant to value the program. Despite that expected reluctance, most departments consider it worthwhile anyway.</div></details>
 
 ### Part B — The "This Does Not Mean" Family
 
-4. **Customer satisfaction scores improved this quarter. This does not mean that every complaint has been resolved.** State the specific over-strong inference this sentence blocks.
-5. **The pilot program succeeded in one region. This does not necessarily mean it will succeed nationwide.** Explain what this sentence denies and what it leaves open.
-6. **A rise in social media mentions does not imply that public opinion has actually shifted.** Identify the two things this sentence refuses to equate.
+4. **Customer satisfaction scores improved this quarter. This does not mean that every complaint has been resolved.** State the specific over-strong inference this sentence blocks. <details class="answer"><summary>Show answer</summary><div class="answer-body">It blocks the inference that an improved overall satisfaction score means every individual complaint has been resolved. An aggregate improvement does not guarantee complete resolution at the level of each complaint.</div></details>
+5. **The pilot program succeeded in one region. This does not necessarily mean it will succeed nationwide.** Explain what this sentence denies and what it leaves open. <details class="answer"><summary>Show answer</summary><div class="answer-body">It denies that regional success guarantees nationwide success — that outcome is not logically necessary. It leaves open the possibility that nationwide success could still happen; it simply refuses to treat that outcome as assured.</div></details>
+6. **A rise in social media mentions does not imply that public opinion has actually shifted.** Identify the two things this sentence refuses to equate. <details class="answer"><summary>Show answer</summary><div class="answer-body">The sentence refuses to equate a rise in social media mentions with an actual shift in public opinion. Increased visibility or discussion is not the same fact as a genuine change in what people believe.</div></details>
 
 ### Part C — Evidence Strength and Universal Claims
 
-7. **Early results suggest that the new formula may reduce drying time.** Explain why "suggest" keeps this claim's certainty low.
-8. **Not all customers who received the discount increased their purchase frequency.** Explain what this sentence does and does not claim about "most" customers.
-9. **The delay was primarily caused by a shortage of parts.** Explain why this differs from claiming the shortage was the sole cause.
+7. **Early results suggest that the new formula may reduce drying time.** Explain why "suggest" keeps this claim's certainty low. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Suggest" reports the early results as pointing toward a possible effect without claiming it as an established fact, keeping the claim tentative and clearly short of a stronger evidentiary verb like "prove" or "show."</div></details>
+8. **Not all customers who received the discount increased their purchase frequency.** Explain what this sentence does and does not claim about "most" customers. <details class="answer"><summary>Show answer</summary><div class="answer-body">This sentence only claims that some customers did not increase their purchase frequency. It does not tell you how many did or did not, so it makes no claim at all about whether most customers responded to the discount.</div></details>
+9. **The delay was primarily caused by a shortage of parts.** Explain why this differs from claiming the shortage was the sole cause. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Primarily caused" names the shortage as the main contributing factor while leaving room for other, smaller contributing causes. Claiming it was the sole cause would instead deny that anything else played any role at all.</div></details>
 
 ### Part D — Qualification and Precision
 
-10. **The new policy has, to some extent, reduced onboarding time.** Explain what kind of claim "to some extent" prevents this sentence from making.
-11. **In principle, the workflow could run entirely without human input; in practice, exceptions still require a person to intervene.** Identify the theoretical claim and the real-world limitation.
-12. **This is not to say that the redesign failed; rather, its benefits were smaller and slower to appear than expected.** Identify the blocked misinterpretation and the reframed position.
+10. **The new policy has, to some extent, reduced onboarding time.** Explain what kind of claim "to some extent" prevents this sentence from making. <details class="answer"><summary>Show answer</summary><div class="answer-body">"To some extent" prevents the sentence from claiming that onboarding time was reduced completely or dramatically; it caps the claim at a partial, unspecified degree of improvement.</div></details>
+11. **In principle, the workflow could run entirely without human input; in practice, exceptions still require a person to intervene.** Identify the theoretical claim and the real-world limitation. <details class="answer"><summary>Show answer</summary><div class="answer-body">The theoretical claim is that the workflow could, in principle, run entirely without human input. The real-world limitation is that, in practice, exceptions still require a person to intervene, so the theoretical ideal does not fully hold in actual operation.</div></details>
+12. **This is not to say that the redesign failed; rather, its benefits were smaller and slower to appear than expected.** Identify the blocked misinterpretation and the reframed position. <details class="answer"><summary>Show answer</summary><div class="answer-body">The blocked misinterpretation is that the redesign failed. The reframed position is that the redesign succeeded, but its benefits were smaller and slower to appear than expected — not a failure at all.</div></details>
 
 ### Part E — Full Passage Analysis
 
 Return to this lesson's guided reading passage about predictive
 maintenance.
 
-13. State the passage's concession and its first inference block in your own words.
-14. Identify the real-world factors the passage says the prediction's accuracy depends on.
-15. Identify the passage's second inference block, and the reframed position that follows "rather."
-16. Explain why summarising this passage as "predictive maintenance prevents equipment failure" would overstate what the author actually claimed.
+13. State the passage's concession and its first inference block in your own words. <details class="answer"><summary>Show answer</summary><div class="answer-body">The concession is that predictive maintenance systems can reduce unplanned downtime. The first inference block, "this does not mean that equipment failures will be eliminated entirely," rules out reading that benefit as a guarantee that failures will stop happening altogether.</div></details>
+14. Identify the real-world factors the passage says the prediction's accuracy depends on. <details class="answer"><summary>Show answer</summary><div class="answer-body">The passage says the predictions' accuracy depends on sensor quality and on how consistently maintenance data has been logged over time.</div></details>
+15. Identify the passage's second inference block, and the reframed position that follows "rather." <details class="answer"><summary>Show answer</summary><div class="answer-body">The second inference block is "this is not to say that predictive maintenance is not worth adopting," blocking the conclusion that the earlier limitations make it worthless. The reframed position, introduced by "rather," is that organizations should treat it as one input among several, not as a replacement for routine physical inspection.</div></details>
+16. Explain why summarising this passage as "predictive maintenance prevents equipment failure" would overstate what the author actually claimed. <details class="answer"><summary>Show answer</summary><div class="answer-body">This summary drops the passage's explicit inference block that failures will not be eliminated entirely, and ignores the stated limitation that inspections remain necessary wherever sensor coverage is incomplete, collapsing a hedged, partial benefit into an absolute guarantee the author never made.</div></details>
 
 Next: Lesson 70 — Advanced Reading of "Not Only…But Also", Emphasis,
 Focus & Information Hierarchy: how to find what an author is actually

@@ -448,6 +448,36 @@ body {
 .prose td { padding: 0.5rem 0.75rem; border-bottom: 1px solid color-mix(in oklab, var(--border) 60%, transparent); vertical-align: top; }
 mark.collocation { background: color-mix(in oklab, var(--brand-accent) 22%, transparent); color: inherit; border-radius: 0.2rem; padding: 0 0.15rem; }
 
+/* ---- Answer reveal (practice-question self-check, <details> in lesson body) ---- */
+.prose details.answer {
+  display: block;
+  margin: 0.6rem 0 0.35rem;
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  background: var(--muted-bg);
+  padding: 0;
+  font-size: 0.9375rem;
+}
+.prose details.answer > summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 0.5rem 0.85rem;
+  font-weight: 600;
+  color: var(--brand-primary);
+  user-select: none;
+}
+.prose details.answer > summary::-webkit-details-marker { display: none; }
+.prose details.answer > summary::before {
+  content: '▸ ';
+  display: inline-block;
+  transition: transform 0.15s ease;
+}
+.prose details.answer[open] > summary::before { transform: rotate(90deg); }
+.prose details.answer[open] > summary { border-bottom: 1px solid var(--border); }
+.prose details.answer > summary:focus-visible { outline: 2px solid var(--brand-primary); outline-offset: 2px; }
+.prose details.answer .answer-body { padding: 0.7rem 0.85rem 0.85rem; line-height: 1.65; color: var(--fg); }
+.prose details.answer .answer-body p:last-child { margin-bottom: 0; }
+
 /* ---- Callouts (content blocks) ----------------------------------------- */
 .callout { border-radius: 0.625rem; padding: 1.15rem 1.3rem; margin: 1.75rem 0; box-shadow: var(--shadow-sm); }
 .callout-title { display: flex; align-items: center; gap: 0.55rem; font-weight: 600; font-size: 0.875rem; margin-bottom: 0.6rem; }

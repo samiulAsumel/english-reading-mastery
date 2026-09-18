@@ -518,30 +518,30 @@ common mistake — catching yourself doing it is real progress.
 
 ### Part A — Identify the That-Clause
 
-1. Researchers believe that social environments influence behavior.
-2. The author argues that people often make decisions emotionally.
-3. Studies suggest that sleep affects memory.
+1. Researchers believe that social environments influence behavior. <details class="answer"><summary>Show answer</summary><div class="answer-body">The that-clause is that social environments influence behavior — it is the object of believe, answering researchers believe what?</div></details>
+2. The author argues that people often make decisions emotionally. <details class="answer"><summary>Show answer</summary><div class="answer-body">The that-clause is that people often make decisions emotionally — it is the object of argues, naming the claim the author is defending.</div></details>
+3. Studies suggest that sleep affects memory. <details class="answer"><summary>Show answer</summary><div class="answer-body">The that-clause is that sleep affects memory — it is the object of suggest, naming a comparatively tentative claim.</div></details>
 
 ### Part B — Reporting Verb Strength
 
-4. Which verb is the most cautious? (a) demonstrate (b) suggest (c) establish
-5. Which verb is the most argumentative? (a) say (b) argue (c) mention
+4. Which verb is the most cautious? (a) demonstrate (b) suggest (c) establish <details class="answer"><summary>Show answer</summary><div class="answer-body">(b) suggest — it makes a comparatively tentative claim, a possibility or interpretation rather than a settled fact, unlike demonstrate and establish, which both commit strongly.</div></details>
+5. Which verb is the most argumentative? (a) say (b) argue (c) mention <details class="answer"><summary>Show answer</summary><div class="answer-body">(b) argue — it implies the source is defending a position with reasons or evidence, not just reporting or mentioning it in passing.</div></details>
 
 ### Part C — Source & Claim
 
-6. Separate the source from the claim in: **Recent studies indicate that regular practice improves reading comprehension.**
+6. Separate the source from the claim in: **Recent studies indicate that regular practice improves reading comprehension.** <details class="answer"><summary>Show answer</summary><div class="answer-body">Source: recent studies. Reporting verb: indicate. Claim: regular practice improves reading comprehension.</div></details>
 
 ### Part D — Noun Clause or Relative Clause?
 
 Identify each.
 
-7. I believe that the study is reliable.
-8. The study that I read was reliable.
-9. Researchers investigated whether the method was effective.
+7. I believe that the study is reliable. <details class="answer"><summary>Show answer</summary><div class="answer-body">Noun clause — that the study is reliable forms a complete idea on its own and functions as the object of believe.</div></details>
+8. The study that I read was reliable. <details class="answer"><summary>Show answer</summary><div class="answer-body">Relative clause — that I read describes study, with that standing in for study as the object of read; it answers which study.</div></details>
+9. Researchers investigated whether the method was effective. <details class="answer"><summary>Show answer</summary><div class="answer-body">Noun clause, but an embedded question rather than a that-clause — whether the method was effective is the object of investigated, and the question itself is left open, not settled as a claim.</div></details>
 
 ### Part E — Advanced Reading
 
-10. Decode this sentence: **Although some researchers argue that technology improves communication, others suggest that its effects depend on how people use it.** Identify: the contrast connector, source 1, reporting verb 1, claim 1, source 2, reporting verb 2, claim 2, and the embedded clause.
+10. Decode this sentence: **Although some researchers argue that technology improves communication, others suggest that its effects depend on how people use it.** Identify: the contrast connector, source 1, reporting verb 1, claim 1, source 2, reporting verb 2, claim 2, and the embedded clause. <details class="answer"><summary>Show answer</summary><div class="answer-body">Contrast connector: although. Source 1: some researchers. Reporting verb 1: argue. Claim 1: technology improves communication. Source 2: others. Reporting verb 2: suggest. Claim 2: its effects depend on how people use it. Embedded clause: how people use it, an embedded question sitting inside claim 2 as the object of the preposition on.</div></details>
 
 Next: Lesson 17 — Modals, Hedging & Degree of Certainty: *may, might,
 could, must, should, would, likely, probably, possibly, apparently,

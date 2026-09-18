@@ -761,22 +761,22 @@ catch.
 ### Part A — Direction
 
 1. **Poor planning resulted in delays.** Which is the cause, and which
-   is the effect?
+   is the effect? <details class="answer"><summary>Show answer</summary><div class="answer-body">Cause: poor planning. Effect: delays. Result in points from cause to result, so poor planning is what produced the delays.</div></details>
 2. **The delays resulted from poor planning.** Identify the cause and
-   the effect.
+   the effect. <details class="answer"><summary>Show answer</summary><div class="answer-body">Cause: poor planning. Effect: delays. Result from reverses the direction of reading, naming the effect first and pointing back to its cause, but poor planning is still the cause and delays still the effect.</div></details>
 3. **Higher costs contributed to the decline in sales.** Describe the
    relationship in your own words — is this a strong or a moderate
-   causal claim?
+   causal claim? <details class="answer"><summary>Show answer</summary><div class="answer-body">This is a moderate, hedged causal claim. Contributed to means higher costs played a role in producing the decline in sales, but the sentence does not claim costs were the sole cause — other factors were likely also involved.</div></details>
 
 ### Part B — Causation vs. Association
 
 Classify the claim strength of each sentence (strong causal, moderate/
 qualified causal, or association only).
 
-4. Poor sleep causes reduced concentration.
-5. Poor sleep may contribute to reduced concentration.
-6. Poor sleep is associated with reduced concentration.
-7. Poor sleep can lead to reduced concentration.
+4. Poor sleep causes reduced concentration. <details class="answer"><summary>Show answer</summary><div class="answer-body">Strong causal claim — causes states the relationship directly, with no hedging.</div></details>
+5. Poor sleep may contribute to reduced concentration. <details class="answer"><summary>Show answer</summary><div class="answer-body">Moderate, qualified causal claim — hedged twice, by may (possibility) and contribute to (one factor among others, not the sole cause).</div></details>
+6. Poor sleep is associated with reduced concentration. <details class="answer"><summary>Show answer</summary><div class="answer-body">Association only — it reports that the two travel together without claiming that poor sleep causes the reduced concentration.</div></details>
+7. Poor sleep can lead to reduced concentration. <details class="answer"><summary>Show answer</summary><div class="answer-body">Moderate, qualified causal claim — can signals that this is possible, not that it always happens.</div></details>
 
 ### Part C — Causal Chain
 
@@ -784,7 +784,7 @@ qualified causal, or association only).
    reduced its investment in training, which led to lower employee
    familiarity with the new system, resulting in more operational
    errors and ultimately reducing productivity.** (Format: *______ →
-   ______ → ______ → ______*)
+   ______ → ______ → ______*) <details class="answer"><summary>Show answer</summary><div class="answer-body">Reduced investment in training leads to lower employee familiarity with the new system leads to more operational errors leads to reduced productivity.</div></details>
 
 ### Part D — Deep Reading
 
@@ -798,17 +798,17 @@ and effective management can also influence the outcome. Therefore, the
 benefits of technological training depend on the broader environment in
 which the training is applied.**
 
-9. List every cause named or implied in the passage.
-10. List every effect named or implied in the passage.
-11. Identify every qualifier that softens a claim in this passage.
+9. List every cause named or implied in the passage. <details class="answer"><summary>Show answer</summary><div class="answer-body">Regular training, increased familiarity with the systems, organizational support, adequate resources, effective management, and the broader environment in which the training is applied.</div></details>
+10. List every effect named or implied in the passage. <details class="answer"><summary>Show answer</summary><div class="answer-body">Better performance when new technologies are introduced, reduced time required to complete routine tasks, successful implementation, the overall outcome, and the benefits of technological training.</div></details>
+11. Identify every qualifier that softens a claim in this passage. <details class="answer"><summary>Show answer</summary><div class="answer-body">Tend to, may partly result from, does not guarantee, can also influence, and depend on all soften or limit the strength of a claim somewhere in the passage.</div></details>
 12. Which sentences make a genuinely causal claim, and which only
-    describe an association or a tendency?
+    describe an association or a tendency? <details class="answer"><summary>Show answer</summary><div class="answer-body">The first sentence, with tend to, describes a general tendency rather than a firm causal claim. The second sentence, with may partly result from, makes a hedged causal claim about a partial mechanism. The third sentence, does not guarantee, makes a negative causal claim, denying that training alone is sufficient. The fourth sentence, can also influence, makes a cautious causal claim about other contributing factors. The final sentence, depend on, is a hedged causal conclusion about the whole relationship.</div></details>
 13. Does the passage supply a causal mechanism anywhere? If so, what is
-    it?
-14. State the passage's final conclusion in your own words.
+    it? <details class="answer"><summary>Show answer</summary><div class="answer-body">Yes — increased familiarity with the systems, which reduces the time required to complete routine tasks, is the mechanism: training increases familiarity, which reduces task time, which in turn supports better performance.</div></details>
+14. State the passage's final conclusion in your own words. <details class="answer"><summary>Show answer</summary><div class="answer-body">Training by itself does not guarantee better results with new technology — how much it helps depends on the wider environment surrounding it, including organizational support, resources, and management.</div></details>
 15. Explain what *"tend to," "may partly result from," "does not
     guarantee,"* and *"can also influence"* each contribute to the
-    overall strength of the author's claim.
+    overall strength of the author's claim. <details class="answer"><summary>Show answer</summary><div class="answer-body">Tend to marks a general pattern rather than a universal rule, leaving room for exceptions. May partly result from hedges twice, through may (possibility) and partly (one cause among others), presenting familiarity as only a partial explanation. Does not guarantee explicitly rules out reading training as a sufficient condition on its own. Can also influence cautiously credits other factors with a role, using can rather than asserting that they determine the outcome. Together these four qualifiers keep the passage's overall causal claim modest and dependent on context, rather than absolute.</div></details>
 
 Next: Lesson 25 continues this course's cohesion and reference module,
 building directly on today's skill for separating a genuine causal

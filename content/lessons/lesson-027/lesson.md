@@ -694,21 +694,21 @@ spot.
 ### Part A — Identify the Relationship
 
 1. **The new system is more efficient than the old system.** What
-   relationship is this?
+   relationship is this? <details class="answer"><summary>Show answer</summary><div class="answer-body">Comparison — a basic comparative structure ("more...than") placing the two systems side by side along the dimension of efficiency.</div></details>
 2. **The old system is simple, whereas the new system is flexible.**
-   What relationship is this?
+   What relationship is this? <details class="answer"><summary>Show answer</summary><div class="answer-body">Contrast. "Whereas" sharpens a plain comparison into an explicit difference between the two systems.</div></details>
 3. **Although the new system is expensive, it is highly reliable.**
-   Which part is the concession?
-4. In the same sentence, which part is the main point?
+   Which part is the concession? <details class="answer"><summary>Show answer</summary><div class="answer-body">"The new system is expensive" is the concession — the author accepts this as true before moving to the main point.</div></details>
+4. In the same sentence, which part is the main point? <details class="answer"><summary>Show answer</summary><div class="answer-body">"It is highly reliable" is the main point — the direction the author is actually pushing the reader toward, with the expense treated as background.</div></details>
 
 ### Part B — Meaning
 
 5. **The new system is not as reliable as the old one.** Which system
-   is more reliable?
+   is more reliable? <details class="answer"><summary>Show answer</summary><div class="answer-body">The old system is more reliable — the negated "as...as" structure places the new system below it.</div></details>
 6. **The new system is far more efficient than the old one.** How
-   strong is this difference?
+   strong is this difference? <details class="answer"><summary>Show answer</summary><div class="answer-body">Very strong. "Far more" is a heavy degree modifier signalling a large, decisive gap rather than a marginal one.</div></details>
 7. **The system is expensive; nevertheless, the company adopted it.**
-   What does *nevertheless* signal here?
+   What does *nevertheless* signal here? <details class="answer"><summary>Show answer</summary><div class="answer-body">That despite the real obstacle of expense, the company's decision to adopt the system went ahead unchanged — the problem is acknowledged but didn't alter the outcome.</div></details>
 
 ### Part C — Compare the Structures
 
@@ -718,10 +718,10 @@ adopted it. **(iii)** Even if the system is expensive, the company
 should adopt it.
 
 8. In which sentence(s) is the expense treated as an actual, known
-   fact?
-9. In which sentence is the expense treated as hypothetical?
+   fact? <details class="answer"><summary>Show answer</summary><div class="answer-body">Sentences (i) and (ii). Both "although" and "despite" present the expense as something real and already established, not merely supposed.</div></details>
+9. In which sentence is the expense treated as hypothetical? <details class="answer"><summary>Show answer</summary><div class="answer-body">Sentence (iii). "Even if" treats the expense as a supposed condition — "suppose it is expensive" — rather than a confirmed fact.</div></details>
 10. How does the grammatical structure differ across the three
-    sentences?
+    sentences? <details class="answer"><summary>Show answer</summary><div class="answer-body">Sentence (i) uses "although" followed by a full clause (subject plus verb: "the system is expensive"). Sentence (ii) uses "despite" followed by a noun phrase ("the high cost"), with no clause. Sentence (iii) uses "even if," grammatically a clause like (i), but it shifts the expense from an accepted fact into a hypothetical condition.</div></details>
 
 ### Part D — Advanced Analysis
 
@@ -736,12 +736,12 @@ increase. Therefore, the choice between automation and manual
 processing should depend on the nature and scale of the operation
 rather than on the assumption that one approach is always superior.**
 
-11. What is being compared?
-12. What is the main contrast?
-13. Where does concession appear?
-14. What trade-off does the paragraph describe?
-15. What qualification does the author add?
-16. What is the paragraph's final conclusion?
+11. What is being compared? <details class="answer"><summary>Show answer</summary><div class="answer-body">Automated systems and manual systems, as two approaches to processing information.</div></details>
+12. What is the main contrast? <details class="answer"><summary>Show answer</summary><div class="answer-body">Speed and reduced routine workload (automation's advantage) versus flexibility in unusual situations (manual processing's advantage).</div></details>
+13. Where does concession appear? <details class="answer"><summary>Show answer</summary><div class="answer-body">"Although automation can reduce routine workload, it may also require significant investment in infrastructure and employee training" — the benefit is conceded before its cost is named.</div></details>
+14. What trade-off does the paragraph describe? <details class="answer"><summary>Show answer</summary><div class="answer-body">Automation trades a large upfront investment for reduced routine workload, while manual processing trades a lower initial cost for declining efficiency as transaction volumes grow.</div></details>
+15. What qualification does the author add? <details class="answer"><summary>Show answer</summary><div class="answer-body">That the choice should depend on the nature and scale of the operation, rather than on assuming either approach is always superior.</div></details>
+16. What is the paragraph's final conclusion? <details class="answer"><summary>Show answer</summary><div class="answer-body">Neither automation nor manual processing is universally the better choice; the right decision depends on the specific operation's nature and scale.</div></details>
 
 ### Part E — Deep Reading
 
@@ -758,10 +758,10 @@ on how the organization structures and manages the arrangement.**
 
 17. Explain what *"on the other hand," "although," "do not
     necessarily,"* and *"may be able to"* each contribute to how
-    carefully the author is arguing.
+    carefully the author is arguing. <details class="answer"><summary>Show answer</summary><div class="answer-body">"On the other hand" pivots from the benefits already named toward a genuine limitation, without declaring the two sides flatly opposed. "Although" opens a concession, accepting the coordination problem as real before the author pushes toward their actual point. "Do not necessarily" blocks the tempting leap from "this limitation is real" to "remote work is ineffective" — it denies the inference, not the limitation. "May be able to" hedges the proposed fix, presenting communication procedures as a plausible remedy rather than a guaranteed one. Together, these phrases keep the argument careful and qualified rather than sweeping.</div></details>
 18. State the author's exact position in your own words — pay
     particular attention to the closing *"depends less on X than on
-    Y"* structure.
+    Y"* structure. <details class="answer"><summary>Show answer</summary><div class="answer-body">The author's position is that remote work is neither simply good nor simply bad: its coordination problems are real but manageable, so whether it succeeds depends less on where employees physically work than on how deliberately the organization structures and manages the arrangement.</div></details>
 
 Lesson 28 — Modality, Stance & Author Position in Extended Texts:
 building on today's concession skill to read exactly how certain an

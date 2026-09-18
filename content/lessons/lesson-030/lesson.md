@@ -585,28 +585,28 @@ layers is usually where a wrong answer comes from.
 Label each sentence: D = Data/Observation, I = Interpretation, E =
 Evidence-based inference, C = Conclusion.
 
-1. Average processing time fell from 14 minutes to 10 minutes.
-2. This reduction suggests that the new workflow improved efficiency.
+1. Average processing time fell from 14 minutes to 10 minutes. <details class="answer"><summary>Show answer</summary><div class="answer-body">D — Data/Observation. This is a directly measured change, with no interpretation added yet.</div></details>
+2. This reduction suggests that the new workflow improved efficiency. <details class="answer"><summary>Show answer</summary><div class="answer-body">I — Interpretation. "Suggests" signals the meaning the author is assigning to the observed reduction, offered cautiously.</div></details>
 3. Taken together, the findings support continued investment in process
-   automation.
+   automation. <details class="answer"><summary>Show answer</summary><div class="answer-body">C — Conclusion. "Taken together" signals this is the argument's final position, built on top of the preceding data and interpretation.</div></details>
 4. The improvement was observed in 85 percent of the participating
-   departments.
+   departments. <details class="answer"><summary>Show answer</summary><div class="answer-body">D — Data/Observation. This reports a measured proportion, not yet an interpretation of what it means.</div></details>
 
 ### Part B — Evidence Strength
 
 5. **One manager reported that the new system was highly effective.**
-   What kind of evidence is this?
+   What kind of evidence is this? <details class="answer"><summary>Show answer</summary><div class="answer-body">An anecdote — a single, informal report from one individual. It's useful as context but weak as general evidence for a company-wide claim.</div></details>
 6. **Five independent studies reported similar results.** Why is this
-   stronger?
+   stronger? <details class="answer"><summary>Show answer</summary><div class="answer-body">Because it represents replication: multiple independent studies converging on the same finding is far more convincing than one isolated result, since it is less likely to be explained by chance, one flawed design, or one unusual sample.</div></details>
 7. **The study found no evidence that the intervention caused harm.**
-   Does this mean the intervention is definitely harmless?
+   Does this mean the intervention is definitely harmless? <details class="answer"><summary>Show answer</summary><div class="answer-body">No. This is absence of evidence, not evidence of absence — the study simply didn't detect harm, which is not the same as proving harm is impossible; the study's design, sample size, or duration could have missed a real but smaller or slower-developing effect.</div></details>
 
 ### Part C — Scope
 
 8. **A study of 100 experienced software developers found that AI
    tools increased coding speed.** Can this evidence support the claim
    *"AI tools increase productivity for all workers"*? Explain why or
-   why not.
+   why not. <details class="answer"><summary>Show answer</summary><div class="answer-body">No — this is a scope mismatch. The evidence covers 100 experienced software developers and one specific measure, coding speed, while the claim reaches for "all workers" and the much broader concept of "productivity." A better-matched claim would be that among the developers studied, AI tools were associated with faster coding, without generalizing beyond that sample or to other kinds of work.</div></details>
 
 ### Part D — Deep Analysis
 
@@ -622,22 +622,22 @@ effectiveness of the automated system, but they do not establish that
 automation alone caused the improvement or that the results would
 necessarily apply to the entire port.**
 
-9. What is the data?
-10. What is the observation?
-11. What is management's interpretation?
-12. What alternative explanations does the passage raise?
-13. What is the scope limitation?
-14. What is the author's final position?
-15. Name two specific things the evidence does *not* establish.
+9. What is the data? <details class="answer"><summary>Show answer</summary><div class="answer-body">The recorded documentation-processing times measured before and after the system's introduction, from January to June.</div></details>
+10. What is the observation? <details class="answer"><summary>Show answer</summary><div class="answer-body">That average documentation-processing time fell by 30 percent between January and June.</div></details>
+11. What is management's interpretation? <details class="answer"><summary>Show answer</summary><div class="answer-body">That automation had increased operational efficiency.</div></details>
+12. What alternative explanations does the passage raise? <details class="answer"><summary>Show answer</summary><div class="answer-body">Additional staff training and revised documentation procedures, both introduced during the same period as the automated system.</div></details>
+13. What is the scope limitation? <details class="answer"><summary>Show answer</summary><div class="answer-body">The evaluation covered only one operational unit, not the entire port.</div></details>
+14. What is the author's final position? <details class="answer"><summary>Show answer</summary><div class="answer-body">A qualified conclusion: the findings provide some support for the automated system's effectiveness, but do not establish that automation alone caused the improvement, or that the results would generalize to the whole port.</div></details>
+15. Name two specific things the evidence does *not* establish. <details class="answer"><summary>Show answer</summary><div class="answer-body">First, that automation alone — rather than the added staff training or the revised procedures — caused the improvement. Second, that the same results would apply to the port's other operational units.</div></details>
 
 ### Part E — Absence of Evidence vs. Evidence of Absence
 
 16. **A safety audit found no evidence that the equipment was
     faulty.** Does this mean the equipment is definitely not faulty?
-    Explain your reasoning.
+    Explain your reasoning. <details class="answer"><summary>Show answer</summary><div class="answer-body">No. This is absence of evidence — the audit simply didn't turn up supporting evidence of a fault. It is not the stronger claim of evidence of absence, which would mean the audit actively found evidence that no fault exists. A real fault could still be present but undetected, depending on the audit's scope, methods, or timing.</div></details>
 17. Rewrite the audit's finding as a genuine *"evidence of absence"*
     claim, and explain exactly how that version would differ from the
-    original.
+    original. <details class="answer"><summary>Show answer</summary><div class="answer-body">Genuine version: "The audit's tests actively confirmed that the equipment was functioning within all safety parameters, providing positive evidence that no fault exists." This differs from the original because it doesn't just report a failed search for problems — it presents direct, positive evidence supporting the conclusion that no fault is present, a considerably stronger claim than simply "we didn't find anything."</div></details>
 
 With evidence, claims, data, and interpretation now separated into
 their own distinct layers, you're ready to apply this same discipline

@@ -455,49 +455,49 @@ the most valuable one.
 
 1. **A port introduced an automated vehicle-tracking system. After
    implementation, truck waiting time decreased by 25%.** Write the
-   counterfactual question this claim needs to answer.
+   counterfactual question this claim needs to answer. <details class="answer"><summary>Show answer</summary><div class="answer-body">What would truck waiting time have looked like if the automated vehicle-tracking system had never been introduced? If waiting time would likely have fallen by roughly the same amount anyway, the system's causal role is doubtful; if it almost certainly would not have fallen, the causal claim is stronger.</div></details>
 2. Name two changes that might have happened at the port during the
-   same period, independent of the tracking system.
+   same period, independent of the tracking system. <details class="answer"><summary>Show answer</summary><div class="answer-body">Additional gates might have opened during the same period, and overall traffic volume or cargo demand at the port might have decreased, both of which could reduce waiting time regardless of the tracking system.</div></details>
 
 ### Part B — Before/After vs. Because
 
 3. **After the software was introduced, errors decreased.** Rewrite
    this as a causal claim using *because*, and explain what additional
-   evidence that stronger claim would require.
+   evidence that stronger claim would require. <details class="answer"><summary>Show answer</summary><div class="answer-body">Causal version: errors decreased because the software was introduced. This stronger claim would require evidence beyond mere timing, such as a comparison group that did not adopt the software, repeated observations ruling out other concurrent changes, or a plausible mechanism explaining exactly how the software prevented errors.</div></details>
 4. Why is a simple before/after comparison usually insufficient
-   evidence for a causal claim on its own?
+   evidence for a causal claim on its own? <details class="answer"><summary>Show answer</summary><div class="answer-body">Because many other things can change across the same stretch of time, such as new staff, seasonal shifts, better training, or lower demand, so a change that follows an intervention in time might actually be caused by one of those other concurrent factors rather than by the intervention itself.</div></details>
 
 ### Part C — Control Groups and Comparisons
 
 5. **Treatment group improved by 20%. Control group improved by 5%.**
    Explain why this comparison supports a stronger causal claim than
-   the treatment group's result alone.
+   the treatment group's result alone. <details class="answer"><summary>Show answer</summary><div class="answer-body">The control group's 5 percent improvement shows roughly what would likely have happened anyway from background factors affecting both groups. Subtracting that from the treatment group's 20 percent isolates an estimated 15-point effect attributable specifically to the intervention, rather than crediting the whole 20 percent improvement to it.</div></details>
 6. What assumption does a comparison like Port A vs. Port B in this
-   lesson still depend on?
+   lesson still depend on? <details class="answer"><summary>Show answer</summary><div class="answer-body">It still depends on the comparison assumption from Lesson 31: that Port A and Port B are sufficiently similar in relevant conditions, such as vessel size, staffing, and volume, for the comparison between them to be meaningful.</div></details>
 
 ### Part D — Regression to the Mean and Reverse Causation
 
 7. A warehouse had an unusually bad delay record in January, and a
    much better one in February, after a new policy began. Explain how
    regression to the mean could account for part of this improvement
-   without the policy being the cause.
+   without the policy being the cause. <details class="answer"><summary>Show answer</summary><div class="answer-body">January's unusually high delay figure was an extreme reading, and extreme readings tend to naturally drift back toward the typical average over time, with no intervention required. So part of February's improvement may simply reflect a return to normal conditions rather than any effect of the new policy.</div></details>
 8. **Employees who perform poorly use more AI tools.** Explain the
    reverse-causation reading of this sentence, and why "AI usage
-   causes poor performance" is not the only reasonable interpretation.
+   causes poor performance" is not the only reasonable interpretation. <details class="answer"><summary>Show answer</summary><div class="answer-body">The reverse reading is that poor performance causes greater AI usage, perhaps because struggling employees turn to AI tools for extra help. Since both directions are equally plausible from this sentence alone, assuming AI usage causes the poor performance ignores that the causal arrow could just as easily point the other way.</div></details>
 
 ### Part E — Deep Analysis
 
 Return to this lesson's route-optimization passage.
 
 9. Identify the observed outcome, the causal claim, and every
-   alternative explanation the passage raises.
+   alternative explanation the passage raises. <details class="answer"><summary>Show answer</summary><div class="answer-body">Observed outcome: average delivery delays fell by 22 percent by June. Causal claim: management attributed the improvement primarily to the new AI-based route optimization system. Alternative explanations: additional drivers were hired, delivery volume was reduced, new performance-monitoring procedures were introduced, and the pattern of largest reductions on the worst-starting routes suggests regression to the mean.</div></details>
 10. What specific evidence in the passage supports a regression-to-
-    the-mean explanation?
+    the-mean explanation? <details class="answer"><summary>Show answer</summary><div class="answer-body">The fact that the largest reduction occurred specifically on the routes that had the highest initial delays is exactly the pattern regression to the mean predicts, since the worst-starting cases have the most room to naturally correct back toward the average.</div></details>
 11. Rewrite the passage's final sentence in your own words, being
-    careful to preserve exactly how qualified its conclusion is.
+    careful to preserve exactly how qualified its conclusion is. <details class="answer"><summary>Show answer</summary><div class="answer-body">The results fit with the idea that the AI system had a beneficial effect, but on their own they do not prove it was the main reason for the overall improvement in delivery delays.</div></details>
 12. Apply the five-line counterfactual shortcut to this lesson's
     Guided Reading Practice passage about the port's berth-booking
-    system.
+    system. <details class="answer"><summary>Show answer</summary><div class="answer-body">X happened: the online berth-booking system was introduced. Y changed: average ship waiting time for a berth fell. The author says X caused Y: officials credited the booking system with the improvement. What else could have caused Y: channel dredging that let larger vessels move more efficiently, and an unusually quiet cargo quarter due to a regional slowdown. What would Y have looked like without X: unclear, since the largest improvements occurred at the previously worst-performing berths, suggesting regression to the mean may explain part of the change rather than the booking system alone.</div></details>
 
 Lesson 33 — Argument Evaluation & Logical Fallacies: naming the
 recurring reasoning errors — hasty generalization, post hoc reasoning,

@@ -480,15 +480,15 @@ description just as much as a hasty generalization does.
 Name the fallacy pattern in each example.
 
 1. Two employees made mistakes with the new software; therefore, the
-   software is unsuitable for all employees.
+   software is unsuitable for all employees. <details class="answer"><summary>Show answer</summary><div class="answer-body">Hasty generalization. Two isolated cases cannot support a universal conclusion about every employee; the honest claim would stay inside the evidence's actual scope, such as "two employees experienced difficulties with the software."</div></details>
 2. The company introduced a new dashboard in March, and profits
-   increased in April, so the dashboard increased profits.
-3. Either the company adopts AI, or it will become uncompetitive.
+   increased in April, so the dashboard increased profits. <details class="answer"><summary>Show answer</summary><div class="answer-body">Post hoc reasoning (post hoc ergo propter hoc). The dashboard simply came before the profit increase in time; sales, prices, costs, or demand could each explain the same rise, and nothing here rules them out.</div></details>
+3. Either the company adopts AI, or it will become uncompetitive. <details class="answer"><summary>Show answer</summary><div class="answer-body">False dilemma. It presents only two options when real alternatives exist, such as partial automation, process redesign, employee training, outsourcing, or better non-AI software.</div></details>
 4. Original position: "AI should be introduced gradually with
    oversight." Response: "So you want to replace every worker with
-   AI."
+   AI." <details class="answer"><summary>Show answer</summary><div class="answer-body">Straw man. The response exaggerates a cautious, gradual position into an extreme one that's easier to attack, rather than engaging with the actual claim that was made.</div></details>
 5. A famous business leader says AI always improves productivity;
-   therefore, it does.
+   therefore, it does. <details class="answer"><summary>Show answer</summary><div class="answer-body">Appeal to authority. The leader's fame or position is treated as automatic proof, without checking whether their expertise is actually relevant or whether independent evidence supports the claim.</div></details>
 
 ### Part B — Argument Strength
 
@@ -496,38 +496,38 @@ Classify each argument as strongly supported, reasonably supported, or
 insufficiently supported, and justify your answer.
 
 6. A single, small case study reports a positive result, with no
-   mention of any contrary evidence.
+   mention of any contrary evidence. <details class="answer"><summary>Show answer</summary><div class="answer-body">Insufficiently supported. One small case study, with no discussion of contrary evidence or alternative explanations, is far too narrow a base for a general conclusion.</div></details>
 7. Five independent, replicated studies report a consistent positive
-   result, and the author also names a plausible mechanism.
+   result, and the author also names a plausible mechanism. <details class="answer"><summary>Show answer</summary><div class="answer-body">Strongly supported. Multiple independent, replicated studies reaching the same result, combined with a plausible named mechanism, is close to the strongest evidentiary base this lesson describes.</div></details>
 8. A company reports one before-and-after number with no comparison
-   group and no discussion of what else changed.
+   group and no discussion of what else changed. <details class="answer"><summary>Show answer</summary><div class="answer-body">Insufficiently supported. A single before-and-after figure, with no comparison group and no accounting for other concurrent changes, cannot rule out alternative explanations for the result.</div></details>
 
 ### Part C — Validity and Soundness
 
 9. **All ports in Country X use System A. Port B is in Country X.
-   Therefore, Port B uses System A.** Is this argument valid? Explain.
+   Therefore, Port B uses System A.** Is this argument valid? Explain. <details class="answer"><summary>Show answer</summary><div class="answer-body">Yes, it is valid. If both premises are true, the conclusion follows necessarily from them by logical structure alone, regardless of whether the premises are actually true.</div></details>
 10. Under what condition would this same argument fail to be sound,
-    even though it remains valid?
+    even though it remains valid? <details class="answer"><summary>Show answer</summary><div class="answer-body">It would fail to be sound if the first premise were actually false — that is, if not every port in Country X uses System A. The reasoning would still be structurally valid, but an untrue premise makes the argument unsound.</div></details>
 
 ### Part D — Deep Analysis
 
 Return to this lesson's AI forecasting tool passage.
 
-11. State the claim and the evidence offered for it.
-12. What alternative explanations does the passage raise?
+11. State the claim and the evidence offered for it. <details class="answer"><summary>Show answer</summary><div class="answer-body">Claim: the AI forecasting tool substantially improved supply-chain efficiency. Evidence: inventory costs fell by 15%, and the warehouses that used the tool most extensively showed the largest cost reductions.</div></details>
+12. What alternative explanations does the passage raise? <details class="answer"><summary>Show answer</summary><div class="answer-body">The passage notes that the company also reduced overall inventory levels and renegotiated several supplier contracts during the same period — either of which could have contributed to the cost reduction independently of the AI tool.</div></details>
 13. What unstated assumption does management's response still depend
-    on?
+    on? <details class="answer"><summary>Show answer</summary><div class="answer-body">It assumes that AI adoption, rather than the inventory reductions or contract renegotiations, is the primary explanation for the warehouse-to-warehouse difference in savings — without establishing whether those other changes were themselves warehouse-specific.</div></details>
 14. Is there a genuine logical gap here, or a specifically named
-    fallacy? Explain your choice.
+    fallacy? Explain your choice. <details class="answer"><summary>Show answer</summary><div class="answer-body">A genuine logical gap, not a single named fallacy. It doesn't cleanly fit hasty generalization, post hoc, or any other label on this lesson's list; the more precise description is that the causal inference hasn't adequately ruled out alternative, concurrent explanations.</div></details>
 15. Write the most reasonable, calibrated conclusion this evidence
-    actually supports.
+    actually supports. <details class="answer"><summary>Show answer</summary><div class="answer-body">The evidence is suggestive of a beneficial effect from the AI forecasting tool, but the tool's causal contribution has not been fully isolated from the concurrent inventory reductions and contract renegotiations happening in the same period.</div></details>
 
 ### Part E — Wrong vs. Not Established
 
 16. Rewrite this overreaching claim precisely: **"The evidence proves
     that the automated system was the sole cause of the improvement."**
     Your rewrite should say exactly what the evidence does and does not
-    establish, without claiming the opposite is true either.
+    establish, without claiming the opposite is true either. <details class="answer"><summary>Show answer</summary><div class="answer-body">The evidence suggests that the automated system contributed to the improvement, but it does not establish that the system was the sole cause; other concurrent factors may also have played a role, and the available evidence cannot rule them out.</div></details>
 
 Lesson 34 — Rhetorical Structure, Author Purpose & Persuasive Language:
 moving from whether an argument's logic holds up to why the author

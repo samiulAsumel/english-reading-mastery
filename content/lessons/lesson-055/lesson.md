@@ -475,33 +475,33 @@ baseline should be treated as incomplete, not simply accepted.
 
 ### Part A — By vs. To, and Percentage Points
 
-1. **Error rates fell by 25%** vs. **Error rates fell to 25%.** Explain the difference between these two claims, using example starting values.
-2. **The approval rate rose from 55% to 60%.** State both the percentage-point change and the approximate relative percentage change.
+1. **Error rates fell by 25%** vs. **Error rates fell to 25%.** Explain the difference between these two claims, using example starting values. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Fell by 25%" describes the size of the change: from a starting rate of 100, it drops to 75, a relative decrease of 25% off the original. "Fell to 25%" states the final value itself: from a starting rate of 100, it drops all the way to 25, which is actually a 75% decrease — the same wording pattern, two very different outcomes.</div></details>
+2. **The approval rate rose from 55% to 60%.** State both the percentage-point change and the approximate relative percentage change. <details class="answer"><summary>Show answer</summary><div class="answer-body">The percentage-point change is 5 percentage points (60 minus 55). The relative percentage change is approximately 9.1% (5 divided by 55).</div></details>
 
 ### Part B — Quantifiers and Averages
 
-3. **Few managers reported concerns about the new system.** vs. **A few managers reported concerns about the new system.** Explain the difference in tone and implied quantity between these two sentences.
-4. **The average delivery time was 3 days.** Explain why this statement does not tell you the delivery time for any specific individual order.
+3. **Few managers reported concerns about the new system.** vs. **A few managers reported concerns about the new system.** Explain the difference in tone and implied quantity between these two sentences. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Few managers" carries a negative tone, implying a disappointingly low number, almost none. "A few managers" is comparatively neutral, simply stating that some managers, a small but real number, did report concerns, without judging that number as too low or too high.</div></details>
+4. **The average delivery time was 3 days.** Explain why this statement does not tell you the delivery time for any specific individual order. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Average" is a single combined central-tendency figure across all orders, not a description of every individual case. Some orders could have arrived in one day and others in a week, and both would still be consistent with a 3-day average.</div></details>
 
 ### Part C — Charts and Correlation
 
-5. Explain why a dual-axis chart comparing two variables with different units can visually suggest a relationship that may not actually be meaningful.
-6. **Both automation adoption and staff turnover increased during the same period as processing errors decreased.** Explain why staff turnover is a potential confounding variable in a claim that automation caused the error reduction.
+5. Explain why a dual-axis chart comparing two variables with different units can visually suggest a relationship that may not actually be meaningful. <details class="answer"><summary>Show answer</summary><div class="answer-body">Because each variable has its own separately scaled axis, the two lines can be made to visually rise and fall together simply through the choice of scale, even when the real-world relationship between the underlying quantities is weak or nonexistent. The apparent connection is often an artifact of axis-scaling choices, not evidence of a genuine relationship.</div></details>
+6. **Both automation adoption and staff turnover increased during the same period as processing errors decreased.** Explain why staff turnover is a potential confounding variable in a claim that automation caused the error reduction. <details class="answer"><summary>Show answer</summary><div class="answer-body">Staff turnover changed at the same time as automation adoption and could independently affect error rates, for example if newer staff were better trained on updated procedures. This means any error reduction credited entirely to automation might really be partly or wholly caused by the change in staffing instead.</div></details>
 
 ### Part D — Hedged Quantitative Language
 
-7. **The system can process up to 10,000 transactions per hour.** Explain why this does not mean the system typically processes 10,000 transactions per hour.
-8. **The estimated cost savings were $50,000, with a wide confidence interval.** Explain why treating $50,000 as an exact, certain figure would misread this sentence.
+7. **The system can process up to 10,000 transactions per hour.** Explain why this does not mean the system typically processes 10,000 transactions per hour. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Up to" states a maximum ceiling reached only under the best possible conditions, not a typical or average result. The system's usual throughput in normal operation could be considerably lower than that peak figure.</div></details>
+8. **The estimated cost savings were $50,000, with a wide confidence interval.** Explain why treating $50,000 as an exact, certain figure would misread this sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Estimated" and "confidence interval" both signal built-in uncertainty around that number — the true savings could plausibly be meaningfully higher or lower than $50,000. Treating it as a fixed, certain figure ignores exactly the uncertainty the sentence goes out of its way to flag.</div></details>
 
 ### Part E — Full Passage Analysis
 
 Return to this lesson's guided reading passage about barcode scanning
 in warehouses.
 
-9. Identify the passage's baseline for the "18% fewer picking errors" claim.
-10. Explain why "up to 35%" should not be used to describe the typical facility's improvement.
-11. Identify the confounding variable the researchers themselves acknowledge, and explain why it prevents a causal conclusion.
-12. Write a one-sentence summary of this passage that preserves its central finding and its explicit causal limitation.
+9. Identify the passage's baseline for the "18% fewer picking errors" claim. <details class="answer"><summary>Show answer</summary><div class="answer-body">The baseline is facilities relying on manual entry — barcode-scanning facilities are being compared against those manual-entry facilities, not against their own past performance.</div></details>
+10. Explain why "up to 35%" should not be used to describe the typical facility's improvement. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Up to 35%" states only the maximum reduction observed at some facilities, not a typical result. The passage explicitly says the improvement varied considerably, with a few facilities reporting no measurable change at all, so 35% cannot represent the average experience.</div></details>
+11. Identify the confounding variable the researchers themselves acknowledge, and explain why it prevents a causal conclusion. <details class="answer"><summary>Show answer</summary><div class="answer-body">The confounding variable is differences in staff training levels across facilities. Because training levels varied alongside barcode-scanning use, and there was no controlled comparison, the observed variation in error reduction could be due to training rather than the scanning technology itself.</div></details>
+12. Write a one-sentence summary of this passage that preserves its central finding and its explicit causal limitation. <details class="answer"><summary>Show answer</summary><div class="answer-body">Warehouses using barcode scanning reported, on average, 18% fewer picking errors than manual-entry facilities, though the improvement varied widely and, absent a controlled comparison, this association cannot be confirmed as causal.</div></details>
 
 Next: Lesson 56 — Advanced Reading of Data, Charts, Tables &
 Quantitative Arguments: moving from precise quantitative language to

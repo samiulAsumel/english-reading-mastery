@@ -657,21 +657,21 @@ yourself doing it tells you exactly which pattern to review again.
 
 Identify the head noun in each phrase.
 
-1. the rapid development of digital technology
-2. the ability of employees to adapt to change
-3. the analysis of the effectiveness of the new system
-4. the factors influencing employee performance
+1. the rapid development of digital technology <details class="answer"><summary>Show answer</summary><div class="answer-body">Development.</div></details>
+2. the ability of employees to adapt to change <details class="answer"><summary>Show answer</summary><div class="answer-body">Ability.</div></details>
+3. the analysis of the effectiveness of the new system <details class="answer"><summary>Show answer</summary><div class="answer-body">Analysis.</div></details>
+4. the factors influencing employee performance <details class="answer"><summary>Show answer</summary><div class="answer-body">Factors.</div></details>
 
 ### Part B — Simplify
 
 Rewrite each phrase in plain, simple English.
 
 5. the development of effective methods for improving employee
-   performance
-6. the extent to which technology affects human behavior
-7. the process by which organizations make strategic decisions
+   performance <details class="answer"><summary>Show answer</summary><div class="answer-body">Developing effective methods to improve employee performance.</div></details>
+6. the extent to which technology affects human behavior <details class="answer"><summary>Show answer</summary><div class="answer-body">How much technology affects human behavior.</div></details>
+7. the process by which organizations make strategic decisions <details class="answer"><summary>Show answer</summary><div class="answer-body">How organizations make strategic decisions.</div></details>
 8. the ability of employees to respond to rapidly changing market
-   conditions
+   conditions <details class="answer"><summary>Show answer</summary><div class="answer-body">How well employees can respond to rapidly changing market conditions.</div></details>
 
 ### Part C — Full Sentence Decode
 
@@ -682,8 +682,8 @@ Rewrite each phrase in plain, simple English.
    subject; the head noun; the main verb; what "developed by the
    organization" describes; what "to improve employee performance"
    describes; what "the extent to which…" is asking; what "them" refers
-   back to.
-10. Now write the whole sentence's meaning in your own, simple English.
+   back to. <details class="answer"><summary>Show answer</summary><div class="answer-body">Main subject: the effectiveness of the strategies developed by the organization to improve employee performance. Head noun: effectiveness. Main verb: depends (on). "Developed by the organization" is a reduced passive relative clause describing strategies (the strategies that the organization developed). "To improve employee performance" describes the purpose of those strategies. "The extent to which…" asks how much employees understand and apply them — a degree question, not a yes/no question. "Them" refers back to the strategies.</div></details>
+10. Now write the whole sentence's meaning in your own, simple English. <details class="answer"><summary>Show answer</summary><div class="answer-body">How well the organization's strategies improve employee performance depends largely on how much employees understand and actually use them in their daily work.</div></details>
 
 ### Part D — Advanced
 
@@ -693,8 +693,8 @@ Rewrite each phrase in plain, simple English.
     social environments, and assumptions about the situation** —
     identify: the head noun; the main verb; what the "by which"
     structure is doing; the full meaning of the main subject; the
-    function of "including"; the four parallel factors listed.
-12. Rewrite the sentence in simple English.
+    function of "including"; the four parallel factors listed. <details class="answer"><summary>Show answer</summary><div class="answer-body">Head noun: process. Main verb: is influenced. The "by which" structure stands in for how, connecting process to the clause individuals interpret information and make decisions. Full meaning of the main subject: how people interpret information and make decisions. "Including" introduces specific examples of the wide range of factors just mentioned. The four parallel factors: previous experiences, emotional states, social environments, and assumptions about the situation.</div></details>
+12. Rewrite the sentence in simple English. <details class="answer"><summary>Show answer</summary><div class="answer-body">Many factors affect how people interpret information and make decisions, including their past experiences, emotions, social surroundings, and assumptions about the situation.</div></details>
 
 ### Part E — Deep Reading
 
@@ -708,11 +708,11 @@ For this reason, effective reading involves not only learning new words
 but also developing the ability to analyze how those words function
 within larger structures.**
 
-13. Identify the passage's main claim and its supporting points.
+13. Identify the passage's main claim and its supporting points. <details class="answer"><summary>Show answer</summary><div class="answer-body">Main claim: understanding complex information requires more than just knowing vocabulary. Supporting points: readers must also recognize grammatical relationships, identify sentence structure, and connect ideas across paragraphs; how well a reader makes those connections may determine how successfully they understand an unfamiliar text; effective reading therefore requires both learning new words and developing the ability to analyze how those words function within larger structures.</div></details>
 14. Explain what "does not depend solely on," "the extent to which,"
     and the "not only… but also…" structure are each doing in this
     passage, then state the passage's final conclusion in your own
-    words.
+    words. <details class="answer"><summary>Show answer</summary><div class="answer-body">"Does not depend solely on" denies that vocabulary alone is enough, without denying that vocabulary matters at all — it leaves room for other necessary factors. "The extent to which" poses a degree question, asking how much a reader can make connections, not simply whether they can. "Not only… but also…" presents two skills, learning words and analyzing how they function, as equally necessary rather than one being optional. Final conclusion: genuine reading comprehension depends on combining vocabulary knowledge with the ability to analyze how words work together within grammatical structures.</div></details>
 
 Next: Lesson 23 — Cohesion, Reference Chains & Lexical Chains: how an
 author carries one idea across an entire paragraph using pronouns,

@@ -488,32 +488,32 @@ to reread.
 For each sentence, name the type of the underlined idea (reason, time,
 condition, contrast, or relative).
 
-1. People improve because they practice regularly.
-2. People who practice regularly improve.
-3. Although the task is difficult, we can complete it.
-4. I believe that practice is essential.
-5. People improve when they receive useful feedback.
+1. People improve because they practice regularly. <details class="answer"><summary>Show answer</summary><div class="answer-body">Reason clause — because they practice regularly answers why people improve.</div></details>
+2. People who practice regularly improve. <details class="answer"><summary>Show answer</summary><div class="answer-body">Relative clause — who practice regularly answers which people, describing the noun people.</div></details>
+3. Although the task is difficult, we can complete it. <details class="answer"><summary>Show answer</summary><div class="answer-body">Contrast clause — although the task is difficult sets up a surprising relationship with the main clause that follows.</div></details>
+4. I believe that practice is essential. <details class="answer"><summary>Show answer</summary><div class="answer-body">This is a noun clause: that practice is essential answers what I believe, and functions as the object of believe, rather than describing a noun or giving a reason, time, or contrast.</div></details>
+5. People improve when they receive useful feedback. <details class="answer"><summary>Show answer</summary><div class="answer-body">Time clause — when they receive useful feedback answers when people improve.</div></details>
 
 ### Part B — Find the Main Clause
 
-6. Although learning English takes time, people can develop strong reading skills through regular practice.
-7. People who understand sentence structure can read complex books more effectively.
-8. Because human behavior is influenced by many factors, it is difficult to predict every decision.
+6. Although learning English takes time, people can develop strong reading skills through regular practice. <details class="answer"><summary>Show answer</summary><div class="answer-body">Main clause: people can develop strong reading skills through regular practice. Although learning English takes time is the dependent contrast clause.</div></details>
+7. People who understand sentence structure can read complex books more effectively. <details class="answer"><summary>Show answer</summary><div class="answer-body">Main clause: People can read complex books more effectively. Who understand sentence structure is a relative clause sitting inside the subject, describing which people.</div></details>
+8. Because human behavior is influenced by many factors, it is difficult to predict every decision. <details class="answer"><summary>Show answer</summary><div class="answer-body">Main clause: it is difficult to predict every decision. Because human behavior is influenced by many factors is the dependent reason clause.</div></details>
 
 ### Part C — Decode
 
-9. **People who regularly examine their own decisions can become more aware of the biases that influence their judgment.** Identify the main subject, the main verb, the object or complement, both relative clauses, and the core sentence.
+9. **People who regularly examine their own decisions can become more aware of the biases that influence their judgment.** Identify the main subject, the main verb, the object or complement, both relative clauses, and the core sentence. <details class="answer"><summary>Show answer</summary><div class="answer-body">Main subject: People. Main verb: can become. Complement: more aware (of the biases). First relative clause: who regularly examine their own decisions, describing people. Second relative clause: that influence their judgment, describing biases. Core sentence: People can become more aware.</div></details>
 
 ### Part D — Create
 
-10. Write one sentence using *because*.
-11. Write one sentence using *who*.
-12. Write one sentence using *although*.
-13. Write one sentence using *that* as a noun clause.
+10. Write one sentence using *because*. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: She was late because traffic was heavy. Because traffic was heavy is a reason clause explaining why she was late.</div></details>
+11. Write one sentence using *who*. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: The teacher who taught us chemistry has retired. Who taught us chemistry is a relative clause describing the teacher.</div></details>
+12. Write one sentence using *although*. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: Although it was raining, they went for a walk. Although it was raining is a contrast clause set against the main clause that follows.</div></details>
+13. Write one sentence using *that* as a noun clause. <details class="answer"><summary>Show answer</summary><div class="answer-body">Model answer: I think that the plan will work. That the plan will work is a noun clause acting as the object of think.</div></details>
 
 ### Part E — Reading
 
-14. Write the main idea of this sentence in your own English — not a Bangla translation: *Although people may believe that their decisions are completely rational, research shows that emotions, previous experiences, and social influences can affect the way they think.*
+14. Write the main idea of this sentence in your own English — not a Bangla translation: *Although people may believe that their decisions are completely rational, research shows that emotions, previous experiences, and social influences can affect the way they think.* <details class="answer"><summary>Show answer</summary><div class="answer-body">People often assume their choices are made through pure logic, but research shows that emotions, past experience, and social influence actually shape how they think, whether or not they realize it.</div></details>
 
 Next: Lesson 5 — Verb Tenses & Time: how tense changes meaning as you
 read.

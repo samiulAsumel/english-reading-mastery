@@ -494,33 +494,33 @@ there.
 
 ### Part A — Observation, Interpretation, and Causal Claim
 
-1. **Customer complaints fell by 15% after the company launched a new support chatbot.** Write this as three separate statements: an observation, an interpretation, and a causal claim.
-2. Explain what additional evidence would be needed to move confidently from the interpretation to the causal claim in question 1.
+1. **Customer complaints fell by 15% after the company launched a new support chatbot.** Write this as three separate statements: an observation, an interpretation, and a causal claim. <details class="answer"><summary>Show answer</summary><div class="answer-body">Observation: customer complaints fell by 15% after the chatbot's launch. Interpretation: the chatbot improved customer support. Causal claim: the chatbot caused the drop in complaints.</div></details>
+2. Explain what additional evidence would be needed to move confidently from the interpretation to the causal claim in question 1. <details class="answer"><summary>Show answer</summary><div class="answer-body">A comparable control group without the chatbot over the same period, ruling out other simultaneous changes such as staffing, product updates, or seasonal effects, and ideally a statistically significant result with a plausible mechanism linking the chatbot to fewer complaints, would all be needed to support the stronger causal claim.</div></details>
 
 ### Part B — Confounding and Control Groups
 
-3. **A company's sales rose after it redesigned its website, but it also ran a major advertising campaign during the same period.** Identify the confounding factor, and explain why it complicates the causal claim.
-4. **Treatment group: 50 → 40 (a 10-point drop). Control group: 50 → 47 (a 3-point drop).** Using the difference-in-differences intuition from this lesson, estimate the improvement plausibly attributable to the treatment.
+3. **A company's sales rose after it redesigned its website, but it also ran a major advertising campaign during the same period.** Identify the confounding factor, and explain why it complicates the causal claim. <details class="answer"><summary>Show answer</summary><div class="answer-body">The confounding factor is the advertising campaign run during the same period as the redesign. It complicates the causal claim because the sales increase could be due to the campaign, the redesign, or both together, and nothing in the passage isolates the two effects from each other.</div></details>
+4. **Treatment group: 50 → 40 (a 10-point drop). Control group: 50 → 47 (a 3-point drop).** Using the difference-in-differences intuition from this lesson, estimate the improvement plausibly attributable to the treatment. <details class="answer"><summary>Show answer</summary><div class="answer-body">The treatment group dropped 10 points while the control group, with no intervention, still dropped 3 points on its own. The additional improvement plausibly attributable to the treatment is the difference: 10 minus 3, or 7 points.</div></details>
 
 ### Part C — Denominator Tracking
 
-5. **80% of employees use the mobile app; of these, 25% use it daily.** Calculate what percentage of all employees use the app daily, and explain why "25%" alone would misrepresent the finding.
-6. **The survey achieved a 40% response rate, and 90% of respondents were satisfied.** Explain why this does not mean 90% of all invited participants were satisfied.
+5. **80% of employees use the mobile app; of these, 25% use it daily.** Calculate what percentage of all employees use the app daily, and explain why "25%" alone would misrepresent the finding. <details class="answer"><summary>Show answer</summary><div class="answer-body">80% times 25% equals 20% of all employees who use the app daily. "25%" alone would misrepresent the finding because it applies only to the narrower subgroup of app users, not to all employees, so repeating it without the 80% context inflates the apparent daily-use rate.</div></details>
+6. **The survey achieved a 40% response rate, and 90% of respondents were satisfied.** Explain why this does not mean 90% of all invited participants were satisfied. <details class="answer"><summary>Show answer</summary><div class="answer-body">The 90% figure is a share of respondents, who already chose to respond, not a share of everyone invited. With only a 40% response rate, the 60% who did not respond are unaccounted for and could be systematically less satisfied, so 90% cannot be assumed to hold across all invitees.</div></details>
 
 ### Part D — Trend Vocabulary and Bias
 
-7. **Growth was steady from 2020 to 2023, then slowed sharply and has remained flat since.** Identify which trend-vocabulary term (plateau, peak, trough, turning point) best describes the period after 2023.
-8. **A study of top-performing hospitals found that all of them used a particular scheduling software, and concluded the software improves hospital performance.** Identify the type of bias most likely at work, and explain what evidence is missing.
+7. **Growth was steady from 2020 to 2023, then slowed sharply and has remained flat since.** Identify which trend-vocabulary term (plateau, peak, trough, turning point) best describes the period after 2023. <details class="answer"><summary>Show answer</summary><div class="answer-body">Plateau — growth slowed sharply and settled at a relatively stable level, matching "growth slows and settles," rather than describing a single highest or lowest point.</div></details>
+8. **A study of top-performing hospitals found that all of them used a particular scheduling software, and concluded the software improves hospital performance.** Identify the type of bias most likely at work, and explain what evidence is missing. <details class="answer"><summary>Show answer</summary><div class="answer-body">This is survivorship bias. The study looked only at hospitals that were already top-performing, ignoring hospitals that used the same software but performed poorly or failed, so there is no way to know whether the software actually distinguishes successful hospitals from unsuccessful ones.</div></details>
 
 ### Part E — Full Passage Analysis
 
 Return to this lesson's guided reading passage about the inventory-
 forecasting algorithm.
 
-9. Identify the two confounding factors the passage itself names.
-10. Explain why the absence of a control group weakens the causal claim.
-11. Using the master quantitative-argument framework from this lesson, write your own faithful one-sentence interpretation of this passage's findings.
-12. Explain what would be lost if this passage were summarized simply as "the algorithm reduced stockouts by 30%."
+9. Identify the two confounding factors the passage itself names. <details class="answer"><summary>Show answer</summary><div class="answer-body">The adopting stores were already the retailer's highest-volume locations, and those same stores had also been investing in improved staff training during the same year.</div></details>
+10. Explain why the absence of a control group weakens the causal claim. <details class="answer"><summary>Show answer</summary><div class="answer-body">Without a control group of non-adopting stores, there is no way to estimate what would have happened to stockouts anyway, due to general trends or the two named confounding factors, absent the algorithm. So the full 30% reduction cannot be confidently attributed to the algorithm alone.</div></details>
+11. Using the master quantitative-argument framework from this lesson, write your own faithful one-sentence interpretation of this passage's findings. <details class="answer"><summary>Show answer</summary><div class="answer-body">Stockouts fell substantially at stores that adopted the inventory-forecasting algorithm, but because those stores were already higher-volume and simultaneously investing in staff training, with no control group for comparison, the evidence does not isolate how much of the reduction the algorithm itself is responsible for.</div></details>
+12. Explain what would be lost if this passage were summarized simply as "the algorithm reduced stockouts by 30%." <details class="answer"><summary>Show answer</summary><div class="answer-body">This drops the qualification that adopting stores differed systematically, being higher-volume with concurrent training investment, and that no control group existed. Without that qualification, the summary presents an unearned, unqualified causal claim, letting readers wrongly treat the 30% as clean proof of the algorithm's effect alone.</div></details>
 
 Next: Lesson 57 — Advanced Reading of Technical Definitions,
 Classifications & Taxonomies: how authors define, distinguish, and

@@ -449,45 +449,45 @@ this stage — it's exactly what this lesson exists to sharpen.
 
 ### Part A — Identify the Function
 
-1. The researcher carefully examined the evidence. — what does *carefully* modify?
-2. This is a highly effective method. — what does *highly* modify?
-3. People often make decisions emotionally. — what does *often* express?
-4. The results are relatively consistent. — what does *relatively* express?
-5. The evidence may possibly support the theory. — what attitude does *may possibly* show?
+1. The researcher carefully examined the evidence. — what does *carefully* modify? <details class="answer"><summary>Show answer</summary><div class="answer-body">It modifies the verb examined, describing how the researcher carried out the examination.</div></details>
+2. This is a highly effective method. — what does *highly* modify? <details class="answer"><summary>Show answer</summary><div class="answer-body">It modifies the adjective effective, raising its degree — the method is not just effective but strongly, intensely effective.</div></details>
+3. People often make decisions emotionally. — what does *often* express? <details class="answer"><summary>Show answer</summary><div class="answer-body">It expresses frequency — how regularly this happens — placing the behavior high on the scale between always and never, without claiming it happens every time.</div></details>
+4. The results are relatively consistent. — what does *relatively* express? <details class="answer"><summary>Show answer</summary><div class="answer-body">It expresses a comparison, not an absolute quality — the results are consistent compared to some other results or standard, not necessarily consistent in an unqualified sense.</div></details>
+5. The evidence may possibly support the theory. — what attitude does *may possibly* show? <details class="answer"><summary>Show answer</summary><div class="answer-body">It shows heavy hedging — a modal plus a certainty adverb stacked together — signalling that the author sees this only as a real possibility, far short of a confident or proven claim.</div></details>
 
 ### Part B — Adjective or Adverb?
 
 Say whether the bold word is an adjective or an adverb.
 
-6. an effective strategy
-7. work effectively
-8. a careful analysis
-9. analyze the data carefully
-10. a significant improvement
-11. performance improved significantly
+6. an effective strategy <details class="answer"><summary>Show answer</summary><div class="answer-body">Adjective — effective describes the noun strategy.</div></details>
+7. work effectively <details class="answer"><summary>Show answer</summary><div class="answer-body">Adverb — effectively modifies the verb work, describing how the work is done.</div></details>
+8. a careful analysis <details class="answer"><summary>Show answer</summary><div class="answer-body">Adjective — careful describes the noun analysis.</div></details>
+9. analyze the data carefully <details class="answer"><summary>Show answer</summary><div class="answer-body">Adverb — carefully modifies the verb analyze, describing how the data is analyzed.</div></details>
+10. a significant improvement <details class="answer"><summary>Show answer</summary><div class="answer-body">Adjective — significant describes the noun improvement.</div></details>
+11. performance improved significantly <details class="answer"><summary>Show answer</summary><div class="answer-body">Adverb — significantly modifies the verb improved, describing the degree of improvement.</div></details>
 
 ### Part C — Author's Certainty
 
 Order these three sentences from strongest to weakest certainty.
 
-12. This is certainly the main cause.
-13. This may be the main cause.
-14. This is probably the main cause.
+12. This is certainly the main cause. <details class="answer"><summary>Show answer</summary><div class="answer-body">Strongest of the three — certainly states the highest confidence, so this sentence ranks first.</div></details>
+13. This may be the main cause. <details class="answer"><summary>Show answer</summary><div class="answer-body">Weakest of the three — may states only a possibility, so this sentence ranks last.</div></details>
+14. This is probably the main cause. <details class="answer"><summary>Show answer</summary><div class="answer-body">Middle of the three — probably signals a confidence lower than certainly but higher than may, so this sentence ranks second.</div></details>
 
 ### Part D — Reading
 
-15. Decode this sentence's structure: **The highly effective strategy significantly improved the performance of inexperienced employees.** Identify the head noun, the adjective, the adverb, the main verb, the object, and who is described as *inexperienced*.
+15. Decode this sentence's structure: **The highly effective strategy significantly improved the performance of inexperienced employees.** Identify the head noun, the adjective, the adverb, the main verb, the object, and who is described as *inexperienced*. <details class="answer"><summary>Show answer</summary><div class="answer-body">Head noun of the subject: strategy. Adjective describing it: effective, itself raised in degree by the adverb highly. Second adverb: significantly, modifying the main verb improved. Object of that verb: the performance. Inexperienced describes employees, who are the ones whose performance improved.</div></details>
 
 ### Part E — Meaning
 
 Explain the difference between these two sentences — not just their translation, but the strength of the claim each one makes.
 
-16. Stress causes poor decisions.
-17. Stress may contribute to poor decisions.
+16. Stress causes poor decisions. <details class="answer"><summary>Show answer</summary><div class="answer-body">This is a flat, direct causal claim, with no hedging: stress is stated as the cause of poor decisions, full stop.</div></details>
+17. Stress may contribute to poor decisions. <details class="answer"><summary>Show answer</summary><div class="answer-body">This is a hedged, weaker claim: may signals possibility rather than certainty, and contribute to suggests stress is one factor among several rather than the sole cause. The two sentences differ not in translation but in how much the author is willing to commit to.</div></details>
 
 ### Part F — Advanced Reading
 
-18. Identify the author's certainty and tone in this paragraph: *Recent research suggests that social interaction can significantly affect human behavior. However, the effects may vary considerably between individuals. People who regularly interact with supportive social networks may be more likely to develop positive behavioral patterns. Nevertheless, these relationships should not necessarily be interpreted as direct evidence of causation.* Identify: which word shows the author's uncertainty, which word shows degree/emphasis, which word shows contrast, which phrase shows possibility, and why the final sentence is so cautious.
+18. Identify the author's certainty and tone in this paragraph: *Recent research suggests that social interaction can significantly affect human behavior. However, the effects may vary considerably between individuals. People who regularly interact with supportive social networks may be more likely to develop positive behavioral patterns. Nevertheless, these relationships should not necessarily be interpreted as direct evidence of causation.* Identify: which word shows the author's uncertainty, which word shows degree/emphasis, which word shows contrast, which phrase shows possibility, and why the final sentence is so cautious. <details class="answer"><summary>Show answer</summary><div class="answer-body">Uncertainty: may, used twice, shows the author is not claiming certainty. Degree/emphasis: significantly and considerably both mark the strength of an effect. Contrast: however and nevertheless both signal a turn away from the previous claim toward a qualification. Possibility: may be more likely to develop states a tendency, not a guarantee. The final sentence is cautious because the paragraph only reports a pattern of association between social interaction and behavior, and the author is careful not to let readers mistake that association for proof of direct causation.</div></details>
 
 Next: Lesson 10 — Pronouns & Reference Tracking: *he, they, it, this,
 that, these, those, which, who* — quickly identifying exactly which
