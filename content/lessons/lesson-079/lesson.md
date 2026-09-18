@@ -507,3 +507,8 @@ systems.
 14. Identify the sentence that functions as the passage's turning point, and explain what it qualifies.
 15. Identify the passage's proposed solution, and the trade-off attached to it.
 16. Compress the entire passage into one sentence, preserving its benefit, its risk, and its final trade-off.
+
+Next: Lesson 80 — Advanced Reading: Chapter Architecture, Argument
+Spine & Conceptual Mapping: how to read a whole chapter as a structured
+answer to one central question, from its spine to its recurring,
+refining concepts.
