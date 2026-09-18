@@ -585,3 +585,8 @@ Return to this lesson's guided reading passage about carry-on baggage.
 14. Identify the exception to the oversized-bag rule, and its exact trigger.
 15. Identify the sentence that functions as a recommendation rather than a strict rule, and explain how you know.
 16. Explain why the passage's final sentence is an "even if" override, and what earlier approval it overrides.
+
+Next: Lesson 69 — Advanced Reading of Concessions, Qualifications,
+Exceptions & "This Does Not Mean…": how to read the acknowledge → limit
+→ block-the-wrong-inference → refine pattern underneath most serious
+nonfiction argument.
