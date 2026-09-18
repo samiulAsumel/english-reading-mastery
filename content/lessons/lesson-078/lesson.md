@@ -454,3 +454,8 @@ stations.
 14. Identify the sentence functioning as a counter-assumption, and the sentence functioning as evidence against it.
 15. Identify the passage's recommendation, and explain what earlier sentence it depends on.
 16. Explain why summarising this passage as "more sorting stations increase throughput" would directly contradict what the author actually argues.
+
+Next: Lesson 79 — Advanced Reading: Paragraph-to-Paragraph Connections
+& Section-Level Argument Flow: how to read a multi-paragraph section as
+one connected argument chain instead of a sequence of separate
+summaries.
