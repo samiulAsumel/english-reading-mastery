@@ -532,3 +532,8 @@ transformation failures.
 14. Identify the concept that gets refined across the passage, and state its before-and-after definitions.
 15. Identify which genre-typical chapter architecture this passage most resembles, and justify your choice.
 16. Explain why summarising this passage as "digital transformation projects fail because of bad software" would misrepresent its actual argument.
+
+Next: Lesson 81 — Advanced Reading: Book-Level Thesis, Chapter
+Relationships & Intellectual Architecture: the capstone of this
+course's macro-reading arc, reading a whole book as a network of
+connected chapters rather than a sequence of pages.
