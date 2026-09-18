@@ -491,3 +491,8 @@ scheduling software.
 14. Identify the alternative explanation the passage names but does not rule out.
 15. State the counterfactual question this passage invites, and what evidence would help answer it.
 16. Explain why "resounding success" is stronger language than the passage's own reported evidence actually supports.
+
+Next: Lesson 77 — Advanced Reading: Fact, Interpretation, Opinion,
+Evaluation & Inference: the sixth part of this course's argument-
+analysis arc, separating a text's six reasoning layers from raw
+observation to full recommendation.
