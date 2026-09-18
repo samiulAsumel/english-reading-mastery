@@ -656,3 +656,8 @@ scheduling tools.
 14. Identify the sentence that explicitly rejects an assumption, and state what assumption it rejects.
 15. Identify the passage's explicit focus marker, and what it directs the reader's attention toward.
 16. Explain why the passage's final sentence, not its first, holds its real point.
+
+Next: Lesson 71 — Advanced Reading of Argument Development: How Authors
+Build, Shift, Refine & Conclude an Argument: how to track a claim as it
+evolves across a whole passage, from a broad opening statement to a
+narrower, earned final position.
