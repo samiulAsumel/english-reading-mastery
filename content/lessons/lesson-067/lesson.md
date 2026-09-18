@@ -680,3 +680,8 @@ Return to this lesson's guided reading passage about refund policy.
 14. Identify the sentence that functions as an insufficiency warning, and explain what it denies.
 15. Identify the passage's exception and the condition attached to requesting it.
 16. Explain the two different things "only" restricts across this passage — once in the main rule, once in the exception-processing sentence.
+
+Next: Lesson 68 — Advanced Reading of Exceptions, Conditions,
+Limitations & Edge Cases: how to reconstruct a dense rule paragraph as
+one connected flowchart, and tell a genuine exception apart from a
+limitation, a precaution, or a parallel alternative.
