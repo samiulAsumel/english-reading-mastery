@@ -500,3 +500,8 @@ mentorship programs.
 14. Identify the alternative explanation the passage raises, and explain how the randomized design addresses it without strawmanning the objection.
 15. Identify where on the claim calibration scale the passage's final conclusion sits, and justify why that tier fits the evidence.
 16. Explain why the passage's explicit exclusion of long-term outcomes is a sign of a well-calibrated, earned conclusion rather than unnecessary caution.
+
+Next: Lesson 85 — Advanced Reading: Evidence Boundaries, Uncertainty &
+Calibrated Conclusions: where the evidence ends and the author's
+interpretation begins, consolidated into one calibrated-reading
+checklist.
