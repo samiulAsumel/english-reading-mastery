@@ -925,3 +925,8 @@ Return to this lesson's guided reading passage about berth allocation.
 14. Identify the passage's solution and its mechanism.
 15. Identify the trade-off or limitation the solution introduced, and the next response the terminal is considering.
 16. Explain why summarising this passage as "the terminal solved its berth-delay problem" would overstate what the author actually claimed.
+
+Next: Lesson 64 — Advanced Reading of Recommendations, Policies, Rules &
+Decision-Making: how to read text that tells you what should happen
+rather than what did happen, and why "should," "must," and "may" are
+never interchangeable.
