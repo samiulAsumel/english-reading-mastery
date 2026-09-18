@@ -567,3 +567,8 @@ Return to this lesson's guided reading passage about "trust."
 14. Identify the excerpt pair where reframing occurs, and explain what changed.
 15. Identify the excerpt pair where the concept's boundary is explicitly drawn.
 16. State the final, refined concept of "trust" this passage arrives at, and explain why it differs meaningfully from chapter 1's usage.
+
+Next: Lesson 83 — Advanced Reading: Tracking Argument Development
+Across an Entire Book: the companion skill to concept tracking — how a
+claim itself develops from its first statement to a final, conditional
+position.
