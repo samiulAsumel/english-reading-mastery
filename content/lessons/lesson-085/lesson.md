@@ -440,3 +440,8 @@ maintenance software.
 14. Explain why the output finding is a null result rather than proof of no effect.
 15. Sort both of the passage's main findings into this lesson's three evidence tiers, and justify each placement.
 16. Explain why the passage's final sentence is a well-calibrated conclusion rather than an overclaim or an underclaim.
+
+Next: Lesson 86 — Advanced Reading: Synthesis, Integration & Whole-Text
+Understanding: the capstone skill this course has been building toward
+— combining distributed information into one integrated understanding,
+built directly in English.
