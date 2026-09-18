@@ -595,3 +595,8 @@ in warehouses.
 14. Identify the competing explanation the passage raises, and explain why it matters.
 15. Identify the sentence that explicitly blocks a correlation-to-causation leap, and explain how it does so.
 16. Explain why summarising this passage as "barcode scanning reduces picking errors" would overstate what the author actually established.
+
+Next: Lesson 73 — Advanced Reading: Hidden Assumptions, Missing Links &
+Argument Gaps: a deeper, more systematic pass on the argument gap — a
+named taxonomy of gap types and a concrete test for which assumptions
+actually matter.
