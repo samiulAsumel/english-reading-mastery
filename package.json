@@ -8,7 +8,9 @@
     "dev": "node scripts/dev.js",
     "serve": "node scripts/serve.js",
     "validate:content": "node scripts/validate-content.js",
-    "new:lesson": "node scripts/new-lesson.js"
+    "new:lesson": "node scripts/new-lesson.js",
+    "new:writing": "node scripts/new-lesson.js --type writing",
+    "new:speaking": "node scripts/new-lesson.js --type speaking"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

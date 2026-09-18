@@ -10,6 +10,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const {
   loadLessons,
+  loadCollection,
   getPublishedLessons,
   renderLessonBody,
   extractToc,
@@ -17,6 +18,7 @@ const {
 } = require('./lib/content');
 const { levels } = require('../content/curriculum/levels');
 const { modules } = require('../content/curriculum/modules');
+const { COLLECTIONS, COLLECTION_LIST } = require('../content/curriculum/collections');
 const { SITE_URL } = require('./lib/templates');
 const pages = require('./lib/pages');
 const { notFoundPage } = pages;
@@ -47,51 +49,66 @@ function copyDir(srcDir, destDir) {
   }
 }
 
-function buildVocabulary(publishedLessons) {
+// Aggregates `::: vocabulary` blocks across all three collections — a word
+// introduced in a writing task shows up on /vocabulary/ too, same as one
+// introduced in a reading lesson.
+function buildVocabulary(publishedByCollection) {
   const byWord = new Map();
-  for (const lesson of publishedLessons) {
-    for (const attrs of extractVocabularyFromBody(lesson.rawBody)) {
-      if (!attrs.word || !attrs.meaning) continue;
-      const key = attrs.word.toLowerCase();
-      const existing = byWord.get(key);
-      if (existing) {
-        if (!existing.lessonNumbers.includes(lesson.frontmatter.number)) {
-          existing.lessonNumbers.push(lesson.frontmatter.number);
+  for (const collection of COLLECTION_LIST) {
+    for (const item of publishedByCollection[collection.key]) {
+      for (const attrs of extractVocabularyFromBody(item.rawBody)) {
+        if (!attrs.word || !attrs.meaning) continue;
+        const key = attrs.word.toLowerCase();
+        const href = `${collection.routeBase}${item.frontmatter.number}/`;
+        const label = `${collection.itemNoun} ${item.frontmatter.number}`;
+        const existing = byWord.get(key);
+        if (existing) {
+          if (!existing.appearsIn.some((a) => a.href === href)) {
+            existing.appearsIn.push({ label, href });
+          }
+        } else {
+          byWord.set(key, {
+            word: attrs.word,
+            pos: attrs.pos,
+            meaning: attrs.meaning,
+            example: attrs.example,
+            appearsIn: [{ label, href }],
+          });
         }
-      } else {
-        byWord.set(key, {
-          word: attrs.word,
-          pos: attrs.pos,
-          meaning: attrs.meaning,
-          example: attrs.example,
-          lessonNumbers: [lesson.frontmatter.number],
-        });
       }
     }
   }
   return Array.from(byWord.values()).sort((a, b) => a.word.localeCompare(b.word));
 }
 
-function buildSearchIndex(publishedLessons) {
-  const records = publishedLessons.map((l) => ({
-    number: l.frontmatter.number,
-    title: l.frontmatter.title,
-    description: l.frontmatter.description,
-    level: l.frontmatter.level,
-    module: l.frontmatter.module,
-    tags: l.frontmatter.tags,
-    skills: l.frontmatter.skills,
-    href: `/lessons/${l.frontmatter.number}/`,
-  }));
+function buildSearchIndex(publishedByCollection) {
+  const records = [];
+  for (const collection of COLLECTION_LIST) {
+    for (const item of publishedByCollection[collection.key]) {
+      records.push({
+        number: item.frontmatter.number,
+        noun: collection.itemNoun,
+        title: item.frontmatter.title,
+        description: item.frontmatter.description,
+        level: item.frontmatter.level,
+        module: item.frontmatter.module,
+        tags: item.frontmatter.tags,
+        skills: item.frontmatter.skills,
+        href: `${collection.routeBase}${item.frontmatter.number}/`,
+      });
+    }
+  }
   return { records };
 }
 
-function buildSitemap(publishedLessons) {
-  const staticRoutes = ['/', '/course/', '/levels/', '/modules/', '/lessons/', '/vocabulary/', '/skills/', '/progress/'];
+function buildSitemap(publishedByCollection) {
+  const staticRoutes = ['/', '/course/', '/levels/', '/modules/', '/lessons/', '/writing/', '/speaking/', '/vocabulary/', '/skills/', '/progress/'];
   const levelRoutes = levels.map((l) => `/levels/${l.slug}/`);
   const moduleRoutes = modules.map((m) => `/modules/${m.slug}/`);
-  const lessonRoutes = publishedLessons.map((l) => `/lessons/${l.frontmatter.number}/`);
-  const all = [...staticRoutes, ...levelRoutes, ...moduleRoutes, ...lessonRoutes];
+  const itemRoutes = COLLECTION_LIST.flatMap((collection) =>
+    publishedByCollection[collection.key].map((item) => `${collection.routeBase}${item.frontmatter.number}/`)
+  );
+  const all = [...staticRoutes, ...levelRoutes, ...moduleRoutes, ...itemRoutes];
   const urls = all.map((route) => `  <url><loc>${SITE_URL}${route}</loc></url>`).join('\n');
   return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`;
 }
@@ -107,8 +124,17 @@ function main() {
   fs.rmSync(DIST, { recursive: true, force: true });
   fs.mkdirSync(DIST, { recursive: true });
 
-  const allLessons = loadLessons(); // throws with all collected errors if any lesson is invalid
-  const publishedLessons = getPublishedLessons(allLessons);
+  // ---- Load all three collections ------------------------------------
+  const allByCollection = {};
+  const publishedByCollection = {};
+  for (const collection of COLLECTION_LIST) {
+    allByCollection[collection.key] = loadCollection(collection); // throws with all collected errors if any item is invalid
+    publishedByCollection[collection.key] = getPublishedLessons(allByCollection[collection.key]);
+  }
+  const allLessons = allByCollection.reading;
+  const publishedLessons = publishedByCollection.reading;
+  const publishedWriting = publishedByCollection.writing;
+  const publishedSpeaking = publishedByCollection.speaking;
 
   // ---- Static pages -------------------------------------------------
   writePage('/', pages.homePage(publishedLessons));
@@ -116,31 +142,41 @@ function main() {
   writePage('/levels/', pages.levelsIndexPage(publishedLessons));
   writePage('/modules/', pages.modulesIndexPage(publishedLessons));
   writePage('/lessons/', pages.lessonsIndexPage(publishedLessons));
-  writePage('/vocabulary/', pages.vocabularyPage(buildVocabulary(publishedLessons)));
+  writePage('/writing/', pages.writingLandingPage(publishedWriting));
+  writePage('/speaking/', pages.speakingLandingPage(publishedSpeaking));
+  writePage('/vocabulary/', pages.vocabularyPage(buildVocabulary(publishedByCollection)));
   writePage('/skills/', pages.skillsPage(publishedLessons));
-  writePage('/progress/', pages.progressPage(publishedLessons));
+  writePage('/progress/', pages.progressPage({ reading: publishedLessons, writing: publishedWriting, speaking: publishedSpeaking }));
   writeFile('404.html', notFoundPage());
 
   // ---- Level / module detail pages -----------------------------------
   for (const level of levels) {
-    writePage(`/levels/${level.slug}/`, pages.levelDetailPage(level, publishedLessons));
+    const tracks = {
+      reading: publishedLessons.filter((l) => l.frontmatter.level === level.slug),
+      writing: publishedWriting.filter((l) => l.frontmatter.level === level.slug),
+      speaking: publishedSpeaking.filter((l) => l.frontmatter.level === level.slug),
+    };
+    writePage(`/levels/${level.slug}/`, pages.levelDetailPage(level, tracks));
   }
   for (const mod of modules) {
     writePage(`/modules/${mod.slug}/`, pages.moduleDetailPage(mod, publishedLessons));
   }
 
-  // ---- Lesson pages ----------------------------------------------------
-  publishedLessons.forEach((lesson, i) => {
-    const bodyHtml = renderLessonBody(lesson.rawBody);
-    const toc = extractToc(lesson.rawBody);
-    const previous = publishedLessons[i - 1];
-    const next = publishedLessons[i + 1];
-    writePage(`/lessons/${lesson.frontmatter.number}/`, pages.lessonDetailPage({ lesson, bodyHtml, toc, previous, next }));
-  });
+  // ---- Item detail pages, all three collections -----------------------
+  for (const collection of COLLECTION_LIST) {
+    const items = publishedByCollection[collection.key];
+    items.forEach((item, i) => {
+      const bodyHtml = renderLessonBody(item.rawBody);
+      const toc = extractToc(item.rawBody);
+      const previous = items[i - 1];
+      const next = items[i + 1];
+      writePage(`${collection.routeBase}${item.frontmatter.number}/`, pages.itemDetailPage({ item, bodyHtml, toc, previous, next, collection }));
+    });
+  }
 
   // ---- Derived data files ------------------------------------------
-  writeFile('search-index.json', JSON.stringify(buildSearchIndex(publishedLessons)));
-  writeFile('sitemap.xml', buildSitemap(publishedLessons));
+  writeFile('search-index.json', JSON.stringify(buildSearchIndex(publishedByCollection)));
+  writeFile('sitemap.xml', buildSitemap(publishedByCollection));
   writeFile('robots.txt', buildRobots());
 
   // ---- Static assets --------------------------------------------------
@@ -148,8 +184,12 @@ function main() {
   copyDir(path.join(ROOT, 'src', 'scripts'), path.join(DIST, 'scripts'));
   copyDir(path.join(ROOT, 'src', 'assets'), DIST);
 
+  const totalPublished = publishedLessons.length + publishedWriting.length + publishedSpeaking.length;
+  const totalAll = allLessons.length + allByCollection.writing.length + allByCollection.speaking.length;
   const ms = Date.now() - started;
-  console.log(`✓ Built ${publishedLessons.length} lesson${publishedLessons.length === 1 ? '' : 's'} (${allLessons.length} total, ${allLessons.length - publishedLessons.length} draft) → dist/ in ${ms}ms`);
+  console.log(
+    `✓ Built ${publishedLessons.length} lesson${publishedLessons.length === 1 ? '' : 's'}, ${publishedWriting.length} writing task${publishedWriting.length === 1 ? '' : 's'}, ${publishedSpeaking.length} speaking drill${publishedSpeaking.length === 1 ? '' : 's'} (${totalPublished} published, ${totalAll - totalPublished} draft) → dist/ in ${ms}ms`
+  );
 }
 
 main();

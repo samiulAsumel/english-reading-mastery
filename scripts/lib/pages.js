@@ -3,6 +3,7 @@
 const { levels, getLevel } = require('../../content/curriculum/levels');
 const { modules, getModule, getModulesForLevel } = require('../../content/curriculum/modules');
 const { skills, GROUP_LABELS } = require('../../content/curriculum/skills');
+const { COLLECTIONS } = require('../../content/curriculum/collections');
 const { escapeHtml } = require('./content');
 const { icon } = require('./icons');
 const {
@@ -13,6 +14,8 @@ const {
   levelCardHtml,
   moduleCardHtml,
   lessonCardHtml,
+  itemCardHtml,
+  attrEscape,
 } = require('./templates');
 
 function lessonsForLevel(publishedLessons, levelSlug) {
@@ -21,6 +24,11 @@ function lessonsForLevel(publishedLessons, levelSlug) {
 function lessonsForModule(publishedLessons, moduleSlug) {
   return publishedLessons.filter((l) => l.frontmatter.module === moduleSlug);
 }
+// Same filters, generic names — writing/speaking items use the same
+// frontmatter shape as reading lessons (level/module fields), so no
+// separate implementation is needed.
+const itemsForLevel = lessonsForLevel;
+const itemsForModule = lessonsForModule;
 
 // ---------------------------------------------------------------------------
 // Home
@@ -179,12 +187,57 @@ function levelsIndexPage(publishedLessons) {
   });
 }
 
-function levelDetailPage(level, publishedLessons) {
-  const modulesForLevel = getModulesForLevel(level.slug);
-  const modulesHtml = modulesForLevel.length
-    ? modulesForLevel.map((mod) => moduleCardHtml(mod, lessonsForModule(publishedLessons, mod.slug).length)).join('\n        ')
-    : `<p class="small muted">No modules mapped to this level yet.</p>`;
-  const canReadHtml = level.canRead.map((item) => `<li>${escapeHtml(item)}</li>`).join('');
+// One "what you can do" + module list block, reused for all three tracks
+// below. Reading keeps its existing behaviour exactly (module cards
+// linking to a dedicated /modules/<slug>/ page); writing/speaking show
+// their module's items inline instead of introducing a second page type
+// per track — Phase 1 ships one module per track, so that indirection
+// isn't earning its keep yet (see the approved plan's §0.5 note on this).
+function trackSectionHtml(collection, canDoList, level, publishedItems) {
+  const modulesForLevel = collection.getModulesForLevel(level.slug);
+  if (modulesForLevel.length === 0 && publishedItems.length === 0) return '';
+
+  const canDoHtml = (canDoList || []).map((item) => `<li>${escapeHtml(item)}</li>`).join('');
+
+  let body;
+  if (collection.key === 'reading') {
+    body = modulesForLevel.length
+      ? modulesForLevel.map((mod) => moduleCardHtml(mod, itemsForModule(publishedItems, mod.slug).length)).join('\n        ')
+      : `<p class="small muted">No modules mapped to this level yet.</p>`;
+  } else {
+    body = modulesForLevel.length
+      ? modulesForLevel
+          .map((mod) => {
+            const items = itemsForModule(publishedItems, mod.slug);
+            const itemsHtml = items.length
+              ? `<div class="card-grid card-grid-2" style="margin-top:0.75rem;">${items.map((it) => itemCardHtml(it, collection)).join('\n              ')}</div>`
+              : `<p class="small muted" style="margin-top:0.5rem;">No ${collection.itemNounPlural.toLowerCase()} published in this module yet.</p>`;
+            return `<div>
+              <p style="font-weight:600;">${escapeHtml(mod.name)}</p>
+              <p class="small muted" style="margin-top:0.15rem;">${escapeHtml(mod.description)}</p>
+              ${itemsHtml}
+            </div>`;
+          })
+          .join('\n        ')
+      : `<p class="small muted">No modules mapped to this level yet.</p>`;
+  }
+
+  return `<section style="margin-top:2.5rem;">
+        <h2 class="h2" style="margin-bottom:1rem;">${escapeHtml(collection.navLabel)}</h2>
+        ${canDoHtml ? `<div class="callout callout-note" style="margin-bottom:1.25rem;">
+          <p class="callout-title">What you can ${collection.key === 'reading' ? 'read' : collection.key === 'writing' ? 'write' : 'say'} at this level</p>
+          <ul style="list-style:disc;margin-left:1.25rem;font-size:0.9375rem;">${canDoHtml}</ul>
+        </div>` : ''}
+        <div style="display:flex;flex-direction:column;gap:1rem;">
+          ${body}
+        </div>
+      </section>`;
+}
+
+function levelDetailPage(level, tracks) {
+  const readingHtml = trackSectionHtml(COLLECTIONS.reading, level.canRead, level, tracks.reading);
+  const writingHtml = trackSectionHtml(COLLECTIONS.writing, level.canWrite, level, tracks.writing);
+  const speakingHtml = trackSectionHtml(COLLECTIONS.speaking, level.canSpeak, level, tracks.speaking);
 
   const body = `
     <div class="container-md section">
@@ -195,15 +248,9 @@ function levelDetailPage(level, publishedLessons) {
       </div>
       <p class="lede" style="margin-top:0.75rem;">${escapeHtml(level.description)}</p>
 
-      <div class="callout callout-note" style="margin-top:1.5rem;">
-        <p class="callout-title">What you can read at this level</p>
-        <ul style="list-style:disc;margin-left:1.25rem;font-size:0.9375rem;">${canReadHtml}</ul>
-      </div>
-
-      <h2 class="h2" style="margin-top:2.5rem;margin-bottom:1rem;">Modules</h2>
-      <div style="display:flex;flex-direction:column;gap:1rem;">
-        ${modulesHtml}
-      </div>
+      ${readingHtml}
+      ${writingHtml}
+      ${speakingHtml}
     </div>`;
 
   return layout({
@@ -273,57 +320,123 @@ function moduleDetailPage(mod, publishedLessons) {
 }
 
 // ---------------------------------------------------------------------------
-// Lessons index
+// Item index (generalized over collection: /lessons/, /writing/, /speaking/)
 // ---------------------------------------------------------------------------
-function lessonsIndexPage(publishedLessons) {
+
+/** The filter bar + result grid shared by the plain index pages and the writing/speaking landing pages below. */
+function collectionBrowserHtml(collection, publishedItems) {
   const levelOptions = levels.map((l) => `<option value="${l.slug}">${escapeHtml(l.name)}</option>`).join('');
-  const cards = publishedLessons.map(lessonCardHtml).join('\n        ');
-  const emptyMessage = publishedLessons.length === 0
-    ? 'No lessons have been published yet. Check back soon.'
-    : 'No lessons match your filters.';
+  const cards = publishedItems.map((it) => itemCardHtml(it, collection)).join('\n        ');
+  const nounPluralLower = collection.itemNounPlural.toLowerCase();
+  const emptyMessage = publishedItems.length === 0
+    ? `No ${nounPluralLower} have been published yet. Check back soon.`
+    : `No ${nounPluralLower} match your filters.`;
 
-  const body = `
-    <div class="container section">
-      ${breadcrumbsHtml([{ label: 'Home', href: '/' }, { label: 'Lessons' }])}
-      <h1 class="h1" style="margin-top:1rem;">All Lessons</h1>
-      <p class="lede" style="margin-top:0.75rem;">${publishedLessons.length} ${publishedLessons.length === 1 ? 'lesson' : 'lessons'} published so far.</p>
-
-      <div class="filter-bar" style="margin-top:2rem;">
+  return `<div class="filter-bar" style="margin-top:2rem;">
         <input type="search" id="lessons-filter-text" class="text-input" placeholder="Filter by title, tag, or skill…">
         <select id="lessons-filter-level" class="select-input">
           <option value="all">All levels</option>
           ${levelOptions}
         </select>
       </div>
-      <p class="xs muted" id="lessons-filter-count" style="margin-top:0.75rem;">${publishedLessons.length} of ${publishedLessons.length} lessons</p>
+      <p class="xs muted" id="lessons-filter-count" data-noun-plural="${attrEscape(nounPluralLower)}" style="margin-top:0.75rem;">${publishedItems.length} of ${publishedItems.length} ${nounPluralLower}</p>
 
-      <div class="empty-state" id="lessons-empty" ${publishedLessons.length === 0 ? '' : 'hidden'} style="margin-top:1.5rem;">${emptyMessage}</div>
+      <div class="empty-state" id="lessons-empty" ${publishedItems.length === 0 ? '' : 'hidden'} style="margin-top:1.5rem;">${emptyMessage}</div>
       <div class="card-grid card-grid-2" id="lessons-grid" style="margin-top:1.5rem;">
         ${cards}
-      </div>
+      </div>`;
+}
+
+function itemsIndexPage(collection, publishedItems, opts = {}) {
+  const nounPlural = collection.itemNounPlural;
+  const body = `
+    <div class="container section">
+      ${breadcrumbsHtml([{ label: 'Home', href: '/' }, { label: opts.breadcrumbLabel || nounPlural }])}
+      <h1 class="h1" style="margin-top:1rem;">${escapeHtml(opts.title || `All ${nounPlural}`)}</h1>
+      <p class="lede" style="margin-top:0.75rem;">${publishedItems.length} ${publishedItems.length === 1 ? nounPlural.replace(/s$/, '') : nounPlural} published so far.</p>
+      ${collectionBrowserHtml(collection, publishedItems)}
     </div>`;
 
   return layout({
-    title: 'All Lessons',
-    description: 'Browse and search every published lesson in the English Mastery course.',
-    path: '/lessons/',
+    title: opts.title || `All ${nounPlural}`,
+    description: opts.description || `Browse and search every published ${collection.key} item in the English Mastery course.`,
+    path: collection.routeBase,
     bodyHtml: body,
     extraScripts: '<script defer src="/scripts/lessons-filter.js"></script>',
   });
 }
 
+/** Back-compat alias for the reading-only call site. */
+function lessonsIndexPage(publishedLessons) {
+  return itemsIndexPage(COLLECTIONS.reading, publishedLessons, {
+    breadcrumbLabel: 'Lessons',
+    title: 'All Lessons',
+    description: 'Browse and search every published lesson in the English Mastery course.',
+  });
+}
+
 // ---------------------------------------------------------------------------
-// Lesson detail
+// Writing / Speaking landing pages — a bespoke hero explaining the track's
+// goal (see the approved plan: the user's stated aim is speaking without
+// first translating from Bangla), followed by the same filterable browser
+// used on /lessons/.
 // ---------------------------------------------------------------------------
-function lessonDetailPage({ lesson, bodyHtml, toc, previous, next }) {
-  const fm = lesson.frontmatter;
+function trackLandingPage(collection, publishedItems, hero) {
+  const body = `
+    <section class="hero" style="padding-block:3.5rem;text-align:left;">
+      <div class="container-md" style="margin-inline:0;">
+        <p class="xs muted" style="text-transform:uppercase;letter-spacing:0.04em;">${escapeHtml(hero.eyebrow)}</p>
+        <h1 class="h1" style="margin-top:0.75rem;max-width:38rem;">${escapeHtml(hero.heading)}</h1>
+        <p class="lede" style="margin:1rem 0 0;">${escapeHtml(hero.lede)}</p>
+      </div>
+    </section>
+    <div class="container section-tight" style="padding-top:0;">
+      ${breadcrumbsHtml([{ label: 'Home', href: '/' }, { label: collection.itemNounPlural }])}
+      <h2 class="h2" style="margin-top:2rem;">${escapeHtml(hero.browseHeading)}</h2>
+      ${collectionBrowserHtml(collection, publishedItems)}
+    </div>`;
+
+  return layout({
+    title: hero.heading,
+    description: hero.lede,
+    path: collection.routeBase,
+    bodyHtml: body,
+    extraScripts: '<script defer src="/scripts/lessons-filter.js"></script>',
+  });
+}
+
+function writingLandingPage(publishedItems) {
+  return trackLandingPage(COLLECTIONS.writing, publishedItems, {
+    eyebrow: 'Writing',
+    heading: 'Write English That Sounds Right — Not Just Correct',
+    lede: 'A prompt, a blank space, and a model answer to check yourself against — building from an accurate sentence to a short, connected paragraph. No submissions, no grading: you write, then you compare.',
+    browseHeading: 'All Writing Tasks',
+  });
+}
+
+function speakingLandingPage(publishedItems) {
+  return trackLandingPage(COLLECTIONS.speaking, publishedItems, {
+    eyebrow: 'Speaking',
+    heading: 'Speak English Without Translating From Bangla First',
+    lede: 'A countdown, a prompt with nothing to translate, and your own voice recorded and played back — instant naming, shadowing native rhythm, and building spoken sentences under time pressure. Self-assessed only: no listening analysis, no grading, just you comparing yourself to a model.',
+    browseHeading: 'All Speaking Drills',
+  });
+}
+
+// ---------------------------------------------------------------------------
+// Item detail (generalized over collection: a lesson, a writing task, or a
+// speaking drill — same layout, same TOC/objectives/mark-complete chrome)
+// ---------------------------------------------------------------------------
+function itemDetailPage({ item, bodyHtml, toc, previous, next, collection = COLLECTIONS.reading }) {
+  const fm = item.frontmatter;
   const level = getLevel(fm.level);
-  const mod = getModule(fm.module);
+  const mod = collection.getModule(fm.module);
+  const noun = collection.itemNoun;
 
   const objectivesHtml = fm.objectives.length
     ? `<div class="objectives-box">
         <p class="callout-title">${icon('target', 'callout-glyph')}Learning Objectives</p>
-        <p class="small muted" style="margin-bottom:0.5rem;">By the end of this lesson, you should be able to:</p>
+        <p class="small muted" style="margin-bottom:0.5rem;">By the end of this ${noun.toLowerCase()}, you should be able to:</p>
         <ul>${fm.objectives.map((o) => `<li>${icon('check')}<span>${escapeHtml(o)}</span></li>`).join('')}</ul>
       </div>`
     : '';
@@ -342,26 +455,26 @@ function lessonDetailPage({ lesson, bodyHtml, toc, previous, next }) {
     : '<aside></aside>';
 
   const prevHtml = previous
-    ? `<a href="/lessons/${previous.frontmatter.number}/" class="lesson-nav-link prev">
-        <span class="lesson-nav-eyebrow">${icon('arrowLeft')}Previous Lesson</span>
+    ? `<a href="${collection.routeBase}${previous.frontmatter.number}/" class="lesson-nav-link prev">
+        <span class="lesson-nav-eyebrow">${icon('arrowLeft')}Previous ${escapeHtml(noun)}</span>
         <span class="lesson-nav-title">${previous.frontmatter.number}. ${escapeHtml(previous.frontmatter.title)}</span>
       </a>`
     : '<span></span>';
   const nextHtml = next
-    ? `<a href="/lessons/${next.frontmatter.number}/" class="lesson-nav-link next">
-        <span class="lesson-nav-eyebrow">Next Lesson${icon('arrowRight')}</span>
+    ? `<a href="${collection.routeBase}${next.frontmatter.number}/" class="lesson-nav-link next">
+        <span class="lesson-nav-eyebrow">Next ${escapeHtml(noun)}${icon('arrowRight')}</span>
         <span class="lesson-nav-title">${next.frontmatter.number}. ${escapeHtml(next.frontmatter.title)}</span>
       </a>`
     : '<span></span>';
 
   const body = `
     <div class="container section-tight">
-      ${breadcrumbsHtml([{ label: 'Home', href: '/' }, { label: 'Lessons', href: '/lessons/' }, { label: `Lesson ${fm.number}` }])}
+      ${breadcrumbsHtml([{ label: 'Home', href: '/' }, { label: collection.itemNounPlural, href: collection.routeBase }, { label: `${noun} ${fm.number}` }])}
       <div class="lesson-layout" style="margin-top:1.5rem;">
         <article class="lesson-article">
           <header style="margin-bottom:2.5rem;">
             <p class="lesson-eyebrow">${level ? escapeHtml(level.name) : ''}${mod ? ` &middot; ${escapeHtml(mod.name)}` : ''}</p>
-            <h1 class="h1" style="margin-top:0.5rem;">Lesson ${fm.number}: ${escapeHtml(fm.title)}</h1>
+            <h1 class="h1" style="margin-top:0.5rem;">${noun} ${fm.number}: ${escapeHtml(fm.title)}</h1>
             <p class="lesson-desc">${escapeHtml(fm.description)}</p>
             <div class="lesson-meta">
               ${badgeIconHtml('gauge', fm.difficulty, 'muted')}
@@ -377,8 +490,8 @@ function lessonDetailPage({ lesson, bodyHtml, toc, previous, next }) {
           </div>
 
           <div class="lesson-footer-bar">
-            <p class="xs muted">Lesson ${fm.number} of ${level ? escapeHtml(level.name) : 'the course'}</p>
-            <button type="button" class="btn btn-outline btn-sm" id="mark-complete-btn" data-lesson-number="${fm.number}">${icon('circle')}<span>Mark as complete</span></button>
+            <p class="xs muted">${noun} ${fm.number} of ${level ? escapeHtml(level.name) : 'the course'}</p>
+            <button type="button" class="btn btn-outline btn-sm" id="mark-complete-btn" data-lesson-number="${fm.number}" data-collection="${collection.progressKey}">${icon('circle')}<span>Mark as complete</span></button>
           </div>
 
           <nav class="lesson-nav">
@@ -391,14 +504,27 @@ function lessonDetailPage({ lesson, bodyHtml, toc, previous, next }) {
       </div>
     </div>`;
 
+  // Writing/speaking pages always carry the recorder/shadowing/timer
+  // scripts — each is a no-op IIFE until its own `[data-*]` markup is
+  // present in the lesson body, so loading them unconditionally on these
+  // two routes costs nothing on lessons that don't use a given block yet.
+  const trackScripts = collection.key === 'reading'
+    ? ''
+    : '\n  <script defer src="/scripts/recorder.js"></script>\n  <script defer src="/scripts/speak.js"></script>\n  <script defer src="/scripts/timer.js"></script>';
+
   return layout({
-    title: `Lesson ${fm.number}: ${fm.title}`,
+    title: `${noun} ${fm.number}: ${fm.title}`,
     description: fm.description,
-    path: `/lessons/${fm.number}/`,
+    path: `${collection.routeBase}${fm.number}/`,
     bodyHtml: body,
     readingProgress: true,
-    extraScripts: '<script defer src="/scripts/toc.js"></script>\n  <script defer src="/scripts/reading-progress.js"></script>',
+    extraScripts: `<script defer src="/scripts/toc.js"></script>\n  <script defer src="/scripts/reading-progress.js"></script>${trackScripts}`,
   });
+}
+
+/** Back-compat alias for the reading-only call site. */
+function lessonDetailPage({ lesson, bodyHtml, toc, previous, next }) {
+  return itemDetailPage({ item: lesson, bodyHtml, toc, previous, next, collection: COLLECTIONS.reading });
 }
 
 // ---------------------------------------------------------------------------
@@ -408,7 +534,7 @@ function vocabularyPage(entries) {
   const listHtml = entries.length
     ? entries
         .map((entry) => {
-          const links = entry.lessonNumbers.map((n) => `<a href="/lessons/${n}/">Lesson ${n}</a>`).join(', ');
+          const links = entry.appearsIn.map((a) => `<a href="${a.href}">${escapeHtml(a.label)}</a>`).join(', ');
           return `<div class="vocab-list-item">
             <p class="vocab-word">${escapeHtml(entry.word)}${entry.pos ? `<span class="vocab-pos">${escapeHtml(entry.pos)}</span>` : ''}</p>
             <p class="vocab-meaning">${escapeHtml(entry.meaning)}</p>
@@ -495,12 +621,43 @@ function skillsPage(publishedLessons) {
 // ---------------------------------------------------------------------------
 // Progress
 // ---------------------------------------------------------------------------
-function progressPage(publishedLessons) {
-  const lessonsData = publishedLessons.map((l) => ({
-    number: l.frontmatter.number,
-    level: l.frontmatter.level,
-    levelName: (getLevel(l.frontmatter.level) || {}).name || '',
+function itemsForProgress(publishedItems) {
+  return publishedItems.map((it) => ({
+    number: it.frontmatter.number,
+    level: it.frontmatter.level,
+    levelName: (getLevel(it.frontmatter.level) || {}).name || '',
   }));
+}
+
+// One dashboard card per track. The streak is rendered once, outside this
+// card, because it's deliberately unified across all three tracks (see the
+// approved plan §0.4) — studying any of reading/writing/speaking on a
+// given day keeps the same streak alive.
+function trackDashboardCardHtml(collection, items) {
+  if (items.length === 0) return '';
+  return `<div class="dashboard-card" data-track="${collection.progressKey}" data-items='${JSON.stringify(itemsForProgress(items))}'>
+        <div class="dashboard-top"><span>${escapeHtml(collection.navLabel)}</span><span data-role="percent">0%</span></div>
+        <div class="progress-track"><div class="progress-fill" data-role="fill"></div></div>
+        <p class="xs muted" data-role="summary" style="margin-top:0.5rem;"></p>
+        <div class="dashboard-grid" style="margin-top:1rem;">
+          <div class="dashboard-tile">
+            <p class="dashboard-tile-label">Current Level</p>
+            <p class="dashboard-tile-value" data-role="level">&mdash;</p>
+          </div>
+          <div class="dashboard-tile">
+            <p class="dashboard-tile-label">Continue</p>
+            <a class="dashboard-tile-value" data-role="continue" href="${collection.routeBase}" style="color:var(--brand-primary);text-decoration:none;">&mdash;</a>
+          </div>
+        </div>
+      </div>`;
+}
+
+function progressPage({ reading, writing, speaking }) {
+  const cards = [
+    trackDashboardCardHtml(COLLECTIONS.reading, reading),
+    trackDashboardCardHtml(COLLECTIONS.writing, writing),
+    trackDashboardCardHtml(COLLECTIONS.speaking, speaking),
+  ].filter(Boolean).join('\n        ');
 
   const body = `
     <div class="container-md section">
@@ -508,30 +665,16 @@ function progressPage(publishedLessons) {
       <h1 class="h1" style="margin-top:1rem;">Your Progress</h1>
       <p class="lede" style="margin-top:0.75rem;">Stored locally in this browser only — a prototype. Clearing site data resets it.</p>
 
-      <div id="progress-app" data-lessons='${JSON.stringify(lessonsData)}' style="margin-top:2rem;display:flex;flex-direction:column;gap:1.5rem;">
-        <div class="dashboard-card">
-          <div class="dashboard-top"><span>Overall Progress</span><span id="progress-percent">0%</span></div>
-          <div class="progress-track"><div class="progress-fill" id="progress-fill"></div></div>
-          <p class="xs muted" id="progress-summary" style="margin-top:0.5rem;">${lessonsData.length === 0 ? 'No lessons published yet.' : ''}</p>
+      <div id="progress-app" style="margin-top:2rem;display:flex;flex-direction:column;gap:1.5rem;">
+        <div class="dashboard-tile dashboard-tile-icon">
+          ${icon('trendingUp', 'dashboard-tile-icon-glyph')}
+          <div>
+            <p class="dashboard-tile-label">Learning Streak &mdash; Reading + Writing + Speaking</p>
+            <p class="dashboard-tile-value" id="progress-streak">0 days</p>
+          </div>
         </div>
 
-        <div class="dashboard-grid">
-          <div class="dashboard-tile">
-            <p class="dashboard-tile-label">Current Level</p>
-            <p class="dashboard-tile-value" id="progress-level">&mdash;</p>
-          </div>
-          <div class="dashboard-tile">
-            <p class="dashboard-tile-label">Continue Learning</p>
-            <a class="dashboard-tile-value" id="progress-continue" href="/lessons/" style="color:var(--brand-primary);text-decoration:none;">&mdash;</a>
-          </div>
-          <div class="dashboard-tile dashboard-tile-icon">
-            ${icon('trendingUp', 'dashboard-tile-icon-glyph')}
-            <div>
-              <p class="dashboard-tile-label">Learning Streak</p>
-              <p class="dashboard-tile-value" id="progress-streak">0 days</p>
-            </div>
-          </div>
-        </div>
+        ${cards || '<p class="small muted">No content published yet.</p>'}
 
         <button type="button" class="btn btn-ghost btn-sm" id="progress-reset" style="width:fit-content;">${icon('rotateCcw')}<span>Reset local progress</span></button>
       </div>
@@ -539,7 +682,7 @@ function progressPage(publishedLessons) {
 
   return layout({
     title: 'Your Progress',
-    description: 'Track lessons completed, current level, and streak.',
+    description: 'Track lessons, writing tasks, and speaking drills completed, current level, and streak.',
     path: '/progress/',
     bodyHtml: body,
   });
@@ -573,6 +716,10 @@ module.exports = {
   moduleDetailPage,
   lessonsIndexPage,
   lessonDetailPage,
+  itemsIndexPage,
+  itemDetailPage,
+  writingLandingPage,
+  speakingLandingPage,
   vocabularyPage,
   skillsPage,
   progressPage,

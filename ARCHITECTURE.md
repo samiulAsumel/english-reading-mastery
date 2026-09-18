@@ -39,6 +39,41 @@ because they were never told about lesson 85 specifically in the first
 place. This is what makes "add lesson 86" a one-file change instead of a
 many-file change (see CONTENT_GUIDE.md).
 
+## Writing & speaking tracks: one platform, three collections
+
+Reading, writing, and speaking are three parallel **collections** —
+`content/curriculum/collections.js` is the single place that maps each
+one to its content directory (`content/lessons/`, `content/writing/`,
+`content/speaking/`), its route (`/lessons/`, `/writing/`, `/speaking/`),
+its own `modules.js`/`skills.js` file, and small display config (item
+noun, progress key). Everything in `scripts/lib/content.js` and
+`scripts/lib/pages.js` that used to be lesson-only was generalized to
+take one of these configs — `loadCollection(config)`, `itemDetailPage`,
+`itemsIndexPage` — with the original lesson-only functions kept as thin
+back-compat aliases (`loadLessons()`, `lessonDetailPage()`, …) so no
+existing reading call site had to change. Writing and speaking each get
+their own `modules.js`/`skills.js` in a separate file specifically so a
+slug collision between tracks is structurally impossible, not just
+unlikely.
+
+Writing and speaking tasks use content blocks reading never needed:
+`::: prompt` (the task), `::: draft` (a plain textarea, nothing
+persisted), `::: model-answer` and `::: rubric` (self-check, no grading
+— per the project brief, this course does automated *nothing* for
+speaking assessment, by design), and for speaking specifically `:::
+timer` (countdown — the actual anti-translation mechanic: a visible
+countdown forces an immediate response, and the prompt gives nothing to
+translate from in the first place), `::: shadow` (native-voice TTS via
+`window.speechSynthesis`, so no hosted audio files are needed anywhere),
+and `::: record` (self-recording via `MediaRecorder`/`getUserMedia`).
+Recorded audio is kept as an in-memory `Blob` (played back via
+`URL.createObjectURL`) and is **never** written to `localStorage` or
+uploaded anywhere — `localStorage` is ~5MB and string-only, a single
+clip risks that quota, and `progress.js`'s `write()` silently swallows
+quota errors, so mixing audio into that path would risk silently
+corrupting real progress data. Self-recording is purely for the learner
+to compare themselves to the model answer; the site never analyzes it.
+
 ## Why no lesson-number routing table
 
 It would be easy to write a single big `LESSONS = { 1: {...}, 2: {...} }`
@@ -114,11 +149,22 @@ Progress is entirely client-side, in `src/scripts/progress.js`, backed by
 `localStorage` (`window.ErmProgress`, mirroring the previous version's
 `ProgressStore` interface but as a plain object since there's no
 TypeScript here). Three independent pieces of UI hydrate themselves if
-their markup is present on the page: the lesson mark-complete button
-(`#mark-complete-btn`), the `/progress/` dashboard (`#progress-app`), and
-the `/skills/` per-skill bars (`.skill-row[data-skill-lessons]`). Swapping
-to a real backend later means replacing the `Store` object's
-implementation in that one file — no page-template changes.
+their markup is present on the page: the mark-complete button
+(`#mark-complete-btn`), the `/progress/` dashboard (three
+`.dashboard-card[data-track]` cards, one per collection), and the
+`/skills/` per-skill bars (`.skill-row[data-skill-lessons]`, reading
+only for now). Swapping to a real backend later means replacing the
+`Store` object's implementation in that one file — no page-template
+changes.
+
+The one snapshot tracks all three collections — `{ lessons, writing,
+speaking }` (the reading bucket kept its original key name, `lessons`,
+for backward compatibility with snapshots saved before writing/speaking
+existed) — under one shared `streakDays`, deliberately: studying any of
+the three on a given day keeps the same streak alive, since the goal is
+one daily English habit, not three competing ones. `read()` shallow-merges
+onto `emptySnapshot()` so an old snapshot missing the new buckets just
+gets them filled in — no version bump, no migration script.
 
 This is intentionally the only piece of "fake-looking" data in the app,
 and it's labeled as such everywhere it's shown (`/progress/`, `/skills/`)

@@ -17,6 +17,8 @@ const THEME_INIT_SCRIPT = `try{var t=localStorage.getItem('erm:theme');if(t)docu
 const NAV_ITEMS = [
   { href: '/course/', label: 'Course' },
   { href: '/lessons/', label: 'Lessons' },
+  { href: '/writing/', label: 'Writing' },
+  { href: '/speaking/', label: 'Speaking' },
   { href: '/vocabulary/', label: 'Vocabulary' },
   { href: '/skills/', label: 'Skills' },
   { href: '/progress/', label: 'Progress' },
@@ -60,6 +62,8 @@ function footerHtml() {
       <nav aria-label="Footer">
         <a href="/course/">Course</a>
         <a href="/lessons/">Lessons</a>
+        <a href="/writing/">Writing</a>
+        <a href="/speaking/">Speaking</a>
         <a href="/skills/">Skills</a>
       </nav>
     </div>
@@ -172,20 +176,31 @@ function moduleCardHtml(mod, lessonCount) {
       </a>`;
 }
 
-function lessonCardHtml(lesson) {
-  const fm = lesson.frontmatter;
+// Generalized over `collection` (routeBase + itemNoun) so the same card
+// partial serves /lessons/, /writing/, and /speaking/ index grids.
+function itemCardHtml(item, collection) {
+  const fm = item.frontmatter;
+  const routeBase = collection.routeBase;
+  const noun = collection.itemNoun;
   const searchBlob = [fm.title, fm.description, (fm.tags || []).join(' '), (fm.skills || []).join(' ')]
     .join(' ')
     .toLowerCase();
-  return `<a href="/lessons/${fm.number}/" class="card" data-level="${fm.level}" data-search="${attrEscape(searchBlob)}">
+  return `<a href="${routeBase}${fm.number}/" class="card" data-level="${fm.level}" data-search="${attrEscape(searchBlob)}">
         <div class="lesson-card-top">
-          <span>Lesson ${fm.number}</span>
+          <span>${escapeHtml(noun)} ${fm.number}</span>
           <span class="lesson-card-time">${icon('clock')}${escapeHtml(fm.estimatedTime)}</span>
         </div>
         <p class="lesson-card-title">${escapeHtml(fm.title)}</p>
         <p class="lesson-card-desc">${escapeHtml(fm.description)}</p>
         ${badgeHtml(fm.difficulty, 'muted')}
       </a>`;
+}
+
+const READING_CARD_DEFAULTS = { routeBase: '/lessons/', itemNoun: 'Lesson' };
+
+/** Back-compat alias for the reading-only call sites. */
+function lessonCardHtml(lesson) {
+  return itemCardHtml(lesson, READING_CARD_DEFAULTS);
 }
 
 module.exports = {
@@ -201,4 +216,5 @@ module.exports = {
   levelCardHtml,
   moduleCardHtml,
   lessonCardHtml,
+  itemCardHtml,
 };

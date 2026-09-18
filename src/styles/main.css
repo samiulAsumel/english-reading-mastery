@@ -60,6 +60,8 @@ a { color: inherit; }
   --warning-color: #c4342c;
   --note-color: #6f6a62;
   --framework-bg: #f1ece3;
+  --prompt-color: #7d4bb0;
+  --rubric-color: #1a7a4c;
 
   --font-sans: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
   --font-serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
@@ -99,6 +101,8 @@ a { color: inherit; }
     --warning-color: #ec8078;
     --note-color: #949aa4;
     --framework-bg: #202631;
+    --prompt-color: #b98ce0;
+    --rubric-color: #4fc189;
 
     --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.35), 0 1px 1px rgba(0, 0, 0, 0.25);
     --shadow-md: 0 8px 20px -6px rgba(0, 0, 0, 0.5), 0 2px 6px -2px rgba(0, 0, 0, 0.3);
@@ -127,6 +131,8 @@ a { color: inherit; }
   --warning-color: #ec8078;
   --note-color: #949aa4;
   --framework-bg: #202631;
+  --prompt-color: #b98ce0;
+  --rubric-color: #4fc189;
 
   --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.35), 0 1px 1px rgba(0, 0, 0, 0.25);
   --shadow-md: 0 8px 20px -6px rgba(0, 0, 0, 0.5), 0 2px 6px -2px rgba(0, 0, 0, 0.3);
@@ -236,20 +242,24 @@ body {
 }
 .brand-mark { width: 1.35rem; height: 1.35rem; color: var(--brand-accent); }
 
-.main-nav { display: none; align-items: center; gap: 1.5rem; }
-@media (min-width: 900px) { .main-nav { display: flex; } }
+/* Bumped from 900px/1.5rem to 1040px/1.1rem when the writing/speaking nav
+   items joined the reading course's five — seven items at the old gap
+   started crowding the header actions before 1024px. */
+.main-nav { display: none; align-items: center; gap: 1.1rem; }
+@media (min-width: 1040px) { .main-nav { display: flex; } }
 .main-nav a {
   font-size: 0.875rem;
   font-weight: 500;
   color: var(--muted-fg);
   text-decoration: none;
+  white-space: nowrap;
 }
 .main-nav a:hover, .main-nav a[aria-current="page"] { color: var(--fg); }
 
 .header-actions { display: flex; align-items: center; gap: 0.5rem; }
 
 .mobile-nav-toggle { display: inline-flex; }
-@media (min-width: 900px) { .mobile-nav-toggle { display: none; } }
+@media (min-width: 1040px) { .mobile-nav-toggle { display: none; } }
 .icon-menu-close { display: none; }
 .mobile-nav-toggle.open .icon-menu-open { display: none; }
 .mobile-nav-toggle.open .icon-menu-close { display: inline-block; }
@@ -271,7 +281,7 @@ body {
   font-size: 0.9375rem;
 }
 .mobile-nav a:hover { background: var(--muted-bg); }
-@media (min-width: 900px) { .mobile-nav { display: none !important; } }
+@media (min-width: 1040px) { .mobile-nav { display: none !important; } }
 
 /* ---- Buttons ------------------------------------------------------------*/
 .btn {
@@ -499,6 +509,16 @@ mark.collocation { background: color-mix(in oklab, var(--brand-accent) 22%, tran
 .callout-golden { border-left: 4px solid var(--golden-color); background: color-mix(in oklab, var(--golden-color) 8%, var(--bg)); }
 .callout-golden .callout-glyph { color: var(--golden-color); }
 .callout-framework { border: 1px solid var(--border); background: var(--framework-bg); box-shadow: none; }
+.callout-prompt { border-left: 4px solid var(--prompt-color); background: color-mix(in oklab, var(--prompt-color) 6%, var(--bg)); }
+.callout-prompt .callout-glyph { color: var(--prompt-color); }
+.callout-rubric { border-left: 4px solid var(--rubric-color); background: color-mix(in oklab, var(--rubric-color) 6%, var(--bg)); }
+.callout-rubric .callout-glyph { color: var(--rubric-color); }
+.callout-rubric .callout-body ul { margin: 0; list-style: none; display: flex; flex-direction: column; gap: 0.4rem; }
+.callout-rubric .callout-body li::before { content: '\2610\a0'; color: var(--rubric-color); }
+
+.prompt-meta { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 0.85rem; }
+.prompt-chip { display: inline-flex; align-items: center; gap: 0.35rem; border: 1px solid var(--border); background: var(--card); border-radius: 9999px; padding: 0.2rem 0.65rem; font-size: 0.75rem; color: var(--muted-fg); }
+.prompt-chip .icon { color: var(--prompt-color); }
 
 .golden-rule-text { font-family: var(--font-serif); font-size: 1.1875rem; font-weight: 500; font-style: italic; line-height: 1.5; margin: 0; }
 
@@ -634,6 +654,21 @@ mark.collocation { background: color-mix(in oklab, var(--brand-accent) 22%, tran
   font-size: 0.875rem;
 }
 .text-input { flex: 1; }
+.textarea-input {
+  width: 100%;
+  min-height: 8rem;
+  resize: vertical;
+  border-radius: 0.375rem;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--fg);
+  padding: 0.65rem 0.85rem;
+  font-family: inherit;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  margin: 1rem 0 1.5rem;
+}
+.textarea-input:focus-visible { outline: 2px solid var(--brand-accent); outline-offset: 1px; }
 
 /* ---- Empty states -------------------------------------------------------*/
 .empty-state { border: 1px dashed var(--border); border-radius: 0.5rem; padding: 2.5rem; text-align: center; color: var(--muted-fg); font-size: 0.9375rem; }
@@ -680,3 +715,25 @@ mark.collocation { background: color-mix(in oklab, var(--brand-accent) 22%, tran
 .dashboard-tile-value { font-family: var(--font-serif); font-size: 1.125rem; font-weight: 600; }
 .dashboard-tile-icon { display: flex; align-items: center; gap: 0.85rem; }
 .dashboard-tile-icon-glyph { width: 1.5rem; height: 1.5rem; color: var(--brand-accent); flex-shrink: 0; }
+
+/* ---- Speaking drill widgets (timer / shadow / record) --------------------
+   Recording state is signalled primarily by color/border, with the pulse
+   animation layered on as enhancement only — the reduced-motion kill
+   switch at the top of this file already zeroes animation-duration
+   globally, so timer-running/recorder's pulse degrade to a plain color
+   change automatically, no extra media query needed here. */
+.timer-box { border: 1px solid var(--border); background: var(--card); border-radius: 0.75rem; padding: 1.25rem; text-align: center; margin: 1.5rem 0; box-shadow: var(--shadow-sm); }
+.timer-label { font-size: 0.875rem; color: var(--muted-fg); margin-bottom: 0.75rem; }
+.timer-display { font-family: var(--font-mono); font-size: 2.5rem; font-weight: 600; margin-bottom: 0.85rem; line-height: 1; }
+.timer-box.timer-running .timer-display { color: var(--brand-accent); animation: erm-pulse 1s ease-in-out infinite; }
+.timer-box.timer-done .timer-display { color: var(--rubric-color); }
+@keyframes erm-pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.55; } }
+
+.shadow-box { border: 1px solid var(--border); background: var(--card); border-radius: 0.5rem; padding: 1rem 1.25rem; margin: 1rem 0; display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; box-shadow: var(--shadow-sm); }
+.shadow-sentence { font-family: var(--font-serif); font-size: 1.0625rem; margin: 0; flex: 1; min-width: 12rem; }
+
+.recorder { border: 1px dashed var(--border); border-radius: 0.5rem; padding: 1rem 1.25rem; margin: 1.5rem 0; }
+.recorder-label { font-size: 0.875rem; color: var(--muted-fg); margin-bottom: 0.75rem; }
+.recorder-controls { display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; }
+.recorder-status { font-size: 0.8125rem; color: var(--muted-fg); }
+.recorder audio { width: 100%; margin-top: 0.85rem; }

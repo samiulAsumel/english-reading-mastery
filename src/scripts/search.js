@@ -65,7 +65,7 @@
       a.href = r.href;
       a.className = 'search-result' + (i === 0 ? ' active' : '');
       a.innerHTML =
-        '<span class="search-result-title">Lesson ' + r.number + ' · ' + escapeHtml(r.title) + '</span>' +
+        '<span class="search-result-title">' + escapeHtml(r.noun || 'Lesson') + ' ' + r.number + ' · ' + escapeHtml(r.title) + '</span>' +
         '<span class="search-result-desc">' + escapeHtml(r.description) + '</span>';
       container.appendChild(a);
     });

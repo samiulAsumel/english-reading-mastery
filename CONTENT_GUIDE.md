@@ -4,6 +4,16 @@ This is the exact workflow for adding a lesson (86, 87, or any future
 number) with Claude Code, or by hand. Nothing outside `content/lessons/`
 needs to change for a normal new lesson.
 
+> Three parallel content collections exist: **reading**
+> (`content/lessons/`, this guide's default examples), **writing**
+> (`content/writing/`), and **speaking** (`content/speaking/`). Same
+> file shape and workflow throughout — swap `npm run new:lesson` for
+> `npm run new:writing` or `npm run new:speaking`, and the folders for
+> `content/writing/writing-NNN/` or `content/speaking/speaking-NNN/`.
+> Numbering is independent per collection (writing-001 and lesson-001
+> are unrelated). See ARCHITECTURE.md for why the platform is built this
+> way and the writing/speaking-only block types further down.
+
 > This guide covers the *mechanics* — file structure, frontmatter,
 > available blocks. For the *voice* the lesson body should be written in
 > (and the English/Bangla language rule), see [`CLAUDE.md`](./CLAUDE.md)
@@ -101,6 +111,13 @@ context. The block types:
 | `::: golden` | Golden Rule callout | body rendered as one inline sentence, no paragraph wrapping |
 | `::: framework` | Vertical step diagram with arrows | body is a Markdown list (`- Step text`); each `- ` line becomes one box |
 | `::: vocabulary word="..." pos="..." meaning="..." example="..."` | Vocabulary card | self-closing (empty body between the `:::` lines is fine); attributes are plain strings, no Markdown inside them |
+| `::: prompt words="..." time="..." register="..."` | The task itself, as a callout with meta chips | used on writing/speaking tasks; each attr is a full phrase already ("5 sentences", "60-90 words", "8s") — don't add a unit again in the content, the chip renders the attribute verbatim |
+| `::: draft placeholder="..."` | A blank `<textarea>` for the learner to write in | self-closing; writing tasks only. `placeholder` must be a single line (attribute values can't span multiple lines) — use `/` to separate ideas within it if needed |
+| `::: model-answer label="..."` | Collapsible answer reveal (`<details>`) | same markup/CSS as the reading course's hand-written practice-question answers |
+| `::: rubric` | "Self-Check" callout, self-assessment only | body is a Markdown list; no persisted/interactive checkboxes yet — see ARCHITECTURE.md |
+| `::: timer seconds="10" label="..."` | Countdown widget | self-closing; speaking tasks — the anti-translation mechanic (see ARCHITECTURE.md) |
+| `::: shadow rate="0.9"` | Text-to-speech shadowing widget | body is the sentence to speak (plain text, one line or short paragraph); `rate` is optional, defaults to 0.9 |
+| `::: record label="..."` | Self-recording widget (record + playback) | self-closing; audio never leaves the browser — see ARCHITECTURE.md |
 
 Two more things baked into the Markdown itself (no block needed):
 

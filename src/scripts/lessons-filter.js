@@ -1,6 +1,8 @@
-// Progressive-enhancement filter for the /lessons/ index. Every lesson
-// card is already in the static HTML (works with JS off); this just
-// hides/shows them client-side.
+// Progressive-enhancement filter for the /lessons/, /writing/, and
+// /speaking/ index pages. Every card is already in the static HTML
+// (works with JS off); this just hides/shows them client-side. The
+// "X of Y ___" noun comes from #lessons-filter-count's data-noun-plural
+// attribute (defaults to "lessons" for pages that don't set it).
 (function () {
   'use strict';
   document.addEventListener('DOMContentLoaded', function () {
@@ -13,6 +15,7 @@
 
     const cards = Array.from(grid.querySelectorAll('.card'));
     const total = cards.length;
+    const nounPlural = (countEl && countEl.getAttribute('data-noun-plural')) || 'lessons';
 
     function apply() {
       const query = textInput.value.trim().toLowerCase();
@@ -25,7 +28,7 @@
         card.hidden = !show;
         if (show) visible++;
       });
-      if (countEl) countEl.textContent = visible + ' of ' + total + ' lessons';
+      if (countEl) countEl.textContent = visible + ' of ' + total + ' ' + nounPlural;
       if (emptyEl) emptyEl.hidden = visible !== 0;
     }
 

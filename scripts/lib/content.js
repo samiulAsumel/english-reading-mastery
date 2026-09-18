@@ -6,9 +6,11 @@ const matter = require('gray-matter');
 const { Marked } = require('marked');
 const { levels } = require('../../content/curriculum/levels');
 const { modules } = require('../../content/curriculum/modules');
+const { COLLECTIONS } = require('../../content/curriculum/collections');
 const { icon } = require('./icons');
 
-const LESSONS_DIR = path.join(__dirname, '..', '..', 'content', 'lessons');
+const CONTENT_ROOT = path.join(__dirname, '..', '..', 'content');
+const LESSONS_DIR = path.join(CONTENT_ROOT, 'lessons');
 
 const DIFFICULTIES = ['beginner', 'elementary', 'intermediate', 'upper-intermediate', 'advanced', 'c1', 'c2'];
 const STATUSES = ['draft', 'published'];
@@ -51,7 +53,7 @@ function escapeHtml(str) {
 // scripts/validate-content.js (collects + reports). Keep in one place so
 // the two never drift.
 // ---------------------------------------------------------------------------
-function validateFrontmatter(data, dirName) {
+function validateFrontmatter(data, dirName, collectionDirName = 'lessons', fileName = 'lesson.md') {
   const errors = [];
   const req = (field, type) => {
     if (data[field] === undefined || data[field] === null) {
@@ -97,7 +99,7 @@ function validateFrontmatter(data, dirName) {
     errors.push('frontmatter.prerequisites: every entry must be a lesson number');
   }
 
-  return errors.map((e) => `content/lessons/${dirName}/lesson.md: ${e}`);
+  return errors.map((e) => `content/${collectionDirName}/${dirName}/${fileName}: ${e}`);
 }
 
 function normalizeFrontmatter(data) {
@@ -147,6 +149,11 @@ const CALLOUT_DEFAULTS = {
   important: { title: 'Important', tone: 'important', icon: 'info' },
   warning: { title: 'Common Mistake', tone: 'warning', icon: 'alertTriangle' },
   note: { title: 'Note', tone: 'note', icon: 'info' },
+  // Self-assessment checklist for writing/speaking tasks. Ships as a
+  // static callout (author writes a `- ` list) — interactive/persisted
+  // checkboxes are a real second feature, deliberately deferred past this
+  // phase so the format can ship without it (see the approved plan §0.2).
+  rubric: { title: 'Self-Check', tone: 'rubric', icon: 'checkSquare' },
 };
 
 function renderCallout(type, attrs, bodyText, marked) {
@@ -199,10 +206,98 @@ function renderVocabulary(attrs) {
 </div>`;
 }
 
+// Self-check answer reveal for a writing/speaking task — same collapsible
+// markup and CSS as the reading course's hand-written practice-question
+// answers (main.css `.prose details.answer`), just authorable as a block
+// instead of raw HTML.
+function renderModelAnswer(attrs, bodyText, marked) {
+  const label = attrs.label || 'Show a model answer';
+  const bodyHtml = marked.parse(bodyText.trim());
+  return `<details class="answer"><summary>${escapeHtml(label)}</summary><div class="answer-body">${bodyHtml}</div></details>`;
+}
+
+// The task itself for a writing/speaking lesson. `words="150-200"`,
+// `time="60s"`, `register="formal"` attrs render as a small meta-chip row
+// above the prompt text.
+function renderPrompt(attrs, bodyText, marked) {
+  const title = attrs.title || 'Your Turn';
+  const chips = [];
+  // `words` is authored as a full phrase already ("5 sentences", "60-90
+  // words") rather than a bare number, so it's used verbatim here.
+  if (attrs.words) chips.push({ glyph: 'edit', text: attrs.words });
+  if (attrs.time) chips.push({ glyph: 'clock', text: attrs.time });
+  if (attrs.register) chips.push({ glyph: 'messageCircle', text: attrs.register });
+  const chipsHtml = chips.length
+    ? `<div class="prompt-meta">${chips.map((c) => `<span class="prompt-chip">${icon(c.glyph)}${escapeHtml(c.text)}</span>`).join('')}</div>`
+    : '';
+  const bodyHtml = marked.parse(bodyText.trim());
+  return `<div class="callout callout-prompt">
+  <p class="callout-title">${icon('edit', 'callout-glyph')}${escapeHtml(title)}</p>
+  ${chipsHtml}
+  <div class="callout-body">${bodyHtml}</div>
+</div>`;
+}
+
+// Countdown timer — the core anti-translation mechanic for speaking
+// drills (see the approved plan): a visible countdown forces an
+// immediate response, with nothing to translate from in the first place.
+// Behavior lives in src/scripts/timer.js, activated by [data-timer].
+function renderTimer(attrs) {
+  const seconds = Number(attrs.seconds) || 10;
+  const label = attrs.label || 'Respond before time runs out';
+  return `<div class="timer-box" data-timer data-timer-seconds="${seconds}">
+  <p class="timer-label">${escapeHtml(label)}</p>
+  <div class="timer-display" data-timer-display>${seconds}</div>
+  <button type="button" class="btn btn-accent btn-sm" data-timer-start>${icon('play')}<span>Start</span></button>
+</div>`;
+}
+
+// Text-to-speech shadowing — the sentence to repeat, spoken via
+// window.speechSynthesis (src/scripts/speak.js, [data-shadow-text]) so
+// native-voice audio needs no hosted files.
+function renderShadow(attrs, bodyText, marked) {
+  const rate = attrs.rate || '0.9';
+  const text = bodyText.trim();
+  return `<div class="shadow-box" data-shadow-text="${escapeHtml(text)}" data-shadow-rate="${escapeHtml(rate)}">
+  <p class="shadow-sentence">${marked.parseInline(text)}</p>
+  <button type="button" class="btn btn-outline btn-sm" data-shadow-play>${icon('volume2')}<span>Listen</span></button>
+</div>`;
+}
+
+// Self-recording — MediaRecorder capture, kept in-memory only, never
+// uploaded or persisted (src/scripts/recorder.js, [data-recorder]). See
+// the approved plan §0.3 for why this never touches localStorage.
+function renderRecord(attrs) {
+  const label = attrs.label || 'Record yourself, then compare to the model answer above.';
+  return `<div class="recorder" data-recorder>
+  <p class="recorder-label">${escapeHtml(label)}</p>
+  <div class="recorder-controls">
+    <button type="button" class="btn btn-outline btn-sm" data-recorder-start>${icon('mic')}<span>Record</span></button>
+    <button type="button" class="btn btn-outline btn-sm" data-recorder-stop hidden>${icon('square')}<span>Stop</span></button>
+    <span class="recorder-status" data-recorder-status>Not recorded yet</span>
+  </div>
+  <audio data-recorder-playback hidden controls></audio>
+</div>`;
+}
+
+// A free-text scratch space for a writing task — plain textarea, nothing
+// persisted (no backend, and localStorage is reserved for progress state
+// per the approved plan). `placeholder="..."` overrides the default hint.
+function renderDraft(attrs) {
+  const placeholder = attrs.placeholder || 'Write your answer here before checking the model answer below…';
+  return `<textarea class="textarea-input" placeholder="${escapeHtml(placeholder)}" rows="6"></textarea>`;
+}
+
 function renderBlock(type, attrs, bodyText, marked) {
   if (type === 'golden') return renderGolden(attrs, bodyText, marked);
   if (type === 'framework') return renderFramework(attrs, bodyText, marked);
   if (type === 'vocabulary') return renderVocabulary(attrs);
+  if (type === 'model-answer') return renderModelAnswer(attrs, bodyText, marked);
+  if (type === 'prompt') return renderPrompt(attrs, bodyText, marked);
+  if (type === 'timer') return renderTimer(attrs);
+  if (type === 'shadow') return renderShadow(attrs, bodyText, marked);
+  if (type === 'record') return renderRecord(attrs);
+  if (type === 'draft') return renderDraft(attrs);
   if (CALLOUT_DEFAULTS[type]) return renderCallout(type, attrs, bodyText, marked);
   return `<!-- unknown block type: ${escapeHtml(type)} -->`;
 }
@@ -306,44 +401,52 @@ function extractVocabularyFromBody(rawBody) {
   return entries;
 }
 
-function isLessonDir(name) {
-  return /^lesson-\d{3,}$/.test(name);
+/** `prefix` defaults to "lesson" so every existing call site (new-lesson.js, validate-content.js) is unchanged. */
+function isLessonDir(name, prefix = 'lesson') {
+  const re = new RegExp(`^${prefix}-\\d{3,}$`);
+  return re.test(name);
 }
 
-/** Reads + validates every lesson on disk. Throws with all collected errors if any are invalid. */
-function loadLessons() {
-  if (!fs.existsSync(LESSONS_DIR)) return [];
+/**
+ * Reads + validates every item in one content collection (reading,
+ * writing, or speaking — see content/curriculum/collections.js). Throws
+ * with all collected errors if any are invalid. Generalized out of the
+ * old lesson-only `loadLessons()`, which is now a thin alias below.
+ */
+function loadCollection(collection) {
+  const dir = path.join(CONTENT_ROOT, collection.dirName);
+  if (!fs.existsSync(dir)) return [];
   const dirNames = fs
-    .readdirSync(LESSONS_DIR, { withFileTypes: true })
-    .filter((e) => e.isDirectory() && e.name !== '_template' && isLessonDir(e.name))
+    .readdirSync(dir, { withFileTypes: true })
+    .filter((e) => e.isDirectory() && e.name !== '_template' && isLessonDir(e.name, collection.dirPrefix))
     .map((e) => e.name);
 
-  const lessons = [];
+  const items = [];
   const allErrors = [];
 
   for (const dirName of dirNames) {
-    const file = path.join(LESSONS_DIR, dirName, 'lesson.md');
+    const file = path.join(dir, dirName, collection.fileName);
     if (!fs.existsSync(file)) {
-      allErrors.push(`content/lessons/${dirName}: missing lesson.md`);
+      allErrors.push(`content/${collection.dirName}/${dirName}: missing ${collection.fileName}`);
       continue;
     }
     const raw = fs.readFileSync(file, 'utf-8');
     const { data, content } = matter(raw);
-    const errors = validateFrontmatter(data, dirName);
+    const errors = validateFrontmatter(data, dirName, collection.dirName, collection.fileName);
     if (errors.length > 0) {
       allErrors.push(...errors);
       continue;
     }
-    const expectedDir = `lesson-${String(data.number).padStart(3, '0')}`;
+    const expectedDir = `${collection.dirPrefix}-${String(data.number).padStart(3, '0')}`;
     if (dirName !== expectedDir) {
       allErrors.push(
-        `content/lessons/${dirName}: number ${data.number} implies folder "${expectedDir}", found "${dirName}"`
+        `content/${collection.dirName}/${dirName}: number ${data.number} implies folder "${expectedDir}", found "${dirName}"`
       );
     }
     if (content.trim().length === 0) {
-      allErrors.push(`content/lessons/${dirName}/lesson.md: has no content body`);
+      allErrors.push(`content/${collection.dirName}/${dirName}/${collection.fileName}: has no content body`);
     }
-    lessons.push({ frontmatter: normalizeFrontmatter(data), rawBody: content, dirName });
+    items.push({ frontmatter: normalizeFrontmatter(data), rawBody: content, dirName });
   }
 
   if (allErrors.length > 0) {
@@ -352,8 +455,13 @@ function loadLessons() {
     throw err;
   }
 
-  lessons.sort((a, b) => a.frontmatter.number - b.frontmatter.number);
-  return lessons;
+  items.sort((a, b) => a.frontmatter.number - b.frontmatter.number);
+  return items;
+}
+
+/** Back-compat alias — every existing caller keeps working unchanged. */
+function loadLessons() {
+  return loadCollection(COLLECTIONS.reading);
 }
 
 function getPublishedLessons(lessons) {
@@ -361,12 +469,14 @@ function getPublishedLessons(lessons) {
 }
 
 module.exports = {
+  CONTENT_ROOT,
   LESSONS_DIR,
   DIFFICULTIES,
   STATUSES,
   levels,
   modules,
   loadLessons,
+  loadCollection,
   validateFrontmatter,
   normalizeFrontmatter,
   isLessonDir,
