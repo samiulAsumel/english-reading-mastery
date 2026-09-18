@@ -498,3 +498,8 @@ maintenance.
 14. Identify the selection bias in the vendor report's data collection.
 15. Identify how the academic study both corroborates and conflicts with the vendor report.
 16. State the refined, conditional claim this lesson's notes propose, and explain why it is more defensible than either "predictive maintenance works" or "predictive maintenance doesn't work."
+
+Next: Lesson 76 — Advanced Reading: Bias, Framing, Selection & Missing
+Evidence: the fifth part of this course's argument-analysis arc, asking
+not just whether information is true, but what picture its selection,
+framing, and omissions create.
