@@ -908,3 +908,8 @@ manifest-processing system.
 14. Build a separate causal map for the passage, and explain why it should show two arrows converging on "shorter processing times" rather than one.
 15. List every persistence or change marker in the passage ("still," "gradually," and so on), and state what each one signals.
 16. Explain why summarising this passage as "the digital system caused faster processing" would overstate what the author actually claimed.
+
+Next: Lesson 63 — Advanced Reading of Problems, Solutions, Challenges,
+Responses & Trade-offs: how to reconstruct a full problem-solution chain
+— symptom, root cause, mechanism, trade-off, and remaining limitation —
+instead of stopping the moment a solution is named.
