@@ -631,3 +631,8 @@ maintenance.
 14. Identify the real-world factors the passage says the prediction's accuracy depends on.
 15. Identify the passage's second inference block, and the reframed position that follows "rather."
 16. Explain why summarising this passage as "predictive maintenance prevents equipment failure" would overstate what the author actually claimed.
+
+Next: Lesson 70 — Advanced Reading of "Not Only…But Also", Emphasis,
+Focus & Information Hierarchy: how to find what an author is actually
+placing in focus, through cleft sentences, inversion, and explicit
+focus markers.
