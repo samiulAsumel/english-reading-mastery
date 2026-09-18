@@ -479,3 +479,8 @@ optimization algorithm.
 14. Identify the conflicting evidence in the passage, and explain why the company's explanation for it deserves scrutiny.
 15. Identify the passage's strongest evidence-quality dimension and its weakest, and justify both choices.
 16. Explain why the decision to roll out the algorithm to all 900 routes is a calibration problem, not simply an unreasonable decision.
+
+Next: Lesson 75 — Advanced Reading: Evidence Hierarchy, Source Quality
+& Triangulation: the fourth part of this course's argument-analysis
+arc, tracing cited evidence back to its actual origin and weighing it
+honestly.
