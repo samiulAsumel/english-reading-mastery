@@ -686,3 +686,8 @@ pricing engine.
 14. Explain how the passage's central risk connects to this lesson's reliable-versus-accurate distinction.
 15. Identify the passage's scope condition for recommending the engine, and its context-specific alternative.
 16. Explain why summarising this passage as "the automated engine is better than manual calculation" would lose its actual, conditional argument.
+
+Next: Lesson 66 — Advanced Reading of Uncertainty, Probability, Risk &
+Forecasting: how to preserve an author's exact level of uncertainty
+instead of silently upgrading a possibility into a prediction, or a
+prediction into a fact.
