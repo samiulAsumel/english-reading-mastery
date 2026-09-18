@@ -715,3 +715,8 @@ digitization.
 14. Identify the competing explanation the passage considers, and explain why it was rejected.
 15. Identify the passage's synthesis sentence, and state the final, refined position it reaches.
 16. Explain why summarising this passage as "digitizing customs paperwork failed to reduce clearance times" would misrepresent the author's actual, more precise conclusion.
+
+Next: Lesson 72 — Advanced Reading of Argument Structure: Premises,
+Evidence, Inference & Conclusion: how to take a single argument apart
+into its working parts and catch the gap where a conclusion claims more
+than its evidence actually supports.
