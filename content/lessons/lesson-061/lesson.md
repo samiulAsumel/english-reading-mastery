@@ -702,3 +702,8 @@ capacity.
 14. Identify the passage's classification criterion, and explain whether the resulting categories are mutually exclusive.
 15. Locate every hedge word or qualifying phrase in the passage, and explain what each one prevents the reader from over-concluding.
 16. Explain why summarising this passage as "high utilisation means the terminal is running well" would lose its actual, qualified argument.
+
+Next: Lesson 62 — Advanced Reading of Time, Sequence, Change &
+Historical Development: how to read a passage that moves through time,
+separating what merely came after something from what was actually
+caused by it.
