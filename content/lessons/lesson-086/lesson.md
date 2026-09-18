@@ -519,3 +519,7 @@ traffic-signal systems.
 14. State the "so what?" chain this passage invites, from initial benefit to final refined position.
 15. Identify every hedge or condition in the passage's final sentence, and explain what would be lost if any one were dropped.
 16. Explain why summarising this passage as "smart traffic signals reduce congestion" would fail as a synthesis, even though it isn't technically false.
+
+Next: Lesson 87 — Advanced Reading: Distinguishing Main Ideas from
+Supporting Details: a removal test, a four-level information hierarchy,
+and a technique for sorting what to remember from what to let go.
