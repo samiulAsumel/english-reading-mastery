@@ -778,3 +778,8 @@ and yard storage capacity.
 14. Identify the passage's risk and its proposed mitigation, and explain the limitation placed on that mitigation.
 15. Identify the sentence that leaves a question explicitly unresolved, and explain why the author chose not to answer it.
 16. Explain why summarising this passage as "the terminal will run out of storage space" would overstate what the author actually claimed.
+
+Next: Lesson 67 — Advanced Reading of Definitions, Rules, Exceptions &
+"If and Only If": how to read conditional language by its logical
+direction, telling "if," "only if," and "if and only if" apart with
+precision.
