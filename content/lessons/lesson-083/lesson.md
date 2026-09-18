@@ -547,3 +547,8 @@ learning software.
 14. Identify the evidence effect of the chapter 5 finding, and explain why it is not the same as outright contradicting chapter 1.
 15. Identify the counterargument introduced in chapter 7, and explain how chapter 9 responds to it.
 16. Explain why chapter 1 and chapter 11 represent refinement rather than genuine contradiction, applying this lesson's specific test.
+
+Next: Lesson 84 — Advanced Reading: Argument Evaluation at Book Level:
+not what does the author argue, but has the author actually earned the
+conclusion — a claim-calibration scale, a strawman check, and the
+principle of charity.
