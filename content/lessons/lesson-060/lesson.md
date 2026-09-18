@@ -387,3 +387,8 @@ inventory systems.
 10. Identify whether the passage describes mediation or moderation, and justify your answer.
 11. Using the model-reading algorithm from this lesson, list the model's elements, direction, and stated condition.
 12. Explain why summarizing this passage as "centralized systems are more consistent" would lose its actual, qualified argument.
+
+Next: Lesson 61 — Advanced Reading of Definitions, Distinctions,
+Categories & Conceptual Boundaries: how to read the precise boundary an
+author draws around a single concept, and between two concepts that
+sound alike.
