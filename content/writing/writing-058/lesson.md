@@ -58,13 +58,13 @@ step. If a trigger and a root cause are both relevant, name both separately.
 
 ## Vocabulary in Context
 
-::: vocabulary word="mechanism" pos="noun" meaning="the intermediate process through which a cause actually produces its effect — কার্যপ্রণালী" example="The mechanism behind the cost reduction was fewer manual re-entries, not automation in the abstract."
+::: vocabulary word="mechanism" pos="noun" register="technical" meaning="the intermediate process through which a cause actually produces its effect (কার্যপ্রণালী)" collocation="causal mechanism, underlying mechanism, mechanism by which" example="The mechanism is simple: tired staff skip checks, and errors follow."
 :::
 
-::: vocabulary word="via" pos="preposition" meaning="through, or by means of, a specific stated pathway — মাধ্যমে" example="The alert reaches the on-call engineer via an automated paging system."
+::: vocabulary word="via" pos="preposition" register="formal" meaning="through, or by means of, a specific stated pathway (মাধ্যমে)" collocation="via, sent via, delivered via" example="The data reach the control room via a secure link."
 :::
 
-::: vocabulary word="root cause" pos="noun phrase" meaning="the deeper, underlying condition responsible for a problem, distinct from its immediate trigger — মূল কারণ" example="The trigger was a failed login; the root cause was an expired security certificate nobody had renewed."
+::: vocabulary word="root cause" pos="noun phrase" register="technical" meaning="the deeper, underlying condition responsible for a problem, distinct from its immediate trigger (মূল কারণ)" collocation="root cause analysis, identify the root cause, underlying root cause" example="Root cause analysis traced the failure to an untrained operator."
 :::
 
 ## Model Answer

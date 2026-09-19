@@ -60,10 +60,10 @@ without conceding anything.
 
 ## Vocabulary in Context
 
-::: vocabulary word="concession" pos="noun" meaning="a point you admit is true even though it doesn't change your main position — স্বীকৃতি" example="The concession that the software is slow to learn didn't change the writer's recommendation."
+::: vocabulary word="concession" pos="noun" register="formal" meaning="a point you admit is true even though it doesn't change your main position (স্বীকৃতি)" collocation="make a concession, partial concession, concession before the main claim" example="The proposal makes one concession, that costs will rise, before arguing the case."
 :::
 
-::: vocabulary word="trade-off" pos="noun" meaning="a situation where gaining one benefit means giving up another — বিনিময়/ছাড়" example="Choosing the cheaper option meant accepting a trade-off in build quality."
+::: vocabulary word="trade-off" pos="noun" register="neutral" meaning="a situation where gaining one benefit means giving up another (বিনিময়/ছাড়)" collocation="trade-off between, difficult trade-off, accept a trade-off" example="Faster loading involves a trade-off with safety checks."
 :::
 
 ## Model Answer

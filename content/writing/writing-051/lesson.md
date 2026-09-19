@@ -63,10 +63,10 @@ genuinely follows from the chain rather than a new, unconnected point.
 
 ## Vocabulary in Context
 
-::: vocabulary word="consequently" pos="adverb" meaning="as a result of something just mentioned — ফলস্বরূপ" example="The port lacked storage space; consequently, three vessels were delayed at anchor."
+::: vocabulary word="consequently" pos="adverb" register="formal" meaning="as a result of something just mentioned (ফলস্বরূপ)" collocation="consequently, consequently the, and consequently" example="The pilot was delayed; consequently, the launch moved to March."
 :::
 
-::: vocabulary word="in turn" pos="phrase" meaning="as a direct result, continuing a chain of cause and effect — ফলে" example="The delay raised storage costs, which in turn reduced the shipper's profit margin."
+::: vocabulary word="in turn" pos="phrase" register="formal" meaning="as a direct result, continuing a chain of cause and effect (ফলে)" collocation="in turn, which in turn, and in turn" example="Delays raise costs, which in turn raise prices."
 :::
 
 ## Model Answer

@@ -436,28 +436,28 @@ which pieces are present, and which are quietly absent.
 
 ## Vocabulary in Context
 
-::: vocabulary word="mechanism" pos="noun" meaning="the specific process by which a cause produces its effect, explaining how rather than just that it does (প্রক্রিয়া/কার্যপ্রণালী)" example="The paragraph names a mechanism — faster conflict detection from real-time data — rather than simply asserting that automation helps."
+::: vocabulary word="mechanism" pos="noun" register="technical" meaning="the specific process by which a cause produces its effect, explaining how rather than just that it does (প্রক্রিয়া/কার্যপ্রণালী)" collocation="causal mechanism, underlying mechanism, mechanism by which" example="The paper proposes a mechanism by which understaffing raises error rates: tired staff skip checks."
 :::
 
-::: vocabulary word="illustration" pos="noun" meaning="a single concrete example used to make an idea vivid, weaker on its own than systematic evidence (দৃষ্টান্ত)" example="A single delayed shipment is an illustration, not evidence, that data quality affects scheduling."
+::: vocabulary word="illustration" pos="noun" register="formal" meaning="a single concrete example used to make an idea vivid, weaker on its own than systematic evidence (দৃষ্টান্ত)" collocation="a vivid illustration, illustration of, serve as an illustration" example="The delayed reefer shipment serves as an illustration of what poor coordination costs."
 :::
 
-::: vocabulary word="counterargument" pos="noun" meaning="an opposing position the author raises in order to respond to it, rather than the author's own limitation (প্রতিতর্ক)" example="The paragraph raises a counterargument — that automation removes the need for oversight — before rebutting it with evidence."
+::: vocabulary word="counterargument" pos="noun" register="formal" meaning="an opposing position the author raises in order to respond to it, rather than the author's own limitation (প্রতিতর্ক)" collocation="raise a counterargument, anticipate a counterargument, strong counterargument" example="The author raises a counterargument about cost and then answers it with a lifecycle comparison."
 :::
 
-::: vocabulary word="concession" pos="noun" meaning="an admission of a genuine limitation in the author's own claim, without abandoning the claim itself (স্বীকারোক্তি)" example="The author's concession — new monitoring requirements — does not cancel the stated benefit of faster processing."
+::: vocabulary word="concession" pos="noun" register="formal" meaning="an admission of a genuine limitation in the author's own claim, without abandoning the claim itself (স্বীকারোক্তি)" collocation="make a concession, partial concession, concession to" example="The report makes a concession that the pilot covered only one terminal, but argues the pattern is likely wider."
 :::
 
-::: vocabulary word="qualification" pos="noun" meaning="a statement narrowing or limiting how broadly a claim should be understood (শর্তারোপ)" example="The paragraph's qualification prevents the reader from crediting automation as the sole cause of the improvement."
+::: vocabulary word="qualification" pos="noun" register="formal" meaning="a statement narrowing or limiting how broadly a claim should be understood (শর্তারোপ)" collocation="important qualification, add a qualification, qualify a claim" example="A short qualification at the end limits the claim to ports handling more than a million containers a year."
 :::
 
-::: vocabulary word="implication" pos="noun" meaning="a further consequence or practical lesson the paragraph points toward, beyond its literal claim (উপসংহারমূলক তাৎপর্য)" example="The paragraph's implication is that organizations should invest in training, not only in new software."
+::: vocabulary word="implication" pos="noun" register="formal" meaning="a further consequence or practical lesson the paragraph points toward, beyond its literal claim (উপসংহারমূলক তাৎপর্য)" collocation="practical implication, have implications, implication for" example="The main implication for managers is that shift handovers need clearer written instructions."
 :::
 
-::: vocabulary word="attributed to" pos="phrase" meaning="credited as the cause of an outcome, often with an implied question of how much credit is actually warranted (আরোপিত)" example="The benefits should not be attributed entirely to automation, given other simultaneous changes."
+::: vocabulary word="attributed to" pos="phrase" register="formal" meaning="credited as the cause of an outcome, often with an implied question of how much credit is actually warranted (আরোপিত)" collocation="be attributed to, partly attributed to, largely attributed to" example="The recovery was attributed to the new schedule, although seasonal demand may also have helped."
 :::
 
-::: vocabulary word="carry implications" pos="phrase" meaning="to have further consequences or significance beyond the literal statement made (তাৎপর্য বহন করা)" example="These findings carry implications for how organizations design their training programs."
+::: vocabulary word="carry implications" pos="phrase" register="formal" meaning="to have further consequences or significance beyond the literal statement made (তাৎপর্য বহন করা)" collocation="carry serious implications, carry implications for, carry wider implications" example="The ruling carries implications for every carrier that uses the same standard contract."
 :::
 
 ## Guided Reading Practice

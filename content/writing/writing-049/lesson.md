@@ -59,10 +59,10 @@ sentences, each giving a distinct supporting reason.
 
 ## Vocabulary in Context
 
-::: vocabulary word="thesis" pos="noun" meaning="the main position or argument a piece of writing defends — মূল বক্তব্য" example="State your thesis in one clear sentence before giving your reasons."
+::: vocabulary word="thesis" pos="noun" register="formal" meaning="the main position or argument a piece of writing defends (মূল বক্তব্য)" collocation="central thesis, defend a thesis, state a thesis" example="The essay's thesis is that reliability matters more than price."
 :::
 
-::: vocabulary word="distinct" pos="adjective" meaning="clearly different from something else, not overlapping — স্বতন্ত্র" example="Each supporting point should be distinct, not a repeat of the last one."
+::: vocabulary word="distinct" pos="adjective" register="formal" meaning="clearly different from something else, not overlapping (স্বতন্ত্র)" collocation="distinct from, clearly distinct, two distinct categories" example="Safety and security are distinct concepts."
 :::
 
 ## Model Answer

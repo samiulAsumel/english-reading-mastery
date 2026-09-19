@@ -69,10 +69,10 @@ every link is signposted; nothing is left for the listener to guess.
 
 ## Vocabulary in Context
 
-::: vocabulary word="signpost" pos="verb" meaning="to clearly mark a transition so a listener can follow it — স্পষ্টভাবে ইঙ্গিত দেওয়া" example="Signpost each link with 'because' or 'so' so the listener never gets lost."
+::: vocabulary word="signpost" pos="verb" register="technical" meaning="to clearly mark a transition so a listener can follow it (স্পষ্টভাবে ইঙ্গিত দেওয়া)" collocation="signpost the transition, signpost clearly, signpost such as" example="I signpost each step with 'first', 'as a result', and 'finally'."
 :::
 
-::: vocabulary word="thread" pos="noun" meaning="the connected line of reasoning running through what you're saying — যুক্তির ধারা" example="Don't lose the thread halfway through the chain."
+::: vocabulary word="thread" pos="noun" register="neutral" meaning="the connected line of reasoning running through what you're saying (যুক্তির ধারা)" collocation="follow the thread, lose the thread, thread of the argument" example="Repeat the key term so the listener never loses the thread."
 :::
 
 ## Self-Check

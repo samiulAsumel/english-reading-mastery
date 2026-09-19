@@ -342,28 +342,28 @@ gaps from Lesson 73 the moment they appear.
 
 ## Vocabulary in Context
 
-::: vocabulary word="burden of proof" pos="noun phrase" meaning="the responsibility of whoever makes a claim to supply adequate supporting evidence for it, scaling with how strong the claim is (প্রমাণের দায়ভার)" example="A claim of a specific 40% cost reduction carries a heavier burden of proof than a vague claim of 'improved efficiency.'"
+::: vocabulary word="burden of proof" pos="noun phrase" register="formal" meaning="the responsibility of whoever makes a claim to supply adequate supporting evidence for it, scaling with how strong the claim is (প্রমাণের দায়ভার)" collocation="bear the burden of proof, shift the burden of proof, burden of proof lies" example="The burden of proof lies with the company, which must show that the shipment was properly packed."
 :::
 
-::: vocabulary word="evidence sufficiency" pos="noun phrase" meaning="whether the amount and quality of evidence available is actually enough to support a specific conclusion (প্রমাণের পর্যাপ্ততা)" example="One employee's positive report has relevance but fails the test of evidence sufficiency for a company-wide claim."
+::: vocabulary word="evidence sufficiency" pos="noun phrase" register="formal" meaning="whether the amount and quality of evidence available is actually enough to support a specific conclusion (প্রমাণের পর্যাপ্ততা)" collocation="assess evidence sufficiency, evidence sufficiency for, question evidence sufficiency" example="The auditors questioned evidence sufficiency, since only three invoices were sampled."
 :::
 
-::: vocabulary word="triangulation" pos="noun" meaning="examining the same claim through several independent kinds of evidence, which strengthens confidence when they converge (ত্রিভুজীকরণ)" example="Triangulation across system logs, audit records, and user reports gave the improvement claim far more credibility than any single source."
+::: vocabulary word="triangulation" pos="noun" register="technical" meaning="examining the same claim through several independent kinds of evidence, which strengthens confidence when they converge (ত্রিভুজীকরণ)" collocation="data triangulation, use triangulation, triangulation of evidence" example="Triangulation strengthened the finding: gate logs, driver interviews, and invoices all pointed to the same delay."
 :::
 
-::: vocabulary word="representativeness" pos="noun" meaning="the degree to which a sample reflects the characteristics of the broader population it is meant to stand in for (প্রতিনিধিত্বশীলতা)" example="Testing in three large terminals raises a real question about representativeness before generalising to small terminals."
+::: vocabulary word="representativeness" pos="noun" register="technical" meaning="the degree to which a sample reflects the characteristics of the broader population it is meant to stand in for (প্রতিনিধিত্বশীলতা)" collocation="question representativeness, representativeness of the sample, ensure representativeness" example="The representativeness of the survey was questionable because only day-shift staff replied."
 :::
 
-::: vocabulary word="calibration" pos="noun" meaning="how well the strength of a stated conclusion matches the actual strength of the evidence behind it (সমন্বয়/ক্রমাঙ্কন)" example="Concluding 'the system may help' from a small pilot shows good calibration; concluding 'the system always works' would not."
+::: vocabulary word="calibration" pos="noun" register="technical" meaning="how well the strength of a stated conclusion matches the actual strength of the evidence behind it (সমন্বয়/ক্রমাঙ্কন)" collocation="calibration of confidence, poor calibration, careful calibration" example="Good calibration means the report says 'may' when evidence is weak and 'shows' when it is strong."
 :::
 
-::: vocabulary word="evidence weight" pos="noun phrase" meaning="how much confidence a particular kind or source of evidence deserves, ranging roughly from anecdote to replicated, converging findings (প্রমাণের ওজন)" example="A single anecdote carries far less evidence weight than a replicated, controlled experiment."
+::: vocabulary word="evidence weight" pos="noun phrase" register="technical" meaning="how much confidence a particular kind or source of evidence deserves, ranging roughly from anecdote to replicated, converging findings (প্রমাণের ওজন)" collocation="give more evidence weight, evidence weight of, assess evidence weight" example="A replicated trial carries more evidence weight than a single anecdote."
 :::
 
-::: vocabulary word="evidence boundary" pos="noun phrase" meaning="the exact limits — population, time period, measured variable — within which a piece of evidence actually applies (প্রমাণের সীমা)" example="The pilot's evidence boundary was four terminals over six months; claims about all terminals over five years sit outside it."
+::: vocabulary word="evidence boundary" pos="noun phrase" register="course term" meaning="the exact limits — population, time period, measured variable — within which a piece of evidence actually applies (প্রমাণের সীমা)" collocation="define the evidence boundary, stay within the evidence boundary, evidence boundary of" example="The evidence boundary is limited to export cargo in 2023, so it says nothing about imports."
 :::
 
-::: vocabulary word="conflicting evidence" pos="noun phrase" meaning="evidence that points in a different or opposite direction from an argument's main supporting evidence (পরস্পরবিরোধী প্রমাণ)" example="The 28% speed gain looked purely positive until conflicting evidence showed a 35% rise in maintenance cost."
+::: vocabulary word="conflicting evidence" pos="noun phrase" register="formal" meaning="evidence that points in a different or opposite direction from an argument's main supporting evidence (পরস্পরবিরোধী প্রমাণ)" collocation="conflicting evidence, weigh conflicting evidence, face conflicting evidence" example="The panel faced conflicting evidence: gate logs showed delays, while driver surveys reported none."
 :::
 
 ## Guided Reading Practice

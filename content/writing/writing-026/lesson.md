@@ -64,10 +64,10 @@ let "some employees" quietly become "all employees" by your last sentence.
 
 ## Vocabulary in Context
 
-::: vocabulary word="rebuttal" pos="noun" meaning="a response that answers a counterargument without necessarily disproving it entirely — প্রতিউত্তর" example="The rebuttal didn't deny the cost was real, it just argued the benefit was bigger."
+::: vocabulary word="rebuttal" pos="noun" register="formal" meaning="a response that answers a counterargument without necessarily disproving it entirely (প্রতিউত্তর)" collocation="offer a rebuttal, strong rebuttal, rebuttal to" example="The letter offers a rebuttal of the claim that the delay was avoidable."
 :::
 
-::: vocabulary word="overgeneralize" pos="verb" meaning="to stretch a narrow piece of evidence into a much broader claim than it can support — অতি-সাধারণীকরণ করা" example="Don't overgeneralize from one satisfied customer to 'every customer loves this.'"
+::: vocabulary word="overgeneralize" pos="verb" register="formal" meaning="to stretch a narrow piece of evidence into a much broader claim than it can support (অতি-সাধারণীকরণ করা)" collocation="tend to overgeneralize, risk overgeneralizing, overgeneralize from" example="To say every supplier is late from one case is to overgeneralize."
 :::
 
 ## Model Answer

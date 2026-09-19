@@ -71,10 +71,10 @@ no long pause between them.
 
 ## Vocabulary in Context
 
-::: vocabulary word="boundary" pos="noun" meaning="the line marking where one concept ends and another begins — সীমারেখা" example="Find the boundary between 'delay' and 'downtime' before you try to explain either one."
+::: vocabulary word="boundary" pos="noun" register="formal" meaning="the line marking where one concept ends and another begins (সীমারেখা)" collocation="conceptual boundary, clear boundary, boundary between" example="The boundary between delay and cancellation is where the shipment never leaves."
 :::
 
-::: vocabulary word="overlap" pos="noun" meaning="the part two concepts share, rather than being fully separate — সহাবস্থান" example="There's some overlap between the two terms, but they aren't identical."
+::: vocabulary word="overlap" pos="noun" register="neutral" meaning="the part two concepts share, rather than being fully separate (সহাবস্থান)" collocation="overlap between, considerable overlap, partial overlap" example="There is some overlap between safety and security."
 :::
 
 ## Self-Check

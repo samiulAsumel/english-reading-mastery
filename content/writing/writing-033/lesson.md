@@ -67,10 +67,10 @@ the fallacy and explaining specifically how your wording avoided it.
 
 ## Vocabulary in Context
 
-::: vocabulary word="hasty generalization" pos="noun phrase" meaning="drawing a broad conclusion from too small or narrow a sample — তড়িঘড়ি সাধারণীকরণ" example="The writer avoided hasty generalization by qualifying the claim to 'one branch,' not 'every branch.'"
+::: vocabulary word="hasty generalization" pos="noun phrase" register="technical" meaning="drawing a broad conclusion from too small or narrow a sample (তড়িঘড়ি সাধারণীকরণ)" collocation="commit a hasty generalization, avoid a hasty generalization, example of hasty generalization" example="Judging a supplier from a single late delivery is a hasty generalization."
 :::
 
-::: vocabulary word="post hoc reasoning" pos="noun phrase" meaning="assuming that because one event followed another, the first must have caused the second — পরবর্তী-অতএব-কারণ যুক্তি" example="Naming the holiday backlog as an alternative explanation avoided post hoc reasoning."
+::: vocabulary word="post hoc reasoning" pos="noun phrase" register="technical" meaning="assuming that because one event followed another, the first must have caused the second (পরবর্তী-অতএব-কারণ যুক্তি)" collocation="avoid post hoc reasoning, fall into post hoc reasoning, example of post hoc reasoning" example="Crediting the new policy because accidents fell afterwards is post hoc reasoning."
 :::
 
 ## Model Answer

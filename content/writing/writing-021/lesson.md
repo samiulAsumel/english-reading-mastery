@@ -62,10 +62,10 @@ let your inference sentence claim more than the evidence supports.
 
 ## Vocabulary in Context
 
-::: vocabulary word="suggest" pos="verb" meaning="of evidence, to point toward a conclusion without proving it — ইঙ্গিত দেওয়া" example="The delay suggests the shipment was held for inspection, though the note doesn't confirm how long the hold lasted."
+::: vocabulary word="suggest" pos="verb" register="formal" meaning="of evidence, to point toward a conclusion without proving it (ইঙ্গিত দেওয়া)" collocation="suggest that, strongly suggest, evidence suggests" example="The logs suggest that the outage began after the update."
 :::
 
-::: vocabulary word="presumably" pos="adverb" meaning="probably true, based on reasonable expectation rather than direct proof — সম্ভবত" example="The warehouse was closed on the delivery date; presumably, the driver rescheduled for the next business day."
+::: vocabulary word="presumably" pos="adverb" register="formal" meaning="probably true, based on reasonable expectation rather than direct proof (সম্ভবত)" collocation="presumably because, presumably not, and presumably" example="The clerk was absent, presumably because of the strike."
 :::
 
 ## Model Answer

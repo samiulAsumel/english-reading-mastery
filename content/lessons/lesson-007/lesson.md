@@ -398,25 +398,25 @@ for · be interested in · be familiar with · relationship between ·
 effect on · reason for*
 :::
 
-::: vocabulary word="focus" pos="verb" meaning="to give most of your attention to one particular thing (মনোনিবেশ করা)" example="Researchers focus on behavior rather than on isolated events."
+::: vocabulary word="focus" pos="verb" register="neutral" meaning="to give most of your attention or effort to one particular thing (মনোনিবেশ করা)" collocation="focus on, sharply focus, main focus" example="The new strategy focuses on reducing vessel waiting time rather than expanding storage."
 :::
 
-::: vocabulary word="aware" pos="adjective" meaning="having knowledge of a fact or situation (সচেতন)" example="People who are aware of their own biases can make better decisions."
+::: vocabulary word="aware" pos="adjective" register="formal" meaning="knowing that something exists or is happening (সচেতন)" collocation="be aware of, fully aware, become aware" example="All contractors must be aware of the site's emergency assembly points before starting work."
 :::
 
-::: vocabulary word="familiar" pos="adjective" meaning="well known to you, or having good knowledge of something (পরিচিত)" example="The two theories are familiar to most researchers in this field."
+::: vocabulary word="familiar" pos="adjective" register="neutral" meaning="well known to you, or having good knowledge of something (পরিচিত)" collocation="be familiar with, become familiar, look familiar" example="Applicants should be familiar with terminal operating systems such as Navis or similar platforms."
 :::
 
-::: vocabulary word="responsible" pos="adjective" meaning="having a duty to deal with or take care of something (দায়িত্বশীল)" example="Leaders are responsible for the decisions their teams make."
+::: vocabulary word="responsible" pos="adjective" register="formal" meaning="having a duty to deal with something, or being the cause of it (দায়িত্বশীল)" collocation="be responsible for, held responsible, personally responsible" example="The shift supervisor is responsible for reporting any safety incident within one hour."
 :::
 
-::: vocabulary word="similar" pos="adjective" meaning="resembling something else without being identical (সদৃশ)" example="The two studies produced results that were similar to each other."
+::: vocabulary word="similar" pos="adjective" register="neutral" meaning="alike in some ways, but not identical (সদৃশ)" collocation="similar to, remarkably similar, similar results" example="Ports of a similar size often report very different levels of crane productivity."
 :::
 
-::: vocabulary word="reason" pos="noun" meaning="a cause or explanation for something (কারণ)" example="One reason for the disagreement was a lack of clear communication."
+::: vocabulary word="reason" pos="noun" register="neutral" meaning="a cause or explanation for something (কারণ)" collocation="reason for, main reason, good reason" example="The most common reason for rejected declarations is a mismatch between the invoice and the packing list."
 :::
 
-::: vocabulary word="effect" pos="noun" meaning="a change that results from something else (প্রভাব/ফলাফল)" example="The effect of stress on decision-making is well documented."
+::: vocabulary word="effect" pos="noun" register="formal" meaning="a change produced by something else (প্রভাব/ফলাফল)" collocation="effect on, adverse effect, side effect" example="The strike had a serious effect on export deliveries during the peak season."
 :::
 
 ## Guided Reading Practice

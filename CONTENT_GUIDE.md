@@ -131,7 +131,7 @@ context. The block types:
 | `::: note` | Reading-strategy callout | optional `title="..."` |
 | `::: golden` | Golden Rule callout | body rendered as one inline sentence, no paragraph wrapping |
 | `::: framework` | Vertical step diagram with arrows | body is a Markdown list (`- Step text`); each `- ` line becomes one box |
-| `::: vocabulary word="..." pos="..." meaning="..." example="..."` | Vocabulary card | self-closing (empty body between the `:::` lines is fine); attributes are plain strings, no Markdown inside them |
+| `::: vocabulary word="..." pos="..." register="..." meaning="..." collocation="..." example="..."` | Vocabulary card | self-closing (empty body between the `:::` lines is fine); attributes are plain strings, no Markdown inside them; `register` and `collocation` are optional but expected on every new card — see "Vocabulary card standard" below |
 | `::: prompt words="..." time="..." register="..."` | The task itself, as a callout with meta chips | used on writing/speaking tasks; each attr is a full phrase already ("5 sentences", "60-90 words", "8s") — don't add a unit again in the content, the chip renders the attribute verbatim |
 | `::: draft placeholder="..."` | A blank `<textarea>` for the learner to write in | self-closing; writing tasks only. `placeholder` must be a single line (attribute values can't span multiple lines) — use `/` to separate ideas within it if needed |
 | `::: model-answer label="..."` | Collapsible answer reveal (`<details>`) | same markup/CSS as the reading course's hand-written practice-question answers |
@@ -203,6 +203,23 @@ stylistic variation.
 - `objectives`: always exactly 5.
 - `tags`: 4-6 kebab-case tags; never reuse a skill slug as a tag.
 - `estimatedTime`: should track the file's actual length/density, not be picked arbitrarily.
+
+**Vocabulary card standard**
+
+Every card must read like an entry from a good learner's dictionary, not a
+classroom exercise:
+
+- `word` — a real, commonly used professional word or phrase. A term coined
+  by the course itself (e.g. "removal test") is allowed only if the lesson
+  body actually uses it, and then it carries `register="course term"`.
+- `pos` — part of speech.
+- `register` — `formal`, `neutral`, `technical`, or `course term`.
+- `meaning` — one line, plain words, no jargon. A Bangla gloss goes in
+  parentheses and only for the word itself, e.g. `(প্রশমিত করা)`.
+- `collocation` — two or three natural pairings, comma-separated.
+- `example` — one realistic sentence from a workplace, report, news, policy,
+  port/logistics or IT setting. Never a bare textbook sentence like
+  "I understand the problem."
 
 **Body, in this order**
 1. `## Introduction`

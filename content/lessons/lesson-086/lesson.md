@@ -386,28 +386,28 @@ is where synthesis actually happens.
 
 ## Vocabulary in Context
 
-::: vocabulary word="synthesis" pos="noun" meaning="a new, integrated understanding built by combining separate pieces of information while preserving their relationships, scope, and uncertainty (সংশ্লেষণ)" example="The chapter's synthesis combined four separate findings into one qualified, conditional claim."
+::: vocabulary word="synthesis" pos="noun" register="formal" meaning="a new, integrated understanding built by combining separate pieces of information while preserving their relationships, scope, and uncertainty (সংশ্লেষণ)" collocation="a synthesis of, produce a synthesis, careful synthesis" example="The final chapter offers a synthesis of the three case studies."
 :::
 
-::: vocabulary word="concept chain" pos="noun phrase" meaning="a sequence of ideas connected by explicit relationships — cause, contrast, condition, consequence — tracing how one idea leads to the next (ধারণার শৃঙ্খল)" example="The concept chain ran from automation, to reduced manual work, to new skill requirements, to a training need."
+::: vocabulary word="concept chain" pos="noun phrase" register="course term" meaning="a sequence of ideas connected by explicit relationships — cause, contrast, condition, consequence — tracing how one idea leads to the next (ধারণার শৃঙ্খল)" collocation="build a concept chain, trace a concept chain, concept chain from" example="The concept chain runs from late pilots to missed tides to berth clashes to costly delays."
 :::
 
-::: vocabulary word="information integration" pos="noun phrase" meaning="the act of combining information from multiple sentences, paragraphs, or chapters into one coherent understanding, rather than holding it as separate facts (তথ্য সংযোজন)" example="Information integration across five chapters revealed a single socio-technical argument, not five unrelated topics."
+::: vocabulary word="information integration" pos="noun phrase" register="formal" meaning="combining information from several sentences, paragraphs, or chapters into one coherent understanding (তথ্য সংযোজন)" collocation="information integration, integrate information, information integration across" example="Reading a report well demands information integration across all its sections, not just its summary."
 :::
 
-::: vocabulary word="direct conceptual processing" pos="noun phrase" meaning="building meaning straight from English concepts to their relationships, without an intermediate translation into another language (সরাসরি ধারণাগত প্রক্রিয়াকরণ)" example="Direct conceptual processing turned the sentence straight into 'capability + oversight → effectiveness,' with no translation step in between."
+::: vocabulary word="direct conceptual processing" pos="noun phrase" register="course term" meaning="building meaning straight from English concepts to their relationships, without an intermediate translation into another language (সরাসরি ধারণাগত প্রক্রিয়াকরণ)" collocation="practise direct conceptual processing, direct conceptual processing of English, rely on direct conceptual processing" example="Direct conceptual processing means understanding 'dwell time' as an idea, not translating it word by word."
 :::
 
-::: vocabulary word="meaning reconstruction" pos="noun phrase" meaning="rebuilding a passage's underlying argument structure in your own words, rather than copying or lightly rephrasing its sentences (অর্থ পুনর্গঠন)" example="The final synthesis was a genuine meaning reconstruction, not a rearranged copy of the original paragraph's sentences."
+::: vocabulary word="meaning reconstruction" pos="noun phrase" register="formal" meaning="rebuilding a passage's underlying argument structure in your own words, rather than copying or lightly rephrasing its sentences (অর্থ পুনর্গঠন)" collocation="meaning reconstruction, practise meaning reconstruction, meaning reconstruction of" example="After reading, do meaning reconstruction: state the argument in your own words without looking back."
 :::
 
-::: vocabulary word="multi-level tracking" pos="noun phrase" meaning="following a text's argument simultaneously at the sentence, paragraph, section, chapter, and book level, rather than one level at a time (বহুস্তরীয় অনুসরণ)" example="Multi-level tracking let her notice a sentence-level qualification and its book-level implication in the same reading pass."
+::: vocabulary word="multi-level tracking" pos="noun phrase" register="course term" meaning="following a text's argument simultaneously at the sentence, paragraph, section, chapter, and book level, rather than one level at a time (বহুস্তরীয় অনুসরণ)" collocation="multi-level tracking, practise multi-level tracking, multi-level tracking of" example="Multi-level tracking helps you follow a claim from one sentence to its role in the whole book."
 :::
 
-::: vocabulary word="synthesis matrix" pos="noun phrase" meaning="a note-taking structure recording a text's topic, claim, evidence, limitation, condition, and final position together, used to build synthesis while reading (সংশ্লেষণ ম্যাট্রিক্স)" example="Filling in the synthesis matrix chapter by chapter made the book's final, integrated argument obvious well before its conclusion."
+::: vocabulary word="synthesis matrix" pos="noun phrase" register="technical" meaning="a note-taking grid that records a text's topic, claim, evidence, limitation, and final position side by side (সংশ্লেষণ ম্যাট্রিক্স)" collocation="build a synthesis matrix, use a synthesis matrix, synthesis matrix of" example="A synthesis matrix records each source's claim, evidence, and limitation side by side."
 :::
 
-::: vocabulary word="synthesis chain" pos="noun phrase" meaning="an explicit sequence of idea → relationship → idea → relationship → refined understanding, used to build a combined meaning one link at a time (সংশ্লেষণ শৃঙ্খল)" example="Writing out the synthesis chain link by link showed exactly where the author's simple opening claim became a conditional one."
+::: vocabulary word="synthesis chain" pos="noun phrase" register="course term" meaning="an explicit sequence of idea → relationship → idea → relationship → refined understanding, used to build a combined meaning one link at a time (সংশ্লেষণ শৃঙ্খল)" collocation="build a synthesis chain, use a synthesis chain, synthesis chain of" example="Write a synthesis chain: idea, relationship, idea, relationship, refined understanding."
 :::
 
 ## Guided Reading Practice

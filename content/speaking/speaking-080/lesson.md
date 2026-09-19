@@ -72,10 +72,10 @@ under three sentences and didn't drift into a fourth, unplanned point.
 
 ## Vocabulary in Context
 
-::: vocabulary word="spine" pos="noun" meaning="the single underlying question or argument that structures a longer piece of writing or speech — মেরুদণ্ড/মূল কাঠামো" example="She found the talk's spine in ten seconds and compressed it on the spot."
+::: vocabulary word="spine" pos="noun" register="neutral" meaning="the single underlying question or argument that structures a longer piece of writing or speech (মেরুদণ্ড/মূল কাঠামো)" collocation="the spine of, spine of the argument, chapter spine" example="The spine of my explanation is: problem, failed fix, working solution."
 :::
 
-::: vocabulary word="off the cuff" pos="phrase" meaning="said without preparation or notes, spontaneously — পূর্ব প্রস্তুতি ছাড়া" example="He gave the compressed answer off the cuff, with no time to plan it first."
+::: vocabulary word="off the cuff" pos="phrase" register="neutral" meaning="said without preparation or notes, spontaneously (পূর্ব প্রস্তুতি ছাড়া)" collocation="off the cuff, speak off the cuff, off-the-cuff remark" example="She answered off the cuff, without notes."
 :::
 
 ## Self-Check

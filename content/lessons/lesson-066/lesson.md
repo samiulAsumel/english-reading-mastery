@@ -650,28 +650,28 @@ percentages.
 
 ## Vocabulary in Context
 
-::: vocabulary word="epistemic uncertainty" pos="noun phrase" meaning="uncertainty that exists because of missing or limited information, rather than because the world itself is unpredictable (জ্ঞানভিত্তিক অনিশ্চয়তা)" example="The long-term effects remain uncertain due to epistemic uncertainty — the available data cover only a short period."
+::: vocabulary word="epistemic uncertainty" pos="noun phrase" register="technical" meaning="uncertainty that exists because of missing or limited information, rather than because the world itself is unpredictable (জ্ঞানভিত্তিক অনিশ্চয়তা)" collocation="epistemic uncertainty, reduce epistemic uncertainty, source of epistemic uncertainty" example="The forecast carries epistemic uncertainty because only six months of data were available."
 :::
 
-::: vocabulary word="residual risk" pos="noun phrase" meaning="the risk that remains after mitigation measures have been applied (অবশিষ্ট ঝুঁকি)" example="Backups and failover systems reduced the risk of outages, but some residual risk of downtime remained."
+::: vocabulary word="residual risk" pos="noun phrase" register="technical" meaning="the risk that remains after mitigation measures have been applied (অবশিষ্ট ঝুঁকি)" collocation="residual risk, accept the residual risk, low residual risk" example="After installing fire barriers, the residual risk of a warehouse fire was rated as low."
 :::
 
-::: vocabulary word="hedge stacking" pos="noun phrase" meaning="the layering of several qualifying words in a single sentence, each narrowing the claim's certainty or scope further (একাধিক শর্তসংকেতের স্তরায়ন)" example="'May potentially contribute to a modest reduction' shows hedge stacking: three separate qualifiers narrowing one claim."
+::: vocabulary word="hedge stacking" pos="noun phrase" register="course term" meaning="the layering of several qualifying words in a single sentence, each narrowing the claim's certainty or scope further (একাধিক শর্তসংকেতের স্তরায়ন)" collocation="avoid hedge stacking, a case of hedge stacking, hedge stacking in" example="'It may possibly be the case that costs could rise' is hedge stacking: four qualifiers weaken one claim."
 :::
 
-::: vocabulary word="conditional forecast" pos="noun phrase" meaning="a prediction about the future that only holds if a stated condition or assumption is met (শর্তসাপেক্ষ পূর্বাভাস)" example="'If current trends continue, demand could double' is a conditional forecast, not an unconditional prediction."
+::: vocabulary word="conditional forecast" pos="noun phrase" register="technical" meaning="a prediction about the future that only holds if a stated condition or assumption is met (শর্তসাপেক্ষ পূর্বাভাস)" collocation="give a conditional forecast, conditional forecast of, conditional forecast based on" example="The report gives a conditional forecast: volumes will grow four percent if the canal stays open."
 :::
 
-::: vocabulary word="vulnerability" pos="noun" meaning="a susceptibility to harm or negative impact from a particular risk, distinct from a claim that the harm has occurred (ঝুঁকিপ্রবণতা)" example="Small organizations' vulnerability to sudden cost increases means the same shock would affect them more severely."
+::: vocabulary word="vulnerability" pos="noun" register="formal" meaning="a susceptibility to harm or negative impact from a particular risk, distinct from a claim that the harm has occurred (ঝুঁকিপ্রবণতা)" collocation="vulnerability to, security vulnerability, expose a vulnerability" example="The audit exposed a vulnerability in the port's payment system."
 :::
 
-::: vocabulary word="risk matrix" pos="noun phrase" meaning="an informal grid for sorting risks by combining their probability and their impact (ঝুঁকি ম্যাট্রিক্স)" example="On the risk matrix, a rare but catastrophic event and a common but minor one can land in the same 'medium' cell."
+::: vocabulary word="risk matrix" pos="noun phrase" register="technical" meaning="an informal grid for sorting risks by combining their probability and their impact (ঝুঁকি ম্যাট্রিক্স)" collocation="build a risk matrix, use a risk matrix, position on the risk matrix" example="On the risk matrix, a fuel spill is rated unlikely but severe."
 :::
 
-::: vocabulary word="worst-case scenario" pos="noun phrase" meaning="the least favourable plausible outcome under adverse assumptions, one end of a forecast's stated range (সবচেয়ে খারাপ সম্ভাব্য পরিস্থিতি)" example="In the worst-case scenario, delays could extend the project timeline to more than a year."
+::: vocabulary word="worst-case scenario" pos="noun phrase" register="neutral" meaning="the least favourable plausible outcome under adverse assumptions, one end of a forecast's stated range (সবচেয়ে খারাপ সম্ভাব্য পরিস্থিতি)" collocation="in a worst-case scenario, plan for the worst-case scenario, worst-case scenario of" example="In the worst-case scenario, the terminal would lose two weeks of throughput."
 :::
 
-::: vocabulary word="forecast" pos="noun / verb" meaning="a future expectation built specifically on data, models, or trends, as distinct from a plain prediction or an estimate of a present quantity (পূর্বাভাস)" example="Demand is forecast to increase over the next five years, based on current growth trends."
+::: vocabulary word="forecast" pos="noun / verb" register="formal" meaning="a future expectation built specifically on data, models, or trends, as distinct from a plain prediction or an estimate of a present quantity (পূর্বাভাস)" collocation="economic forecast, revise the forecast, forecast for" example="The forecast for the coming year predicts flat container volumes."
 :::
 
 ## Guided Reading Practice

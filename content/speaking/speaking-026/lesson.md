@@ -71,10 +71,10 @@ before the rebuttal.
 
 ## Vocabulary in Context
 
-::: vocabulary word="counterargument" pos="noun" meaning="the opposing view you raise against your own claim before answering it — প্রতিতর্ক" example="A strong spoken argument voices the counterargument itself instead of waiting to be challenged."
+::: vocabulary word="counterargument" pos="noun" register="formal" meaning="the opposing view you raise against your own claim before answering it (প্রতিতর্ক)" collocation="raise a counterargument, answer a counterargument, strong counterargument" example="Someone will say it is too costly; my answer to that counterargument is the long-term saving."
 :::
 
-::: vocabulary word="pivot" pos="noun" meaning="the turning point in speech where you move from one side of an argument to your response — মোড়" example="'However' is the pivot where the speaker moves from the objection to the answer."
+::: vocabulary word="pivot" pos="noun" register="neutral" meaning="the turning point in speech where you move from one side of an argument to your response (মোড়)" collocation="pivot to, the pivot in, pivot from" example="The pivot word 'however' tells the listener my real point is coming."
 :::
 
 ## Self-Check

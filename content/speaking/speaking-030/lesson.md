@@ -69,10 +69,10 @@ interpretation.
 
 ## Vocabulary in Context
 
-::: vocabulary word="consistent with" pos="phrase" meaning="a cautious spoken phrase for saying evidence fits an interpretation without overclaiming it proves it — সামঞ্জস্যপূর্ণ" example="Saying 'consistent with' instead of 'proves' kept the spoken claim honest."
+::: vocabulary word="consistent with" pos="phrase" register="formal" meaning="a cautious spoken phrase for saying evidence fits an interpretation without overclaiming it proves it (সামঞ্জস্যপূর্ণ)" collocation="be consistent with, entirely consistent with, consistent with the data" example="The pattern is consistent with a software fault, but I would not say it proves one."
 :::
 
-::: vocabulary word="scope" pos="noun" meaning="who or what a spoken claim actually covers, stated out loud rather than left vague — পরিধি" example="Naming 'this one terminal' out loud kept the claim's scope honest."
+::: vocabulary word="scope" pos="noun" register="formal" meaning="who or what a spoken claim actually covers, stated out loud rather than left vague (পরিধি)" collocation="scope of, limited scope, beyond the scope" example="To be clear, my claim covers export cargo only, not imports."
 :::
 
 ## Self-Check

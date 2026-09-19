@@ -66,10 +66,10 @@ between them.
 
 ## Vocabulary in Context
 
-::: vocabulary word="modal" pos="noun" meaning="a helping verb such as can, should, or must that adds possibility, necessity, or advice — মোডাল ক্রিয়া" example="Should is a modal showing advice, not certainty."
+::: vocabulary word="modal" pos="noun" register="technical" meaning="a helping verb such as can, should, or must that adds possibility, necessity, or advice (মোডাল ক্রিয়া)" collocation="modal verb, use a modal, modal of possibility" example="'Should' is a modal that turns an order into advice."
 :::
 
-::: vocabulary word="fluent" pos="adjective" meaning="speaking smoothly and easily, without unnatural pauses — সাবলীল" example="Saying 'has finished' with no gap is what makes it sound fluent."
+::: vocabulary word="fluent" pos="adjective" register="formal" meaning="speaking smoothly and easily, without unnatural pauses (সাবলীল)" collocation="fluent speaker, become fluent, fluent in" example="Applicants must be fluent in English and able to brief a crew."
 :::
 
 ## Self-Check

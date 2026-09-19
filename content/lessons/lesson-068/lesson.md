@@ -455,28 +455,28 @@ change the outcome.
 
 ## Vocabulary in Context
 
-::: vocabulary word="edge case" pos="noun phrase" meaning="an unusual situation in which a general rule does not straightforwardly apply, often signalled by 'normally… however…' (প্রান্তিক পরিস্থিতি)" example="Exempt-goods transactions are an edge case: the normal automatic VAT calculation doesn't apply to them."
+::: vocabulary word="edge case" pos="noun phrase" register="technical" meaning="an unusual situation in which a general rule does not straightforwardly apply, often signalled by 'normally… however…' (প্রান্তিক পরিস্থিতি)" collocation="handle an edge case, rare edge case, edge case scenario" example="The rule normally holds; however, an oversize container is an edge case that needs separate approval."
 :::
 
-::: vocabulary word="fallback path" pos="noun phrase" meaning="the alternative route a process follows when its main condition or method fails, often introduced by 'otherwise' or 'failing that' (বিকল্প পথ)" example="If the primary server doesn't respond, the fallback path redirects traffic to the backup server."
+::: vocabulary word="fallback path" pos="noun phrase" register="technical" meaning="the alternative route a process follows when its main condition or method fails, often introduced by 'otherwise' or 'failing that' (বিকল্প পথ)" collocation="a fallback path, follow the fallback path, define a fallback path" example="If online payment fails, the fallback path is a bank transfer confirmed by email."
 :::
 
-::: vocabulary word="precautionary condition" pos="noun phrase" meaning="a preparation made against a possible future event, as signalled by 'in case,' distinct from a condition that directly triggers an outcome (সতর্কতামূলক শর্ত)" example="The team saved a backup as a precautionary condition, in case the migration failed — not because failure was expected."
+::: vocabulary word="precautionary condition" pos="noun phrase" register="formal" meaning="a preparation made against a possible future event, as signalled by 'in case,' distinct from a condition that directly triggers an outcome (সতর্কতামূলক শর্ত)" collocation="a precautionary condition, add a precautionary condition, precautionary condition for" example="'Bring a spare key in case the lock jams' states a precautionary condition, not a direct trigger."
 :::
 
-::: vocabulary word="parallel alternative" pos="noun phrase" meaning="a second, equally valid option offered alongside the first, as signalled by 'alternatively,' distinct from an exception that overrides a rule (সমান্তরাল বিকল্প)" example="Card payment is standard; bank transfer is a parallel alternative, not a fallback for failed cards."
+::: vocabulary word="parallel alternative" pos="noun phrase" register="course term" meaning="a second, equally valid option offered alongside the first, as signalled by 'alternatively,' distinct from an exception that overrides a rule (সমান্তরাল বিকল্প)" collocation="offer a parallel alternative, a parallel alternative to, valid parallel alternative" example="'Alternatively, pay by card' offers a parallel alternative, not an exception to the cheque rule."
 :::
 
-::: vocabulary word="failure path" pos="noun phrase" meaning="what a process does specifically when its normal condition is not satisfied (ব্যর্থতার পথ)" example="Incomplete cargo information triggers the failure path: the request is held rather than processed automatically."
+::: vocabulary word="failure path" pos="noun phrase" register="technical" meaning="what a process does specifically when its normal condition is not satisfied (ব্যর্থতার পথ)" collocation="define the failure path, follow the failure path, failure path of" example="The failure path for a rejected declaration sends the file back to the clerk for correction."
 :::
 
-::: vocabulary word="exception condition" pos="noun phrase" meaning="the specific trigger that activates an exception to a stated rule, as opposed to the exception itself (ব্যতিক্রমের শর্ত)" example="'Except when additional verification is required' names both the exception and its exception condition in one phrase."
+::: vocabulary word="exception condition" pos="noun phrase" register="technical" meaning="the specific trigger that activates an exception to a stated rule, as opposed to the exception itself (ব্যতিক্রমের শর্ত)" collocation="the exception condition, define the exception condition, exception condition for" example="The exception condition is a written waiver from the harbour master."
 :::
 
-::: vocabulary word="limitation" pos="noun" meaning="a genuine constraint on what a rule, system, or capability can actually achieve, as distinct from a case excluded from a rule (সীমাবদ্ধতা)" example="The system's ability to process large datasets carries a real limitation: performance declines when memory is constrained."
+::: vocabulary word="limitation" pos="noun" register="formal" meaning="a genuine constraint on what a rule, system, or capability can actually achieve, as distinct from a case excluded from a rule (সীমাবদ্ধতা)" collocation="a limitation of, major limitation, acknowledge a limitation" example="A key limitation of the study is that it covered only one port."
 :::
 
-::: vocabulary word="double negative conditional" pos="noun phrase" meaning="a conditional sentence built from two negatives, such as 'will not… unless,' that must be untangled before its logical direction becomes clear (দ্বি-নেতিবাচক শর্তবাক্য)" example="'The system will not start unless all required services are running' is a double negative conditional meaning: starting requires all services running."
+::: vocabulary word="double negative conditional" pos="noun phrase" register="course term" meaning="a conditional sentence built from two negatives, such as 'will not… unless,' that must be untangled before its logical direction becomes clear (দ্বি-নেতিবাচক শর্তবাক্য)" collocation="untangle a double negative conditional, a double negative conditional, read a double negative conditional" example="'You will not be paid unless the form is signed' is a double negative conditional: it means the form must be signed."
 :::
 
 ## Guided Reading Practice

@@ -79,7 +79,7 @@ A concrete example that makes the concept click. Realistic domains
 
 ## Vocabulary in Context
 
-::: vocabulary word="mitigate" pos="verb" meaning="to reduce the severity or impact of something" example="The new policy is designed to mitigate risk."
+::: vocabulary word="mitigate" pos="verb" register="formal" meaning="to reduce how severe or harmful something is (প্রশমিত করা)" collocation="mitigate risk, mitigate the impact, mitigate against" example="The port authority added a second gate lane to mitigate congestion during the monsoon peak."
 :::
 
 Aim for 6-10 vocabulary cards per lesson. Reusing an earlier lesson's word

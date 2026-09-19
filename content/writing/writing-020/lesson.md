@@ -62,13 +62,13 @@ Sentence 4: a conclusion, signposted with "therefore" or "as a result."
 
 ## Vocabulary in Context
 
-::: vocabulary word="label" pos="noun" meaning="a piece of information attached to an item, identifying it — লেবেল" example="Clear labeling reduces errors in a warehouse."
+::: vocabulary word="label" pos="noun" register="neutral" meaning="a piece of information attached to an item, identifying it (লেবেল)" collocation="attach a label, shipping label, label clearly" example="Every crate carries a label showing its weight and destination."
 :::
 
-::: vocabulary word="payoff" pos="noun" meaning="a useful or beneficial result gained from an effort — লাভ/ফলাফল" example="Clear labeling is a small change with a real, measurable payoff."
+::: vocabulary word="payoff" pos="noun" register="neutral" meaning="a useful or beneficial result gained from an effort (লাভ/ফলাফল)" collocation="a big payoff, payoff from, long-term payoff" example="The payoff from the training was a thirty percent drop in errors."
 :::
 
-::: vocabulary word="distribution" pos="noun" meaning="the process of delivering goods to where they're needed — বিতরণ" example="Color-coded labels reduced picking mistakes at one distribution center."
+::: vocabulary word="distribution" pos="noun" register="formal" meaning="the process of delivering goods to where they're needed (বিতরণ)" collocation="distribution centre, distribution network, distribution of goods" example="The company's distribution network covers twelve regional warehouses."
 :::
 
 ## Model Answer

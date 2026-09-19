@@ -69,10 +69,10 @@ named one specific word, not just a general claim.
 
 ## Vocabulary in Context
 
-::: vocabulary word="pivot" pos="noun" meaning="the spoken turning point, often on 'however' or 'but,' where the speaker moves from concession to their real point — মোড়" example="The pause before the pivot signaled the stronger point was coming."
+::: vocabulary word="pivot" pos="noun" register="neutral" meaning="the spoken turning point, often on 'however' or 'but,' where the speaker moves from concession to their real point (মোড়)" collocation="pivot from, the pivot in the sentence, clear pivot" example="The pivot in 'The cost is high, but the savings are larger' is 'but'."
 :::
 
-::: vocabulary word="loaded language" pos="noun phrase" meaning="word choice that carries an evaluative charge beyond the plain fact, chosen deliberately to serve a purpose — পক্ষপাতদুষ্ট ভাষা" example="Naming one loaded word out loud showed the purpose behind the speaker's phrasing."
+::: vocabulary word="loaded language" pos="noun phrase" register="neutral" meaning="word choice that carries an evaluative charge beyond the plain fact, chosen deliberately to serve a purpose (পক্ষপাতদুষ্ট ভাষা)" collocation="avoid loaded language, loaded language such as, use loaded language" example="Saying 'the reckless plan' is loaded language; 'the unapproved plan' is neutral."
 :::
 
 ## Self-Check

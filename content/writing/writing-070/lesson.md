@@ -57,10 +57,10 @@ somewhere other than the paragraph's first sentence.
 
 ## Vocabulary in Context
 
-::: vocabulary word="parallel" pos="adjective" meaning="matching in grammatical structure on both sides of a comparison — সমান্তরাল" example="'Not only fast but also reliable' is parallel; 'not only fast but also it is reliable' is not."
+::: vocabulary word="parallel" pos="adjective" register="technical" meaning="matching in grammatical structure on both sides of a comparison (সমান্তরাল)" collocation="parallel structure, parallel form, in parallel" example="'Faster, cheaper, and safer' keeps the list parallel."
 :::
 
-::: vocabulary word="spotlight" pos="verb" meaning="to deliberately draw attention to one specific element — আলোকপাত করা" example="The cleft sentence spotlights the cause, not the outcome."
+::: vocabulary word="spotlight" pos="verb" register="neutral" meaning="to deliberately draw attention to one specific element (আলোকপাত করা)" collocation="spotlight the issue, put a spotlight on, spotlight a point" example="The report spotlights safety by placing it in the first sentence."
 :::
 
 ## Model Answer

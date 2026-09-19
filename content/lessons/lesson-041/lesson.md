@@ -343,31 +343,31 @@ reconstruction is what advanced reading comprehension actually means.
 
 ## Vocabulary in Context
 
-::: vocabulary word="nominalization" pos="noun" meaning="a noun formed from a verb or adjective, used in place of the action it describes (ক্রিয়া থেকে গঠিত বিশেষ্য)" example="Converting the nominalization 'implementation' back into 'implement' is the fastest way to unpack a dense sentence."
+::: vocabulary word="nominalization" pos="noun" register="technical" meaning="a noun formed from a verb or adjective, used in place of the action it describes (ক্রিয়া থেকে গঠিত বিশেষ্য)" collocation="heavy nominalization, use nominalization, nominalization of" example="A regulator's report may write 'the implementation of the policy' instead of 'they implemented the policy', which is nominalization."
 :::
 
-::: vocabulary word="result in" pos="phrasal verb" meaning="to cause a stated outcome; the cause is named first and the effect follows (ফলস্বরূপ ঘটানো)" example="The implementation of the policy resulted in a reduction in costs."
+::: vocabulary word="result in" pos="phrasal verb" register="formal" meaning="to cause a stated outcome; the cause is named first and the effect follows (ফলস্বরূপ ঘটানো)" collocation="result in delays, result in a loss, may result in" example="Failure to file the declaration on time may result in a fine."
 :::
 
-::: vocabulary word="result from" pos="phrasal verb" meaning="to be caused by something stated afterward; the effect is named first and the cause follows (থেকে উদ্ভূত হওয়া)" example="The reduction in costs resulted from automation, not from staff reductions."
+::: vocabulary word="result from" pos="phrasal verb" register="formal" meaning="to be caused by something stated afterward; the effect is named first and the cause follows (থেকে উদ্ভূত হওয়া)" collocation="result from a fault, largely result from, result directly from" example="The delays resulted from a shortage of drivers, not from equipment failure."
 :::
 
-::: vocabulary word="in the absence of" pos="phrase" meaning="when something is missing or unavailable; equivalent to 'without' (অনুপস্থিতিতে)" example="In the absence of reliable evidence, the claim should be treated cautiously."
+::: vocabulary word="in the absence of" pos="phrase" register="formal" meaning="when something is missing or unavailable; equivalent to 'without' (অনুপস্থিতিতে)" collocation="in the absence of evidence, in the absence of a contract, in the absence of guidance" example="In the absence of a signed contract, the supplier could not enforce the penalty clause."
 :::
 
-::: vocabulary word="with respect to" pos="phrase" meaning="regarding one specific dimension only, without implying anything about other dimensions (নির্দিষ্ট বিষয়ে)" example="With respect to reliability, the new system performed better — its cost was not addressed."
+::: vocabulary word="with respect to" pos="phrase" register="formal" meaning="regarding one specific dimension only, without implying anything about other dimensions (নির্দিষ্ট বিষয়ে)" collocation="with respect to safety, with respect to cost, with respect to the contract" example="With respect to cost, Option B is cheaper; with respect to speed, Option A is faster."
 :::
 
-::: vocabulary word="attributed to" pos="phrase" meaning="credited or assigned as the cause of something, often with a degree of uncertainty about how much credit is warranted (আরোপিত)" example="Not all of the improvement can be attributed to automation alone."
+::: vocabulary word="attributed to" pos="phrase" register="formal" meaning="credited or assigned as the cause of something, often with a degree of uncertainty about how much credit is warranted (আরোপিত)" collocation="be attributed to, largely attributed to, wrongly attributed to" example="The fall in revenue was attributed to the strike, though other factors probably played a part."
 :::
 
-::: vocabulary word="associated with" pos="phrase" meaning="occurring together with something, without necessarily being caused by it (সম্পর্কিত)" example="The new procedure has been associated with fewer errors, though causation remains unproven."
+::: vocabulary word="associated with" pos="phrase" register="formal" meaning="occurring together with something, without necessarily being caused by it (সম্পর্কিত)" collocation="strongly associated with, risks associated with, be associated with" example="Longer dwell times are associated with higher storage costs and more customer complaints."
 :::
 
-::: vocabulary word="the extent to which" pos="phrase" meaning="how much, or how far, something is true — leaving the actual degree an open question (কতটা পরিমাণে)" example="The extent to which the improvement was caused by automation remains uncertain."
+::: vocabulary word="the extent to which" pos="phrase" register="formal" meaning="how much, or how far, something is true — leaving the actual degree an open question (কতটা পরিমাণে)" collocation="the extent to which, determine the extent to which, depend on the extent to which" example="The audit will assess the extent to which the terminal complies with the new safety rules."
 :::
 
-::: vocabulary word="unpack a sentence" pos="phrase" meaning="to break a dense, compressed sentence down into its separate, plainly stated ideas (বাক্যকে খুলে বোঝা)" example="Unpacking the sentence revealed two separate claims joined by a single nominalization."
+::: vocabulary word="unpack a sentence" pos="phrase" register="neutral" meaning="to break a dense, compressed sentence down into its separate, plainly stated ideas (বাক্যকে খুলে বোঝা)" collocation="unpack the sentence, unpack a claim, unpack the meaning" example="To understand the clause, unpack it first into its separate ideas: who acted, what happened, and why."
 :::
 
 ## Guided Reading Practice

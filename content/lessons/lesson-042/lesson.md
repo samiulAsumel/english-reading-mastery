@@ -411,28 +411,28 @@ grammar.
 
 ## Vocabulary in Context
 
-::: vocabulary word="coordination" pos="noun" meaning="joining two grammatically equal units, such as two independent clauses, with and/but/or/so (সমন্বয়)" example="'The system is fast, and it is reliable' uses coordination to join two equal clauses."
+::: vocabulary word="coordination" pos="noun" register="technical" meaning="joining two grammatically equal units, such as two independent clauses, with and/but/or/so (সমন্বয়)" collocation="coordination of clauses, coordinate clause, coordination with 'and'" example="'The vessel arrived and the crew disembarked' uses coordination, joining two equal clauses with 'and'."
 :::
 
-::: vocabulary word="subordination" pos="noun" meaning="joining a main clause to a dependent clause that cannot stand alone, using words like because/although/when (অধীনতা)" example="'The system is reliable because it is tested' uses subordination, not coordination."
+::: vocabulary word="subordination" pos="noun" register="technical" meaning="joining a main clause to a dependent clause that cannot stand alone, using words like because/although/when (অধীনতা)" collocation="subordinate clause, use subordination, subordination of" example="'Although the vessel arrived late, the crew disembarked' uses subordination to make one clause depend on the other."
 :::
 
-::: vocabulary word="finite verb" pos="noun phrase" meaning="a verb form marked for tense, person, and number, capable of being the main verb of a clause (নির্দিষ্ট ক্রিয়াপদ)" example="Underlining every finite verb first is the fastest way to find a sentence's clause boundaries."
+::: vocabulary word="finite verb" pos="noun phrase" register="technical" meaning="a verb form marked for tense, person, and number, capable of being the main verb of a clause (নির্দিষ্ট ক্রিয়াপদ)" collocation="main finite verb, identify the finite verb, non-finite form" example="In 'The manager who approved the plan resigned', the finite verb of the main clause is 'resigned'."
 :::
 
-::: vocabulary word="embed" pos="verb" meaning="to place one grammatical unit, such as a clause, inside another so it functions as part of the larger structure (অন্তর্ভুক্ত করা)" example="'I know that the system works' embeds a full clause as the object of 'know.'"
+::: vocabulary word="embed" pos="verb" register="technical" meaning="to place one grammatical unit, such as a clause, inside another so it functions as part of the larger structure (অন্তর্ভুক্ত করা)" collocation="embed a clause, deeply embedded, embedded within" example="The writer embedded a relative clause inside the main clause, making the sentence longer but still grammatical."
 :::
 
-::: vocabulary word="complement clause" pos="noun phrase" meaning="a that-clause stating the content of a preceding noun or verb, rather than identifying which one is meant (পরিপূরক বাক্যাংশ)" example="In 'the claim that the system is efficient,' the that-clause is a complement clause stating the claim's content."
+::: vocabulary word="complement clause" pos="noun phrase" register="technical" meaning="a that-clause stating the content of a preceding noun or verb, rather than identifying which one is meant (পরিপূরক বাক্যাংশ)" collocation="that-complement clause, complement clause after a noun, complement clause with 'that'" example="In 'The claim that costs fell is false', the words 'that costs fell' form a complement clause."
 :::
 
-::: vocabulary word="embedded question" pos="noun phrase" meaning="a question folded into a clause using whether/how/why, functioning as a noun within a larger sentence (অন্তর্ভুক্ত প্রশ্ন)" example="'Researchers investigated whether automation reduced costs' contains an embedded question."
+::: vocabulary word="embedded question" pos="noun phrase" register="technical" meaning="a question folded into a clause using whether/how/why, functioning as a noun within a larger sentence (অন্তর্ভুক্ত প্রশ্ন)" collocation="form an embedded question, embedded question word order, use an embedded question" example="'The audit asked how the error had occurred' contains an embedded question with statement word order."
 :::
 
-::: vocabulary word="concession" pos="noun" meaning="a clause that acknowledges an opposing or limiting point before the sentence's main claim (স্বীকারোক্তি)" example="'Although the system was expensive' is a concession that precedes the sentence's main point."
+::: vocabulary word="concession" pos="noun" register="formal" meaning="a clause that acknowledges an opposing or limiting point before the sentence's main claim (স্বীকারোক্তি)" collocation="concessive clause, make a concession, concession before the main claim" example="In 'Although the cost is high, the benefits are clear', the first clause makes a concession."
 :::
 
-::: vocabulary word="skeleton" pos="noun" meaning="the bare main clause of a sentence, with all subordinate and relative clauses temporarily removed (মূল কাঠামো)" example="Reducing the sentence to its skeleton revealed that the researchers' real claim was quite simple."
+::: vocabulary word="skeleton" pos="noun" register="technical" meaning="the bare main clause of a sentence, with all subordinate and relative clauses temporarily removed (মূল কাঠামো)" collocation="sentence skeleton, bare skeleton, strip down to the skeleton" example="Stripped to its skeleton, the sentence says only that the committee approved the budget."
 :::
 
 ## Guided Reading Practice

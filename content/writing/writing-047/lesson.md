@@ -61,10 +61,10 @@ way the example above does.
 
 ## Vocabulary in Context
 
-::: vocabulary word="qualification" pos="noun" meaning="a statement that limits or adjusts a claim so it isn't overstated — শর্তসাপেক্ষ মন্তব্য" example="The qualification narrowed the claim to only the new terminal."
+::: vocabulary word="qualification" pos="noun" register="formal" meaning="a statement that limits or adjusts a claim so it isn't overstated (শর্তসাপেক্ষ মন্তব্য)" collocation="add a qualification, important qualification, qualification of" example="A short qualification limits the claim to peak season."
 :::
 
-::: vocabulary word="bottleneck" pos="noun" meaning="the point in a process that limits the speed of the whole system — সংকীর্ণ বাধা" example="Yard capacity, not vessel arrivals, was the real bottleneck."
+::: vocabulary word="bottleneck" pos="noun" register="neutral" meaning="the point in a process that limits the speed of the whole system (সংকীর্ণ বাধা)" collocation="a bottleneck in, cause a bottleneck, remove a bottleneck" example="The single scanner is the bottleneck limiting gate speed."
 :::
 
 ## Model Answer

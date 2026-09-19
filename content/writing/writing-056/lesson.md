@@ -62,13 +62,13 @@ declare a clean cause.
 
 ## Vocabulary in Context
 
-::: vocabulary word="confounding factor" pos="noun phrase" meaning="something else that changed at the same time as the thing you're crediting, making the true cause hard to isolate — বিভ্রান্তিকর উপাদান" example="Rising ad spend is a confounding factor in the claim that the redesign alone increased sign-ups."
+::: vocabulary word="confounding factor" pos="noun phrase" register="technical" meaning="something else that changed at the same time as the thing you're crediting, making the true cause hard to isolate (বিভ্রান্তিকর উপাদান)" collocation="control for a confounding factor, possible confounding factor, identify a confounding factor" example="Weather is a confounding factor that affects both delays and productivity."
 :::
 
-::: vocabulary word="attributable to" pos="phrase" meaning="able to be credited as the cause of a result — যা কারণ হিসেবে ধরা যায়" example="Only part of the improvement is attributable to the new system; staffing changed too."
+::: vocabulary word="attributable to" pos="phrase" register="formal" meaning="able to be credited as the cause of a result (যা কারণ হিসেবে ধরা যায়)" collocation="be attributable to, largely attributable, directly attributable to" example="Most of the increase is attributable to higher fuel prices."
 :::
 
-::: vocabulary word="associated with" pos="phrase" meaning="showing a relationship with something, without claiming it is the cause — সম্পর্কযুক্ত" example="Higher training hours were associated with fewer errors, though the study didn't prove training caused the drop."
+::: vocabulary word="associated with" pos="phrase" register="formal" meaning="showing a relationship with something, without claiming it is the cause (সম্পর্কযুক্ত)" collocation="be associated with, strongly associated with, associated with delays" example="Longer dwell times are associated with incomplete paperwork."
 :::
 
 ## Model Answer

@@ -370,34 +370,34 @@ The whole point of learning tense is being able to look at a verb's
 
 ## Vocabulary in Context
 
-::: vocabulary word="discover" pos="verb" meaning="to find or learn something for the first time (আবিষ্কার করা)" example="Researchers discovered a surprising pattern in the data."
+::: vocabulary word="discover" pos="verb" register="neutral" meaning="to find or learn something for the first time (আবিষ্কার করা)" collocation="discover a flaw, discover that, recently discovered" example="Auditors discovered that fourteen invoices had been paid twice in the same month."
 :::
 
-::: vocabulary word="find" pos="verb" meaning="to learn or discover something as a result of study (খুঁজে পাওয়া)" example="Studies have found that regular practice improves performance."
+::: vocabulary word="find" pos="verb" register="neutral" meaning="to learn something as a result of study or observation (খুঁজে পাওয়া)" collocation="study finds, find that, researchers found" example="The survey found that seventy percent of drivers arrived outside their booked time slot."
 :::
 
-::: vocabulary word="examine" pos="verb" meaning="to look at something carefully and in detail (পরীক্ষা করা)" example="Researchers examine the evidence before drawing a conclusion."
+::: vocabulary word="examine" pos="verb" register="formal" meaning="to look at something closely and in detail (পরীক্ষা করা)" collocation="examine the evidence, closely examine, examine a claim" example="The tribunal will examine the shipping records before ruling on the dispute."
 :::
 
-::: vocabulary word="investigate" pos="verb" meaning="to study something systematically to discover facts about it (তদন্ত/অনুসন্ধান করা)" example="Scientists investigate the causes of a problem before proposing a solution."
+::: vocabulary word="investigate" pos="verb" register="formal" meaning="to study something systematically to establish the facts (তদন্ত/অনুসন্ধান করা)" collocation="investigate the cause, thoroughly investigate, investigate a complaint" example="Engineers are investigating why the gate scanners misread barcodes after rain."
 :::
 
-::: vocabulary word="suggest" pos="verb" meaning="to indicate something indirectly, without stating it outright (ইঙ্গিত দেওয়া)" example="The evidence suggests that emotions affect decision-making."
+::: vocabulary word="suggest" pos="verb" register="formal" meaning="to indicate that something is probably true, without stating it outright (ইঙ্গিত দেওয়া)" collocation="research suggests, suggest a link, strongly suggest" example="Early findings suggest that predictive maintenance reduces unplanned crane downtime."
 :::
 
-::: vocabulary word="indicate" pos="verb" meaning="to point to or show something (নির্দেশ করা)" example="The results indicate a clear relationship between the two factors."
+::: vocabulary word="indicate" pos="verb" register="formal" meaning="to show or point to something (নির্দেশ করা)" collocation="indicate a trend, clearly indicate, evidence indicates" example="Rising fuel costs indicate that operating margins will remain under pressure this year."
 :::
 
-::: vocabulary word="change" pos="verb" meaning="to become different, or to make something different (পরিবর্তন করা/হওয়া)" example="Society has changed considerably over the past few decades."
+::: vocabulary word="change" pos="verb" register="neutral" meaning="to become different, or to make something different (পরিবর্তন করা/হওয়া)" collocation="change significantly, change course, change the way" example="Customs procedures have changed considerably since the single-window system was introduced."
 :::
 
-::: vocabulary word="develop" pos="verb" meaning="to create or improve something through effort (বিকশিত/উন্নত করা)" example="People develop skills gradually, through consistent practice."
+::: vocabulary word="develop" pos="verb" register="neutral" meaning="to grow or advance gradually, or to create something over time (বিকশিত/উন্নত করা)" collocation="develop gradually, develop a system, develop into" example="The fault developed slowly, and the monitoring system flagged it only after three weeks."
 :::
 
-::: vocabulary word="improve" pos="verb" meaning="to make or become better (উন্নত করা)" example="Performance improves when practice is spread out over time."
+::: vocabulary word="improve" pos="verb" register="neutral" meaning="to become better, or to make something better (উন্নত করা)" collocation="steadily improve, improve significantly, improve the process" example="Crane productivity has improved steadily since the new shift pattern began."
 :::
 
-::: vocabulary word="remain" pos="verb" meaning="to continue to exist or to stay the same (থেকে যাওয়া/অবশিষ্ট থাকা)" example="Despite decades of research, the problem remains only partly understood."
+::: vocabulary word="remain" pos="verb" register="formal" meaning="to stay in the same state or condition (থেকে যাওয়া/অবশিষ্ট থাকা)" collocation="remain unchanged, remain stable, remain a concern" example="Despite the upgrade, average truck waiting time remains above two hours."
 :::
 
 ::: note title="Learn these exact reporting-verb patterns"

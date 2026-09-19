@@ -493,28 +493,28 @@ overall meaning?
 
 ## Vocabulary in Context
 
-::: vocabulary word="removal test" pos="noun phrase" meaning="a technique for judging a sentence's importance by mentally deleting it and observing what breaks: the main idea, the argument, an illustration, or nothing at all (অপসারণ পরীক্ষা)" example="The removal test showed that deleting the example sentence changed nothing important, confirming it was a detail, not a core claim."
+::: vocabulary word="removal test" pos="noun phrase" register="course term" meaning="a way to judge a sentence's importance by imagining it deleted and seeing what, if anything, is lost (অপসারণ পরীক্ষা)" collocation="apply the removal test, use the removal test, removal test for" example="Apply the removal test: if deleting the sentence changes nothing important, it was a detail."
 :::
 
-::: vocabulary word="information hierarchy" pos="noun phrase" meaning="the ranked structure of a text's content, from its central idea down through supporting reasons, evidence, examples, and minor detail (তথ্যের ক্রমপর্যায়)" example="Mapping the paragraph's information hierarchy revealed that the striking statistic was only third-level support, not the main point."
+::: vocabulary word="information hierarchy" pos="noun phrase" register="formal" meaning="the ranked structure of a text's content, from its central idea down through supporting reasons, evidence, examples, and minor detail (তথ্যের ক্রমপর্যায়)" collocation="the information hierarchy, build an information hierarchy, information hierarchy of" example="The report's information hierarchy places the recommendation first and the supporting data last."
 :::
 
-::: vocabulary word="information convergence" pos="noun phrase" meaning="a pattern in which several separate pieces of information point toward and combine into one shared central idea (তথ্যের অভিসরণ)" example="Information convergence across four sentences about automation's effects pointed to one unstated central idea: a shift in how work is allocated."
+::: vocabulary word="information convergence" pos="noun phrase" register="course term" meaning="a pattern in which several separate pieces of information point toward and combine into one shared central idea (তথ্যের অভিসরণ)" collocation="information convergence, pattern of information convergence, information convergence on" example="Information convergence appears when four separate findings all point to one shared conclusion."
 :::
 
-::: vocabulary word="information divergence" pos="noun phrase" meaning="a pattern in which one stated central idea branches outward into several separate supporting details or components (তথ্যের বিভেদন)" example="After the central claim about organizational readiness, information divergence branched into data quality, skills, and leadership support."
+::: vocabulary word="information divergence" pos="noun phrase" register="course term" meaning="a pattern in which one stated central idea branches outward into several separate supporting details or components (তথ্যের বিভেদন)" collocation="information divergence, pattern of information divergence, information divergence from" example="Information divergence occurs when one central claim branches into three separate supporting details."
 :::
 
-::: vocabulary word="detail hierarchy" pos="noun phrase" meaning="a layered structure — such as system, component, function, process, parameter, value — for organising dense technical information by level of generality (বিস্তারিত ক্রমপর্যায়)" example="Using the detail hierarchy, she filed the exact five-day duration under 'value,' far below the more important 'function' level."
+::: vocabulary word="detail hierarchy" pos="noun phrase" register="course term" meaning="a layered structure, from system down to value, for organising dense technical information by level of generality (বিস্তারিত ক্রমপর্যায়)" collocation="build a detail hierarchy, layered detail hierarchy, detail hierarchy of" example="A detail hierarchy sorts technical information from system to component to function to value."
 :::
 
-::: vocabulary word="memory layer" pos="noun phrase" meaning="one of three tiers — must remember, useful, temporary — used to decide how much effort to spend retaining a given piece of information while reading (স্মৃতিস্তর)" example="Exact dates went into the temporary memory layer, since they could always be retrieved from the text again if needed."
+::: vocabulary word="memory layer" pos="noun phrase" register="course term" meaning="one of three tiers — must remember, useful, temporary — used to decide how much effort to spend retaining a given piece of information while reading (স্মৃতিস্তর)" collocation="assign a memory layer, memory layer for, three memory layers" example="Exact dates go in the temporary memory layer, because you can always look them up again."
 :::
 
-::: vocabulary word="distributed main idea" pos="noun phrase" meaning="a paragraph's central meaning built from several sentences together, with no single sentence stating it in full (বিস্তৃত মূলভাব)" example="The distributed main idea only became clear after combining all four sentences: work allocation shifts, but only with adequate training."
+::: vocabulary word="distributed main idea" pos="noun phrase" register="course term" meaning="a paragraph's central meaning built from several sentences together, with no single sentence stating it in full (বিস্তৃত মূলভাব)" collocation="a distributed main idea, find the distributed main idea, distributed main idea across" example="The distributed main idea emerges only when all four sentences are read together."
 :::
 
-::: vocabulary word="rhetorical weight" pos="noun phrase" meaning="how much a piece of information actually matters to an author's overall meaning, independent of its length, position, or level of technical detail (বাচনিক গুরুত্ব)" example="Despite being five words long, the qualifying clause carried far more rhetorical weight than the paragraph's longest, most detailed sentence."
+::: vocabulary word="rhetorical weight" pos="noun phrase" register="formal" meaning="how much a piece of information actually matters to an author's overall meaning, independent of its length, position, or level of technical detail (বাচনিক গুরুত্ব)" collocation="carry rhetorical weight, greater rhetorical weight, rhetorical weight of" example="A short concluding sentence can carry more rhetorical weight than a long paragraph of detail."
 :::
 
 ## Guided Reading Practice

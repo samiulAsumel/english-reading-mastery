@@ -61,10 +61,10 @@ or add any fact between the two versions — only the tone should shift.
 
 ## Vocabulary in Context
 
-::: vocabulary word="distancing language" pos="noun phrase" meaning="wording (claims, allegedly, has yet to show) that signals the writer isn't fully vouching for a reported claim — দূরত্ব সৃষ্টিকারী ভাষা" example="Switching 'found' to 'claims' added distancing language without changing a single fact."
+::: vocabulary word="distancing language" pos="noun phrase" register="technical" meaning="wording (claims, allegedly, has yet to show) that signals the writer isn't fully vouching for a reported claim (দূরত্ব সৃষ্টিকারী ভাষা)" collocation="use distancing language, distancing language such as, signal with distancing language" example="'Allegedly' is distancing language: the writer does not vouch for the claim."
 :::
 
-::: vocabulary word="objectivity" pos="noun" meaning="reporting facts and their real limits without letting word choice quietly push the reader toward belief or doubt — নিরপেক্ষতা" example="True objectivity would state both the finding and its limits, in either tone."
+::: vocabulary word="objectivity" pos="noun" register="formal" meaning="reporting facts and their real limits without letting word choice quietly push the reader toward belief or doubt (নিরপেক্ষতা)" collocation="maintain objectivity, journalistic objectivity, lack of objectivity" example="Objectivity requires reporting the limits of the data as well as the results."
 :::
 
 ## Model Answer

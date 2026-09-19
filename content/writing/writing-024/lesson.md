@@ -61,10 +61,10 @@ language for evidence this weak — do not write "caused."
 
 ## Vocabulary in Context
 
-::: vocabulary word="contribute to" pos="phrasal verb" meaning="to act as one of several factors that help cause something — অবদান রাখা" example="Poor ventilation may have contributed to the equipment failures, though it likely wasn't the only cause."
+::: vocabulary word="contribute to" pos="phrasal verb" register="formal" meaning="to act as one of several factors that help cause something (অবদান রাখা)" collocation="contribute to a decline, contribute significantly, partly contribute to" example="Understaffing contributed to the backlog, though it was not the only cause."
 :::
 
-::: vocabulary word="associated with" pos="collocation" meaning="occurring together in a pattern, without this alone proving one causes the other — সম্পর্কযুক্ত" example="The sales drop is associated with the competitor's opening, but no direct link has been confirmed."
+::: vocabulary word="associated with" pos="collocation" register="formal" meaning="occurring together in a pattern, without this alone proving one causes the other (সম্পর্কযুক্ত)" collocation="be associated with, strongly associated with, risks associated with" example="Late arrivals are associated with weekend shift changes."
 :::
 
 ## Model Answer

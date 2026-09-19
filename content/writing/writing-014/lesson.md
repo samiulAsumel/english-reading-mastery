@@ -60,13 +60,13 @@ a gerund to describe a method.
 
 ## Vocabulary in Context
 
-::: vocabulary word="manifest" pos="noun" meaning="an official list of a ship's or aircraft's cargo — মালপত্রের তালিকা" example="Checking the manifest twice prevents costly loading errors."
+::: vocabulary word="manifest" pos="noun" register="technical" meaning="an official list of a ship's or aircraft's cargo (মালপত্রের তালিকা)" collocation="cargo manifest, submit a manifest, amend the manifest" example="The captain must submit the cargo manifest to customs before arrival."
 :::
 
-::: vocabulary word="confirm" pos="verb" meaning="to state that something is definitely true or correct — নিশ্চিত করা" example="The clerk needs to confirm the container count before departure."
+::: vocabulary word="confirm" pos="verb" register="neutral" meaning="to state that something is definitely true or correct (নিশ্চিত করা)" collocation="confirm receipt, confirm the booking, confirm that" example="Please confirm that the container has been released."
 :::
 
-::: vocabulary word="delay" pos="noun" meaning="a period of time by which something is made later than expected — বিলম্ব" example="You can avoid delays by confirming the manifest early."
+::: vocabulary word="delay" pos="noun" register="neutral" meaning="a period of time by which something is made later than expected (বিলম্ব)" collocation="cause a delay, unavoidable delay, delay in delivery" example="A delay in customs clearance pushed delivery back by two days."
 :::
 
 ## Model Answer

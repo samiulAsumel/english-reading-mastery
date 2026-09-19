@@ -57,10 +57,10 @@ sentences with active verbs, keeping the hedge intact — don't let
 
 ## Vocabulary in Context
 
-::: vocabulary word="nominalization" pos="noun" meaning="a noun formed from a verb, used to compress a sentence — ক্রিয়া থেকে গঠিত বিশেষ্য" example="'Implementation' is the nominalization of 'implement.'"
+::: vocabulary word="nominalization" pos="noun" register="technical" meaning="a noun formed from a verb, used to compress a sentence (ক্রিয়া থেকে গঠিত বিশেষ্য)" collocation="use nominalization, heavy nominalization, nominalization of a verb" example="'The implementation of the plan' is a nominalization of 'they implemented the plan'."
 :::
 
-::: vocabulary word="hedge" pos="noun" meaning="a word that softens a claim's certainty, such as 'may' or 'appears to' — সতর্কতাসূচক শব্দ" example="Dropping the hedge 'appears to' turns a cautious claim into an overstatement."
+::: vocabulary word="hedge" pos="noun" register="technical" meaning="a word that softens a claim's certainty, such as 'may' or 'appears to' (সতর্কতাসূচক শব্দ)" collocation="use a hedge, hedge such as, soften with a hedge" example="'May' and 'appears to' are hedges that soften a claim."
 :::
 
 ## Model Answer

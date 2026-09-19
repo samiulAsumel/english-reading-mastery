@@ -473,19 +473,19 @@ from the word alone.
 
 ## Vocabulary in Context
 
-::: vocabulary word="tendency" pos="noun" meaning="a general pattern of behaving or happening a certain way, without being universal (প্রবণতা)" example="There is a tendency to rely on familiar information when time is limited."
+::: vocabulary word="tendency" pos="noun" register="formal" meaning="a general pattern of behaving or happening a certain way, without being universal (প্রবণতা)" collocation="a tendency to, growing tendency, general tendency" example="Newer clerks show a tendency to skip the second check when the queue is long."
 :::
 
-::: vocabulary word="probability" pos="noun" meaning="how likely something is to happen or be true (সম্ভাবনা)" example="The probability of a different outcome cannot be ruled out."
+::: vocabulary word="probability" pos="noun" register="technical" meaning="how likely something is to happen or be true (সম্ভাবনা)" collocation="high probability, in all probability, probability of" example="The risk model puts the probability of a berth delay this month at roughly one in five."
 :::
 
-::: vocabulary word="certainty" pos="noun" meaning="the state of being completely sure about something (নিশ্চয়তা)" example="Scientific findings are rarely stated with complete certainty."
+::: vocabulary word="certainty" pos="noun" register="formal" meaning="the state of being completely sure about something (নিশ্চয়তা)" collocation="with certainty, absolute certainty, a degree of certainty" example="No forecast can predict vessel arrival times with complete certainty."
 :::
 
-::: vocabulary word="cautious" pos="adjective" meaning="careful to avoid stating more than the evidence supports (সতর্ক)" example="A cautious writer says a factor 'may contribute to' an outcome, not that it causes it."
+::: vocabulary word="cautious" pos="adjective" register="neutral" meaning="careful to avoid stating more than the evidence supports (সতর্ক)" collocation="cautious approach, cautiously optimistic, be cautious about" example="The analyst took a cautious view, noting that a single quarter of growth proves little."
 :::
 
-::: vocabulary word="qualify" pos="verb" meaning="to limit or add a condition to a statement so it isn't taken as absolute (সীমিত করা)" example="Academic writers often qualify a claim with a word like 'may' or 'tends to'."
+::: vocabulary word="qualify" pos="verb" register="formal" meaning="to limit or add a condition to a statement so it isn't taken as absolute (সীমিত করা)" collocation="qualify a statement, qualify as, heavily qualified" example="The manager qualified her praise by noting that the results were still provisional."
 :::
 
 ::: note title="Chunks worth learning as whole units"

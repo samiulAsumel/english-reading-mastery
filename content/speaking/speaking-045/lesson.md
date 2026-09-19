@@ -69,10 +69,10 @@ fluent units.
 
 ## Vocabulary in Context
 
-::: vocabulary word="contribute to" pos="phrasal verb" meaning="to be one of several factors producing an outcome, without being the sole cause — অবদান রাখা" example="Saying 'contributed to' out loud signals that other factors were also involved."
+::: vocabulary word="contribute to" pos="phrasal verb" register="formal" meaning="to be one of several factors producing an outcome, without being the sole cause (অবদান রাখা)" collocation="contribute to a decline, contribute significantly, contribute to the delay" example="Understaffing contributed to the backlog, but it was not the only cause."
 :::
 
-::: vocabulary word="be consistent with" pos="phrase" meaning="to be compatible with a finding, without thereby proving it — সামঞ্জস্যপূর্ণ হওয়া" example="Spoken live, 'consistent with' should never be swapped for the much stronger 'proves.'"
+::: vocabulary word="be consistent with" pos="phrase" register="formal" meaning="to be compatible with a finding, without thereby proving it (সামঞ্জস্যপূর্ণ হওয়া)" collocation="be consistent with, entirely consistent with, consistent with the evidence" example="The damage is consistent with a low-speed impact."
 :::
 
 ## Self-Check

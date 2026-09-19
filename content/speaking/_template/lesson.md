@@ -87,7 +87,7 @@ correct structure) instead.
 
 ## Vocabulary in Context
 
-::: vocabulary word="..." pos="..." meaning="... — বাংলা glossই" example="..."
+::: vocabulary word="..." pos="..." register="formal|neutral|technical" meaning="one-line meaning (বাংলা gloss)" collocation="common pairing, common pairing" example="one realistic workplace sentence."
 :::
 
 Aim for 2-3 vocabulary cards, directly useful for this specific drill.

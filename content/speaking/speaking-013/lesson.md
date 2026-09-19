@@ -64,10 +64,10 @@ sentence.
 
 ## Vocabulary in Context
 
-::: vocabulary word="weigh" pos="verb" meaning="to measure how heavy something is — ওজন করা" example="Every package is weighed before it ships."
+::: vocabulary word="weigh" pos="verb" register="neutral" meaning="to measure how heavy something is (ওজন করা)" collocation="weigh the container, weigh the options, weigh carefully" example="Every container is weighed at the gate before it is loaded."
 :::
 
-::: vocabulary word="ship" pos="verb" meaning="to send goods somewhere, usually by a carrier — পাঠানো/চালান করা" example="Packages are weighed before shipping."
+::: vocabulary word="ship" pos="verb" register="neutral" meaning="to send goods somewhere, usually by a carrier (পাঠানো/চালান করা)" collocation="ship goods, ship by sea, shipped from" example="We ship the goods by sea to arrive within three weeks."
 :::
 
 ## Self-Check

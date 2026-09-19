@@ -382,34 +382,34 @@ paragraph.
 
 ## Vocabulary in Context
 
-::: vocabulary word="evaluate" pos="verb" meaning="to judge the quality, strength, or validity of something carefully (মূল্যায়ন করা)" example="Evaluating an argument means checking its evidence's relevance and sufficiency, not just whether it sounds confident."
+::: vocabulary word="evaluate" pos="verb" register="formal" meaning="to judge the quality, strength, or validity of something carefully (মূল্যায়ন করা)" collocation="evaluate the argument, critically evaluate, evaluate evidence" example="The panel will evaluate each bid against the published criteria before making an award."
 :::
 
-::: vocabulary word="unwarranted" pos="adjective" meaning="not justified by the evidence or reasoning actually given (অযৌক্তিক/অসমর্থিত)" example="Drawing a universal conclusion from two cases is an unwarranted generalization."
+::: vocabulary word="unwarranted" pos="adjective" register="formal" meaning="not justified by the evidence or reasoning actually given (অযৌক্তিক/অসমর্থিত)" collocation="unwarranted assumption, unwarranted conclusion, entirely unwarranted" example="The claim that the strike caused the recession is an unwarranted leap from the evidence."
 :::
 
-::: vocabulary word="misrepresent" pos="verb" meaning="to describe something inaccurately, often making it easier to criticize (ভুলভাবে উপস্থাপন করা)" example="A straw man response misrepresents the original argument before attacking it."
+::: vocabulary word="misrepresent" pos="verb" register="formal" meaning="to describe something inaccurately, often making it easier to criticize (ভুলভাবে উপস্থাপন করা)" collocation="misrepresent the facts, deliberately misrepresent, misrepresent a position" example="The article misrepresented the union's position by quoting only its most extreme demand."
 :::
 
-::: vocabulary word="cherry-pick" pos="verb" meaning="to select only the evidence that supports a desired conclusion, while ignoring contrary evidence (বেছে বেছে সুবিধাজনক তথ্য নেওয়া)" example="Citing one positive study while ignoring five mixed ones is a clear case of cherry-picking."
+::: vocabulary word="cherry-pick" pos="verb" register="neutral" meaning="to select only the evidence that supports a desired conclusion, while ignoring contrary evidence (বেছে বেছে সুবিধাজনক তথ্য নেওয়া)" collocation="cherry-pick data, accused of cherry-picking, cherry-pick the evidence" example="The vendor cherry-picked its three best months and ignored the poor performance of the rest of the year."
 :::
 
-::: vocabulary word="burden of proof" pos="noun phrase" meaning="the obligation to provide sufficient evidence for a claim before it is accepted (প্রমাণের দায়িত্ব)" example="The burden of proof for an extraordinary claim is generally higher than for a modest one."
+::: vocabulary word="burden of proof" pos="noun phrase" register="formal" meaning="the obligation to provide sufficient evidence for a claim before it is accepted (প্রমাণের দায়িত্ব)" collocation="shift the burden of proof, bear the burden of proof, burden of proof lies" example="The burden of proof lies with the claimant, who must show that the goods were damaged in transit."
 :::
 
-::: vocabulary word="undermine" pos="verb" meaning="to weaken the strength or credibility of an argument or conclusion (দুর্বল/ক্ষুণ্ণ করা)" example="A plausible alternative explanation can undermine an otherwise confident causal claim."
+::: vocabulary word="undermine" pos="verb" register="formal" meaning="to weaken the strength or credibility of an argument or conclusion (দুর্বল/ক্ষুণ্ণ করা)" collocation="undermine confidence, seriously undermine, undermine the argument" example="The discovery of duplicate invoices undermined the credibility of the entire audit."
 :::
 
-::: vocabulary word="substantiate" pos="verb" meaning="to provide evidence that supports or confirms a claim (প্রমাণ দ্বারা সমর্থন করা)" example="The report fails to substantiate its claim that the policy was the sole cause of the decline."
+::: vocabulary word="substantiate" pos="verb" register="formal" meaning="to provide evidence that supports or confirms a claim (প্রমাণ দ্বারা সমর্থন করা)" collocation="substantiate a claim, fully substantiate, unable to substantiate" example="The company could not substantiate its claim that the terminal was the fastest in the region."
 :::
 
-::: vocabulary word="reconstruct" pos="verb" meaning="to rebuild an argument in its clearest and strongest form before evaluating it (পুনর্গঠন করা)" example="The principle of charity asks you to reconstruct the argument fairly before you critique it."
+::: vocabulary word="reconstruct" pos="verb" register="formal" meaning="to rebuild an argument in its clearest and strongest form before evaluating it (পুনর্গঠন করা)" collocation="reconstruct the sequence, reconstruct an argument, reconstruct events" example="Investigators reconstructed the sequence of events from the crane's control log."
 :::
 
-::: vocabulary word="dose-response" pos="noun phrase" meaning="a pattern in which a larger amount of a proposed cause is associated with a larger effect (মাত্রা-প্রতিক্রিয়া সম্পর্ক)" example="Warehouses with higher AI adoption showing larger cost reductions is dose-response evidence."
+::: vocabulary word="dose-response" pos="noun phrase" register="technical" meaning="a pattern in which a larger amount of a proposed cause is associated with a larger effect (মাত্রা-প্রতিক্রিয়া সম্পর্ক)" collocation="dose-response relationship, dose-response pattern, dose-response curve" example="A dose-response pattern appeared: the more overtime staff worked, the more errors they made."
 :::
 
-::: vocabulary word="calibrated" pos="adjective" meaning="carefully adjusted to match the actual strength of the available evidence (যথাযথভাবে সমন্বিত)" example="A calibrated conclusion says exactly how far the evidence goes — no further, and no less."
+::: vocabulary word="calibrated" pos="adjective" register="technical" meaning="carefully adjusted to match the actual strength of the available evidence (যথাযথভাবে সমন্বিত)" collocation="well calibrated, carefully calibrated, calibrated response" example="The ministry gave a calibrated response, stating what the data showed and no more."
 :::
 
 ## Guided Reading Practice

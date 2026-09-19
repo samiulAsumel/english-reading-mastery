@@ -442,22 +442,22 @@ central argument?
 
 ## Vocabulary in Context
 
-::: vocabulary word="spine" pos="noun" meaning="the sequence of a chapter's major ideas, which could survive as a summary even if every supporting detail were removed (মূল কাঠামো/মেরুদণ্ড)" example="The chapter's spine ran: problem, cause, evidence, complication, solution, limitation, conclusion."
+::: vocabulary word="spine" pos="noun" register="neutral" meaning="the sequence of a chapter's major ideas, which could survive as a summary even if every supporting detail were removed (মূল কাঠামো/মেরুদণ্ড)" collocation="the spine of, chapter spine, follow the spine" example="The spine of the chapter is simple: a problem, two failed solutions, and a working fix."
 :::
 
-::: vocabulary word="turning point" pos="noun phrase" meaning="a point in a text, often marked by however or nevertheless, where the argument's direction shifts (মোড় পরিবর্তনের বিন্দু)" example="The word 'nevertheless' marked the chapter's turning point, from listing benefits to naming limitations."
+::: vocabulary word="turning point" pos="noun phrase" register="neutral" meaning="a point in a text, often marked by however or nevertheless, where the argument's direction shifts (মোড় পরিবর্তনের বিন্দু)" collocation="a turning point, mark a turning point, critical turning point" example="The word 'however' in paragraph four marks the turning point from problem to solution."
 :::
 
-::: vocabulary word="evidence density" pos="noun phrase" meaning="a concentration of several pieces of evidence appearing together, usually signaling strong authorial support for one specific claim (প্রমাণের ঘনত্ব)" example="The evidence density in that section — four separate studies — signaled how much the author was relying on that one claim."
+::: vocabulary word="evidence density" pos="noun phrase" register="technical" meaning="a concentration of several pieces of evidence appearing together, usually signaling strong authorial support for one specific claim (প্রমাণের ঘনত্ব)" collocation="high evidence density, evidence density in, cluster of evidence" example="A cluster of three studies in one paragraph signals high evidence density and a claim the author cares about."
 :::
 
-::: vocabulary word="rebuttal" pos="noun" meaning="an author's direct response to a counterargument, offered to defend the original claim (প্রতিবাদ/জবাব)" example="After raising the critics' objection, the author's rebuttal argued that the evidence still favored the original claim."
+::: vocabulary word="rebuttal" pos="noun" register="formal" meaning="an author's direct response to a counterargument, offered to defend the original claim (প্রতিবাদ/জবাব)" collocation="offer a rebuttal, direct rebuttal, rebuttal to" example="The chapter ends with a rebuttal of the claim that automation always costs jobs."
 :::
 
-::: vocabulary word="carry-forward information" pos="noun phrase" meaning="the one idea from a completed section or chapter that will matter for understanding what comes next (পরবর্তী অংশের জন্য প্রাসঙ্গিক তথ্য)" example="The carry-forward information from Chapter 2 was the definition of 'organizational readiness,' used repeatedly afterward."
+::: vocabulary word="carry-forward information" pos="noun phrase" register="technical" meaning="the one idea from a completed section or chapter that will matter for understanding what comes next (পরবর্তী অংশের জন্য প্রাসঙ্গিক তথ্য)" collocation="key carry-forward information, note the carry-forward information, carry-forward point" example="Before starting the next chapter, note the one carry-forward idea: the author defines 'resilience' as recovery speed."
 :::
 
-::: vocabulary word="chapter spine" pos="noun phrase" meaning="see 'spine' — the compressed sequence of a chapter's major moves (অধ্যায়ের মূল কাঠামো)" example="Writing out the chapter spine after reading made the whole argument reviewable in ten seconds."
+::: vocabulary word="chapter spine" pos="noun phrase" register="neutral" meaning="the compressed sequence of a chapter's major ideas, without its supporting detail (অধ্যায়ের মূল কাঠামো)" collocation="write the chapter spine, clear chapter spine, chapter spine of" example="After reading, write the chapter spine in five short phrases."
 :::
 
 ## Guided Reading Practice

@@ -65,10 +65,10 @@ sending.
 
 ## Vocabulary in Context
 
-::: vocabulary word="repair" pos="verb" meaning="to fix something that is broken or damaged — মেরামত করা" example="The technician repairing the engine finished before noon."
+::: vocabulary word="repair" pos="verb" register="neutral" meaning="to fix something that is broken or damaged (মেরামত করা)" collocation="repair a fault, urgent repair, repair work" example="The crane needs repair before it can lift heavy loads again."
 :::
 
-::: vocabulary word="noon" pos="noun" meaning="twelve o'clock in the middle of the day — দুপুর ১২টা" example="The engine was fixed before noon."
+::: vocabulary word="noon" pos="noun" register="neutral" meaning="twelve o'clock in the middle of the day (দুপুর ১২টা)" collocation="at noon, by noon, before noon" example="The vessel is due to berth before noon."
 :::
 
 ## Self-Check

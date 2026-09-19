@@ -359,28 +359,28 @@ biased; the useful question isn't "is this text biased, yes or no?" but
 
 ## Vocabulary in Context
 
-::: vocabulary word="framing" pos="noun" meaning="presenting the same underlying facts in a way that steers a reader's attention or interpretation in a particular direction (উপস্থাপনার ছাঁচ)" example="Reporting a '5% failure rate' instead of a '95% success rate' is a framing choice, not a change in the underlying fact."
+::: vocabulary word="framing" pos="noun" register="formal" meaning="presenting the same underlying facts in a way that steers a reader's attention or interpretation in a particular direction (উপস্থাপনার ছাঁচ)" collocation="media framing, framing of, deliberate framing" example="The framing of the story as a 'crackdown' rather than 'enforcement' shaped how readers reacted."
 :::
 
-::: vocabulary word="loaded language" pos="noun phrase" meaning="words that carry built-in evaluation or attitude rather than neutral description, even when describing the same event as a plainer word would (আবেগপূর্ণ ভাষা)" example="Calling a policy change a 'disruption' rather than an 'update' is loaded language signalling disapproval."
+::: vocabulary word="loaded language" pos="noun phrase" register="neutral" meaning="words that carry built-in evaluation or attitude rather than neutral description, even when describing the same event as a plainer word would (আবেগপূর্ণ ভাষা)" collocation="use loaded language, loaded language such as, avoid loaded language" example="The press release used loaded language, calling rival firms 'reckless' instead of naming any fault."
 :::
 
-::: vocabulary word="cherry picking" pos="noun phrase" meaning="selecting only the evidence that supports a preferred conclusion while leaving out evidence that doesn't (পছন্দসই তথ্য বাছাই)" example="Highlighting three successful pilots while omitting seven failed ones is a case of cherry picking."
+::: vocabulary word="cherry picking" pos="noun phrase" register="neutral" meaning="selecting only the evidence that supports a preferred conclusion while leaving out evidence that doesn't (পছন্দসই তথ্য বাছাই)" collocation="accused of cherry picking, cherry picking of data, avoid cherry picking" example="The vendor's report showed only its best quarter, a clear case of cherry picking."
 :::
 
-::: vocabulary word="base rate neglect" pos="noun phrase" meaning="ignoring how common or rare an underlying event actually is when interpreting a percentage or detection rate about it (মূল হার উপেক্ষা)" example="Praising a '99% detection rate' without base rate neglect requires first checking how rare the detected event actually is."
+::: vocabulary word="base rate neglect" pos="noun phrase" register="technical" meaning="ignoring how common or rare an underlying event actually is when interpreting a percentage or detection rate about it (মূল হার উপেক্ষা)" collocation="commit base rate neglect, avoid base rate neglect, example of base rate neglect" example="Reporting that 'ninety percent of the delayed ships were foreign' shows base rate neglect if most ships are foreign."
 :::
 
-::: vocabulary word="counterfactual question" pos="noun phrase" meaning="asking what evidence would be expected to appear if a claimed explanation were actually false, as a test of that explanation (বৈপরীত্যমূলক প্রশ্ন)" example="The counterfactual question — what if automation didn't cause the growth? — surfaced staffing changes as a genuine alternative explanation."
+::: vocabulary word="counterfactual question" pos="noun phrase" register="technical" meaning="asking what evidence would be expected to appear if a claimed explanation were actually false, as a test of that explanation (বৈপরীত্যমূলক প্রশ্ন)" collocation="ask a counterfactual question, useful counterfactual question, counterfactual question about" example="A useful counterfactual question is what the data would show if the new system had no effect."
 :::
 
-::: vocabulary word="conflict of interest" pos="noun phrase" meaning="a situation in which a source's financial or personal interest points in the same direction as its stated conclusion, warranting extra scrutiny (স্বার্থের দ্বন্দ্ব)" example="A company-funded study praising its own product carries an inherent conflict of interest worth checking against independent research."
+::: vocabulary word="conflict of interest" pos="noun phrase" register="formal" meaning="a situation in which a source's financial or personal interest points in the same direction as its stated conclusion, warranting extra scrutiny (স্বার্থের দ্বন্দ্ব)" collocation="declare a conflict of interest, potential conflict of interest, avoid a conflict of interest" example="The consultant declared a conflict of interest because her firm had bid for the contract."
 :::
 
-::: vocabulary word="perspective bias" pos="noun phrase" meaning="a text's tendency to present one stakeholder's view of an event as though it were the complete picture, while other stakeholders' views go unmentioned (দৃষ্টিভঙ্গিগত পক্ষপাত)" example="A report describing automation purely in terms of cost savings shows perspective bias toward management's viewpoint over employees'."
+::: vocabulary word="perspective bias" pos="noun phrase" register="course term" meaning="a text's tendency to present one stakeholder's view of an event as though it were the complete picture, while other stakeholders' views go unmentioned (দৃষ্টিভঙ্গিগত পক্ষপাত)" collocation="perspective bias, show perspective bias, risk of perspective bias" example="The article shows perspective bias: it quotes only management and never the drivers."
 :::
 
-::: vocabulary word="material omission" pos="noun phrase" meaning="a piece of missing information significant enough that including it would change the reader's interpretation, as distinct from ordinary, unavoidable compression (তাৎপর্যপূর্ণ বাদ পড়া তথ্য)" example="Leaving out that staffing also increased is a material omission in a report crediting automation alone for productivity gains."
+::: vocabulary word="material omission" pos="noun phrase" register="formal" meaning="missing information important enough that including it would change how the reader interprets the text (তাৎপর্যপূর্ণ বাদ পড়া তথ্য)" collocation="a material omission, disclose a material omission, material omission from" example="The prospectus contained a material omission: it did not mention the pending lawsuit."
 :::
 
 ## Guided Reading Practice

@@ -65,10 +65,10 @@ specific word choice in your passage that served that purpose.
 
 ## Vocabulary in Context
 
-::: vocabulary word="concession" pos="noun" meaning="a fair statement of the opposing side's real strength, placed before the writer's own stronger point — স্বীকৃতি" example="The passage opened with a genuine concession before pivoting to its rebuttal."
+::: vocabulary word="concession" pos="noun" register="formal" meaning="a fair statement of the opposing side's real strength, placed before the writer's own stronger point (স্বীকৃতি)" collocation="make a concession, fair concession, concession before the rebuttal" example="The writer's concession, that the pilot was small, makes the rebuttal credible."
 :::
 
-::: vocabulary word="loaded language" pos="noun phrase" meaning="word choice that carries an evaluative charge beyond the plain fact being described — পক্ষপাতদুষ্ট ভাষা" example="'Struggles with' is more loaded than the neutral 'faces challenges,' even describing the same situation."
+::: vocabulary word="loaded language" pos="noun phrase" register="neutral" meaning="word choice that carries an evaluative charge beyond the plain fact being described (পক্ষপাতদুষ্ট ভাষা)" collocation="avoid loaded language, loaded language such as, use loaded language" example="Calling the plan 'reckless' is loaded language; 'unapproved' is neutral."
 :::
 
 ## Model Answer

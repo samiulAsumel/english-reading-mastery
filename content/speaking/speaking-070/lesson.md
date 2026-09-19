@@ -64,10 +64,10 @@ specific point rather than just repeating both facts again.
 
 ## Vocabulary in Context
 
-::: vocabulary word="stress" pos="noun" meaning="extra emphasis given to certain words in speech — জোর" example="Put stress on the word that carries your real point."
+::: vocabulary word="stress" pos="noun" register="neutral" meaning="extra emphasis given to certain words in speech (জোর)" collocation="stress a word, place the stress, word stress" example="Put the stress on 'safety', not on 'speed', if that is your main point."
 :::
 
-::: vocabulary word="what matters is" pos="phrase" meaning="a spoken phrase that directly names the most important point — যা গুরুত্বপূর্ণ তা হলো" example="What matters is not the number of features, but how reliably they work."
+::: vocabulary word="what matters is" pos="phrase" register="neutral" meaning="a spoken phrase that directly names the most important point (যা গুরুত্বপূর্ণ তা হলো)" collocation="what matters is, but what matters is, what really matters is" example="What matters is reliability, not price."
 :::
 
 ## Self-Check

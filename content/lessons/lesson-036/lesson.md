@@ -387,34 +387,34 @@ made?*
 
 ## Vocabulary in Context
 
-::: vocabulary word="polysemy" pos="noun" meaning="a single word having several related meanings (একটি শব্দের একাধিক সম্পর্কিত অর্থ)" example="The word 'head' shows polysemy across 'head of a department' and 'head of a queue.'"
+::: vocabulary word="polysemy" pos="noun" register="technical" meaning="a single word having several related meanings (একটি শব্দের একাধিক সম্পর্কিত অর্থ)" collocation="example of polysemy, lexical polysemy, polysemy in" example="The word 'run' shows polysemy: it can mean operate, manage, or move quickly, depending on context."
 :::
 
-::: vocabulary word="ambiguous" pos="adjective" meaning="capable of being understood in more than one plausible way (দ্ব্যর্থবোধক)" example="'I saw the man with the telescope' is structurally ambiguous."
+::: vocabulary word="ambiguous" pos="adjective" register="formal" meaning="capable of being understood in more than one plausible way (দ্ব্যর্থবোধক)" collocation="ambiguous wording, deliberately ambiguous, ambiguous clause" example="The contract's ambiguous wording about 'reasonable delay' led to a costly dispute."
 :::
 
-::: vocabulary word="collocation" pos="noun" meaning="a natural, frequent word combination whose meaning is best learned as a whole chunk (স্বাভাবিক শব্দ-সংযোগ)" example="'Strong evidence' is a collocation worth learning as a unit, not word by word."
+::: vocabulary word="collocation" pos="noun" register="technical" meaning="a natural, frequent word combination whose meaning is best learned as a whole chunk (স্বাভাবিক শব্দ-সংযোগ)" collocation="common collocation, natural collocation, collocation of" example="'Heavy traffic' is a natural collocation in English, whereas 'strong traffic' sounds wrong."
 :::
 
-::: vocabulary word="apposition" pos="noun" meaning="placing a noun phrase directly beside another to identify or explain it (সমাসাশ্রয়ী ব্যাখ্যা)" example="'Resilience, a process that continues under stress, is essential' defines the term through apposition."
+::: vocabulary word="apposition" pos="noun" register="technical" meaning="placing a noun phrase directly beside another to identify or explain it (সমাসাশ্রয়ী ব্যাখ্যা)" collocation="in apposition, noun in apposition, appositive phrase" example="In 'Mr Hasan, the harbour master, approved the plan', the phrase 'the harbour master' stands in apposition to the name."
 :::
 
-::: vocabulary word="equivocation" pos="noun" meaning="using the same word with two different meanings within one argument, creating a false logical connection (দ্ব্যর্থক শব্দ ব্যবহারজনিত ভ্রান্তি)" example="Shifting 'efficient' from 'fast' to 'cheap' mid-argument is a case of equivocation."
+::: vocabulary word="equivocation" pos="noun" register="technical" meaning="using the same word with two different meanings within one argument, creating a false logical connection (দ্ব্যর্থক শব্দ ব্যবহারজনিত ভ্রান্তি)" collocation="commit equivocation, deliberate equivocation, fallacy of equivocation" example="The argument commits equivocation by using 'security' first to mean safety and then to mean job stability."
 :::
 
-::: vocabulary word="vague" pos="adjective" meaning="having an unclear or imprecise boundary of meaning, without necessarily being ambiguous (অস্পষ্ট/অনির্দিষ্ট)" example="'A large company' is vague — it doesn't specify exactly how large."
+::: vocabulary word="vague" pos="adjective" register="neutral" meaning="having an unclear or imprecise boundary of meaning, without necessarily being ambiguous (অস্পষ্ট/অনির্দিষ্ট)" collocation="vague statement, deliberately vague, vague promise" example="The supplier's promise of delivery 'soon' was too vague to include in the contract."
 :::
 
-::: vocabulary word="infer" pos="verb" meaning="to work out a meaning or conclusion from available clues rather than from a direct statement (অনুমান করা)" example="You can infer 'resilient' means 'able to withstand disruption' from its surrounding context."
+::: vocabulary word="infer" pos="verb" register="formal" meaning="to work out a meaning or conclusion from available clues rather than from a direct statement (অনুমান করা)" collocation="infer from, infer meaning, safely infer" example="From the context, readers can infer that 'demurrage' refers to a charge for delay."
 :::
 
-::: vocabulary word="discipline" pos="noun" meaning="a specific field or branch of academic study, each with its own technical vocabulary (জ্ঞানশাখা)" example="'Significant' carries a technical, statistical meaning within the discipline of research methods."
+::: vocabulary word="discipline" pos="noun" register="formal" meaning="a specific field or branch of academic study, each with its own technical vocabulary (জ্ঞানশাখা)" collocation="academic discipline, across disciplines, in the discipline of" example="The term 'bias' means something different in statistics than in ordinary conversation, because each discipline defines it its own way."
 :::
 
-::: vocabulary word="resilient" pos="adjective" meaning="able to continue functioning or recover quickly despite disruption or difficulty (সহনশীল/স্থিতিস্থাপক)" example="A resilient system can continue operating despite unexpected disruptions."
+::: vocabulary word="resilient" pos="adjective" register="formal" meaning="able to continue functioning or recover quickly despite disruption or difficulty (সহনশীল/স্থিতিস্থাপক)" collocation="resilient system, remain resilient, economic resilience" example="The supply chain proved resilient, recovering within a week of the port closure."
 :::
 
-::: vocabulary word="redundant" pos="adjective" meaning="(in a technical context) additional or duplicate, provided deliberately as a backup (অতিরিক্ত/বিকল্প ব্যবস্থাস্বরূপ)" example="Backup servers are a redundant mechanism that keeps a system running if the primary one fails."
+::: vocabulary word="redundant" pos="adjective" register="technical" meaning="(in a technical context) additional or duplicate, provided deliberately as a backup (অতিরিক্ত/বিকল্প ব্যবস্থাস্বরূপ)" collocation="redundant system, redundant power supply, built-in redundancy" example="The data centre has a redundant power supply, so a single failure will not take it offline."
 :::
 
 ## Guided Reading Practice

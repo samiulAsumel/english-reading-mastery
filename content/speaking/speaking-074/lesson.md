@@ -67,10 +67,10 @@ one." Check that your own verdict names a specific weakness, not a vague
 
 ## Vocabulary in Context
 
-::: vocabulary word="verdict" pos="noun" meaning="a judgment reached after weighing evidence — রায়/সিদ্ধান্ত" example="Her verdict on the evidence was that it was suggestive but not conclusive."
+::: vocabulary word="verdict" pos="noun" register="formal" meaning="a judgment reached after weighing evidence (রায়/সিদ্ধান্ত)" collocation="deliver a verdict, reach a verdict, final verdict" example="My verdict on the evidence: not enough to conclude yet."
 :::
 
-::: vocabulary word="fraction" pos="noun" meaning="a small part of a whole — অংশ" example="Two out of twelve warehouses is a small fraction of the total."
+::: vocabulary word="fraction" pos="noun" register="neutral" meaning="a small part of a whole (অংশ)" collocation="only a fraction, a small fraction, fraction of" example="Only a fraction of drivers replied to the survey."
 :::
 
 ## Self-Check

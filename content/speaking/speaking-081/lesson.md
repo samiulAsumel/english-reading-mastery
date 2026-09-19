@@ -69,10 +69,10 @@ in the same breath as the claim, not as a separate, hesitant add-on.
 
 ## Vocabulary in Context
 
-::: vocabulary word="conditional" pos="adjective" meaning="true only under a certain condition, not universally — শর্তসাপেক্ষ" example="The benefit is conditional on cargo volume."
+::: vocabulary word="conditional" pos="adjective" register="formal" meaning="true only under a certain condition, not universally (শর্তসাপেক্ষ)" collocation="conditional claim, conditional approval, conditional on" example="The thesis is conditional: it holds only for large terminals."
 :::
 
-::: vocabulary word="compress" pos="verb" meaning="to state something long in a much shorter form without losing its meaning — সংক্ষিপ্ত করা" example="Compress the whole book into one sentence."
+::: vocabulary word="compress" pos="verb" register="formal" meaning="to state something long in a much shorter form without losing its meaning (সংক্ষিপ্ত করা)" collocation="compress an explanation, compress into one sentence, compress without losing meaning" example="Compress the book's argument into a single spoken sentence."
 :::
 
 ## Self-Check

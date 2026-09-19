@@ -58,10 +58,10 @@ genuine opinion about it. Label each sentence.
 
 ## Vocabulary in Context
 
-::: vocabulary word="verifiable" pos="adjective" meaning="able to be checked and confirmed as true or false — যাচাইযোগ্য" example="The number of orders processed is verifiable from the system logs."
+::: vocabulary word="verifiable" pos="adjective" register="formal" meaning="able to be checked and confirmed as true or false (যাচাইযোগ্য)" collocation="verifiable fact, easily verifiable, independently verifiable" example="The delivery date is a verifiable fact; 'a poor service' is not."
 :::
 
-::: vocabulary word="value judgment" pos="noun phrase" meaning="a statement about whether something is good, bad, right, or wrong — মূল্যবোধভিত্তিক রায়" example="Whether management 'should have' acted differently is a value judgment, not a fact."
+::: vocabulary word="value judgment" pos="noun phrase" register="formal" meaning="a statement about whether something is good, bad, right, or wrong (মূল্যবোধভিত্তিক রায়)" collocation="make a value judgment, a value judgment about, avoid a value judgment" example="Calling the policy 'unfair' is a value judgment, not a fact."
 :::
 
 ## Model Answer

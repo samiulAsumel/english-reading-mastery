@@ -64,10 +64,10 @@ second sentence's verb immediately.
 
 ## Vocabulary in Context
 
-::: vocabulary word="deadline" pos="noun" meaning="the latest time by which something must be finished — নির্দিষ্ট সময়সীমা" example="Checking the schedule twice a day helps me avoid missing a deadline."
+::: vocabulary word="deadline" pos="noun" register="neutral" meaning="the latest time by which something must be finished (নির্দিষ্ট সময়সীমা)" collocation="meet a deadline, tight deadline, miss the deadline" example="We must meet the deadline for filing the customs declaration."
 :::
 
-::: vocabulary word="avoid" pos="verb" meaning="to stay away from something, or prevent it from happening — এড়ানো" example="I want to avoid missing the deadline this week."
+::: vocabulary word="avoid" pos="verb" register="neutral" meaning="to stay away from something, or prevent it from happening (এড়ানো)" collocation="avoid delays, avoid making, narrowly avoid" example="Pre-booking helps drivers avoid long queues at the gate."
 :::
 
 ## Self-Check

@@ -315,22 +315,22 @@ not.
 
 ## Vocabulary in Context
 
-::: vocabulary word="argument chain" pos="noun phrase" meaning="a sequence of connected ideas — cause, effect, limitation, refinement — that together build one continuous line of reasoning (যুক্তির শৃঙ্খল)" example="Tracking the argument chain revealed that the paragraph's real conclusion depended on a limitation introduced midway through."
+::: vocabulary word="argument chain" pos="noun phrase" register="formal" meaning="a sequence of connected ideas — cause, effect, limitation, refinement — that together build one continuous line of reasoning (যুক্তির শৃঙ্খল)" collocation="follow the argument chain, break in the argument chain, link in the argument chain" example="The report's argument chain runs from rising fuel costs to route changes to longer transit times."
 :::
 
-::: vocabulary word="conceptual reframing" pos="noun phrase" meaning="redefining how a problem or topic should be understood, rather than simply contrasting two options (ধারণাগত পুনর্গঠন)" example="'The problem is not technological but organizational' is conceptual reframing, not a simple contrast."
+::: vocabulary word="conceptual reframing" pos="noun phrase" register="formal" meaning="redefining how a problem or topic should be understood, rather than simply contrasting two options (ধারণাগত পুনর্গঠন)" collocation="offer a conceptual reframing, useful conceptual reframing, conceptual reframing of" example="The consultant's conceptual reframing treated congestion as a scheduling problem, not a capacity problem."
 :::
 
-::: vocabulary word="taken together" pos="phrase" meaning="considering several separate pieces of evidence jointly, to reach one combined interpretation (সব মিলিয়ে বিবেচনা করলে)" example="Taken together, these three findings suggest that training plays a meaningful role in adoption."
+::: vocabulary word="taken together" pos="phrase" register="formal" meaning="considering several separate pieces of evidence jointly, to reach one combined interpretation (সব মিলিয়ে বিবেচনা করলে)" collocation="taken together, the findings, taken together these results" example="Taken together, the three audits point to weak controls in the billing process."
 :::
 
-::: vocabulary word="on balance" pos="phrase" meaning="after weighing all relevant considerations, the overall judgment that results (সব বিবেচনা করে)" example="The system has real limitations, but on balance its benefits outweigh its costs."
+::: vocabulary word="on balance" pos="phrase" register="formal" meaning="after weighing all relevant considerations, the overall judgment that results (সব বিবেচনা করে)" collocation="on balance, judge on balance, on balance favourable" example="On balance, the pilot justified a wider rollout, despite its higher setup cost."
 :::
 
-::: vocabulary word="rather than" pos="phrase" meaning="marking a preferred option or a genuine alternative explanation in place of another (এর পরিবর্তে)" example="The decline may reflect changing consumer behavior rather than a failure of the product itself."
+::: vocabulary word="rather than" pos="phrase" register="neutral" meaning="marking a preferred option or a genuine alternative explanation in place of another (এর পরিবর্তে)" collocation="rather than, focus on X rather than Y, choose X rather than Y" example="The team chose to upgrade the existing cranes rather than buy new ones."
 :::
 
-::: vocabulary word="this does not mean" pos="phrase" meaning="explicitly blocking a specific misreading of the preceding claim (এর অর্থ এই নয় যে)" example="Automation may reduce routine work; this does not mean that human workers become unnecessary."
+::: vocabulary word="this does not mean" pos="phrase" register="neutral" meaning="explicitly blocking a specific misreading of the preceding claim (এর অর্থ এই নয় যে)" collocation="this does not mean that, but this does not mean, this does not necessarily mean" example="Costs fell last quarter; this does not mean the problem is solved."
 :::
 
 ## Guided Reading Practice

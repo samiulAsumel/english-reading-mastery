@@ -60,10 +60,10 @@ and give one concrete example.
 
 ## Vocabulary in Context
 
-::: vocabulary word="boundary" pos="noun" meaning="the line that separates what a concept includes from what it excludes — সীমারেখা" example="Knowing a concept's boundary means knowing what does NOT count as an example of it."
+::: vocabulary word="boundary" pos="noun" register="formal" meaning="the line that separates what a concept includes from what it excludes (সীমারেখা)" collocation="conceptual boundary, clear boundary, boundary between" example="The definition sets a clear boundary between delay and cancellation."
 :::
 
-::: vocabulary word="circular" pos="adjective" meaning="(of a definition) explaining a term using a form of the same word, so nothing is actually explained — চক্রাকার" example="\"Efficiency means being efficient\" is a circular definition."
+::: vocabulary word="circular" pos="adjective" register="formal" meaning="(of a definition) explaining a term using a form of the same word, so nothing is actually explained (চক্রাকার)" collocation="circular definition, circular argument, circular reasoning" example="A circular definition explains 'efficiency' as 'being efficient'."
 :::
 
 ## Model Answer

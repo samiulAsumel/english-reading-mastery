@@ -67,10 +67,10 @@ back unchanged.
 
 ## Vocabulary in Context
 
-::: vocabulary word="scheduling" pos="noun" meaning="the process of planning when things will happen — সময়সূচি নির্ধারণ" example="The introduction of the new scheduling system led to fewer missed deliveries."
+::: vocabulary word="scheduling" pos="noun" register="formal" meaning="the process of planning when things will happen (সময়সূচি নির্ধারণ)" collocation="scheduling conflict, scheduling of, scheduling system" example="A scheduling conflict caused two vessels to arrive for the same berth."
 :::
 
-::: vocabulary word="missed" pos="adjective" meaning="failed to happen, arrive, or be caught at the intended time — মিস হওয়া/হাতছাড়া" example="Missed deliveries dropped sharply after the new system started."
+::: vocabulary word="missed" pos="adjective" register="neutral" meaning="failed to happen, arrive, or be caught at the intended time (মিস হওয়া/হাতছাড়া)" collocation="missed deadline, missed connection, missed opportunity" example="A missed connection at the transhipment port added four days to the journey."
 :::
 
 ## Self-Check

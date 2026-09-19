@@ -60,10 +60,10 @@ claiming caused the next stage as merely sequential.
 
 ## Vocabulary in Context
 
-::: vocabulary word="turning point" pos="noun phrase" meaning="the moment a process changes direction or accelerates — মোড়ঘোরানো মুহূর্ত" example="The turning point came when the port switched to automated gate systems."
+::: vocabulary word="turning point" pos="noun phrase" register="neutral" meaning="the moment a process changes direction or accelerates (মোড়ঘোরানো মুহূর্ত)" collocation="a turning point, mark a turning point, critical turning point" example="The canal closure was the turning point that reshaped shipping routes."
 :::
 
-::: vocabulary word="triggered" pos="verb" meaning="directly caused something to start happening — সূচনা ঘটানো" example="A single equipment failure triggered a full review of the maintenance schedule."
+::: vocabulary word="triggered" pos="verb" register="formal" meaning="directly caused something to start happening (সূচনা ঘটানো)" collocation="triggered by, triggered a review, directly triggered" example="The failed audit triggered a full regulatory review."
 :::
 
 ## Model Answer

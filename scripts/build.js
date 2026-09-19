@@ -70,7 +70,9 @@ function buildVocabulary(publishedByCollection) {
           byWord.set(key, {
             word: attrs.word,
             pos: attrs.pos,
+            register: attrs.register,
             meaning: attrs.meaning,
+            collocation: attrs.collocation,
             example: attrs.example,
             appearsIn: [{ label, href }],
           });

@@ -325,28 +325,28 @@ catching a paragraph's underlying architecture.
 
 ## Vocabulary in Context
 
-::: vocabulary word="rhetorical function" pos="noun phrase" meaning="the job a sentence performs within a paragraph's argument — such as claim, evidence, or concession — as distinct from its grammar or its literal meaning (বাচনিক ভূমিকা)" example="The sentence's rhetorical function was evidence, even though grammatically it was a simple statement of fact."
+::: vocabulary word="rhetorical function" pos="noun phrase" register="technical" meaning="the job a sentence does in an argument, such as claim, evidence, or concession, as distinct from its grammar (বাচনিক ভূমিকা)" collocation="identify the rhetorical function, rhetorical function of, primary rhetorical function" example="The rhetorical function of the final sentence is qualification: it limits the claim."
 :::
 
-::: vocabulary word="rhetorical move" pos="noun phrase" meaning="a deliberate step an author takes to build an argument, such as introducing an objection or offering a rebuttal (বাচনিক পদক্ষেপ)" example="Addressing the counterargument before rebutting it is a common rhetorical move in academic writing."
+::: vocabulary word="rhetorical move" pos="noun phrase" register="technical" meaning="a deliberate step an author takes to build an argument, such as introducing an objection or offering a rebuttal (বাচনিক পদক্ষেপ)" collocation="a rhetorical move, make a rhetorical move, typical rhetorical move" example="Raising an objection and then answering it is a common rhetorical move."
 :::
 
-::: vocabulary word="sentence position" pos="noun phrase" meaning="where a sentence sits within a paragraph — beginning, middle, or end — which often predicts, though never guarantees, its rhetorical role (বাক্যের অবস্থান)" example="Its sentence position at the very end of the paragraph was a strong clue that it carried the conclusion."
+::: vocabulary word="sentence position" pos="noun phrase" register="formal" meaning="where a sentence sits within a paragraph — beginning, middle, or end — which often predicts, though never guarantees, its rhetorical role (বাক্যের অবস্থান)" collocation="sentence position, sentence position in the paragraph, predict from sentence position" example="Sentence position often hints at function: opening sentences frequently state the main claim."
 :::
 
-::: vocabulary word="grammatical function" pos="noun phrase" meaning="a sentence element's syntactic role — subject, object, complement, modifier — as distinct from the rhetorical job the sentence performs in an argument (ব্যাকরণগত ভূমিকা)" example="Its grammatical function was a simple subject-verb-object sentence, despite carrying the paragraph's entire rhetorical turning point."
+::: vocabulary word="grammatical function" pos="noun phrase" register="technical" meaning="a sentence element's syntactic role — subject, object, complement, modifier — as distinct from the rhetorical job the sentence performs in an argument (ব্যাকরণগত ভূমিকা)" collocation="grammatical function, identify the grammatical function, grammatical function of" example="The grammatical function of 'the audit' here is subject, while its rhetorical function is evidence."
 :::
 
-::: vocabulary word="refined position" pos="noun phrase" meaning="a more precise, qualified version of a claim, typically reached at the end of a paragraph or chapter after evidence and counterargument have been addressed (পরিমার্জিত অবস্থান)" example="The chapter's refined position replaced its opening's simple optimism with a claim conditioned on organizational readiness."
+::: vocabulary word="refined position" pos="noun phrase" register="course term" meaning="a more precise, qualified version of a claim, usually reached after evidence and counterarguments have been weighed (পরিমার্জিত অবস্থান)" collocation="reach a refined position, refined position at the end, refined position of" example="The author's refined position is that automation helps only where volumes are high."
 :::
 
-::: vocabulary word="paragraph architecture" pos="noun phrase" meaning="the overall structural pattern a paragraph follows, such as background → claim → evidence → qualification → conclusion (অনুচ্ছেদের গঠনকাঠামো)" example="Mapping the paragraph architecture revealed a clear concession-then-claim pattern building toward its final sentence."
+::: vocabulary word="paragraph architecture" pos="noun phrase" register="formal" meaning="the overall structural pattern a paragraph follows, such as background → claim → evidence → qualification → conclusion (অনুচ্ছেদের গঠনকাঠামো)" collocation="clear paragraph architecture, analyse paragraph architecture, paragraph architecture of" example="The paragraph architecture is background, claim, evidence, then qualification."
 :::
 
-::: vocabulary word="concessive opening" pos="noun phrase" meaning="a paragraph or sentence structure that grants a valid point before stating the author's actual, more important position (ছাড়যুক্ত সূচনা)" example="The concessive opening acknowledged automation's speed benefit before pivoting to its real claim about data dependency."
+::: vocabulary word="concessive opening" pos="noun phrase" register="technical" meaning="a paragraph or sentence structure that grants a valid point before stating the author's actual, more important position (ছাড়যুক্ত সূচনা)" collocation="a concessive opening, begin with a concessive opening, concessive opening such as" example="'Although the cost is high...' is a concessive opening that grants a point before the main claim."
 :::
 
-::: vocabulary word="purpose taxonomy" pos="noun phrase" meaning="a classification of the different jobs a piece of writing can be doing, such as informing, arguing, warning, or recommending (উদ্দেশ্যের শ্রেণিবিভাগ)" example="Running the passage against this lesson's purpose taxonomy showed it shifting from informing to warning within a single page."
+::: vocabulary word="purpose taxonomy" pos="noun phrase" register="course term" meaning="a classification of the different jobs a piece of writing can be doing, such as informing, arguing, warning, or recommending (উদ্দেশ্যের শ্রেণিবিভাগ)" collocation="build a purpose taxonomy, use a purpose taxonomy, purpose taxonomy of" example="A simple purpose taxonomy sorts writing into informing, arguing, warning, and recommending."
 :::
 
 ## Guided Reading Practice

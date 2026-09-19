@@ -582,28 +582,28 @@ from the first version of the claim to the second.
 
 ## Vocabulary in Context
 
-::: vocabulary word="claim refinement" pos="noun phrase" meaning="the process by which an author narrows a broad initial claim into a more precise, conditional one as evidence and complications accumulate (দাবির পরিমার্জন)" example="Claim refinement took the paragraph from 'AI will transform logistics' to 'AI's impact is likely to be substantial but uneven.'"
+::: vocabulary word="claim refinement" pos="noun phrase" register="course term" meaning="the process by which an author narrows a broad initial claim into a more precise, conditional one as evidence and complications accumulate (দাবির পরিমার্জন)" collocation="show claim refinement, gradual claim refinement, claim refinement across" example="Across the report, claim refinement turns 'automation cuts costs' into 'automation cuts costs at high-volume terminals'."
 :::
 
-::: vocabulary word="competing explanation" pos="noun phrase" meaning="an alternative account of what caused an observed result, weighed against the author's initial or preferred explanation (প্রতিদ্বন্দ্বী ব্যাখ্যা)" example="Additional staff training is a competing explanation for the performance improvement, alongside the automation itself."
+::: vocabulary word="competing explanation" pos="noun phrase" register="formal" meaning="an alternative account of what caused an observed result, weighed against the author's initial or preferred explanation (প্রতিদ্বন্দ্বী ব্যাখ্যা)" collocation="consider a competing explanation, rule out a competing explanation, competing explanation for" example="A competing explanation for the fall in bookings is the new fee schedule, not the strike."
 :::
 
-::: vocabulary word="logical entailment" pos="noun phrase" meaning="a conclusion that genuinely, necessarily follows from a stated premise, as distinct from one merely asserted to follow (যৌক্তিক অনিবার্যতা)" example="'It follows that training alone is insufficient' claims logical entailment — worth checking whether the premise actually supports it."
+::: vocabulary word="logical entailment" pos="noun phrase" register="technical" meaning="a conclusion that genuinely, necessarily follows from a stated premise, as distinct from one merely asserted to follow (যৌক্তিক অনিবার্যতা)" collocation="follow by logical entailment, logical entailment of, mere logical entailment" example="That all cranes failed does not logically entail that the power supply was at fault."
 :::
 
-::: vocabulary word="synthesis judgment" pos="noun phrase" meaning="a conclusion formed by weighing multiple pieces of evidence together, signalled by phrases like 'taken together' or 'on balance' (সমন্বিত সিদ্ধান্ত)" example="'Taken together, these findings suggest...' is a synthesis judgment drawing on several separate studies at once."
+::: vocabulary word="synthesis judgment" pos="noun phrase" register="course term" meaning="a conclusion formed by weighing multiple pieces of evidence together, signalled by phrases like 'taken together' or 'on balance' (সমন্বিত সিদ্ধান্ত)" collocation="make a synthesis judgment, reach a synthesis judgment, synthesis judgment on" example="Taken together, the three audits support one synthesis judgment: controls were weak."
 :::
 
-::: vocabulary word="implication" pos="noun" meaning="a consequence that follows from a finding, distinct from the finding itself (তাৎপর্য/পরিণতি)" example="The implication of the training-dependency finding is that technology investment alone may not be enough."
+::: vocabulary word="implication" pos="noun" register="formal" meaning="a consequence that follows from a finding, distinct from the finding itself (তাৎপর্য/পরিণতি)" collocation="practical implication, have implications for, main implication" example="The main implication for managers is that shift handovers need clearer written instructions."
 :::
 
-::: vocabulary word="argument evolution" pos="noun phrase" meaning="the change in an author's claim across a passage, from an initial broad statement to a final, more qualified position (যুক্তির বিবর্তন)" example="Tracking the argument evolution across the chapter revealed the author's real position was much narrower than the opening paragraph suggested."
+::: vocabulary word="argument evolution" pos="noun phrase" register="formal" meaning="the change in an author's claim across a passage, from an initial broad statement to a final, more qualified position (যুক্তির বিবর্তন)" collocation="trace the argument evolution, gradual argument evolution, argument evolution across" example="Argument evolution is visible here: a broad early claim ends as a narrow, conditional recommendation."
 :::
 
-::: vocabulary word="restatement marker" pos="noun phrase" meaning="a phrase like 'in other words' or 'that is' that signals a claim is being rephrased for clarity, not supported with new evidence (পুনর্বিবৃতি নির্দেশক)" example="The restatement marker 'in other words' introduced a plainer version of the same claim, not a new finding."
+::: vocabulary word="restatement marker" pos="noun phrase" register="course term" meaning="a phrase like 'in other words' or 'that is' that signals a claim is being rephrased for clarity, not supported with new evidence (পুনর্বিবৃতি নির্দেশক)" collocation="use a restatement marker, restatement marker such as, common restatement marker" example="'In other words' is a restatement marker: what follows repeats the claim, not new evidence."
 :::
 
-::: vocabulary word="priority shift" pos="noun phrase" meaning="an explicit reordering of which point matters most, typically signalled by 'more importantly' (অগ্রাধিকার পরিবর্তন)" example="'More importantly, it improved consistency' marks a priority shift away from the speed benefit mentioned first."
+::: vocabulary word="priority shift" pos="noun phrase" register="course term" meaning="an explicit reordering of which point matters most, typically signalled by 'more importantly' (অগ্রাধিকার পরিবর্তন)" collocation="signal a priority shift, sudden priority shift, priority shift towards" example="'More importantly' signals a priority shift from cost to safety."
 :::
 
 ## Guided Reading Practice

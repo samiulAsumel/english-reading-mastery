@@ -529,28 +529,28 @@ rejects an expected description.
 
 ## Vocabulary in Context
 
-::: vocabulary word="cleft sentence" pos="noun phrase" meaning="a sentence restructured with 'it is/was… that…' specifically to spotlight one element, without changing the underlying fact (বিভাজিত বাক্য)" example="'It was poor planning that caused the delay' is a cleft sentence spotlighting poor planning as the cause."
+::: vocabulary word="cleft sentence" pos="noun phrase" register="technical" meaning="a sentence restructured with 'it is/was… that…' specifically to spotlight one element, without changing the underlying fact (বিভাজিত বাক্য)" collocation="a cleft sentence, form a cleft sentence, it-cleft sentence" example="'It was the fuel price, not the strike, that ended the contract' is a cleft sentence that stresses the fuel price."
 :::
 
-::: vocabulary word="focus marker" pos="noun phrase" meaning="a word or phrase, such as 'what matters is' or 'the key point is,' that explicitly tells the reader which information to treat as most important (গুরুত্ব নির্দেশক)" example="'What matters is whether the output is reliable' uses a focus marker to override the reader's instinct to focus on speed instead."
+::: vocabulary word="focus marker" pos="noun phrase" register="technical" meaning="a word or phrase, such as 'what matters is' or 'the key point is,' that explicitly tells the reader which information to treat as most important (গুরুত্ব নির্দেশক)" collocation="a focus marker, use a focus marker, signal with a focus marker" example="'What matters is reliability' uses 'what matters is' as a focus marker."
 :::
 
-::: vocabulary word="parallelism" pos="noun" meaning="matching grammatical structure across two linked parts of a sentence, such as both halves of 'not only… but also' (সমান্তরাল গঠন)" example="Broken parallelism in 'not only reduces errors but also the accuracy of reports' makes the sentence harder to parse correctly."
+::: vocabulary word="parallelism" pos="noun" register="formal" meaning="matching grammatical structure across two linked parts of a sentence, such as both halves of 'not only… but also' (সমান্তরাল গঠন)" collocation="grammatical parallelism, maintain parallelism, faulty parallelism" example="'Not only reduces cost but also improves safety' shows parallelism: two matching verb phrases."
 :::
 
-::: vocabulary word="negative inversion" pos="noun phrase" meaning="moving a negative or restrictive adverb (rarely, never, only after) to the front of a sentence for emphasis, which reverses the normal subject-verb order (নেতিবাচক বিপর্যয়)" example="'Rarely do users consider maintenance cost' uses negative inversion to place extra weight on 'rarely.'"
+::: vocabulary word="negative inversion" pos="noun phrase" register="technical" meaning="putting a negative word (rarely, never, only after) first in a sentence, which flips the subject and verb for emphasis (নেতিবাচক বিপর্যয়)" collocation="negative inversion, use negative inversion, sentence with negative inversion" example="'Rarely have inspectors found a fault this early' uses negative inversion for emphasis."
 :::
 
-::: vocabulary word="exclusive claim" pos="noun phrase" meaning="a claim, often signalled by 'only' or 'the only reason,' that names one factor as the sole one, denying any other contributing cause (একচেটিয়া দাবি)" example="'The only reason the project succeeded' is an exclusive claim worth checking critically for other unmentioned factors."
+::: vocabulary word="exclusive claim" pos="noun phrase" register="formal" meaning="a claim, often signalled by 'only' or 'the only reason,' that names one factor as the sole one, denying any other contributing cause (একচেটিয়া দাবি)" collocation="an exclusive claim, make an exclusive claim, challenge an exclusive claim" example="'The only reason for the delay was weather' is an exclusive claim, ruling out every other cause."
 :::
 
-::: vocabulary word="information hierarchy" pos="noun phrase" meaning="the relative importance of different sentences or clauses within a paragraph, from background detail to the author's central point (তথ্যের ক্রমপর্যায়)" example="Mapping the paragraph's information hierarchy revealed its real point sat in the final two sentences, not the first."
+::: vocabulary word="information hierarchy" pos="noun phrase" register="formal" meaning="the relative importance of different sentences or clauses within a paragraph, from background detail to the author's central point (তথ্যের ক্রমপর্যায়)" collocation="the information hierarchy, build an information hierarchy, information hierarchy of" example="The report's information hierarchy places the recommendation first and the supporting data last."
 :::
 
-::: vocabulary word="pseudo-cleft construction" pos="noun phrase" meaning="a focus structure built with 'what,' such as 'what automation does is…,' that spotlights one element the way a cleft sentence does (আধা-বিভাজিত গঠন)" example="'What the system needs is better input data' is a pseudo-cleft construction focusing on the system's requirement."
+::: vocabulary word="pseudo-cleft construction" pos="noun phrase" register="technical" meaning="a focus structure built with 'what,' such as 'what automation does is…,' that spotlights one element the way a cleft sentence does (আধা-বিভাজিত গঠন)" collocation="a pseudo-cleft construction, use a pseudo-cleft construction, pseudo-cleft with 'what'" example="'What the terminal needs is more cranes' is a pseudo-cleft construction that highlights the need."
 :::
 
-::: vocabulary word="rhetorical emphasis" pos="noun phrase" meaning="weight an author gives to part of a claim through word choice, structure, or position, independent of any new factual content (অলংকারিক গুরুত্ব)" example="Fronting 'rarely' for rhetorical emphasis doesn't change the sentence's facts, only how strongly the reader registers them."
+::: vocabulary word="rhetorical emphasis" pos="noun phrase" register="formal" meaning="weight an author gives to part of a claim through word choice, structure, or position, independent of any new factual content (অলংকারিক গুরুত্ব)" collocation="add rhetorical emphasis, strong rhetorical emphasis, rhetorical emphasis on" example="Repeating 'never' three times adds rhetorical emphasis but no new information."
 :::
 
 ## Guided Reading Practice

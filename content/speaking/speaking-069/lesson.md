@@ -66,10 +66,10 @@ good after all."
 
 ## Vocabulary in Context
 
-::: vocabulary word="concede" pos="verb" meaning="to admit a point is true, live, while still defending a larger claim — স্বীকার করা" example="I'll concede that costs went up, but the project is still worth it."
+::: vocabulary word="concede" pos="verb" register="formal" meaning="to admit a point is true, live, while still defending a larger claim (স্বীকার করা)" collocation="concede that, concede a point, willingly concede" example="I concede the pilot was small, but the trend is clear."
 :::
 
-::: vocabulary word="refine" pos="verb" meaning="to make a claim more precise, rather than reversing it — পরিমার্জিত করা" example="The new data doesn't reverse the conclusion, it refines it."
+::: vocabulary word="refine" pos="verb" register="formal" meaning="to make a claim more precise, rather than reversing it (পরিমার্জিত করা)" collocation="refine a claim, refine an argument, further refine" example="Let me refine my earlier claim: it applies only to large terminals."
 :::
 
 ## Self-Check

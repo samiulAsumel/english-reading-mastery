@@ -63,10 +63,10 @@ reader who wants the honest, scoped version — not the marketing one.
 
 ## Vocabulary in Context
 
-::: vocabulary word="qualify" pos="verb" meaning="to limit or add a condition to a claim so it isn't stated too broadly — সীমিত করা" example="The author qualifies the thesis by noting it only holds above a certain cargo volume."
+::: vocabulary word="qualify" pos="verb" register="formal" meaning="to limit or add a condition to a claim so it isn't stated too broadly (সীমিত করা)" collocation="qualify a thesis, carefully qualify, qualify a claim" example="The author qualifies the thesis: it holds only for large terminals."
 :::
 
-::: vocabulary word="scope" pos="noun" meaning="the range of situations a claim is actually meant to cover — পরিসর" example="The thesis's scope is high-volume ports, not every port."
+::: vocabulary word="scope" pos="noun" register="formal" meaning="the range of situations a claim is actually meant to cover (পরিসর)" collocation="scope of, limited scope, clear scope" example="The thesis has a clear scope: container terminals in Asia."
 :::
 
 ## Model Answer

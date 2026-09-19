@@ -384,28 +384,28 @@ claim the passage is actually making.
 
 ## Vocabulary in Context
 
-::: vocabulary word="interpretive jump" pos="noun phrase" meaning="a step in reasoning that moves from evidence to a considerably stronger or broader claim than the evidence alone establishes (ব্যাখ্যামূলক লাফ)" example="Calling a 28% speed gain 'an unequivocal success' is a large interpretive jump past what the data actually shows."
+::: vocabulary word="interpretive jump" pos="noun phrase" register="course term" meaning="a step in reasoning that moves from evidence to a considerably stronger or broader claim than the evidence alone establishes (ব্যাখ্যামূলক লাফ)" collocation="make an interpretive jump, a large interpretive jump, interpretive jump from" example="Concluding that morale collapsed from one resignation is an interpretive jump."
 :::
 
-::: vocabulary word="attributed claim" pos="noun phrase" meaning="a statement explicitly assigned to its source ('researchers found,' 'according to the company') rather than presented as the author's own established fact (আরোপিত দাবি)" example="'According to the vendor' marks this as an attributed claim, not the author's independently verified conclusion."
+::: vocabulary word="attributed claim" pos="noun phrase" register="formal" meaning="a statement credited to its source ('researchers found', 'according to the company') rather than stated as the author's own fact (আরোপিত দাবি)" collocation="an attributed claim, treat as an attributed claim, attributed claim such as" example="'According to the company, costs fell' is an attributed claim, not a proven fact."
 :::
 
-::: vocabulary word="evaluative adjective" pos="noun phrase" meaning="a descriptive word that carries a judgment of quality or worth rather than neutral description, such as 'wisely' or 'reckless' (মূল্যায়নমূলক বিশেষণ)" example="Removing the evaluative adjective from 'a remarkably successful investment' leaves the plain event: 'an investment.'"
+::: vocabulary word="evaluative adjective" pos="noun phrase" register="technical" meaning="a descriptive word that carries a judgment of quality or worth rather than neutral description, such as 'wisely' or 'reckless' (মূল্যায়নমূলক বিশেষণ)" collocation="use an evaluative adjective, loaded evaluative adjective, evaluative adjective such as" example="'Reckless' is an evaluative adjective; 'unapproved' would be a neutral description."
 :::
 
-::: vocabulary word="neutral paraphrase" pos="noun phrase" meaning="a restatement of a sentence with its evaluative or loaded language replaced by plain, descriptive wording (নিরপেক্ষ পুনর্বিবৃতি)" example="A neutral paraphrase of 'the government imposed a harsh regulation' is 'the government introduced a regulation that restricted X.'"
+::: vocabulary word="neutral paraphrase" pos="noun phrase" register="technical" meaning="a restatement of a sentence with its evaluative or loaded language replaced by plain, descriptive wording (নিরপেক্ষ পুনর্বিবৃতি)" collocation="write a neutral paraphrase, provide a neutral paraphrase, neutral paraphrase of" example="A neutral paraphrase of 'the reckless plan' would be 'the plan that lacked safety approval'."
 :::
 
-::: vocabulary word="authorial purpose" pos="noun phrase" meaning="what an author is actually doing in a passage — describing, evaluating, warning, recommending, or predicting — as distinct from the topic itself (লেখকের উদ্দেশ্য)" example="Two passages on the same policy can differ entirely in authorial purpose: one purely descriptive, the other building toward a warning."
+::: vocabulary word="authorial purpose" pos="noun phrase" register="formal" meaning="what an author is actually doing in a passage — describing, evaluating, warning, recommending, or predicting — as distinct from the topic itself (লেখকের উদ্দেশ্য)" collocation="identify the authorial purpose, clear authorial purpose, authorial purpose behind" example="The authorial purpose of the memo is to warn managers, not to describe last year's results."
 :::
 
-::: vocabulary word="inference" pos="noun" meaning="a conclusion reached by reasoning from available evidence, rather than observed directly (অনুসিদ্ধান্ত)" example="'This suggests automation contributed to the improvement' is an inference built on the observed drop in processing time."
+::: vocabulary word="inference" pos="noun" register="formal" meaning="a conclusion reached by reasoning from available evidence, rather than observed directly (অনুসিদ্ধান্ত)" collocation="draw an inference, reasonable inference, inference from" example="A reasonable inference from the gate logs is that most trucks arrived outside their slots."
 :::
 
-::: vocabulary word="recommendation" pos="noun" meaning="the final, most action-oriented stage of an argument, urging a specific decision, and typically requiring the most supporting evidence of any stage (সুপারিশ)" example="The recommendation to deploy company-wide required far more support than the interpretation stage that preceded it."
+::: vocabulary word="recommendation" pos="noun" register="formal" meaning="the final, most action-oriented stage of an argument, urging a specific decision, and typically requiring the most supporting evidence of any stage (সুপারিশ)" collocation="make a recommendation, formal recommendation, recommendation to" example="The audit's main recommendation is that the port introduce independent safety inspections."
 :::
 
-::: vocabulary word="evidence-to-interpretation gap" pos="noun phrase" meaning="the distance between what evidence directly shows and a broader interpretive claim built on top of it (প্রমাণ-থেকে-ব্যাখ্যার ব্যবধান)" example="A satisfaction survey and a claim of 'objectively easier to use' are separated by a real evidence-to-interpretation gap."
+::: vocabulary word="evidence-to-interpretation gap" pos="noun phrase" register="course term" meaning="the distance between what evidence directly shows and a broader interpretive claim built on top of it (প্রমাণ-থেকে-ব্যাখ্যার ব্যবধান)" collocation="an evidence-to-interpretation gap, spot the evidence-to-interpretation gap, evidence-to-interpretation gap between" example="Data showing fewer accidents leaves an evidence-to-interpretation gap if the report credits the new policy without proof."
 :::
 
 ## Guided Reading Practice

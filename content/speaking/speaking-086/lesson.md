@@ -70,10 +70,10 @@ and then reporting the larger study as a separate, unconnected fact.
 
 ## Vocabulary in Context
 
-::: vocabulary word="taken together" pos="phrase" meaning="a spoken signal that separate findings are about to be combined into one conclusion — একত্রে বিবেচনা করলে" example="'Taken together,' she said, 'the two studies point to staff turnover as the real factor.'"
+::: vocabulary word="taken together" pos="phrase" register="formal" meaning="a spoken signal that separate findings are about to be combined into one conclusion (একত্রে বিবেচনা করলে)" collocation="taken together, the findings, taken together these results" example="Taken together, the two reports suggest a link."
 :::
 
-::: vocabulary word="moderating factor" pos="noun phrase" meaning="a condition that changes how strongly, or whether, an effect appears — প্রভাব-নিয়ন্ত্রক উপাদান" example="Staff turnover turned out to be the moderating factor explaining the mismatch between the two studies."
+::: vocabulary word="moderating factor" pos="noun phrase" register="technical" meaning="a condition that changes how strongly, or whether, an effect appears (প্রভাব-নিয়ন্ত্রক উপাদান)" collocation="a moderating factor, key moderating factor, moderating factor such as" example="Experience is a moderating factor: senior staff make fewer errors under pressure."
 :::
 
 ## Self-Check

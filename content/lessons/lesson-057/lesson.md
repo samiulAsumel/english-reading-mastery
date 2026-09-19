@@ -356,25 +356,25 @@ durable in memory.
 
 ## Vocabulary in Context
 
-::: vocabulary word="comprises" pos="verb" meaning="formal for 'consists of' or 'is made up of,' usually presenting a relatively complete composition (গঠিত হওয়া)" example="The platform comprises five major modules working together."
+::: vocabulary word="comprises" pos="verb" register="formal" meaning="formal for 'consists of' or 'is made up of,' usually presenting a relatively complete composition (গঠিত হওয়া)" collocation="comprises of, the group comprises, the report comprises" example="The port authority comprises five departments, including finance, operations, and safety."
 :::
 
-::: vocabulary word="taxonomy" pos="noun" meaning="a systematic, hierarchical classification of concepts or categories (শ্রেণিবিন্যাসবিদ্যা)" example="The book opens with a taxonomy of evidence types, from experimental to anecdotal."
+::: vocabulary word="taxonomy" pos="noun" register="technical" meaning="a systematic, hierarchical classification of concepts or categories (শ্রেণিবিন্যাসবিদ্যা)" collocation="a taxonomy of, develop a taxonomy, classification taxonomy" example="The regulator developed a taxonomy of incident types, from minor spills to major fires."
 :::
 
-::: vocabulary word="meronymy" pos="noun" meaning="a part-to-whole relationship between two terms, distinct from a category-membership relationship (অংশ-সম্পূর্ণ সম্পর্ক)" example="The relationship between 'engine' and 'car' is meronymy, not a type-of relationship."
+::: vocabulary word="meronymy" pos="noun" register="technical" meaning="a part-to-whole relationship between two terms, distinct from a category-membership relationship (অংশ-সম্পূর্ণ সম্পর্ক)" collocation="relation of meronymy, meronymy between, part-whole meronymy" example="'Wheel' and 'car' show meronymy: one is part of the other, not a kind of it."
 :::
 
-::: vocabulary word="mutually exclusive" pos="phrase" meaning="describing categories that do not overlap, so no case belongs to more than one at once (পরস্পর বর্জনশীল)" example="If the classification is mutually exclusive, no system can be both 'manual' and 'automated' simultaneously."
+::: vocabulary word="mutually exclusive" pos="phrase" register="technical" meaning="describing categories that do not overlap, so no case belongs to more than one at once (পরস্পর বর্জনশীল)" collocation="mutually exclusive categories, are mutually exclusive, not mutually exclusive" example="The survey options must be mutually exclusive, so no respondent fits two of them."
 :::
 
-::: vocabulary word="collectively exhaustive" pos="phrase" meaning="describing a set of categories that together cover every relevant case, leaving nothing unclassified (সম্মিলিতভাবে সম্পূর্ণ)" example="The three categories are collectively exhaustive only if no operation falls outside all of them."
+::: vocabulary word="collectively exhaustive" pos="phrase" register="technical" meaning="describing a set of categories that together cover every relevant case, leaving nothing unclassified (সম্মিলিতভাবে সম্পূর্ণ)" collocation="collectively exhaustive categories, mutually exclusive and collectively exhaustive, collectively exhaustive set" example="The categories are collectively exhaustive: every incident fits into at least one of them."
 :::
 
-::: vocabulary word="namely" pos="phrase" meaning="introducing an exact, specific, and complete list of what was just referred to (যথা)" example="The system has three primary constraints, namely cost, latency, and scalability."
+::: vocabulary word="namely" pos="phrase" register="formal" meaning="introducing an exact, specific, and complete list of what was just referred to (যথা)" collocation="namely, three factors, namely, only one requirement, namely" example="Two things drove the delay, namely a late pilot and a crane fault."
 :::
 
-::: vocabulary word="analytical model" pos="noun phrase" meaning="a deliberately simplified representation of reality, built to make analysis or comparison easier (বিশ্লেষণী মডেল)" example="The three-category classification is a useful analytical model, not a perfect description of every real system."
+::: vocabulary word="analytical model" pos="noun phrase" register="technical" meaning="a deliberately simplified representation of reality, built to make analysis or comparison easier (বিশ্লেষণী মডেল)" collocation="build an analytical model, simple analytical model, analytical model of" example="The analyst built a simple model of berth waiting time based on arrival rates and service speed."
 :::
 
 ## Guided Reading Practice

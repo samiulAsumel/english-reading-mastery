@@ -368,31 +368,31 @@ individually.
 
 ## Vocabulary in Context
 
-::: vocabulary word="pose a risk" pos="phrase" meaning="to create or present a danger or difficulty (ঝুঁকি তৈরি করা)" example="Poor data quality poses a significant risk to automated decision-making."
+::: vocabulary word="pose a risk" pos="phrase" register="formal" meaning="to create or present a danger or difficulty (ঝুঁকি তৈরি করা)" collocation="pose a serious risk, pose a threat, pose a challenge" example="Unsecured containers pose a risk to workers in high winds."
 :::
 
-::: vocabulary word="contribute to" pos="phrasal verb" meaning="to be one of several factors producing an outcome, without being the sole cause (অবদান রাখা)" example="Employee training contributed to the improvement, alongside better software."
+::: vocabulary word="contribute to" pos="phrasal verb" register="formal" meaning="to be one of several factors producing an outcome, without being the sole cause (অবদান রাখা)" collocation="contribute to a decline, contribute significantly, contribute to the delay" example="Understaffing contributed to the backlog, though a system fault was the main cause."
 :::
 
-::: vocabulary word="be consistent with" pos="phrase" meaning="to be compatible with a finding or theory, without thereby proving it (সামঞ্জস্যপূর্ণ হওয়া)" example="The results are consistent with previous studies, though they do not confirm the theory outright."
+::: vocabulary word="be consistent with" pos="phrase" register="formal" meaning="to be compatible with a finding or theory, without thereby proving it (সামঞ্জস্যপূর্ণ হওয়া)" collocation="be broadly consistent with, entirely consistent with, consistent with the findings" example="The pattern of damage is consistent with a low-speed impact, but it does not prove one."
 :::
 
-::: vocabulary word="be attributed to" pos="phrase" meaning="to be credited or assigned as at least part of the cause of an outcome (আরোপিত হওয়া)" example="The improvement was partly attributed to better data management."
+::: vocabulary word="be attributed to" pos="phrase" register="formal" meaning="to be credited or assigned as at least part of the cause of an outcome (আরোপিত হওয়া)" collocation="be largely attributed to, wrongly attributed to, attributed to human error" example="The accident was attributed to human error, although the investigation is not finished."
 :::
 
-::: vocabulary word="be subject to" pos="phrase" meaning="to be affected by, or bound by, a stated condition or limitation (সাপেক্ষ হওয়া)" example="The results are subject to several limitations, including a small sample size."
+::: vocabulary word="be subject to" pos="phrase" register="formal" meaning="to be affected by, or bound by, a stated condition or limitation (সাপেক্ষ হওয়া)" collocation="be subject to approval, be subject to change, be subject to inspection" example="All hazardous cargo is subject to inspection before it enters the terminal."
 :::
 
-::: vocabulary word="the extent to which" pos="phrase" meaning="how much, or how far, something is true — leaving the actual degree an open question (কতটা পরিমাণে)" example="The extent to which the policy is effective remains uncertain."
+::: vocabulary word="the extent to which" pos="phrase" register="formal" meaning="how much, or how far, something is true — leaving the actual degree an open question (কতটা পরিমাণে)" collocation="assess the extent to which, the extent to which it applies, depend on the extent to which" example="The review will assess the extent to which each terminal meets the new safety standard."
 :::
 
-::: vocabulary word="on the basis of" pos="phrase" meaning="using something as the foundation or reason for a decision or claim (ভিত্তিতে)" example="The decision was made on the basis of limited evidence."
+::: vocabulary word="on the basis of" pos="phrase" register="formal" meaning="using something as the foundation or reason for a decision or claim (ভিত্তিতে)" collocation="on the basis of evidence, decide on the basis of, on the basis of this data" example="On the basis of the trial results, the board approved a full rollout."
 :::
 
-::: vocabulary word="a number of" pos="phrase" meaning="several, an unspecified but more-than-a-few quantity (বেশ কয়েকটি)" example="A number of factors influence implementation success."
+::: vocabulary word="a number of" pos="phrase" register="formal" meaning="several, an unspecified but more-than-a-few quantity (বেশ কয়েকটি)" collocation="a number of factors, a number of reasons, a number of cases" example="A number of factors contributed to the delay, including weather and staffing."
 :::
 
-::: vocabulary word="lexical bundle" pos="noun phrase" meaning="a fixed, recurring multi-word sequence that functions as a single unit of meaning (শব্দগুচ্ছ)" example="'As a result of' is a lexical bundle meaning 'because of,' not four separately meaningful words."
+::: vocabulary word="lexical bundle" pos="noun phrase" register="technical" meaning="a fixed, recurring multi-word sequence that functions as a single unit of meaning (শব্দগুচ্ছ)" collocation="common lexical bundle, academic lexical bundle, use lexical bundles" example="'On the other hand' and 'as a result of' are lexical bundles that recur constantly in reports."
 :::
 
 ## Guided Reading Practice

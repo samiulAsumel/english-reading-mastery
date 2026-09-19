@@ -61,10 +61,10 @@ sentence explaining exactly what makes sentence 2 an overstatement.
 
 ## Vocabulary in Context
 
-::: vocabulary word="hedge" pos="verb" meaning="to state a claim cautiously, signaling it isn't fully certain — সতর্কভাবে বলা" example="The report hedges by saying the pilot 'suggests' an effect."
+::: vocabulary word="hedge" pos="verb" register="formal" meaning="to state a claim cautiously, signaling it isn't fully certain (সতর্কভাবে বলা)" collocation="hedge a claim, hedge carefully, hedge appropriately" example="Hedge the claim so it matches the strength of the evidence."
 :::
 
-::: vocabulary word="silent strengthening" pos="phrase" meaning="restating a cautious, hedged claim as if it were a confident, established fact — নীরবে দাবি বাড়ানো" example="Calling a 'suggests' finding 'proven' is silent strengthening."
+::: vocabulary word="silent strengthening" pos="phrase" register="course term" meaning="restating a cautious, hedged claim as if it were a confident, established fact (নীরবে দাবি বাড়ানো)" collocation="avoid silent strengthening, guard against silent strengthening, silent strengthening of" example="Silent strengthening occurs when 'may reduce costs' becomes 'reduces costs'."
 :::
 
 ## Model Answer

@@ -65,10 +65,10 @@ Example: "The email that arrived this morning explained the delay."
 
 ## Vocabulary in Context
 
-::: vocabulary word="colleague" pos="noun" meaning="a person you work with — সহকর্মী" example="My colleague who joined last month is already fluent."
+::: vocabulary word="colleague" pos="noun" register="neutral" meaning="a person you work with (সহকর্মী)" collocation="a colleague from, work with colleagues, senior colleague" example="A colleague from the finance team will join the call."
 :::
 
-::: vocabulary word="apologize" pos="verb" meaning="to say sorry for something — ক্ষমা চাওয়া" example="She apologized for the delay as soon as she called."
+::: vocabulary word="apologize" pos="verb" register="neutral" meaning="to say sorry for something (ক্ষমা চাওয়া)" collocation="apologize for, sincerely apologize, apologize to" example="We apologize for the delay in releasing your container."
 :::
 
 ## Self-Check

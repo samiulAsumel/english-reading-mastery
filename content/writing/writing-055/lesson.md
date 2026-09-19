@@ -58,10 +58,10 @@ it doesn't actually prove.
 
 ## Vocabulary in Context
 
-::: vocabulary word="measure" pos="verb" meaning="to state precisely what a number is tracking — পরিমাপ করা" example="Make clear what the number actually measures before drawing any conclusion."
+::: vocabulary word="measure" pos="verb" register="formal" meaning="to state precisely what a number is tracking (পরিমাপ করা)" collocation="measure performance, how it is measured, measure of" example="State clearly what the figure measures: waiting time, not turnaround time."
 :::
 
-::: vocabulary word="overclaim" pos="verb" meaning="to state a conclusion stronger than the evidence actually supports — অতিরিক্ত দাবি করা" example="Don't overclaim — a 5% rise in one month doesn't prove a long-term trend."
+::: vocabulary word="overclaim" pos="verb" register="formal" meaning="to state a conclusion stronger than the evidence actually supports (অতিরিক্ত দাবি করা)" collocation="overclaim the results, risk overclaiming, accused of overclaiming" example="The press release overclaims: six weeks of data cannot prove a permanent saving."
 :::
 
 ## Model Answer

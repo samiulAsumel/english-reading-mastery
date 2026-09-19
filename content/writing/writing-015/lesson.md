@@ -65,10 +65,10 @@ phrase attached to the correct noun.
 
 ## Vocabulary in Context
 
-::: vocabulary word="submit" pos="verb" meaning="to formally hand in or present something, such as a document — জমা দেওয়া" example="The inspector reviewed the report submitted late."
+::: vocabulary word="submit" pos="verb" register="formal" meaning="to formally hand in or present something, such as a document (জমা দেওয়া)" collocation="submit a report, submit for approval, submit by the deadline" example="Applicants must submit the form by Friday."
 :::
 
-::: vocabulary word="route" pos="noun" meaning="the path taken between one place and another — রুট/পথ" example="The driver knows this route well."
+::: vocabulary word="route" pos="noun" register="neutral" meaning="the path taken between one place and another (রুট/পথ)" collocation="shipping route, alternative route, on route" example="The carrier chose a longer route to avoid the storm."
 :::
 
 ## Model Answer

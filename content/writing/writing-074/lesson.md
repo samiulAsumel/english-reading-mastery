@@ -57,10 +57,10 @@ sample, a comparison, a longer time period) that would make it stronger.
 
 ## Vocabulary in Context
 
-::: vocabulary word="sufficient" pos="adjective" meaning="enough to properly support a conclusion — পর্যাপ্ত" example="Three complaints alone are not sufficient evidence of a system-wide decline."
+::: vocabulary word="sufficient" pos="adjective" register="formal" meaning="enough to properly support a conclusion (পর্যাপ্ত)" collocation="sufficient evidence, more than sufficient, not sufficient" example="Three invoices are not sufficient evidence of a pattern."
 :::
 
-::: vocabulary word="representative" pos="adjective" meaning="accurately reflecting the larger group it's drawn from — প্রতিনিধিত্বমূলক" example="A sample of three customers may not be representative of all customers."
+::: vocabulary word="representative" pos="adjective" register="formal" meaning="accurately reflecting the larger group it's drawn from (প্রতিনিধিত্বমূলক)" collocation="representative sample, fully representative, not representative" example="The survey sample was not representative of all drivers."
 :::
 
 ## Model Answer

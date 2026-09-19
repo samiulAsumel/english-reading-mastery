@@ -71,10 +71,10 @@ were testing, not a generic "I wonder why."
 
 ## Vocabulary in Context
 
-::: vocabulary word="counterfactual" pos="adjective" meaning="describing the imagined world where the supposed cause never happened, used to test a causal claim out loud — বাস্তবতা-বিরোধী" example="Asking the counterfactual question live stopped the claim from going unchallenged."
+::: vocabulary word="counterfactual" pos="adjective" register="technical" meaning="describing the imagined world where the supposed cause never happened, used to test a causal claim out loud (বাস্তবতা-বিরোধী)" collocation="counterfactual question, counterfactual scenario, counterfactual reasoning" example="The counterfactual question is: what would waiting times look like without the new gate?"
 :::
 
-::: vocabulary word="regression to the mean" pos="noun phrase" meaning="the tendency for an extreme starting point to drift back toward normal on its own — গড়ের দিকে প্রত্যাবর্তন" example="Mentioning regression to the mean out loud kept the spoken claim honest."
+::: vocabulary word="regression to the mean" pos="noun phrase" register="technical" meaning="the tendency for an extreme starting point to drift back toward normal on its own (গড়ের দিকে প্রত্যাবর্তন)" collocation="due to regression to the mean, explain by regression to the mean, regression to the mean effect" example="An extreme month often looks better next time through regression to the mean."
 :::
 
 ## Self-Check

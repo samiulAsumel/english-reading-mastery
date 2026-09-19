@@ -66,10 +66,10 @@ that a listener wouldn't need to ask "which model do you mean?"
 
 ## Vocabulary in Context
 
-::: vocabulary word="ambiguous" pos="adjective" meaning="capable of being understood in more than one way — দ্ব্যর্থবোধক" example="Said alone, 'model' is ambiguous until the sentence around it narrows it down."
+::: vocabulary word="ambiguous" pos="adjective" register="formal" meaning="capable of being understood in more than one way (দ্ব্যর্থবোধক)" collocation="ambiguous wording, deliberately ambiguous, ambiguous statement" example="'The manager told the clerk he was late' is ambiguous about who was late."
 :::
 
-::: vocabulary word="context clue" pos="noun phrase" meaning="a word or phrase nearby that signals a term's intended meaning — প্রসঙ্গ-সংকেত" example="'Scale' and 'construction' are context clues pointing to the physical sense of 'model.'"
+::: vocabulary word="context clue" pos="noun phrase" register="technical" meaning="a word or phrase nearby that signals a term's intended meaning (প্রসঙ্গ-সংকেত)" collocation="use a context clue, helpful context clue, context clue for" example="The phrase 'after five days' is a context clue that 'demurrage' is a charge for delay."
 :::
 
 ## Self-Check

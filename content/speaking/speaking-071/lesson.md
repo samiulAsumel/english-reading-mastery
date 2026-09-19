@@ -68,10 +68,10 @@ final position.
 
 ## Vocabulary in Context
 
-::: vocabulary word="turning point" pos="noun phrase" meaning="the exact moment in a spoken argument where the claim changes direction — মোড় ঘোরার মুহূর্ত" example="'However' marked the turning point in the middle of the claim."
+::: vocabulary word="turning point" pos="noun phrase" register="neutral" meaning="the exact moment in a spoken argument where the claim changes direction (মোড় ঘোরার মুহূর্ত)" collocation="a turning point, mark a turning point, critical turning point" example="The turning point in my argument is 'however', where I narrow the claim."
 :::
 
-::: vocabulary word="live" pos="adjective" meaning="produced in the moment, without a script or a planning pause — তাৎক্ষণিক" example="Speaking live forces you to narrow the claim without rehearsing it first."
+::: vocabulary word="live" pos="adjective" register="neutral" meaning="produced in the moment, without a script or a planning pause (তাৎক্ষণিক)" collocation="live response, speak live, go live" example="In an interview you must narrow a claim live, with no time to plan."
 :::
 
 ## Self-Check

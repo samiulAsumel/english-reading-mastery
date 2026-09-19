@@ -329,25 +329,25 @@ either a valid bill or an error record.*
 
 ## Vocabulary in Context
 
-::: vocabulary word="mechanism" pos="noun" meaning="the intermediate process through which a cause produces its effect, distinct from the cause and effect themselves (কার্যপ্রণালী)" example="The mechanism behind the efficiency gain was the elimination of repetitive manual entry, not automation in the abstract."
+::: vocabulary word="mechanism" pos="noun" register="technical" meaning="the intermediate process through which a cause produces its effect, distinct from the cause and effect themselves (কার্যপ্রণালী)" collocation="causal mechanism, underlying mechanism, mechanism by which" example="The study proposes a mechanism by which fatigue leads to errors: tired staff skip verification steps."
 :::
 
-::: vocabulary word="trigger" pos="noun" meaning="the immediate event that sets a process or failure in motion, distinct from its deeper root cause (তাৎক্ষণিক সূচনাকারী ঘটনা)" example="The outage's trigger was a network failure, though the root cause was an overloaded electrical circuit."
+::: vocabulary word="trigger" pos="noun" register="technical" meaning="the immediate event that sets a process or failure in motion, distinct from its deeper root cause (তাৎক্ষণিক সূচনাকারী ঘটনা)" collocation="immediate trigger, trigger for, trigger event" example="The immediate trigger of the outage was a software update installed at midnight."
 :::
 
-::: vocabulary word="root cause" pos="noun phrase" meaning="the deeper, underlying condition responsible for a problem, as opposed to its immediate trigger (মূল কারণ)" example="Fixing the trigger without addressing the root cause often allows the same failure to recur."
+::: vocabulary word="root cause" pos="noun phrase" register="technical" meaning="the deeper, underlying condition responsible for a problem, as opposed to its immediate trigger (মূল কারণ)" collocation="root cause analysis, identify the root cause, underlying root cause" example="Root cause analysis showed that the failure began with an untrained operator, not a faulty machine."
 :::
 
-::: vocabulary word="mediate" pos="verb" meaning="to serve as the intermediate pathway through which a cause produces an effect (মধ্যস্থতা করা)" example="Improved system knowledge mediated the relationship between training and performance."
+::: vocabulary word="mediate" pos="verb" register="technical" meaning="to serve as the intermediate pathway through which a cause produces an effect (মধ্যস্থতা করা)" collocation="mediate the effect, mediate between, partly mediated by" example="Job stress may mediate the link between long hours and errors, so hours affect errors partly through stress."
 :::
 
-::: vocabulary word="moderate" pos="verb" meaning="to change the strength of a relationship between two variables, depending on a third condition (প্রভাবের মাত্রা পরিবর্তন করা)" example="Employee experience moderated the effect of automation on productivity."
+::: vocabulary word="moderate" pos="verb" register="technical" meaning="to change the strength of a relationship between two variables, depending on a third condition (প্রভাবের মাত্রা পরিবর্তন করা)" collocation="moderate the effect, moderate the relationship, moderated by" example="Experience moderates the effect of workload: senior staff make fewer errors under pressure."
 :::
 
-::: vocabulary word="fallback" pos="noun" meaning="an alternative resource or path activated automatically when the primary one fails (বিকল্প ব্যবস্থা)" example="If the primary database becomes unavailable, the system switches to a fallback database."
+::: vocabulary word="fallback" pos="noun" register="technical" meaning="an alternative resource or path activated automatically when the primary one fails (বিকল্প ব্যবস্থা)" collocation="fallback option, fallback plan, automatic fallback" example="If the automatic gate fails, staff use a manual fallback that is slower but safe."
 :::
 
-::: vocabulary word="designed to" pos="phrase" meaning="states an intended purpose, which does not by itself prove the outcome was actually achieved (উদ্দেশ্যে তৈরি)" example="The system is designed to reduce errors, though its actual error rate still needs to be measured."
+::: vocabulary word="designed to" pos="phrase" register="neutral" meaning="states an intended purpose, which does not by itself prove the outcome was actually achieved (উদ্দেশ্যে তৈরি)" collocation="be designed to, designed to reduce, designed to prevent" example="The new checklist is designed to reduce errors, though the trial has not yet shown that it does."
 :::
 
 ## Guided Reading Practice

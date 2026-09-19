@@ -197,11 +197,15 @@ function renderFramework(attrs, bodyText, marked) {
 </div>`;
 }
 
+// `register` and `collocation` are optional so older cards keep rendering unchanged.
 function renderVocabulary(attrs) {
-  const { word = '', pos = '', meaning = '', example = '' } = attrs;
+  const { word = '', pos = '', register = '', meaning = '', collocation = '', example = '' } = attrs;
+  const tags = [pos, register].filter(Boolean);
+  const tagsHtml = tags.map((tag) => `<span class="vocab-pos">${escapeHtml(tag)}</span>`).join('');
   return `<div class="vocab-entry">
-  <p class="vocab-word">${escapeHtml(word)}${pos ? `<span class="vocab-pos">${escapeHtml(pos)}</span>` : ''}</p>
+  <p class="vocab-word">${escapeHtml(word)}${tagsHtml}</p>
   <p class="vocab-meaning">${escapeHtml(meaning)}</p>
+  ${collocation ? `<p class="vocab-collocation"><span>Often with</span> ${escapeHtml(collocation)}</p>` : ''}
   ${example ? `<p class="vocab-example">&ldquo;${escapeHtml(example)}&rdquo;</p>` : ''}
 </div>`;
 }

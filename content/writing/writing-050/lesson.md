@@ -60,10 +60,10 @@ write the sentence in Bangla first and translate it.
 
 ## Vocabulary in Context
 
-::: vocabulary word="concede" pos="verb" meaning="to admit that something is true, often before making a different point — স্বীকার করা" example="The sentence concedes that dwell time dropped before making its real claim."
+::: vocabulary word="concede" pos="verb" register="formal" meaning="to admit that something is true, often before making a different point (স্বীকার করা)" collocation="concede that, concede a point, willingly concede" example="The writer concedes that the pilot was small."
 :::
 
-::: vocabulary word="overreach" pos="verb" meaning="to claim more than the evidence actually supports — অতিরিক্ত দাবি করা" example="Adding a qualification stops the claim from overreaching."
+::: vocabulary word="overreach" pos="verb" register="formal" meaning="to claim more than the evidence actually supports (অতিরিক্ত দাবি করা)" collocation="risk overreach, overreach the evidence, avoid overreach" example="To claim the policy works everywhere would overreach the evidence."
 :::
 
 ## Model Answer

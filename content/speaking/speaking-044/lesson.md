@@ -70,10 +70,10 @@ begins.
 
 ## Vocabulary in Context
 
-::: vocabulary word="qualification" pos="noun" meaning="a statement that limits or narrows an earlier, broader claim — শর্তারোপ" example="The spoken qualification stopped the claim from sounding more certain than the evidence allowed."
+::: vocabulary word="qualification" pos="noun" register="formal" meaning="a statement that limits or narrows an earlier, broader claim (শর্তারোপ)" collocation="add a qualification, important qualification, with one qualification" example="I would add one qualification: this applies only to peak season."
 :::
 
-::: vocabulary word="illustration" pos="noun" meaning="a single concrete example, weaker on its own than systematic evidence — দৃষ্টান্ত" example="One warehouse's result is an illustration, not proof, that scanning works everywhere."
+::: vocabulary word="illustration" pos="noun" register="formal" meaning="a single concrete example, weaker on its own than systematic evidence (দৃষ্টান্ত)" collocation="a vivid illustration, illustration of, serve as an illustration" example="One illustration is last month's delayed shipment."
 :::
 
 ## Self-Check

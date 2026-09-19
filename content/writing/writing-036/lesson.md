@@ -58,10 +58,10 @@ unmistakable — don't just rely on the reader guessing correctly.
 
 ## Vocabulary in Context
 
-::: vocabulary word="collocation" pos="noun" meaning="a natural, frequent word pairing whose meaning is learned as a whole chunk — স্বাভাবিক শব্দ-সংযোগ" example="'Strong evidence' is a collocation, not just 'strong' plus 'evidence.'"
+::: vocabulary word="collocation" pos="noun" register="technical" meaning="a natural, frequent word pairing whose meaning is learned as a whole chunk (স্বাভাবিক শব্দ-সংযোগ)" collocation="natural collocation, common collocation, learn a collocation" example="'Heavy traffic' is a natural collocation; 'strong traffic' is not."
 :::
 
-::: vocabulary word="unambiguous" pos="adjective" meaning="having only one possible, clearly intended meaning — দ্ব্যর্থহীন" example="Adding 'financial institution' makes 'bank' unambiguous in that sentence."
+::: vocabulary word="unambiguous" pos="adjective" register="formal" meaning="having only one possible, clearly intended meaning (দ্ব্যর্থহীন)" collocation="unambiguous wording, clear and unambiguous, unambiguous instruction" example="The contract must use unambiguous wording about who pays for storage."
 :::
 
 ## Model Answer

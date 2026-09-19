@@ -337,34 +337,34 @@ one step of this architecture.
 
 ## Vocabulary in Context
 
-::: vocabulary word="qualify" pos="verb" meaning="to limit or add a condition to a claim, making it more precise rather than abandoning it (সীমিত/শর্তসাপেক্ষ করা)" example="Words like 'to some extent' and 'in many cases' qualify an otherwise broad claim."
+::: vocabulary word="qualify" pos="verb" register="formal" meaning="to limit or add a condition to a claim, making it more precise rather than abandoning it (সীমিত/শর্তসাপেক্ষ করা)" collocation="qualify a claim, heavily qualify, qualify a statement" example="The author qualifies the claim by adding that it holds only for container terminals."
 :::
 
-::: vocabulary word="synthesis" pos="noun" meaning="a combination of separate ideas into one overall conclusion or judgment (সমন্বয়/সংশ্লেষণ)" example="'Overall' often introduces a paragraph's final synthesis of everything said before it."
+::: vocabulary word="synthesis" pos="noun" register="formal" meaning="a combination of separate ideas into one overall conclusion or judgment (সমন্বয়/সংশ্লেষণ)" collocation="a synthesis of, produce a synthesis, synthesis of evidence" example="The final chapter offers a synthesis of the three case studies, drawing one overall conclusion."
 :::
 
-::: vocabulary word="condition" pos="noun" meaning="a requirement that must be met for something else to be true or to happen (শর্ত)" example="'Provided that' introduces an explicit condition attached to the main claim."
+::: vocabulary word="condition" pos="noun" register="formal" meaning="a requirement that must be met for something else to be true or to happen (শর্ত)" collocation="on condition that, meet the conditions, necessary condition" example="The loan was approved on condition that the terminal complete its safety upgrade within a year."
 :::
 
-::: vocabulary word="exception" pos="noun" meaning="a case that does not follow the general rule or pattern being described (ব্যতিক্রম)" example="'Except under extreme loads' names a specific exception to an otherwise general claim of reliability."
+::: vocabulary word="exception" pos="noun" register="neutral" meaning="a case that does not follow the general rule or pattern being described (ব্যতিক্রম)" collocation="with the exception of, make an exception, notable exception" example="With the exception of the northern berth, every berth met its productivity target."
 :::
 
-::: vocabulary word="reinforce" pos="verb" meaning="to strengthen a claim or point that has already been made (আরও দৃঢ় করা)" example="'Indeed' typically reinforces the claim in the sentence just before it."
+::: vocabulary word="reinforce" pos="verb" register="formal" meaning="to strengthen a claim or point that has already been made (আরও দৃঢ় করা)" collocation="reinforce the point, reinforce a message, further reinforce" example="The second dataset reinforces the first study's finding that delays cluster around shift changes."
 :::
 
-::: vocabulary word="alternative" pos="noun" meaning="another option that could be chosen instead of the one being discussed (বিকল্প)" example="'Instead' signals that an alternative action was taken in place of the expected one."
+::: vocabulary word="alternative" pos="noun" register="formal" meaning="another option that could be chosen instead of the one being discussed (বিকল্প)" collocation="viable alternative, alternative explanation, alternative to" example="The report considers an alternative explanation: that the drop was caused by weather rather than pricing."
 :::
 
-::: vocabulary word="mechanism" pos="noun" meaning="the process or means by which a cause actually produces its effect (প্রক্রিয়া/কার্যপ্রণালী)" example="'By automating data entry' names the mechanism through which errors decreased."
+::: vocabulary word="mechanism" pos="noun" register="technical" meaning="the process or means by which a cause actually produces its effect (প্রক্রিয়া/কার্যপ্রণালী)" collocation="causal mechanism, underlying mechanism, mechanism for" example="The paper proposes a mechanism by which fatigue leads to data-entry errors."
 :::
 
-::: vocabulary word="concurrent" pos="adjective" meaning="happening at the same time as something else (সমসাময়িক)" example="'Meanwhile' signals a concurrent event happening alongside the one just described."
+::: vocabulary word="concurrent" pos="adjective" register="formal" meaning="happening at the same time as something else (সমসাময়িক)" collocation="concurrent changes, concurrent events, run concurrently" example="Two concurrent price changes make it hard to tell which one reduced demand."
 :::
 
-::: vocabulary word="scope" pos="noun" meaning="the range or extent of people, situations, or conditions that a claim actually covers (পরিধি/সীমা)" example="'At least in the short term' narrows the scope of the claim that follows it."
+::: vocabulary word="scope" pos="noun" register="formal" meaning="the range or extent of people, situations, or conditions that a claim actually covers (পরিধি/সীমা)" collocation="scope of, limited scope, beyond the scope" example="The study's scope is restricted to export cargo, so its findings cannot be applied to imports."
 :::
 
-::: vocabulary word="architecture" pos="noun" meaning="the underlying structure of an argument or paragraph, not just its surface sentences (গঠন/কাঠামো)" example="Mapping a paragraph's connectors reveals its full argument architecture."
+::: vocabulary word="architecture" pos="noun" register="technical" meaning="the underlying structure of an argument or paragraph, not just its surface sentences (গঠন/কাঠামো)" collocation="argument architecture, underlying architecture, architecture of" example="The essay's architecture is simple: one claim, three reasons, and one rebuttal."
 :::
 
 ## Guided Reading Practice

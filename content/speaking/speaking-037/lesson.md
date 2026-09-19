@@ -65,7 +65,7 @@ removed.
 
 ## Vocabulary in Context
 
-::: vocabulary word="appositive" pos="noun" meaning="a noun phrase placed beside another to explain or identify it — ব্যাখ্যামূলক বিশেষ্যপদ" example="Saying 'the engineer, a specialist in automation,' inserts a spoken appositive."
+::: vocabulary word="appositive" pos="noun" register="technical" meaning="a noun phrase placed beside another to explain or identify it (ব্যাখ্যামূলক বিশেষ্যপদ)" collocation="appositive phrase, use an appositive, spoken appositive" example="I said, 'Ms Rahman, our terminal manager, approved it', using an appositive."
 :::
 
 ## Self-Check

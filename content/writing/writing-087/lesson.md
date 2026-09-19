@@ -66,13 +66,13 @@ your head.
 
 ## Vocabulary in Context
 
-::: vocabulary word="removal test" pos="noun phrase" meaning="checking a sentence's importance by mentally deleting it and seeing what breaks — the main idea, the argument, or nothing at all (অপসারণ পরীক্ষা)" example="She ran the removal test on her own third sentence and cut it, since nothing in the paragraph actually depended on it."
+::: vocabulary word="removal test" pos="noun phrase" register="course term" meaning="a way to judge a sentence's importance by imagining it deleted and seeing what, if anything, is lost (অপসারণ পরীক্ষা)" collocation="apply the removal test, use the removal test, removal test for" example="Apply the removal test: if deleting the sentence changes nothing, cut it."
 :::
 
-::: vocabulary word="tangent" pos="noun" meaning="a sentence that relates loosely to the topic but does not actually support the main idea — মূল বিষয় থেকে বিচ্যুতি" example="The sentence about the technology's founding year was a tangent, not real support."
+::: vocabulary word="tangent" pos="noun" register="neutral" meaning="a sentence that relates loosely to the topic but does not actually support the main idea (মূল বিষয় থেকে বিচ্যুতি)" collocation="go off on a tangent, tangent from, brief tangent" example="A sentence about office parking is a tangent in a report on gate delays."
 :::
 
-::: vocabulary word="rhetorical weight" pos="noun phrase" meaning="how much a sentence actually matters to a paragraph's point, regardless of its length or position — বাচনিক গুরুত্ব" example="A short qualifying sentence carried more rhetorical weight than the paragraph's longest, most detailed one."
+::: vocabulary word="rhetorical weight" pos="noun phrase" register="formal" meaning="how much a sentence actually matters to a paragraph's point, regardless of its length or position (বাচনিক গুরুত্ব)" collocation="carry rhetorical weight, greater rhetorical weight, rhetorical weight of" example="A short concluding sentence can carry more rhetorical weight than a long paragraph."
 :::
 
 ## Model Answer

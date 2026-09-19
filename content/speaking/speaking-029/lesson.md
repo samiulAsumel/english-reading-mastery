@@ -69,10 +69,10 @@ sentence — the alternative explanation has to actually get spoken.
 
 ## Vocabulary in Context
 
-::: vocabulary word="mechanism" pos="noun" meaning="how a cause actually produces its effect, spoken aloud rather than just asserted — প্রক্রিয়া" example="Saying 'by letting drivers reserve slots' names the mechanism instead of just claiming the app helped."
+::: vocabulary word="mechanism" pos="noun" register="technical" meaning="how a cause actually produces its effect, spoken aloud rather than just asserted (প্রক্রিয়া)" collocation="causal mechanism, underlying mechanism, mechanism by which" example="The mechanism is simple: fatigue leads to skipped checks, and skipped checks lead to errors."
 :::
 
-::: vocabulary word="alternative explanation" pos="noun phrase" meaning="another possible cause for the same effect, voiced honestly instead of ignored — বিকল্প ব্যাখ্যা" example="Naming the extra lane as an alternative explanation kept the spoken claim honest."
+::: vocabulary word="alternative explanation" pos="noun phrase" register="formal" meaning="another possible cause for the same effect, voiced honestly instead of ignored (বিকল্প ব্যাখ্যা)" collocation="offer an alternative explanation, consider an alternative explanation, plausible alternative explanation" example="One alternative explanation is that volumes fell because of the weather."
 :::
 
 ## Self-Check

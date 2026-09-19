@@ -63,10 +63,10 @@ three distinct parts, and a short phrase naming each part's job.
 
 ## Vocabulary in Context
 
-::: vocabulary word="preview" pos="verb" meaning="to give a short outline of something before covering it in full — পূর্বরূপ দেখানো" example="Preview the structure before you explain any of the content."
+::: vocabulary word="preview" pos="verb" register="neutral" meaning="to give a short outline of something before covering it in full (পূর্বরূপ দেখানো)" collocation="preview the structure, give a preview, preview of" example="I will preview my answer in one sentence before I explain."
 :::
 
-::: vocabulary word="structure" pos="noun" meaning="the way something is organized into parts — কাঠামো" example="Naming the structure first helps a listener follow what comes next."
+::: vocabulary word="structure" pos="noun" register="neutral" meaning="the way something is organized into parts (কাঠামো)" collocation="clear structure, structure of, organise the structure" example="A clear structure helps the listener follow a long explanation."
 :::
 
 ## Self-Check

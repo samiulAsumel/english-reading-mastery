@@ -68,10 +68,10 @@ example all show up, live, in under thirty seconds.
 
 ## Vocabulary in Context
 
-::: vocabulary word="anchor" pos="verb" meaning="to make an abstract idea concrete by attaching it to a specific example — সুনির্দিষ্ট উদাহরণ দিয়ে বাঁধা" example="One good example anchors an abstract definition in something real."
+::: vocabulary word="anchor" pos="verb" register="neutral" meaning="to make an abstract idea concrete by attaching it to a specific example (সুনির্দিষ্ট উদাহরণ দিয়ে বাঁধা)" collocation="anchor an idea, anchor to, anchor with an example" example="I anchor the abstract idea of 'delay' with the example of last Tuesday's berth clash."
 :::
 
-::: vocabulary word="confused with" pos="phrase" meaning="mistaken for something else because the two seem similar — বিভ্রান্ত হওয়া" example="Latency is often confused with bandwidth, but they measure different things."
+::: vocabulary word="confused with" pos="phrase" register="neutral" meaning="mistaken for something else because the two seem similar (বিভ্রান্ত হওয়া)" collocation="be confused with, easily confused with, often confused with" example="'Delay' is often confused with 'cancellation', but they are different."
 :::
 
 ## Self-Check

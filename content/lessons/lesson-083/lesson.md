@@ -413,28 +413,28 @@ contradiction worth flagging as a real weakness in the argument.
 
 ## Vocabulary in Context
 
-::: vocabulary word="argument state" pos="noun phrase" meaning="a claim's current position in its development sequence — initial, supported, challenged, qualified, refined, conditional, or final — at a given point in a text (যুক্তির অবস্থা)" example="By chapter 6, the claim's argument state had moved from 'challenged' to 'qualified,' though it wasn't yet final."
+::: vocabulary word="argument state" pos="noun phrase" register="course term" meaning="where a claim stands in its development at a given point: initial, supported, challenged, qualified, or final (যুক্তির অবস্থা)" collocation="the argument state, track the argument state, current argument state" example="At the end of chapter three, the claim's argument state is 'qualified': it now holds only for large terminals."
 :::
 
-::: vocabulary word="claim trajectory" pos="noun phrase" meaning="the path a single claim's wording takes across a book, tracked across all its separate restatements rather than at one point alone (দাবির গতিপথ)" example="The claim trajectory moved from 'clearly demonstrates' to 'cannot be established conclusively' — a genuine weakening, not a contradiction."
+::: vocabulary word="claim trajectory" pos="noun phrase" register="formal" meaning="the path a single claim's wording takes across a book, tracked across all its separate restatements rather than at one point alone (দাবির গতিপথ)" collocation="trace the claim trajectory, claim trajectory across, claim trajectory of" example="The claim trajectory runs from 'automation cuts costs' to 'automation cuts costs under specific conditions'."
 :::
 
-::: vocabulary word="evidence effect" pos="noun phrase" meaning="the specific way a piece of evidence changes an argument — supporting, complicating, limiting, contradicting, or reframing it — rather than simply strengthening it (প্রমাণের প্রভাব)" example="The maintenance-cost data's evidence effect was to complicate the claim, not support or refute it outright."
+::: vocabulary word="evidence effect" pos="noun phrase" register="course term" meaning="the way a piece of evidence changes an argument: supporting, complicating, limiting, contradicting, or reframing it (প্রমাণের প্রভাব)" collocation="assess the evidence effect, evidence effect of, identify the evidence effect" example="The evidence effect of the second study was to limit the claim, not to strengthen it."
 :::
 
-::: vocabulary word="genuine contradiction" pos="noun phrase" meaning="two claims that cannot both be true under any reading, as distinct from a broad claim later qualified by a narrower one (প্রকৃত পরস্পরবিরোধিতা)" example="'Automation always reduces costs' and 'automation never reduces costs' would be a genuine contradiction; a narrowing claim would not."
+::: vocabulary word="genuine contradiction" pos="noun phrase" register="formal" meaning="two claims that cannot both be true under any reading, as distinct from a broad claim later qualified by a narrower one (প্রকৃত পরস্পরবিরোধিতা)" collocation="a genuine contradiction, resolve a genuine contradiction, appear to be a genuine contradiction" example="Saying costs both fell and rose in the same year would be a genuine contradiction."
 :::
 
-::: vocabulary word="quantifier shift" pos="noun phrase" meaning="a change in a claim's quantifier — such as from 'all' to 'most' to 'some' — across its restatements, signalling growing caution (পরিমাণবাচক পরিবর্তন)" example="The quantifier shift from 'all operations' to 'selected operations under appropriate conditions' marked a considerably more cautious final claim."
+::: vocabulary word="quantifier shift" pos="noun phrase" register="course term" meaning="a change in a claim's quantifier — such as from 'all' to 'most' to 'some' — across its restatements, signalling growing caution (পরিমাণবাচক পরিবর্তন)" collocation="a quantifier shift, notice a quantifier shift, quantifier shift from all to most" example="A quantifier shift from 'all' to 'most' shows the author growing more cautious."
 :::
 
-::: vocabulary word="causal strength shift" pos="noun phrase" meaning="a change in the strength of causal language used for the same claim — such as from 'causes' to 'may partly explain' — across a text (কার্যকারণ শক্তির পরিবর্তন)" example="The causal strength shift from 'causes' to 'is associated with' suggested the evidence hadn't fully supported the stronger claim."
+::: vocabulary word="causal strength shift" pos="noun phrase" register="course term" meaning="a change in the strength of causal language used for the same claim — such as from 'causes' to 'may partly explain' — across a text (কার্যকারণ শক্তির পরিবর্তন)" collocation="a causal strength shift, notice a causal strength shift, causal strength shift from" example="A causal strength shift, from 'causes' to 'may partly explain', signals weaker evidence."
 :::
 
-::: vocabulary word="argument journey" pos="noun phrase" meaning="the full sequence of stages a central claim passes through across a book, from its first statement to its final, most precise form (যুক্তির যাত্রা)" example="Mapping the argument journey revealed nine distinct stages between the book's opening claim and its final, conditional position."
+::: vocabulary word="argument journey" pos="noun phrase" register="formal" meaning="the full sequence of stages a central claim passes through across a book, from its first statement to its final, most precise form (যুক্তির যাত্রা)" collocation="trace the argument journey, argument journey of, complete argument journey" example="The argument journey runs from a bold opening claim to a cautious, conditional conclusion."
 :::
 
-::: vocabulary word="conditional final position" pos="noun phrase" meaning="an author's end-of-book claim stated as holding only under specified conditions, rather than as an unconditional, universal statement (শর্তাধীন চূড়ান্ত অবস্থান)" example="The book's conditional final position limited its productivity claim to structured tasks under appropriate implementation conditions."
+::: vocabulary word="conditional final position" pos="noun phrase" register="formal" meaning="an author's end-of-book claim stated as holding only under specified conditions, rather than as an unconditional, universal statement (শর্তাধীন চূড়ান্ত অবস্থান)" collocation="reach a conditional final position, conditional final position of, state a conditional final position" example="The book's conditional final position is that automation pays off only above a certain volume."
 :::
 
 ## Guided Reading Practice

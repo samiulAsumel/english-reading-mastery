@@ -62,10 +62,10 @@ named criterion.
 
 ## Vocabulary in Context
 
-::: vocabulary word="necessary condition" pos="noun phrase" meaning="something required for an outcome, though it may not guarantee it on its own — আবশ্যক শর্ত" example="A verified account is a necessary condition for withdrawal, though it does not by itself guarantee approval."
+::: vocabulary word="necessary condition" pos="noun phrase" register="technical" meaning="something required for an outcome, though it may not guarantee it on its own (আবশ্যক শর্ত)" collocation="a necessary condition, necessary but not sufficient, necessary condition for" example="A valid licence is a necessary condition for operating a crane."
 :::
 
-::: vocabulary word="criterion" pos="noun" meaning="the single standard used to judge or classify something — মাপকাঠি" example="The classification criterion here is response time, not cost."
+::: vocabulary word="criterion" pos="noun" register="formal" meaning="the single standard used to judge or classify something (মাপকাঠি)" collocation="classification criterion, meet the criterion, single criterion" example="Reliability was the criterion used to rank the suppliers."
 :::
 
 ## Model Answer

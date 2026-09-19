@@ -58,10 +58,10 @@ the meaning is verifiably unchanged.
 
 ## Vocabulary in Context
 
-::: vocabulary word="appositive" pos="noun" meaning="a noun phrase placed beside another to explain or identify it — ব্যাখ্যামূলক বিশেষ্যপদ" example="'Dhaka, the capital of Bangladesh,' identifies Dhaka through an appositive."
+::: vocabulary word="appositive" pos="noun" register="technical" meaning="a noun phrase placed beside another to explain or identify it (ব্যাখ্যামূলক বিশেষ্যপদ)" collocation="appositive phrase, use an appositive, noun appositive" example="'Ms Rahman, the terminal manager, signed the order' uses an appositive."
 :::
 
-::: vocabulary word="inversion" pos="noun" meaning="reversing normal subject-verb word order, usually for emphasis — শব্দক্রম বিপরীতকরণ" example="'Rarely does the system fail' uses inversion for emphasis."
+::: vocabulary word="inversion" pos="noun" register="technical" meaning="reversing normal subject-verb word order, usually for emphasis (শব্দক্রম বিপরীতকরণ)" collocation="use inversion, negative inversion, inversion for emphasis" example="'Rarely does a fault appear this early' uses inversion for emphasis."
 :::
 
 ## Model Answer

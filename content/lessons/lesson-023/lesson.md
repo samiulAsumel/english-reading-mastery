@@ -560,34 +560,34 @@ shallow to genuinely deep.
 
 ## Vocabulary in Context
 
-::: vocabulary word="cohesion" pos="noun" meaning="the grammatical and lexical links that hold a text's sentences together (সংযুক্তি/সংহতি)" example="Pronouns, synonyms, and nominalization all contribute to a paragraph's cohesion."
+::: vocabulary word="cohesion" pos="noun" register="technical" meaning="the grammatical and lexical links that hold a text's sentences together (সংযুক্তি/সংহতি)" collocation="lexical cohesion, textual cohesion, sense of cohesion" example="The report lacks cohesion; its paragraphs read as separate notes rather than one argument."
 :::
 
-::: vocabulary word="coherence" pos="noun" meaning="the logical connection between a text's ideas, separate from its grammatical links (যৌক্তিক ধারাবাহিকতা)" example="A paragraph can have strong cohesion without necessarily having clear coherence."
+::: vocabulary word="coherence" pos="noun" register="formal" meaning="the logical connection between a text's ideas, separate from its grammatical links (যৌক্তিক ধারাবাহিকতা)" collocation="logical coherence, lack of coherence, coherent argument" example="Although each sentence was grammatical, the memo lacked coherence, and readers could not follow its logic."
 :::
 
-::: vocabulary word="synonym" pos="noun" meaning="a word closely related in meaning to another, often used to avoid repeating the same word (সমার্থক শব্দ)" example="Company, organization, and business function as loose synonyms within this paragraph."
+::: vocabulary word="synonym" pos="noun" register="technical" meaning="a word closely related in meaning to another, often used to avoid repeating the same word (সমার্থক শব্দ)" collocation="a synonym for, close synonym, use a synonym" example="The writer used 'shipment' and 'consignment' as synonyms to avoid repeating the same word."
 :::
 
-::: vocabulary word="nominalization" pos="noun" meaning="a noun formed from a verb or adjective, often used to carry an earlier action into a new sentence (ক্রিয়া থেকে গঠিত বিশেষ্য)" example="Analyzed becomes analysis, which the next sentence can then refer back to directly."
+::: vocabulary word="nominalization" pos="noun" register="technical" meaning="a noun formed from a verb or adjective, often used to carry an earlier action into a new sentence (ক্রিয়া থেকে গঠিত বিশেষ্য)" collocation="use nominalization, heavy nominalization, nominalization of a verb" example="The regulator's report relied on nominalization, turning 'delays occurred' into 'the occurrence of delays'."
 :::
 
-::: vocabulary word="capability" pos="noun" meaning="the power or ability to do a particular thing (সক্ষমতা)" example="These capabilities may help companies improve planning and reduce delays."
+::: vocabulary word="capability" pos="noun" register="formal" meaning="the power or ability to do a particular thing (সক্ষমতা)" collocation="technical capability, develop capability, capability to" example="The upgrade gives the terminal the capability to handle the largest container ships."
 :::
 
-::: vocabulary word="disruption" pos="noun" meaning="an event that interrupts a normal process or system (বিঘ্ন/ব্যাঘাত)" example="AI systems can help identify potential disruptions before they affect operations."
+::: vocabulary word="disruption" pos="noun" register="formal" meaning="an event that interrupts a normal process or system (বিঘ্ন/ব্যাঘাত)" collocation="supply chain disruption, cause disruption, minimise disruption" example="The cyberattack caused major disruption to cargo release for three days."
 :::
 
-::: vocabulary word="adoption" pos="noun" meaning="the act of starting to use something new, such as a technology or practice (গ্রহণ/অবলম্বন)" example="Successful AI adoption involves more than simply purchasing new software."
+::: vocabulary word="adoption" pos="noun" register="formal" meaning="the act of starting to use something new, such as a technology or practice (গ্রহণ/অবলম্বন)" collocation="widespread adoption, adoption of, rate of adoption" example="Adoption of the electronic bill of lading has been slow among smaller freight forwarders."
 :::
 
-::: vocabulary word="engagement" pos="noun" meaning="active involvement or interest in something (সম্পৃক্ততা)" example="The expansion of online courses created challenges related to student engagement."
+::: vocabulary word="engagement" pos="noun" register="formal" meaning="active involvement or interest in something (সম্পৃক্ততা)" collocation="stakeholder engagement, level of engagement, employee engagement" example="Stakeholder engagement improved after the port began holding quarterly briefings for shipping agents."
 :::
 
-::: vocabulary word="stability" pos="noun" meaning="the state of being steady and not easily disrupted or changed (স্থিতিশীলতা)" example="Additional testing and updates improved the system's stability."
+::: vocabulary word="stability" pos="noun" register="formal" meaning="the state of being steady and not easily disrupted or changed (স্থিতিশীলতা)" collocation="political stability, financial stability, ensure stability" example="Long-term contracts give the terminal revenue stability during slow trading periods."
 :::
 
-::: vocabulary word="arrangement" pos="noun" meaning="a plan or way of organizing something, often used to relabel a situation just described (ব্যবস্থা/আয়োজন)" example="This arrangement can provide greater flexibility, but it may also reduce face-to-face interaction."
+::: vocabulary word="arrangement" pos="noun" register="formal" meaning="a plan or way of organizing something, often used to relabel a situation just described (ব্যবস্থা/আয়োজন)" collocation="contractual arrangement, make arrangements, working arrangement" example="Under the new arrangement, the agent handles documentation while the carrier manages the cargo."
 :::
 
 ## Guided Reading Practice

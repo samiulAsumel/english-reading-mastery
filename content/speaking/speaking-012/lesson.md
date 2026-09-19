@@ -62,7 +62,7 @@ fine. What matters is the structure: past simple in the if-clause,
 
 ## Vocabulary in Context
 
-::: vocabulary word="extra" pos="adjective" meaning="more than what is usual or expected — অতিরিক্ত" example="If I had an extra hour every day, I would learn something new."
+::: vocabulary word="extra" pos="adjective" register="neutral" meaning="more than what is usual or expected (অতিরিক্ত)" collocation="extra charge, extra time, extra cost" example="If the vessel misses the tide, there will be an extra charge."
 :::
 
 ## Self-Check

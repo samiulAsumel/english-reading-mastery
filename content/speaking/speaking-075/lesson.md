@@ -67,10 +67,10 @@ just "it sounds more accurate."
 
 ## Vocabulary in Context
 
-::: vocabulary word="stake" pos="noun" meaning="a personal or financial interest in a particular outcome — স্বার্থ" example="The vendor has a stake in the results looking as good as possible."
+::: vocabulary word="stake" pos="noun" register="neutral" meaning="a personal or financial interest in a particular outcome (স্বার্থ)" collocation="have a stake in, high stakes, financial stake" example="The vendor has a stake in the result, so treat its claim with care."
 :::
 
-::: vocabulary word="tracker" pos="noun" meaning="an independent system or organization that monitors and measures something over time — পর্যবেক্ষক সংস্থা" example="An independent tracker recorded a smaller improvement than the company claimed."
+::: vocabulary word="tracker" pos="noun" register="technical" meaning="an independent system or organization that monitors and measures something over time (পর্যবেক্ষক সংস্থা)" collocation="independent tracker, cargo tracker, performance tracker" example="An independent tracker records vessel delays at every port."
 :::
 
 ## Self-Check

@@ -368,25 +368,25 @@ sentence.
 
 ## Vocabulary in Context
 
-::: vocabulary word="obvious" pos="adjective" meaning="easy to see or understand; clear (স্পষ্ট)" example="The connection between the two events was not obvious at first."
+::: vocabulary word="obvious" pos="adjective" register="neutral" meaning="easy to see or understand without explanation (স্পষ্ট)" collocation="obvious choice, painfully obvious, an obvious reason" example="Given its deep-water access, the northern site was the obvious choice for the new terminal."
 :::
 
-::: vocabulary word="likely" pos="adjective" meaning="probable; expected to happen (সম্ভাব্য)" example="People with more experience are likely to make faster decisions."
+::: vocabulary word="likely" pos="adjective" register="neutral" meaning="probable; expected to happen (সম্ভাব্য)" collocation="highly likely, likely to, most likely" example="Cargo owners are likely to switch carriers if delays continue through the summer."
 :::
 
-::: vocabulary word="potential" pos="adjective" meaning="possible, though not yet certain or realized (সম্ভাব্য/সম্ভাবনাময়)" example="Researchers identified several potential causes of the problem."
+::: vocabulary word="potential" pos="adjective" register="formal" meaning="possible in the future, but not yet certain or real (সম্ভাব্য/সম্ভাবনাময়)" collocation="potential risk, potential customer, potential for" example="The risk register lists supplier failure as a potential threat to the project timeline."
 :::
 
-::: vocabulary word="considerable" pos="adjective" meaning="large in amount or degree (যথেষ্ট/উল্লেখযোগ্য)" example="The study required a considerable amount of time."
+::: vocabulary word="considerable" pos="adjective" register="formal" meaning="large in amount, size, or degree (যথেষ্ট/উল্লেখযোগ্য)" collocation="considerable effort, considerable amount, considerable savings" example="Moving to cloud hosting produced considerable savings on data-centre costs."
 :::
 
-::: vocabulary word="demonstrate" pos="verb" meaning="to show clearly that something is true (প্রদর্শন করা/প্রমাণ করা)" example="The results clearly demonstrate a consistent pattern."
+::: vocabulary word="demonstrate" pos="verb" register="formal" meaning="to show clearly that something is true or possible (প্রদর্শন করা/প্রমাণ করা)" collocation="clearly demonstrate, demonstrate the ability, demonstrate that" example="The pilot demonstrated that automated lashing could be done safely at full operating speed."
 :::
 
-::: vocabulary word="observe" pos="verb" meaning="to notice or watch something carefully (পর্যবেক্ষণ করা)" example="This behavior is rarely observed outside laboratory conditions."
+::: vocabulary word="observe" pos="verb" register="formal" meaning="to notice something by watching carefully (পর্যবেক্ষণ করা)" collocation="observe a trend, closely observe, be observed" example="Analysts observed a steady rise in transhipment volumes throughout the second half of the year."
 :::
 
-::: vocabulary word="significant" pos="adjective" meaning="large or important enough to be worth noting (উল্লেখযোগ্য)" example="The researchers found a significant improvement in performance."
+::: vocabulary word="significant" pos="adjective" register="formal" meaning="large or important enough to be worth noting (উল্লেখযোগ্য)" collocation="significant increase, statistically significant, significant impact" example="The audit found a significant gap between the recorded and the actual container inventory."
 :::
 
 ::: note title="Learn these as whole chunks"

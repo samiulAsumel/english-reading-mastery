@@ -62,10 +62,10 @@ flowing as one paragraph, not a list of separate combined pairs.
 
 ## Vocabulary in Context
 
-::: vocabulary word="colleague" pos="noun" meaning="a person you work with — সহকর্মী" example="The colleague who joined last month already handles the busiest route."
+::: vocabulary word="colleague" pos="noun" register="neutral" meaning="a person you work with (সহকর্মী)" collocation="a colleague from, work with colleagues, senior colleague" example="A colleague from the finance team will join the review."
 :::
 
-::: vocabulary word="flag" pos="verb" meaning="to mark something as needing attention (ত্রুটি চিহ্নিত করা)" example="She flagged the shipment that arrived without paperwork."
+::: vocabulary word="flag" pos="verb" register="neutral" meaning="to mark something as needing attention (ত্রুটি চিহ্নিত করা)" collocation="flag an issue, flag a risk, flag for review" example="The audit flagged three invoices for review."
 :::
 
 ## Model Answer

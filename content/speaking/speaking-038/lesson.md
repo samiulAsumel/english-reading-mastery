@@ -65,7 +65,7 @@ difficulty — concession plus persistence, not just contrast.
 
 ## Vocabulary in Context
 
-::: vocabulary word="concession" pos="noun" meaning="acknowledging a point against your position before continuing to hold it — ছাড়/স্বীকৃতি" example="Saying 'nevertheless' out loud signals concession plus persistence."
+::: vocabulary word="concession" pos="noun" register="formal" meaning="acknowledging a point against your position before continuing to hold it (ছাড়/স্বীকৃতি)" collocation="make a concession, partial concession, concession before the main point" example="My concession is that the pilot was small; my point is that the trend is clear."
 :::
 
 ## Self-Check

@@ -795,28 +795,28 @@ fully, unintended consequence, remaining limitation
 
 ## Vocabulary in Context
 
-::: vocabulary word="root cause" pos="noun phrase" meaning="the deepest, underlying source of a problem, as distinct from its symptom or immediate cause (মূল কারণ)" example="The immediate cause was outdated tariff data, but the root cause was that no one owned responsibility for the database."
+::: vocabulary word="root cause" pos="noun phrase" register="technical" meaning="the deepest, underlying source of a problem, as distinct from its symptom or immediate cause (মূল কারণ)" collocation="root cause analysis, identify the root cause, underlying root cause" example="Root cause analysis showed that the delays began with a shortage of trained operators."
 :::
 
-::: vocabulary word="bottleneck" pos="noun" meaning="a single point in a process that restricts the flow or capacity of the entire system (সংকীর্ণ বিন্দু)" example="Manual document verification became a bottleneck that slowed the whole billing process."
+::: vocabulary word="bottleneck" pos="noun" register="neutral" meaning="a single point in a process that restricts the flow or capacity of the entire system (সংকীর্ণ বিন্দু)" collocation="a bottleneck in, cause a bottleneck, remove a bottleneck" example="The customs inspection lane is the bottleneck that limits how fast containers leave the port."
 :::
 
-::: vocabulary word="trade-off" pos="noun" meaning="a situation in which gaining a benefit in one dimension requires sacrificing something in another (বিনিময়/ছাড়)" example="There is a trade-off between processing speed and system flexibility."
+::: vocabulary word="trade-off" pos="noun" register="neutral" meaning="a situation in which gaining a benefit in one dimension requires sacrificing something in another (বিনিময়/ছাড়)" collocation="trade-off between, difficult trade-off, involve a trade-off" example="Faster gate processing involves a trade-off with the thoroughness of security checks."
 :::
 
-::: vocabulary word="unintended consequence" pos="noun phrase" meaning="an unplanned, often unexpected effect of a solution, separate from the benefit it was designed to produce (অনভিপ্রেত ফলাফল)" example="Automation reduced manual entry but had the unintended consequence of increasing dependence on data quality."
+::: vocabulary word="unintended consequence" pos="noun phrase" register="formal" meaning="an unplanned, often unexpected effect of a solution, separate from the benefit it was designed to produce (অনভিপ্রেত ফলাফল)" collocation="unintended consequences, risk of unintended consequences, unforeseen and unintended" example="An unintended consequence of the parking ban was more trucks queuing on the public road."
 :::
 
-::: vocabulary word="mitigate" pos="verb" meaning="to reduce the severity or impact of something, without necessarily eliminating it entirely (প্রশমিত করা)" example="The new controls mitigated security risks but did not remove them completely."
+::: vocabulary word="mitigate" pos="verb" register="formal" meaning="to reduce the severity or impact of something, without necessarily eliminating it entirely (প্রশমিত করা)" collocation="mitigate the risk, mitigate the impact, partly mitigate" example="A backup generator mitigates the risk of a power failure but does not remove it."
 :::
 
-::: vocabulary word="resilience" pos="noun" meaning="the ability of a system to recover or adapt after a disruption (স্থিতিস্থাপকতা)" example="The redesigned workflow improved operational resilience, recovering faster after outages."
+::: vocabulary word="resilience" pos="noun" register="formal" meaning="the ability of a system to recover or adapt after a disruption (স্থিতিস্থাপকতা)" collocation="supply chain resilience, build resilience, show resilience" example="The port's resilience was tested when a storm closed the harbour for three days."
 :::
 
-::: vocabulary word="robustness" pos="noun" meaning="the ability of a system to keep performing steadily despite variation, errors, or unexpected conditions (দৃঢ়তা)" example="The system's robustness meant it kept working correctly even when input data was inconsistent."
+::: vocabulary word="robustness" pos="noun" register="technical" meaning="the ability of a system to keep performing steadily despite variation, errors, or unexpected conditions (দৃঢ়তা)" collocation="system robustness, improve robustness, robustness of" example="The test measured the robustness of the billing system under three times the normal load."
 :::
 
-::: vocabulary word="baseline" pos="noun" meaning="the starting measurement against which later results are compared to judge whether a change actually happened (ভিত্তিরেখা)" example="Average waiting time fell from a baseline of 45 minutes to 28 minutes after automation."
+::: vocabulary word="baseline" pos="noun" register="technical" meaning="the starting measurement against which later results are compared to judge whether a change actually happened (ভিত্তিরেখা)" collocation="baseline figure, establish a baseline, against the baseline" example="Turnaround time is measured against the baseline recorded before the new system was installed."
 :::
 
 ## Guided Reading Practice

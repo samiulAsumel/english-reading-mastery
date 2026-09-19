@@ -60,10 +60,10 @@ argument.
 
 ## Vocabulary in Context
 
-::: vocabulary word="outline" pos="noun" meaning="a plan showing a piece of writing's main sections before it is written in full — রূপরেখা" example="Draft an outline before writing the full chapter."
+::: vocabulary word="outline" pos="noun" register="neutral" meaning="a plan showing a piece of writing's main sections before it is written in full (রূপরেখা)" collocation="write an outline, detailed outline, outline of" example="Write a five-line outline before you draft the report."
 :::
 
-::: vocabulary word="urgent" pos="adjective" meaning="needing attention or action very soon — জরুরি" example="The final section argued the problem was becoming urgent."
+::: vocabulary word="urgent" pos="adjective" register="neutral" meaning="needing attention or action very soon (জরুরি)" collocation="urgent action, urgent request, extremely urgent" example="The email is marked urgent because the vessel sails tonight."
 :::
 
 ## Model Answer

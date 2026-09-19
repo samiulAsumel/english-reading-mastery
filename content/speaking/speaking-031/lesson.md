@@ -69,10 +69,10 @@ Check that you actually said the negation out loud, not just implied it.
 
 ## Vocabulary in Context
 
-::: vocabulary word="depends on" pos="phrase" meaning="a spoken pivot phrase for introducing the hidden assumption an argument relies on — নির্ভর করে" example="Saying 'that depends on' out loud forced the hidden assumption into the open."
+::: vocabulary word="depends on" pos="phrase" register="neutral" meaning="a spoken pivot phrase for introducing the hidden assumption an argument relies on (নির্ভর করে)" collocation="it depends on, largely depends on, entirely depends on" example="Our forecast depends on the assumption that fuel prices stay flat."
 :::
 
-::: vocabulary word="hold up" pos="phrasal verb" meaning="to remain valid or convincing under closer examination — টিকে থাকা" example="The conclusion doesn't hold up once the hidden assumption is questioned."
+::: vocabulary word="hold up" pos="phrasal verb" register="neutral" meaning="to remain valid or convincing under closer examination (টিকে থাকা)" collocation="hold up under scrutiny, hold up well, may not hold up" example="That conclusion may not hold up if the sample was biased."
 :::
 
 ## Self-Check

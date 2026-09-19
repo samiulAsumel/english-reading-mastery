@@ -65,10 +65,10 @@ starting over.
 
 ## Vocabulary in Context
 
-::: vocabulary word="extend" pos="verb" meaning="to make something longer by adding to it — সম্প্রসারিত করা" example="Extend the sentence by adding one detail, without restarting it."
+::: vocabulary word="extend" pos="verb" register="formal" meaning="to make something longer by adding to it (সম্প্রসারিত করা)" collocation="extend a deadline, extend the sentence, extend by" example="We agreed to extend the deadline by two days."
 :::
 
-::: vocabulary word="restart" pos="verb" meaning="to begin again from the start — পুনরায় শুরু করা" example="Try not to restart the sentence just to add one word."
+::: vocabulary word="restart" pos="verb" register="neutral" meaning="to begin again from the start (পুনরায় শুরু করা)" collocation="restart the system, restart a sentence, restart from" example="If the scanner freezes, restart it and rescan the container."
 :::
 
 ## Self-Check

@@ -60,10 +60,10 @@ judging whether it's reasonable.
 
 ## Vocabulary in Context
 
-::: vocabulary word="bridge" pos="noun" meaning="an unstated assumption connecting evidence to a conclusion — সংযোগকারী অনুমান" example="The bridge between the data and the claim was never actually stated."
+::: vocabulary word="bridge" pos="noun" register="neutral" meaning="an unstated assumption connecting evidence to a conclusion (সংযোগকারী অনুমান)" collocation="bridge the gap, an unstated bridge, logical bridge" example="The unstated bridge is that fewer complaints mean higher satisfaction."
 :::
 
-::: vocabulary word="rule out" pos="phrasal verb" meaning="to eliminate a possibility as an explanation — বাদ দেওয়া" example="The timing doesn't rule out other causes for the increase."
+::: vocabulary word="rule out" pos="phrasal verb" register="neutral" meaning="to eliminate a possibility as an explanation (বাদ দেওয়া)" collocation="rule out the possibility, cannot rule out, rule out a cause" example="Investigators have not ruled out human error."
 :::
 
 ## Model Answer

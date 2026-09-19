@@ -69,10 +69,10 @@ alone, which clause is the main point.
 
 ## Vocabulary in Context
 
-::: vocabulary word="subordinate clause" pos="noun phrase" meaning="a dependent clause that cannot stand alone as a sentence — অধীনস্থ বাক্যাংশ" example="'Because the crane broke down' is a subordinate clause, not a complete sentence on its own."
+::: vocabulary word="subordinate clause" pos="noun phrase" register="technical" meaning="a dependent clause that cannot stand alone as a sentence (অধীনস্থ বাক্যাংশ)" collocation="add a subordinate clause, subordinate clause with although, spoken subordinate clause" example="'Although the vessel was late, the crew unloaded it quickly' contains a subordinate clause."
 :::
 
-::: vocabulary word="main clause" pos="noun phrase" meaning="a clause that can stand alone as a complete sentence and carries a sentence's main point — মুখ্য বাক্যাংশ" example="Even with the subordinate clause removed, the main clause still makes a complete sentence."
+::: vocabulary word="main clause" pos="noun phrase" register="technical" meaning="a clause that can stand alone as a complete sentence and carries a sentence's main point (মুখ্য বাক্যাংশ)" collocation="the main clause, main clause and subordinate clause, complete main clause" example="The main clause 'the crew unloaded the vessel' carries the point of the sentence."
 :::
 
 ## Self-Check

@@ -352,34 +352,34 @@ either extreme, is usually the mark of a careful reading.
 
 ## Vocabulary in Context
 
-::: vocabulary word="rhetoric" pos="noun" meaning="the use of language chosen to shape a reader's understanding, judgment, or attitude (অলংকারশাস্ত্র/ভাষার প্রভাবী ব্যবহার)" example="Even careful academic writing makes rhetorical choices, not just logical ones."
+::: vocabulary word="rhetoric" pos="noun" register="formal" meaning="the use of language chosen to shape a reader's understanding, judgment, or attitude (অলংকারশাস্ত্র/ভাষার প্রভাবী ব্যবহার)" collocation="political rhetoric, empty rhetoric, rhetoric of" example="The minister's rhetoric about efficiency was not matched by any concrete policy."
 :::
 
-::: vocabulary word="frame" pos="verb" meaning="to present information in a way that makes a particular interpretation feel most natural (কোনো বিষয়কে নির্দিষ্টভাবে উপস্থাপন করা)" example="Calling layoffs a 'workforce streamlining' frames the event in softer terms."
+::: vocabulary word="frame" pos="verb" register="formal" meaning="to present information in a way that makes a particular interpretation feel most natural (কোনো বিষয়কে নির্দিষ্টভাবে উপস্থাপন করা)" collocation="frame the issue, frame as, carefully framed" example="The company framed the job cuts as a modernisation programme rather than a cost-saving exercise."
 :::
 
-::: vocabulary word="loaded" pos="adjective" meaning="carrying an implicit evaluation or emotional charge, rather than being purely neutral (পক্ষপাতদুষ্ট/আবেগপূর্ণ শব্দ)" example="'Wasteful spending' is loaded language compared with the neutral 'government spending.'"
+::: vocabulary word="loaded" pos="adjective" register="neutral" meaning="carrying an implicit evaluation or emotional charge, rather than being purely neutral (পক্ষপাতদুষ্ট/আবেগপূর্ণ শব্দ)" collocation="loaded language, loaded term, loaded question" example="Calling the policy a 'crackdown' is loaded language; a neutral report would say 'enforcement'."
 :::
 
-::: vocabulary word="euphemism" pos="noun" meaning="a milder or softer expression substituted for one considered harsh or unpleasant (মৃদুকরণ/নরম প্রতিশব্দ)" example="'Restructuring' is often a euphemism for job losses."
+::: vocabulary word="euphemism" pos="noun" register="formal" meaning="a milder or softer expression substituted for one considered harsh or unpleasant (মৃদুকরণ/নরম প্রতিশব্দ)" collocation="use a euphemism, polite euphemism, euphemism for" example="'Rightsizing' is a euphemism for reducing headcount."
 :::
 
-::: vocabulary word="foreground" pos="verb" meaning="to bring a particular aspect of something into central attention, ahead of other aspects (সম্মুখে/কেন্দ্রে আনা)" example="The phrase 'invested heavily in automation' foregrounds investment rather than cost."
+::: vocabulary word="foreground" pos="verb" register="formal" meaning="to bring a particular aspect of something into central attention, ahead of other aspects (সম্মুখে/কেন্দ্রে আনা)" collocation="foreground the issue, be foregrounded, foreground the benefits" example="The brochure foregrounds speed and savings while the fees appear only in small print."
 :::
 
-::: vocabulary word="concession" pos="noun" meaning="an author's acknowledgment that an opposing or limiting point has some validity, without abandoning their own claim (স্বীকৃতি)" example="Acknowledging that a system is expensive is a concession, often followed by a rebuttal."
+::: vocabulary word="concession" pos="noun" register="formal" meaning="an author's acknowledgment that an opposing or limiting point has some validity, without abandoning their own claim (স্বীকৃতি)" collocation="make a concession, grant a concession, partial concession" example="The proposal opens with a concession about cost before arguing that the benefits outweigh it."
 :::
 
-::: vocabulary word="implicit" pos="adjective" meaning="suggested or understood without being directly stated (অন্তর্নিহিত/অব্যক্ত)" example="A rhetorical question often carries an implicit claim rather than a genuine request for information."
+::: vocabulary word="implicit" pos="adjective" register="formal" meaning="suggested or understood without being directly stated (অন্তর্নিহিত/অব্যক্ত)" collocation="implicit message, implicit assumption, implicit criticism" example="The advert carries an implicit message that competitors cannot be trusted."
 :::
 
-::: vocabulary word="nuanced" pos="adjective" meaning="reflecting subtle, careful distinctions rather than a simple, extreme position (সূক্ষ্ম পার্থক্যসম্পন্ন)" example="The author's nuanced position favored neither full automation nor manual work alone."
+::: vocabulary word="nuanced" pos="adjective" register="formal" meaning="reflecting subtle, careful distinctions rather than a simple, extreme position (সূক্ষ্ম পার্থক্যসম্পন্ন)" collocation="nuanced view, nuanced argument, more nuanced" example="The consultant offered a nuanced assessment: automation helps in some areas and harms in others."
 :::
 
-::: vocabulary word="persuasive" pos="adjective" meaning="intended or able to influence a reader's beliefs or actions (প্ররোচনামূলক)" example="A persuasive structure can make a claim feel convincing even before strong evidence is added."
+::: vocabulary word="persuasive" pos="adjective" register="formal" meaning="intended or able to influence a reader's beliefs or actions (প্ররোচনামূলক)" collocation="persuasive argument, highly persuasive, persuasive language" example="The business case was persuasive because it combined clear figures with a realistic timeline."
 :::
 
-::: vocabulary word="oversight" pos="noun" meaning="the act of supervising or monitoring a process to ensure it functions correctly (তদারকি/নজরদারি)" example="The author recommends automated analysis combined with appropriate human oversight."
+::: vocabulary word="oversight" pos="noun" register="formal" meaning="the act of supervising or monitoring a process to ensure it functions correctly (তদারকি/নজরদারি)" collocation="regulatory oversight, lack of oversight, exercise oversight" example="Weak oversight allowed the contractor to skip several mandatory safety inspections."
 :::
 
 ## Guided Reading Practice

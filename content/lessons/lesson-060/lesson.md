@@ -276,25 +276,25 @@ Detect which representation strategy an author is using at each moment — concr
 
 ## Vocabulary in Context
 
-::: vocabulary word="comparison dimension" pos="noun phrase" meaning="the specific respect or criterion along which two things are being compared (তুলনার মাত্রা)" example="Before accepting 'System A is better,' identify the comparison dimension — speed, cost, or reliability."
+::: vocabulary word="comparison dimension" pos="noun phrase" register="formal" meaning="the specific respect or criterion along which two things are being compared (তুলনার মাত্রা)" collocation="choose a comparison dimension, key comparison dimension, along this comparison dimension" example="The two terminals are compared along one dimension only: average truck waiting time."
 :::
 
-::: vocabulary word="conceptual model" pos="noun phrase" meaning="a deliberately simplified representation of a complex system's elements and relationships, used for explanation or analysis (ধারণাগত মডেল)" example="The author proposes a conceptual model linking technology, information quality, and decision quality."
+::: vocabulary word="conceptual model" pos="noun phrase" register="technical" meaning="a deliberately simplified representation of a complex system's elements and relationships, used for explanation or analysis (ধারণাগত মডেল)" collocation="build a conceptual model, simple conceptual model, conceptual model of" example="The authors propose a conceptual model linking staffing levels, error rates, and delays."
 :::
 
-::: vocabulary word="framework" pos="noun" meaning="a set of organized concepts or dimensions used to structure an analysis, without necessarily specifying causal relationships (কাঠামো/রূপরেখা)" example="The People-Process-Technology framework organizes the analysis without claiming how these three interact causally."
+::: vocabulary word="framework" pos="noun" register="formal" meaning="a set of organized concepts or dimensions used to structure an analysis, without necessarily specifying causal relationships (কাঠামো/রূপরেখা)" collocation="analytical framework, framework for analysis, conceptual framework" example="The report uses a framework of people, process, and technology to organise its findings."
 :::
 
-::: vocabulary word="bidirectional" pos="adjective" meaning="describing a relationship in which each of two factors can influence the other (দ্বিমুখী)" example="Employee behavior and technology adoption have a bidirectional relationship, each shaping the other."
+::: vocabulary word="bidirectional" pos="adjective" register="technical" meaning="describing a relationship in which each of two factors can influence the other (দ্বিমুখী)" collocation="bidirectional relationship, bidirectional influence, bidirectional flow" example="The relationship between workload and morale is bidirectional: each affects the other."
 :::
 
-::: vocabulary word="in principle" pos="phrase" meaning="theoretically or ideally possible, often contrasted with what actually happens in practice (নীতিগতভাবে)" example="In principle, the system can automate the entire process, though in practice exceptions require human review."
+::: vocabulary word="in principle" pos="phrase" register="formal" meaning="theoretically or ideally possible, often contrasted with what actually happens in practice (নীতিগতভাবে)" collocation="in principle, agree in principle, possible in principle" example="In principle, the system can process any container; in practice, queues limit it."
 :::
 
-::: vocabulary word="model scope" pos="noun phrase" meaning="the population, context, or conditions a model was built to describe, beyond which it may not reliably apply (মডেলের পরিসর)" example="A model built on large manufacturing firms may fall outside its scope when applied to small retailers."
+::: vocabulary word="model scope" pos="noun phrase" register="technical" meaning="the population, context, or conditions a model was built to describe, beyond which it may not reliably apply (মডেলের পরিসর)" collocation="limited model scope, define the model scope, outside the model scope" example="The model's scope is limited to container terminals; it does not cover bulk cargo."
 :::
 
-::: vocabulary word="representation strategy" pos="noun phrase" meaning="the specific device — example, analogy, case study, metaphor, or model — an author chooses to convey an idea at a given moment (উপস্থাপন কৌশল)" example="Recognising the author's representation strategy reveals whether a passage is illustrating a concept or claiming to prove it."
+::: vocabulary word="representation strategy" pos="noun phrase" register="formal" meaning="the specific device — example, analogy, case study, metaphor, or model — an author chooses to convey an idea at a given moment (উপস্থাপন কৌশল)" collocation="choose a representation strategy, effective representation strategy, representation strategy of" example="The author's representation strategy is a metaphor: ports as the heart of trade."
 :::
 
 ## Guided Reading Practice

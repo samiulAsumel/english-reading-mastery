@@ -60,10 +60,10 @@ and one sentence speaking generally with no article at all.
 
 ## Vocabulary in Context
 
-::: vocabulary word="specific" pos="adjective" meaning="one particular thing, not just any example of it — নির্দিষ্ট" example="'The report' means one specific report, not reports in general."
+::: vocabulary word="specific" pos="adjective" register="neutral" meaning="one particular thing, not just any example of it (নির্দিষ্ট)" collocation="specific example, specific requirement, be specific" example="The email asks for a specific date, not just 'sometime next week'."
 :::
 
-::: vocabulary word="uncountable" pos="adjective" meaning="a noun with no plural form, treated as a mass rather than individual units — অগণনীয়" example="Information and advice are uncountable nouns."
+::: vocabulary word="uncountable" pos="adjective" register="technical" meaning="a noun with no plural form, treated as a mass rather than individual units (অগণনীয়)" collocation="uncountable noun, treat as uncountable, uncountable form" example="'Information' is uncountable, so we write 'some information', never 'an information'."
 :::
 
 ## Model Answer

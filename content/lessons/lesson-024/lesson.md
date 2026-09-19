@@ -654,34 +654,34 @@ the fastest way to make a difficult piece of nonfiction feel manageable.
 
 ## Vocabulary in Context
 
-::: vocabulary word="contribute to" pos="phrasal verb" meaning="to be one of several factors that help produce a result, without being the sole cause (অবদান রাখা)" example="Poor communication contributed to the problem, though other factors were also involved."
+::: vocabulary word="contribute to" pos="phrasal verb" register="formal" meaning="to be one of several factors that help produce a result, without being the sole cause (অবদান রাখা)" collocation="contribute to a decline, contribute significantly, partly contribute" example="Poor lighting contributed to the accident, though driver fatigue was the main cause."
 :::
 
-::: vocabulary word="mechanism" pos="noun" meaning="the process or means by which a cause actually produces its effect (প্রক্রিয়া/কার্যপ্রণালী)" example="Exercise may improve sleep by reducing stress — stress reduction is the mechanism here."
+::: vocabulary word="mechanism" pos="noun" register="technical" meaning="the process or means by which a cause actually produces its effect (প্রক্রিয়া/কার্যপ্রণালী)" collocation="causal mechanism, underlying mechanism, mechanism for" example="The study identifies the mechanism through which congestion at the gate raises costs downstream."
 :::
 
-::: vocabulary word="attributable to" pos="adjective phrase" meaning="able to be explained by, or credited to, a particular cause (যে কারণে হয়েছে বলে ধরা যায়)" example="The improvement was largely attributable to better training."
+::: vocabulary word="attributable to" pos="adjective phrase" register="formal" meaning="able to be explained by, or credited to, a particular cause (যে কারণে হয়েছে বলে ধরা যায়)" collocation="be attributable to, largely attributable, directly attributable" example="Most of the revenue drop is attributable to the six-week strike, not to falling demand."
 :::
 
-::: vocabulary word="underlying" pos="adjective" meaning="forming the true, often hidden, basis of something rather than its immediate or visible cause (অন্তর্নিহিত/মূল)" example="The underlying cause of the crash was inadequate server capacity, not the traffic spike itself."
+::: vocabulary word="underlying" pos="adjective" register="formal" meaning="forming the true, often hidden, basis of something rather than its immediate or visible cause (অন্তর্নিহিত/মূল)" collocation="underlying cause, underlying problem, underlying trend" example="The underlying cause of the outage was an expired security certificate."
 :::
 
-::: vocabulary word="confounding variable" pos="noun phrase" meaning="a third factor connected to both a cause and an effect, making it unclear which one is truly responsible (বিভ্রান্তিকর চলক)" example="Diet could be a confounding variable in a study linking exercise to better sleep."
+::: vocabulary word="confounding variable" pos="noun phrase" register="technical" meaning="a third factor connected to both a cause and an effect, making it unclear which one is truly responsible (বিভ্রান্তিকর চলক)" collocation="control for a confounding variable, potential confounding variable" example="Seasonal demand is a confounding variable: it raises both staffing levels and container volumes."
 :::
 
-::: vocabulary word="trigger" pos="verb" meaning="to cause a sudden, often immediate, reaction or event (তাৎক্ষণিকভাবে ঘটানো)" example="The announcement triggered a sharp decline in demand."
+::: vocabulary word="trigger" pos="verb" register="neutral" meaning="to cause a sudden, often immediate, reaction or event (তাৎক্ষণিকভাবে ঘটানো)" collocation="trigger an alert, trigger a response, trigger a chain reaction" example="A single failed login attempt from an unknown location can trigger a security review."
 :::
 
-::: vocabulary word="correlate with" pos="verb" meaning="to show a statistical pattern of occurring together, without this proving causation (পারস্পরিক সম্পর্ক দেখানো)" example="Income is positively correlated with education level."
+::: vocabulary word="correlate with" pos="verb" register="technical" meaning="to show a statistical pattern of occurring together, without this proving causation (পারস্পরিক সম্পর্ক দেখানো)" collocation="strongly correlate with, positively correlate with, correlate closely" example="Waiting time at the gate correlates with the number of trucks arriving during the noon peak."
 :::
 
-::: vocabulary word="factor" pos="noun" meaning="one of several things that influences or helps produce a result (প্রভাবক/উপাদান)" example="Cost was one factor contributing to the decision, alongside several others."
+::: vocabulary word="factor" pos="noun" register="neutral" meaning="one of several things that influences or helps produce a result (প্রভাবক/উপাদান)" collocation="key factor, contributing factor, risk factor" example="Exchange-rate movements were the key factor behind the quarter's profit warning."
 :::
 
-::: vocabulary word="qualifier" pos="noun" meaning="a word or phrase that limits or softens the strength of a claim (সীমাবদ্ধতাসূচক শব্দ)" example="Words like 'partly' and 'may' act as qualifiers that weaken an otherwise strong causal claim."
+::: vocabulary word="qualifier" pos="noun" register="technical" meaning="a word or phrase that limits or softens the strength of a claim (সীমাবদ্ধতাসূচক শব্দ)" collocation="add a qualifier, important qualifier, hedging qualifier" example="The word 'usually' works as a qualifier, warning the reader that exceptions exist."
 :::
 
-::: vocabulary word="thereby" pos="adverb" meaning="by that means; as a result of the action just described (এর মাধ্যমে/ফলে)" example="The company automated the process, thereby reducing processing time."
+::: vocabulary word="thereby" pos="adverb" register="formal" meaning="by that means; as a result of the action just described (এর মাধ্যমে/ফলে)" collocation="thereby reducing, thereby allowing, thereby ensuring" example="The terminal introduced pre-booking, thereby cutting average truck waiting time by half."
 :::
 
 ## Guided Reading Practice

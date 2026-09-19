@@ -57,10 +57,10 @@ not something excluded from the rule). Optionally add a precaution.
 
 ## Vocabulary in Context
 
-::: vocabulary word="limitation" pos="noun" meaning="a real constraint on what something can do, distinct from an excluded case — সীমাবদ্ধতা" example="Detecting counterfeit goods is a limitation of the current scanner, not an exception in the policy."
+::: vocabulary word="limitation" pos="noun" register="formal" meaning="a real constraint on what something can do, distinct from an excluded case (সীমাবদ্ধতা)" collocation="a limitation of, major limitation, acknowledge a limitation" example="A key limitation of the study is that it covered only one port."
 :::
 
-::: vocabulary word="precaution" pos="noun" meaning="a preparation for something that might happen, not something that already applies — সতর্কতামূলক ব্যবস্থা" example="Staff keep a backup generator running as a precaution against power loss."
+::: vocabulary word="precaution" pos="noun" register="neutral" meaning="a preparation for something that might happen, not something that already applies (সতর্কতামূলক ব্যবস্থা)" collocation="take a precaution, safety precaution, as a precaution" example="As a precaution, bring a spare key."
 :::
 
 ## Model Answer

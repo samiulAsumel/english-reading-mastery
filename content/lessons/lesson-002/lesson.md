@@ -355,34 +355,34 @@ You already met **affect** in Lesson 1. Here it returns with a wider set
 of natural partner words, because a verb like this is only half-learned
 until you know what it usually attaches to.
 
-::: vocabulary word="recognize" pos="verb" meaning="to become aware of or identify something (চিনতে/উপলব্ধি করতে)" example="Good readers recognize a difficult sentence before they finish it."
+::: vocabulary word="recognize" pos="verb" register="neutral" meaning="to notice and identify something because you know what it is (চিনতে/উপলব্ধি করতে)" collocation="recognize a pattern, readily recognize, recognize the signs" example="Experienced dispatchers recognize the early signs of yard congestion long before the queue reaches the gate."
 :::
 
-::: vocabulary word="factor" pos="noun" meaning="one of several things that influences a result (প্রভাবক/কারণ)" example="Experience is an important factor in good judgment."
+::: vocabulary word="factor" pos="noun" register="neutral" meaning="one of several things that help produce a result (প্রভাবক/কারণ)" collocation="key factor, contributing factor, a factor in" example="Weather was only one factor in the delay; a crane breakdown and a late pilot also played a part."
 :::
 
-::: vocabulary word="judgment" pos="noun" meaning="the ability to make sensible decisions (বিচার/মূল্যায়ন)" example="Stress can weaken a person's judgment."
+::: vocabulary word="judgment" pos="noun" register="formal" meaning="the ability to weigh evidence and reach a sensible conclusion (বিচার/মূল্যায়ন)" collocation="good judgment, exercise judgment, error of judgment" example="The safety officer used her judgment to halt loading when the wind speed approached the limit."
 :::
 
-::: vocabulary word="behavior" pos="noun" meaning="the way a person acts (আচরণ)" example="The passage discusses human behavior in detail."
+::: vocabulary word="behavior" pos="noun" register="neutral" meaning="the way a person, group, or system acts (আচরণ)" collocation="user behavior, buying behavior, affect behavior" example="The analytics team studied customer behavior to find why so many shoppers abandoned the checkout page."
 :::
 
-::: vocabulary word="approach" pos="noun" meaning="a way of doing or thinking about something (পদ্ধতি/দৃষ্টিভঙ্গি)" example="A practical approach solves the problem without wasted effort."
+::: vocabulary word="approach" pos="noun" register="neutral" meaning="a particular way of dealing with a task or problem (পদ্ধতি/দৃষ্টিভঙ্গি)" collocation="a new approach, take an approach, a practical approach" example="The audit recommended a risk-based approach to inspecting containers rather than checking every unit."
 :::
 
-::: vocabulary word="require" pos="verb" meaning="to need something in order to work or succeed (প্রয়োজন হওয়া)" example="Clear writing requires careful planning."
+::: vocabulary word="require" pos="verb" register="formal" meaning="to need something, or to make it compulsory (প্রয়োজন হওয়া)" collocation="require approval, be required to, strictly require" example="Every vendor account requires two-factor authentication before it can access the billing portal."
 :::
 
-::: vocabulary word="involve" pos="verb" meaning="to include something as a necessary part (জড়িত থাকা)" example="Good decisions often involve several factors."
+::: vocabulary word="involve" pos="verb" register="neutral" meaning="to include something as a necessary part of a task or situation (জড়িত থাকা)" collocation="involve risk, be involved in, closely involve" example="The upgrade involves migrating three legacy databases over a single weekend."
 :::
 
-::: vocabulary word="affect" pos="verb" meaning="to produce a change in something (প্রভাবিত করা)" example="Emotions can affect behavior, decisions, performance, and judgment."
+::: vocabulary word="affect" pos="verb" register="neutral" meaning="to change something, usually by influencing it (প্রভাবিত করা)" collocation="affect behavior, affect decisions, affect performance, affect judgment" example="Poor sleep can affect judgment, which is why rest rules for crane operators are strictly enforced."
 :::
 
-::: vocabulary word="depend" pos="verb" meaning="to rely on something in order to happen or be true (নির্ভর করা)" example="A good decision often depends on experience."
+::: vocabulary word="depend" pos="verb" register="neutral" meaning="to be decided or controlled by something else (নির্ভর করা)" collocation="depend on, largely depend, it depends whether" example="Whether the vessel sails on schedule depends on the weather report and pilot availability."
 :::
 
-::: vocabulary word="determine" pos="verb" meaning="to decide or control the outcome of something (নির্ধারণ করা)" example="Preparation can determine the outcome of a difficult situation."
+::: vocabulary word="determine" pos="verb" register="formal" meaning="to decide or establish something officially, or to be the deciding factor (নির্ধারণ করা)" collocation="determine the cause, determine eligibility, largely determined by" example="The inquiry aims to determine why the fire-suppression system failed to activate."
 :::
 
 ::: note title="Learn collocations, not isolated words"

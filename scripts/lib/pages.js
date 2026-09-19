@@ -570,8 +570,9 @@ function vocabularyPage(entries) {
         .map((entry) => {
           const links = entry.appearsIn.map((a) => `<a href="${a.href}">${escapeHtml(a.label)}</a>`).join(', ');
           return `<div class="vocab-list-item">
-            <p class="vocab-word">${escapeHtml(entry.word)}${entry.pos ? `<span class="vocab-pos">${escapeHtml(entry.pos)}</span>` : ''}</p>
+            <p class="vocab-word">${escapeHtml(entry.word)}${entry.pos ? `<span class="vocab-pos">${escapeHtml(entry.pos)}</span>` : ''}${entry.register ? `<span class="vocab-pos">${escapeHtml(entry.register)}</span>` : ''}</p>
             <p class="vocab-meaning">${escapeHtml(entry.meaning)}</p>
+            ${entry.collocation ? `<p class="vocab-collocation"><span>Often with</span> ${escapeHtml(entry.collocation)}</p>` : ''}
             ${entry.example ? `<p class="vocab-example">&ldquo;${escapeHtml(entry.example)}&rdquo;</p>` : ''}
             <p class="vocab-appears">Appears in ${links}</p>
           </div>`;

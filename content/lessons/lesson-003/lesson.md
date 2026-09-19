@@ -376,34 +376,34 @@ repetition is intentional: a word isn't fully learned the first time you
 meet it, but the second or third time you meet its natural partner
 words.
 
-::: vocabulary word="develop" pos="verb" meaning="to create or improve something through effort (বিকশিত/উন্নত করা)" example="Strong readers develop several key reading skills."
+::: vocabulary word="develop" pos="verb" register="neutral" meaning="to create or improve something through sustained effort (বিকশিত/উন্নত করা)" collocation="develop a strategy, develop skills, develop a plan" example="The IT team is developing a dashboard that shows live berth availability to shipping agents."
 :::
 
-::: vocabulary word="gain" pos="verb" meaning="to obtain or increase something over time (পাওয়া/অর্জন করা)" example="Careful reading helps you gain experience with complex sentences."
+::: vocabulary word="gain" pos="verb" register="neutral" meaning="to obtain or increase something over time (পাওয়া/অর্জন করা)" collocation="gain experience, gain access, gain momentum" example="Graduate trainees gain practical experience by rotating through three departments in their first year."
 :::
 
-::: vocabulary word="make" pos="verb" meaning="to produce, create, or carry out (তৈরি করা/নেওয়া)" example="Leaders often have to make a decision under pressure."
+::: vocabulary word="make" pos="verb" register="neutral" meaning="to produce, create, or carry out an action (তৈরি করা/নেওয়া)" collocation="make a decision, make progress, make a recommendation" example="The steering committee will make a decision on the terminal expansion by the end of March."
 :::
 
-::: vocabulary word="reach" pos="verb" meaning="to arrive at, especially after a process (পৌঁছানো)" example="Careful readers reach a conclusion only after weighing the evidence."
+::: vocabulary word="reach" pos="verb" register="neutral" meaning="to arrive at a result, agreement, or level (পৌঁছানো)" collocation="reach a conclusion, reach an agreement, reach capacity" example="After two days of negotiation, both unions reached an agreement on overtime pay."
 :::
 
-::: vocabulary word="face" pos="verb" meaning="to be confronted with something difficult (মুখোমুখি হওয়া)" example="Every organization has to face a difficult problem sooner or later."
+::: vocabulary word="face" pos="verb" register="neutral" meaning="to have to deal with something difficult (মুখোমুখি হওয়া)" collocation="face a challenge, face criticism, be faced with" example="Smaller ports face growing pressure to invest in automation or lose business to larger competitors."
 :::
 
-::: vocabulary word="solve" pos="verb" meaning="to find a solution to something (সমাধান করা)" example="Strong readers can solve a problem hidden inside a long paragraph."
+::: vocabulary word="solve" pos="verb" register="neutral" meaning="to find an answer or a way of dealing with a problem (সমাধান করা)" collocation="solve a problem, solve an issue, help solve" example="The support engineer solved the login failure by clearing a corrupted session token."
 :::
 
-::: vocabulary word="understand" pos="verb" meaning="to grasp the meaning of something (বোঝা)" example="This lesson helps you understand behavior described in complex sentences."
+::: vocabulary word="understand" pos="verb" register="neutral" meaning="to grasp what something means or how it works (বোঝা)" collocation="fully understand, understand the implications, understand why" example="New starters must understand the tariff structure before they are allowed to issue invoices."
 :::
 
-::: vocabulary word="influence" pos="verb" meaning="to affect how someone thinks or acts (প্রভাবিত করা)" example="Chunking can influence decisions about how you read."
+::: vocabulary word="influence" pos="verb" register="formal" meaning="to affect how someone behaves or how something develops (প্রভাবিত করা)" collocation="influence a decision, strongly influence, significantly influence" example="Exchange rates heavily influence which currency importers choose for their contracts."
 :::
 
-::: vocabulary word="improve" pos="verb" meaning="to make or become better (উন্নত করা)" example="Chunking, practised daily, will improve performance noticeably."
+::: vocabulary word="improve" pos="verb" register="neutral" meaning="to make something better, or to become better (উন্নত করা)" collocation="improve efficiency, significantly improve, improve on" example="The new scheduling software has improved on-time departures by roughly ten percent."
 :::
 
-::: vocabulary word="require" pos="verb" meaning="to need something in order to work or succeed (প্রয়োজন হওয়া)" example="Reading a long sentence well can require attention to both phrase and clause."
+::: vocabulary word="require" pos="verb" register="formal" meaning="to make something necessary (প্রয়োজন হওয়া)" collocation="require approval, require attention, be required to" example="Hazardous cargo requires a separate declaration and written approval from the harbour master."
 :::
 
 ::: note title="Learn the whole combination, not the word alone"

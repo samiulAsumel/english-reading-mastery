@@ -298,25 +298,25 @@ main claim, with no translation step in between.
 
 ## Vocabulary in Context
 
-::: vocabulary word="considerably" pos="adverb" meaning="to a large or significant degree (উল্লেখযোগ্যভাবে)" example="The amount of available data has expanded considerably since automated tracking was introduced."
+::: vocabulary word="considerably" pos="adverb" register="formal" meaning="to a large or significant degree (উল্লেখযোগ্যভাবে)" collocation="considerably higher, considerably improve, differ considerably" example="Costs rose considerably during the second half of the year."
 :::
 
-::: vocabulary word="does not necessarily" pos="phrase" meaning="rejects certainty about an outcome without denying that it could still occur (অগত্যা নয়)" example="More data does not necessarily result in more efficient operations."
+::: vocabulary word="does not necessarily" pos="phrase" register="formal" meaning="rejects certainty about an outcome without denying that it could still occur (অগত্যা নয়)" collocation="does not necessarily mean, does not necessarily follow, not necessarily the case" example="A high price does not necessarily indicate high quality."
 :::
 
-::: vocabulary word="integrated into" pos="phrase" meaning="combined with an existing system or process so as to function as part of it (একীভূত হওয়া)" example="Accurate information has little value unless it is integrated into existing workflows."
+::: vocabulary word="integrated into" pos="phrase" register="formal" meaning="combined with an existing system or process so as to function as part of it (একীভূত হওয়া)" collocation="be integrated into, fully integrated into, integrated into the system" example="The new scanner will be integrated into the existing gate system by June."
 :::
 
-::: vocabulary word="interpret the data" pos="phrase" meaning="to analyze information and understand its meaning, rather than simply receiving it (তথ্য বিশ্লেষণ করে অর্থ বোঝা)" example="Employees who cannot interpret the data effectively may make poorly informed decisions despite having accurate figures."
+::: vocabulary word="interpret the data" pos="phrase" register="formal" meaning="to analyze information and understand its meaning, rather than simply receiving it (তথ্য বিশ্লেষণ করে অর্থ বোঝা)" collocation="interpret the data correctly, interpret the data cautiously, difficult to interpret the data" example="Analysts must interpret the data carefully before advising the board."
 :::
 
-::: vocabulary word="poorly informed decisions" pos="phrase" meaning="decisions made without adequate or well-understood information (অপর্যাপ্ত তথ্যভিত্তিক সিদ্ধান্ত)" example="Automation without training may simply accelerate the production of poorly informed decisions."
+::: vocabulary word="poorly informed decisions" pos="phrase" register="formal" meaning="decisions made without adequate or well-understood information (অপর্যাপ্ত তথ্যভিত্তিক সিদ্ধান্ত)" collocation="make poorly informed decisions, lead to poorly informed decisions, poorly informed decisions about" example="Weak reporting leads managers to make poorly informed decisions about staffing."
 :::
 
-::: vocabulary word="organizational capacity" pos="phrase" meaning="an organization's overall ability to use its resources, people, and systems effectively (সাংগঠনিক সক্ষমতা)" example="Technology investment should be evaluated alongside organizational capacity to use it effectively."
+::: vocabulary word="organizational capacity" pos="phrase" register="formal" meaning="an organization's overall ability to use its resources, people, and systems effectively (সাংগঠনিক সক্ষমতা)" collocation="build organizational capacity, limited organizational capacity, organizational capacity to" example="The agency lacks the organizational capacity to inspect every shipment."
 :::
 
-::: vocabulary word="in terms of" pos="phrase" meaning="according to a specified dimension or aspect, restricting a claim's scope to that dimension alone (নির্দিষ্ট দিক থেকে)" example="The system should not be judged solely in terms of its technical capabilities."
+::: vocabulary word="in terms of" pos="phrase" register="formal" meaning="according to a specified dimension or aspect, restricting a claim's scope to that dimension alone (নির্দিষ্ট দিক থেকে)" collocation="in terms of cost, in terms of speed, in terms of safety" example="In terms of cost, the new system is cheaper; in terms of reliability, it is unproven."
 :::
 
 ## Guided Reading Practice

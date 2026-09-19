@@ -470,34 +470,34 @@ academic argument's actual claim.
 
 ## Vocabulary in Context
 
-::: vocabulary word="stance" pos="noun" meaning="an author's attitude toward, or degree of commitment to, a claim they are making (অবস্থান/মনোভাব)" example="The author's stance on automation is cautiously positive, not fully certain."
+::: vocabulary word="stance" pos="noun" register="formal" meaning="an author's attitude toward, or degree of commitment to, a claim they are making (অবস্থান/মনোভাব)" collocation="take a stance, cautious stance, official stance" example="The regulator took a firm stance against operators who falsify records."
 :::
 
-::: vocabulary word="proposition" pos="noun" meaning="the basic content of a claim, separate from how confidently it is stated (প্রস্তাবনা/বক্তব্য)" example="The proposition is 'remote work improves satisfaction'; the stance is carried by the word 'may.'"
+::: vocabulary word="proposition" pos="noun" register="formal" meaning="the basic content of a claim, separate from how confidently it is stated (প্রস্তাবনা/বক্তব্য)" collocation="basic proposition, central proposition, make a proposition" example="The proposition that automation cuts costs was accepted, but the timeline for savings was disputed."
 :::
 
-::: vocabulary word="hedge" pos="noun" meaning="a word or phrase that softens the certainty of a claim, such as may, possibly, or to some extent (সতর্কতাসূচক শব্দ)" example="Stacking several hedges in one sentence signals an unusually cautious claim."
+::: vocabulary word="hedge" pos="noun" register="technical" meaning="a word or phrase that softens the certainty of a claim, such as may, possibly, or to some extent (সতর্কতাসূচক শব্দ)" collocation="use a hedge, hedging language, hedge a claim" example="The phrase 'may possibly' works as a double hedge, weakening the claim twice."
 :::
 
-::: vocabulary word="commitment" pos="noun" meaning="the degree to which an author is willing to stand behind a claim as true (প্রতিশ্রুতি/দৃঢ়তা)" example="'Demonstrates' signals a much stronger commitment than 'appears to.'"
+::: vocabulary word="commitment" pos="noun" register="formal" meaning="the degree to which an author is willing to stand behind a claim as true (প্রতিশ্রুতি/দৃঢ়তা)" collocation="level of commitment, strong commitment, commitment to" example="The minister's public commitment to reduce emissions was backed by no budget."
 :::
 
-::: vocabulary word="interpretation" pos="noun" meaning="a reading or explanation given to a piece of evidence, distinct from the evidence itself (ব্যাখ্যা)" example="The 10,000 processed transactions are data; that the new system improved efficiency is an interpretation of that data."
+::: vocabulary word="interpretation" pos="noun" register="formal" meaning="a reading or explanation given to a piece of evidence, distinct from the evidence itself (ব্যাখ্যা)" collocation="different interpretations, open to interpretation, literal interpretation" example="The two experts offered opposite interpretations of the same set of crash data."
 :::
 
-::: vocabulary word="deduction" pos="noun" meaning="a conclusion reached through logical reasoning from available evidence, rather than direct observation (যুক্তিসিদ্ধ সিদ্ধান্ত)" example="'There must be a connection problem' is a deduction from the fact that the system is offline."
+::: vocabulary word="deduction" pos="noun" register="formal" meaning="a conclusion reached through logical reasoning from available evidence, rather than direct observation (যুক্তিসিদ্ধ সিদ্ধান্ত)" collocation="logical deduction, make a deduction, deduction from" example="From the timestamps, the investigator made the deduction that the alarm had been ignored."
 :::
 
-::: vocabulary word="plausible" pos="adjective" meaning="reasonable or believable, though not necessarily proven (যুক্তিসঙ্গত/বিশ্বাসযোগ্য)" example="A plausible alternative explanation doesn't need to be certain to be worth considering."
+::: vocabulary word="plausible" pos="adjective" register="formal" meaning="reasonable or believable, though not necessarily proven (যুক্তিসঙ্গত/বিশ্বাসযোগ্য)" collocation="plausible explanation, entirely plausible, seem plausible" example="A software fault is a plausible cause, but the logs do not yet confirm it."
 :::
 
-::: vocabulary word="cautious" pos="adjective" meaning="careful to avoid overstating a claim beyond what the evidence supports (সতর্ক/সাবধানী)" example="Academic writing is often deliberately cautious, favoring 'suggests' over 'proves.'"
+::: vocabulary word="cautious" pos="adjective" register="neutral" meaning="careful to avoid overstating a claim beyond what the evidence supports (সতর্ক/সাবধানী)" collocation="cautious approach, cautiously optimistic, be cautious about" example="The report takes a cautious tone, avoiding any claim the data cannot fully support."
 :::
 
-::: vocabulary word="explicit" pos="adjective" meaning="stated directly and clearly, leaving nothing to be inferred (স্পষ্টভাবে বলা)" example="The study makes an explicit concession about its limited sample size."
+::: vocabulary word="explicit" pos="adjective" register="formal" meaning="stated directly and clearly, leaving nothing to be inferred (স্পষ্টভাবে বলা)" collocation="explicit instructions, make explicit, explicitly state" example="The contract is explicit about who bears the cost of storage after the free period ends."
 :::
 
-::: vocabulary word="credible" pos="adjective" meaning="able to be believed, typically because it is supported by reasonable evidence (বিশ্বাসযোগ্য)" example="A single anecdote is a less credible basis for a claim than a large, replicated study."
+::: vocabulary word="credible" pos="adjective" register="formal" meaning="able to be believed, typically because it is supported by reasonable evidence (বিশ্বাসযোগ্য)" collocation="credible source, highly credible, credible threat" example="The regulator treated the whistleblower's account as credible because it matched the company's own records."
 :::
 
 ## Guided Reading Practice

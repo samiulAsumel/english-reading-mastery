@@ -561,31 +561,31 @@ academic and nonfiction reading.
 
 ## Vocabulary in Context
 
-::: vocabulary word="conceptual boundary" pos="noun phrase" meaning="the line that marks what a concept includes and what it excludes (ধারণাগত সীমা)" example="Before accepting a definition of 'automation,' find its conceptual boundary — how much human involvement is still allowed?"
+::: vocabulary word="conceptual boundary" pos="noun phrase" register="formal" meaning="the line that marks what a concept includes and what it excludes (ধারণাগত সীমা)" collocation="blur the conceptual boundary, clear conceptual boundary, conceptual boundary between" example="The regulation draws a clear conceptual boundary between passenger vessels and cargo vessels."
 :::
 
-::: vocabulary word="necessary condition" pos="noun phrase" meaning="something that must be present for an outcome to occur, though it may not be enough by itself (আবশ্যক শর্ত)" example="Operator review is a necessary condition for safe operation, but the passage never claims it is sufficient."
+::: vocabulary word="necessary condition" pos="noun phrase" register="technical" meaning="something that must be present for an outcome to occur, though it may not be enough by itself (আবশ্যক শর্ত)" collocation="a necessary condition, necessary but not sufficient, necessary condition for" example="A valid licence is a necessary condition for operating a crane, but training is also required."
 :::
 
-::: vocabulary word="sufficient condition" pos="noun phrase" meaning="something that, by itself, guarantees an outcome (পর্যাপ্ত শর্ত)" example="The author never claims training is a sufficient condition for successful adoption — only a necessary one."
+::: vocabulary word="sufficient condition" pos="noun phrase" register="technical" meaning="something that, by itself, guarantees an outcome (পর্যাপ্ত শর্ত)" collocation="a sufficient condition, sufficient condition for, necessary and sufficient" example="A signed customs release is a sufficient condition for the gate to let the container out."
 :::
 
-::: vocabulary word="operational definition" pos="noun phrase" meaning="a measurable substitute for an abstract concept, stating exactly how it will be observed or quantified (কার্যকরী সংজ্ঞা)" example="The report's operational definition of efficiency is average processing time per transaction."
+::: vocabulary word="operational definition" pos="noun phrase" register="technical" meaning="a measurable substitute for an abstract concept, stating exactly how it will be observed or quantified (কার্যকরী সংজ্ঞা)" collocation="give an operational definition, use an operational definition, operational definition of" example="The study's operational definition of 'delay' is any arrival more than two hours after the schedule."
 :::
 
-::: vocabulary word="mutually exclusive" pos="adjective phrase" meaning="describing categories that never overlap, so one item belongs to only one of them (পরস্পর একচেটিয়া)" example="The classification is mutually exclusive: no transaction can be both approved and pending at once."
+::: vocabulary word="mutually exclusive" pos="adjective phrase" register="technical" meaning="describing categories that never overlap, so one item belongs to only one of them (পরস্পর একচেটিয়া)" collocation="mutually exclusive categories, are mutually exclusive, not mutually exclusive" example="Answers must be mutually exclusive so that no respondent qualifies for two categories."
 :::
 
-::: vocabulary word="collectively exhaustive" pos="adjective phrase" meaning="describing a set of categories that together cover every relevant case, leaving no gap (সমষ্টিগতভাবে সম্পূর্ণ)" example="If a transaction can only ever be approved, rejected, or pending, the three categories are collectively exhaustive."
+::: vocabulary word="collectively exhaustive" pos="adjective phrase" register="technical" meaning="describing a set of categories that together cover every relevant case, leaving no gap (সমষ্টিগতভাবে সম্পূর্ণ)" collocation="collectively exhaustive categories, mutually exclusive and collectively exhaustive, collectively exhaustive list" example="The five incident types are collectively exhaustive: every reported event falls into one of them."
 :::
 
-::: vocabulary word="type-of relationship" pos="noun phrase" meaning="a category (IS-A) relationship, in which one thing is a kind or member of a broader class (ধরন-সম্পর্ক)" example="'A database index is a type of data structure' states a type-of relationship, not a part-of one."
+::: vocabulary word="type-of relationship" pos="noun phrase" register="course term" meaning="a category (IS-A) relationship, in which one thing is a kind or member of a broader class (ধরন-সম্পর্ক)" collocation="a type-of relationship, express a type-of relationship, type-of relationship between" example="'A reefer is a type of container' states a type-of relationship, not a part-whole one."
 :::
 
-::: vocabulary word="part-of relationship" pos="noun phrase" meaning="a component relationship, in which one thing is physically or structurally contained within a larger whole (অংশ-সম্পর্ক)" example="'A database index is part of a database system' states a part-of relationship, distinct from classification."
+::: vocabulary word="part-of relationship" pos="noun phrase" register="course term" meaning="a component relationship, in which one thing is physically or structurally contained within a larger whole (অংশ-সম্পর্ক)" collocation="a part-of relationship, express a part-of relationship, part-of relationship between" example="'A spreader is part of a crane' states a part-of relationship, not a category one."
 :::
 
-::: vocabulary word="classification criterion" pos="noun phrase" meaning="the single dimension or standard used to sort items into categories (শ্রেণিবিন্যাসের মাপকাঠি)" example="The classification criterion behind 'low, moderate, high automation' is degree of human involvement."
+::: vocabulary word="classification criterion" pos="noun phrase" register="formal" meaning="the single dimension or standard used to sort items into categories (শ্রেণিবিন্যাসের মাপকাঠি)" collocation="choose a classification criterion, single classification criterion, classification criterion for" example="The classification criterion is vessel size, so ships are grouped by length regardless of cargo."
 :::
 
 ## Guided Reading Practice

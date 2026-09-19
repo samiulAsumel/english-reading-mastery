@@ -65,10 +65,10 @@ Subject + Verb, two using Subject + Verb + Object, and two using Subject
 
 ## Vocabulary in Context
 
-::: vocabulary word="complement" pos="noun" meaning="a word that describes or renames the subject rather than receiving an action — পরিপূরক" example="In 'She is confident,' confident is the complement."
+::: vocabulary word="complement" pos="noun" register="technical" meaning="a word that describes or renames the subject rather than receiving an action (পরিপূরক)" collocation="subject complement, adjective complement, complement of the verb" example="In 'The delay was unavoidable', the word 'unavoidable' is the complement that describes the subject."
 :::
 
-::: vocabulary word="linking verb" pos="noun" meaning="a verb like is, seem, or become that connects a subject to a description of it — সংযোজক ক্রিয়া" example="Become is a linking verb in 'He became a manager.'"
+::: vocabulary word="linking verb" pos="noun" register="technical" meaning="a verb like is, seem, or become that connects a subject to a description of it (সংযোজক ক্রিয়া)" collocation="use a linking verb, linking verb such as, linking verb and complement" example="In 'The berth seems available', 'seems' is a linking verb joining 'berth' to its description."
 :::
 
 ## Model Answer

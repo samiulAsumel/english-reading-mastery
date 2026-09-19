@@ -58,10 +58,10 @@ never the exact same noun twice.
 
 ## Vocabulary in Context
 
-::: vocabulary word="upgrade" pos="noun" meaning="an improvement to an existing system — উন্নতিসাধন" example="The upgrade has already cut waiting times at the gate."
+::: vocabulary word="upgrade" pos="noun" register="neutral" meaning="an improvement to an existing system (উন্নতিসাধন)" collocation="system upgrade, major upgrade, upgrade to" example="The terminal's upgrade to a new operating system took a weekend."
 :::
 
-::: vocabulary word="thread" pos="noun" meaning="a single idea or theme that runs through a longer piece of writing — সূত্র/ধারাবাহিকতা" example="Keeping one clear thread running through a paragraph makes it easier to follow."
+::: vocabulary word="thread" pos="noun" register="neutral" meaning="a single idea or theme that runs through a longer piece of writing (সূত্র/ধারাবাহিকতা)" collocation="a thread of, follow the thread, thread through" example="A single thread, reliability, runs through the whole report."
 :::
 
 ## Model Answer

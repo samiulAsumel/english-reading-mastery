@@ -411,19 +411,19 @@ words.**
 
 ## Vocabulary in Context
 
-::: vocabulary word="procedure" pos="noun" meaning="a fixed, official way of doing something (পদ্ধতি/প্রক্রিয়া)" example="Researchers must follow a strict procedure when collecting data."
+::: vocabulary word="procedure" pos="noun" register="formal" meaning="a fixed, official way of doing something (পদ্ধতি/প্রক্রিয়া)" collocation="follow the procedure, standard procedure, emergency procedure" example="Staff must follow the lockout procedure before servicing any conveyor."
 :::
 
-::: vocabulary word="attention" pos="noun" meaning="careful thought or notice given to something (মনোযোগ)" example="Particular attention was given to factors influencing the decision."
+::: vocabulary word="attention" pos="noun" register="neutral" meaning="careful thought or notice given to something (মনোযোগ)" collocation="pay attention, draw attention to, require attention" example="The audit drew attention to weak access controls on the shared finance drive."
 :::
 
-::: vocabulary word="review" pos="verb" meaning="to examine or study something again carefully (পর্যালোচনা করা)" example="Having reviewed the evidence, the committee reached a decision."
+::: vocabulary word="review" pos="verb" register="formal" meaning="to examine or study something again carefully (পর্যালোচনা করা)" collocation="review the evidence, carefully review, annual review" example="The safety committee will review all near-miss reports at the end of each month."
 :::
 
-::: vocabulary word="compress" pos="verb" meaning="to make something take up less space, or say something in fewer words (সংকুচিত করা)" example="A participle lets a writer compress a whole clause into a short phrase."
+::: vocabulary word="compress" pos="verb" register="technical" meaning="to make something take up less space, or say something in fewer words (সংকুচিত করা)" collocation="compress a file, compress the timeline, heavily compressed" example="To meet the launch date, the team had to compress a six-month schedule into four."
 :::
 
-::: vocabulary word="imply" pos="verb" meaning="to suggest something without stating it directly (ইঙ্গিত করা)" example="A dangling modifier can imply the wrong subject performed the action."
+::: vocabulary word="imply" pos="verb" register="formal" meaning="to suggest something without stating it directly (ইঙ্গিত করা)" collocation="imply that, strongly imply, seem to imply" example="The report does not say the vendor was negligent, but its wording implies that the checks were skipped."
 :::
 
 ::: note title="Chunks worth learning as whole units"

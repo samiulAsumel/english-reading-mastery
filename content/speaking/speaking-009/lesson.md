@@ -65,7 +65,7 @@ word instead of defaulting to a flat statement out of habit.
 
 ## Vocabulary in Context
 
-::: vocabulary word="confidence" pos="noun" meaning="how sure someone is that something is true — আত্মবিশ্বাস/নিশ্চয়তা" example="Certainly signals higher confidence than possibly."
+::: vocabulary word="confidence" pos="noun" register="neutral" meaning="how sure someone is that something is true (আত্মবিশ্বাস/নিশ্চয়তা)" collocation="level of confidence, with confidence, express confidence" example="The engineer spoke with confidence about the repair timeline."
 :::
 
 ## Self-Check

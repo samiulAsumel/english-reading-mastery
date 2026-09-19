@@ -60,10 +60,10 @@ sure the meaning is exactly what you intend.
 
 ## Vocabulary in Context
 
-::: vocabulary word="brief" pos="verb" meaning="to give someone essential information before a task begins — সংক্ষিপ্ত নির্দেশনা দেওয়া" example="A good supervisor plans the shift, checks the equipment, and briefs the team."
+::: vocabulary word="brief" pos="verb" register="neutral" meaning="to give someone essential information before a task begins (সংক্ষিপ্ত নির্দেশনা দেওয়া)" collocation="brief the team, brief on, thoroughly brief" example="The supervisor briefs the crew on safety rules before every shift."
 :::
 
-::: vocabulary word="equipment" pos="noun" meaning="the tools or machines needed for a particular task — সরঞ্জাম" example="Checking the equipment before a shift prevents most breakdowns."
+::: vocabulary word="equipment" pos="noun" register="neutral" meaning="the tools or machines needed for a particular task (সরঞ্জাম)" collocation="safety equipment, heavy equipment, piece of equipment" example="All protective equipment must be inspected before use."
 :::
 
 ## Model Answer

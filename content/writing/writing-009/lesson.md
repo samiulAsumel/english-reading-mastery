@@ -63,10 +63,10 @@ adjective + noun before a head noun.
 
 ## Vocabulary in Context
 
-::: vocabulary word="degree" pos="noun" meaning="how strong or weak a quality is — মাত্রা" example="Highly and relatively both signal degree, but in opposite directions."
+::: vocabulary word="degree" pos="noun" register="neutral" meaning="how strong or weak a quality is (মাত্রা)" collocation="to a large degree, degree of certainty, degree of risk" example="The email states the degree of certainty clearly: 'almost certainly delayed'."
 :::
 
-::: vocabulary word="hedge" pos="verb" meaning="to soften a claim on purpose, to avoid overstating certainty — সতর্কভাবে দাবি সীমিত করা" example="Writers often hedge a claim with 'may' or 'probably.'"
+::: vocabulary word="hedge" pos="verb" register="formal" meaning="to soften a claim on purpose, to avoid overstating certainty (সতর্কভাবে দাবি সীমিত করা)" collocation="hedge a claim, hedge carefully, hedge with 'may'" example="The analyst hedged the forecast by adding 'may' and 'in most cases'."
 :::
 
 ## Model Answer

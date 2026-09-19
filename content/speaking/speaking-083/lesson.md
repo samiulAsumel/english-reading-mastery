@@ -70,10 +70,10 @@ immediately, without a long pause in between.
 
 ## Vocabulary in Context
 
-::: vocabulary word="defensible" pos="adjective" meaning="able to be reasonably supported or argued for — যুক্তিসঙ্গতভাবে রক্ষণযোগ্য" example="The original claim isn't defensible once the narrower scope is revealed."
+::: vocabulary word="defensible" pos="adjective" register="formal" meaning="able to be reasonably supported or argued for (যুক্তিসঙ্গতভাবে রক্ষণযোগ্য)" collocation="defensible position, defensible claim, highly defensible" example="The narrower claim is defensible; the original was not."
 :::
 
-::: vocabulary word="subset" pos="noun" meaning="a smaller group within a larger group — উপসেট" example="The reduction only applied to a subset of shipments."
+::: vocabulary word="subset" pos="noun" register="technical" meaning="a smaller group within a larger group (উপসেট)" collocation="a subset of, small subset, subset of cases" example="The finding applies to a subset of cases: export cargo only."
 :::
 
 ## Self-Check

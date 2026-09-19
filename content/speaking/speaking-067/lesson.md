@@ -65,10 +65,10 @@ and doesn't mix the two up under pressure.
 
 ## Vocabulary in Context
 
-::: vocabulary word="condition" pos="noun" meaning="a requirement that must be met before something else can happen — শর্ত" example="Verification is a condition for entry, not a guarantee of it."
+::: vocabulary word="condition" pos="noun" register="neutral" meaning="a requirement that must be met before something else can happen (শর্ত)" collocation="on condition that, meet the condition, necessary condition" example="The container is released on condition that all fees are paid."
 :::
 
-::: vocabulary word="guarantee" pos="verb" meaning="to promise an outcome will definitely happen — নিশ্চয়তা দেওয়া" example="Wearing a vest doesn't guarantee entry — the induction is also required."
+::: vocabulary word="guarantee" pos="verb" register="formal" meaning="to promise an outcome will definitely happen (নিশ্চয়তা দেওয়া)" collocation="guarantee delivery, cannot guarantee, guarantee that" example="We cannot guarantee delivery by Friday."
 :::
 
 ## Self-Check

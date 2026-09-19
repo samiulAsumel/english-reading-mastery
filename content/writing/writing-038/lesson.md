@@ -59,10 +59,10 @@ qualification, conclusion).
 
 ## Vocabulary in Context
 
-::: vocabulary word="qualify" pos="verb" meaning="to limit or add a condition to a claim, making it more precise — সীমিত/শর্তসাপেক্ষ করা" example="'To some extent' qualifies an otherwise broad claim."
+::: vocabulary word="qualify" pos="verb" register="formal" meaning="to limit or add a condition to a claim, making it more precise (সীমিত/শর্তসাপেক্ষ করা)" collocation="qualify a claim, heavily qualify, qualify a statement" example="The author qualifies the claim with 'in most cases'."
 :::
 
-::: vocabulary word="concession" pos="noun" meaning="acknowledging a point against your position before continuing to hold it — ছাড়/স্বীকৃতি" example="'Nevertheless' signals concession plus persistence, not agreement."
+::: vocabulary word="concession" pos="noun" register="formal" meaning="acknowledging a point against your position before continuing to hold it (ছাড়/স্বীকৃতি)" collocation="make a concession, concession clause, concession before the main claim" example="The sentence opens with a concession: 'Although the cost is high...'."
 :::
 
 ## Model Answer

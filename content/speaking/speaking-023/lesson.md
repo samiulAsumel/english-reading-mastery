@@ -68,10 +68,10 @@ noun.
 
 ## Vocabulary in Context
 
-::: vocabulary word="popular" pos="adjective" meaning="liked or used by many people — জনপ্রিয়" example="The app quickly became popular with customers."
+::: vocabulary word="popular" pos="adjective" register="neutral" meaning="liked or used by many people (জনপ্রিয়)" collocation="popular choice, increasingly popular, popular with" example="Online booking is popular with drivers because it saves time."
 :::
 
-::: vocabulary word="encourage" pos="verb" meaning="to make someone more likely to do something — উৎসাহিত করা" example="This early success has encouraged the team to plan a second version."
+::: vocabulary word="encourage" pos="verb" register="formal" meaning="to make someone more likely to do something (উৎসাহিত করা)" collocation="encourage staff, strongly encourage, encourage to" example="The company encourages drivers to book slots in advance."
 :::
 
 ## Self-Check

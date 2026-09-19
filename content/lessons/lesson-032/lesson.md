@@ -357,34 +357,34 @@ logical architecture you can trace end to end.
 
 ## Vocabulary in Context
 
-::: vocabulary word="counterfactual" pos="adjective" meaning="describing a hypothetical situation contrary to what actually happened, used to test a causal claim (বাস্তবতার বিপরীত অনুমানভিত্তিক)" example="The counterfactual question asks what would have happened if the AI system had never been introduced."
+::: vocabulary word="counterfactual" pos="adjective" register="technical" meaning="describing a hypothetical situation contrary to what actually happened, used to test a causal claim (বাস্তবতার বিপরীত অনুমানভিত্তিক)" collocation="counterfactual scenario, counterfactual analysis, counterfactual reasoning" example="The counterfactual question is what would have happened to waiting times if the new gate had never been built."
 :::
 
-::: vocabulary word="baseline" pos="noun" meaning="a starting reference point against which later change is measured (ভিত্তিরেখা/প্রাথমিক মাপকাঠি)" example="Estimating the counterfactual baseline means asking what the outcome would have been without the intervention."
+::: vocabulary word="baseline" pos="noun" register="technical" meaning="a starting reference point against which later change is measured (ভিত্তিরেখা/প্রাথমিক মাপকাঠি)" collocation="baseline figure, establish a baseline, compared with the baseline" example="Before the trial began, the team recorded a baseline of average turnaround time for comparison."
 :::
 
-::: vocabulary word="confounder" pos="noun" meaning="a factor that changes alongside the proposed cause, making it hard to isolate the cause's real effect (বিভ্রান্তিকর উপাদান)" example="Additional staffing acted as a confounder, muddying the causal claim about the new system."
+::: vocabulary word="confounder" pos="noun" register="technical" meaning="a factor that changes alongside the proposed cause, making it hard to isolate the cause's real effect (বিভ্রান্তিকর উপাদান)" collocation="control for a confounder, potential confounder, hidden confounder" example="Seasonal demand is a confounder: it raises both staffing and volumes, so it can distort the comparison."
 :::
 
-::: vocabulary word="isolate" pos="verb" meaning="to separate one factor from others in order to examine its effect alone (পৃথক করা)" example="When several changes happen at once, it becomes difficult to isolate any single cause."
+::: vocabulary word="isolate" pos="verb" register="technical" meaning="to separate one factor from others in order to examine its effect alone (পৃথক করা)" collocation="isolate the effect, isolate a variable, isolate the cause" example="To isolate the effect of the new software, the team changed nothing else during the trial."
 :::
 
-::: vocabulary word="hypothesis" pos="noun" meaning="a proposed explanation offered as a starting point for testing, not yet established as fact (অনুকল্প)" example="Regression to the mean is one hypothesis that could explain the observed improvement."
+::: vocabulary word="hypothesis" pos="noun" register="technical" meaning="a proposed explanation offered as a starting point for testing, not yet established as fact (অনুকল্প)" collocation="test a hypothesis, working hypothesis, alternative hypothesis" example="The working hypothesis is that pre-booking reduced queues, but the data do not yet prove it."
 :::
 
-::: vocabulary word="attribute" pos="verb" meaning="to identify something as the cause or source of a particular result (কোনো কারণকে দায়ী করা)" example="Management attributed the improvement primarily to the new scheduling system."
+::: vocabulary word="attribute" pos="verb" register="formal" meaning="to identify something as the cause or source of a particular result (কোনো কারণকে দায়ী করা)" collocation="attribute to, largely attribute, wrongly attribute" example="Management attributed the improvement to the new roster, ignoring the fall in vessel arrivals."
 :::
 
-::: vocabulary word="replicate" pos="verb" meaning="to repeat a study independently to see whether it produces the same result (পুনরাবৃত্তি করা)" example="A causal claim becomes more convincing when the result is replicated in other settings."
+::: vocabulary word="replicate" pos="verb" register="technical" meaning="to repeat a study independently to see whether it produces the same result (পুনরাবৃত্তি করা)" collocation="replicate the results, fail to replicate, independently replicate" example="An independent team replicated the experiment and obtained the same result."
 :::
 
-::: vocabulary word="utilization" pos="noun" meaning="the degree to which a resource, such as a vehicle or a machine, is actually used relative to its capacity (ব্যবহারযোগ্যতার হার)" example="Reduced idle time increased vehicle utilization, which in turn reduced delivery delays."
+::: vocabulary word="utilization" pos="noun" register="technical" meaning="the degree to which a resource, such as a vehicle or a machine, is actually used relative to its capacity (ব্যবহারযোগ্যতার হার)" collocation="crane utilization, utilization rate, improve utilization" example="Crane utilization rose from sixty to seventy-five percent after the schedule was revised."
 :::
 
-::: vocabulary word="concurrent" pos="adjective" meaning="happening at the same time as something else (সমসাময়িক)" example="Concurrent staffing changes make it harder to credit the improvement to automation alone."
+::: vocabulary word="concurrent" pos="adjective" register="formal" meaning="happening at the same time as something else (সমসাময়িক)" collocation="concurrent events, run concurrently, concurrent changes" example="Three concurrent changes were introduced in March, so no single one can be credited with the improvement."
 :::
 
-::: vocabulary word="plausible" pos="adjective" meaning="reasonable or believable, though not necessarily proven (যুক্তিসঙ্গত)" example="Several plausible explanations, not just one, can usually account for the same observed change."
+::: vocabulary word="plausible" pos="adjective" register="formal" meaning="reasonable or believable, though not necessarily proven (যুক্তিসঙ্গত)" collocation="plausible explanation, entirely plausible, seem plausible" example="Higher volumes are a plausible explanation for the delay, but the logs must confirm it."
 :::
 
 ## Guided Reading Practice

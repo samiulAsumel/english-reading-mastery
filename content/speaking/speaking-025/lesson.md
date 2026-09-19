@@ -65,10 +65,10 @@ more even rhythm in the second.
 
 ## Vocabulary in Context
 
-::: vocabulary word="stress" pos="noun" meaning="extra emphasis given to certain words in speech — শব্দে জোর" example="The cleft sentence puts extra stress on 'heavy rain,' right where the emphasis belongs."
+::: vocabulary word="stress" pos="noun" register="neutral" meaning="extra emphasis given to certain words in speech (শব্দে জোর)" collocation="stress a word, place the stress, word stress" example="Put the stress on 'safety', not on 'speed', if that is your main point."
 :::
 
-::: vocabulary word="delay" pos="noun" meaning="a period of time by which something is made later than expected — বিলম্ব" example="Heavy rain caused a two-hour delay at the airport."
+::: vocabulary word="delay" pos="noun" register="neutral" meaning="a period of time by which something is made later than expected (বিলম্ব)" collocation="cause a delay, unavoidable delay, delay in" example="A delay in customs clearance pushed delivery back two days."
 :::
 
 ## Self-Check

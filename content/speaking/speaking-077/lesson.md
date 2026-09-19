@@ -66,10 +66,10 @@ any hidden judgment word.
 
 ## Vocabulary in Context
 
-::: vocabulary word="tag" pos="verb" meaning="to attach a short label to something right after stating it — চিহ্নিত করা" example="She tagged each sentence as fact, interpretation, or opinion as she went."
+::: vocabulary word="tag" pos="verb" register="neutral" meaning="to attach a short label to something right after stating it (চিহ্নিত করা)" collocation="tag a statement, tag as, tag with" example="After each statement I tag it: 'That is a fact', or 'That is my opinion'."
 :::
 
-::: vocabulary word="reasonable" pos="adjective" meaning="fair and sensible, in a way most people would accept — যুক্তিসঙ্গত" example="A reasonable interpretation stays close to what the fact actually supports."
+::: vocabulary word="reasonable" pos="adjective" register="neutral" meaning="fair and sensible, in a way most people would accept (যুক্তিসঙ্গত)" collocation="reasonable assumption, reasonable doubt, reasonable price" example="It is reasonable to assume the delay was caused by the storm."
 :::
 
 ## Self-Check

@@ -369,34 +369,34 @@ weak* (negative). Always move outward: context → word choice → sentence
 
 ## Vocabulary in Context
 
-::: vocabulary word="tone" pos="noun" meaning="the attitude or emotional/intellectual manner an author expresses toward their subject (মনোভাব/সুর)" example="The article's tone shifted from enthusiastic to cautious partway through."
+::: vocabulary word="tone" pos="noun" register="formal" meaning="the attitude or emotional/intellectual manner an author expresses toward their subject (মনোভাব/সুর)" collocation="formal tone, adopt a tone, measured tone" example="The regulator's letter adopted a firm but courteous tone."
 :::
 
-::: vocabulary word="dismissive" pos="adjective" meaning="treating something, often an opposing view, as unworthy of serious consideration (উপেক্ষাপূর্ণ)" example="The author's dismissive tone toward critics weakened an otherwise fair analysis."
+::: vocabulary word="dismissive" pos="adjective" register="formal" meaning="treating something, often an opposing view, as unworthy of serious consideration (উপেক্ষাপূর্ণ)" collocation="dismissive attitude, dismissive of, dismissive tone" example="The director's dismissive reply to the safety complaint damaged morale on the shop floor."
 :::
 
-::: vocabulary word="bias" pos="noun" meaning="a systematic tendency to present or evaluate information in a particular direction (পক্ষপাত)" example="Highlighting only successful case studies while ignoring failures is a form of bias."
+::: vocabulary word="bias" pos="noun" register="formal" meaning="a systematic tendency to present or evaluate information in a particular direction (পক্ষপাত)" collocation="systematic bias, potential bias, bias in" example="The consultant disclosed a possible bias, as her firm had worked with one of the bidders before."
 :::
 
-::: vocabulary word="objectivity" pos="noun" meaning="a focus on evidence and reasoning that minimizes personal preference or loaded judgment (নিরপেক্ষতা/বস্তুনিষ্ঠতা)" example="No text achieves perfect objectivity, but some come much closer than others."
+::: vocabulary word="objectivity" pos="noun" register="formal" meaning="a focus on evidence and reasoning that minimizes personal preference or loaded judgment (নিরপেক্ষতা/বস্তুনিষ্ঠতা)" collocation="maintain objectivity, journalistic objectivity, lack of objectivity" example="An external auditor was hired to guarantee objectivity in the review."
 :::
 
-::: vocabulary word="allege" pos="verb" meaning="to claim something as true, usually without yet proving it, often signalling the claim is disputed (অভিযোগ করা/দাবি করা, প্রমাণ ছাড়া)" example="Using 'alleged' rather than 'found' signals that a claim remains unverified."
+::: vocabulary word="allege" pos="verb" register="formal" meaning="to claim something as true, usually without yet proving it, often signalling the claim is disputed (অভিযোগ করা/দাবি করা, প্রমাণ ছাড়া)" collocation="allege that, allegedly, publicly allege" example="The complaint alleges that the contractor falsified the inspection certificates."
 :::
 
-::: vocabulary word="premature" pos="adjective" meaning="happening or being made before enough evidence is available to support it (অকালপক্ব/তাড়াহুড়ো করে নেওয়া)" example="The author suggests that widespread enthusiasm for AI may be premature."
+::: vocabulary word="premature" pos="adjective" register="formal" meaning="happening or being made before enough evidence is available to support it (অকালপক্ব/তাড়াহুড়ো করে নেওয়া)" collocation="premature conclusion, premature to say, prove premature" example="It would be premature to declare the pilot a success after only two weeks of data."
 :::
 
-::: vocabulary word="foreground" pos="verb" meaning="to bring a particular aspect of something into central attention, ahead of other aspects (সম্মুখে/কেন্দ্রে আনা)" example="Positive framing foregrounds opportunity, while negative framing foregrounds risk."
+::: vocabulary word="foreground" pos="verb" register="formal" meaning="to bring a particular aspect of something into central attention, ahead of other aspects (সম্মুখে/কেন্দ্রে আনা)" collocation="foreground the issue, be foregrounded, foreground the risks" example="The article foregrounds the job losses and mentions the investment only in passing."
 :::
 
-::: vocabulary word="skeptical" pos="adjective" meaning="not easily convinced; inclined to doubt a claim until it is well supported (সন্দেহপ্রবণ)" example="A skeptical tone often shows up as 'remains unclear' or 'cannot be established.'"
+::: vocabulary word="skeptical" pos="adjective" register="formal" meaning="not easily convinced; inclined to doubt a claim until it is well supported (সন্দেহপ্রবণ)" collocation="remain skeptical, healthy skepticism, skeptical of" example="Investors remain skeptical of the company's claim that costs will fall by a third."
 :::
 
-::: vocabulary word="evaluative" pos="adjective" meaning="expressing a judgment of quality or worth, rather than a neutral description (মূল্যায়নমূলক)" example="Words like 'flawed' and 'promising' are evaluative, not purely descriptive."
+::: vocabulary word="evaluative" pos="adjective" register="technical" meaning="expressing a judgment of quality or worth, rather than a neutral description (মূল্যায়নমূলক)" collocation="evaluative language, evaluative tone, evaluative judgment" example="Words like 'disastrous' and 'impressive' are evaluative; they judge rather than describe."
 :::
 
-::: vocabulary word="nuanced" pos="adjective" meaning="reflecting subtle, careful distinctions rather than a simple, extreme position (সূক্ষ্ম পার্থক্যসম্পন্ন)" example="A nuanced position on AI adoption acknowledges both its benefits and its risks."
+::: vocabulary word="nuanced" pos="adjective" register="formal" meaning="reflecting subtle, careful distinctions rather than a simple, extreme position (সূক্ষ্ম পার্থক্যসম্পন্ন)" collocation="nuanced view, nuanced picture, more nuanced" example="The report paints a nuanced picture: productivity is up, but staff satisfaction has fallen."
 :::
 
 ## Guided Reading Practice

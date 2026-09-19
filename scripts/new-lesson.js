@@ -86,7 +86,7 @@ TODO.
 
 ## Vocabulary
 
-::: vocabulary word="example" pos="noun" meaning="TODO meaning" example="TODO example sentence."
+::: vocabulary word="example" pos="noun" register="formal" meaning="TODO one-line meaning" collocation="TODO common pairing" example="TODO realistic workplace sentence."
 :::
 
 ## Master Framework
@@ -140,7 +140,7 @@ TODO a model answer to compare your own writing against.
 
 ## Vocabulary
 
-::: vocabulary word="example" pos="noun" meaning="TODO meaning" example="TODO example sentence."
+::: vocabulary word="example" pos="noun" register="formal" meaning="TODO one-line meaning" collocation="TODO common pairing" example="TODO realistic workplace sentence."
 :::
 `;
 
@@ -174,7 +174,7 @@ TODO a model spoken response to compare yourself against.
 
 ## Vocabulary
 
-::: vocabulary word="example" pos="noun" meaning="TODO meaning" example="TODO example sentence."
+::: vocabulary word="example" pos="noun" register="formal" meaning="TODO one-line meaning" collocation="TODO common pairing" example="TODO realistic workplace sentence."
 :::
 `;
 

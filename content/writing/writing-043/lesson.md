@@ -63,13 +63,13 @@ credit the change alone can take for the result.
 
 ## Vocabulary in Context
 
-::: vocabulary word="linear progression" pos="noun phrase" meaning="a paragraph pattern where each sentence's new information becomes the next sentence's given topic — ক্রমিক অগ্রগতি" example="The paragraph follows linear progression: each sentence hands its new fact to the one that follows."
+::: vocabulary word="linear progression" pos="noun phrase" register="technical" meaning="a paragraph pattern where each sentence's new information becomes the next sentence's given topic (ক্রমিক অগ্রগতি)" collocation="linear progression, follow a linear progression, paragraph with linear progression" example="In a paragraph with linear progression, each sentence's new information becomes the next sentence's topic."
 :::
 
-::: vocabulary word="given information" pos="noun phrase" meaning="content already established earlier in the text, usually placed at the start of the next sentence — প্রদত্ত তথ্য" example="Opening the second sentence with given information kept the paragraph easy to follow."
+::: vocabulary word="given information" pos="noun phrase" register="technical" meaning="content already established earlier in the text, usually placed at the start of the next sentence (প্রদত্ত তথ্য)" collocation="place given information first, given and new information, treat as given information" example="Start a sentence with given information the reader already knows."
 :::
 
-::: vocabulary word="qualification" pos="noun" meaning="a statement that limits or narrows an earlier, broader claim — শর্তারোপ" example="The paragraph's closing qualification stopped the reader from crediting the change alone."
+::: vocabulary word="qualification" pos="noun" register="formal" meaning="a statement that limits or narrows an earlier, broader claim (শর্তারোপ)" collocation="add a qualification, important qualification, without qualification" example="The final sentence adds a qualification limiting the claim to large terminals."
 :::
 
 ## Model Answer

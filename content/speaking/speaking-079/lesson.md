@@ -69,10 +69,10 @@ limitation from part one directly, not with a fresh, unrelated sentence.
 
 ## Vocabulary in Context
 
-::: vocabulary word="pick up" pos="phrasal verb" meaning="to continue or return to an idea mentioned earlier — পুনরায় তুলে ধরা" example="The second part picked up the limitation mentioned at the end of the first."
+::: vocabulary word="pick up" pos="phrasal verb" register="neutral" meaning="to continue or return to an idea mentioned earlier (পুনরায় তুলে ধরা)" collocation="pick up on, pick up the thread, pick up where you left off" example="Let me pick up the point I made about cost earlier."
 :::
 
-::: vocabulary word="resolve" pos="verb" meaning="to settle or answer a problem or question that was raised — সমাধান করা" example="The second part resolved the limitation the first part had raised."
+::: vocabulary word="resolve" pos="verb" register="formal" meaning="to settle or answer a problem or question that was raised (সমাধান করা)" collocation="resolve the question, resolve an issue, resolve a problem" example="The next paragraph resolves the problem raised in the first."
 :::
 
 ## Self-Check

@@ -481,34 +481,34 @@ actually true to what the passage supports.
 
 ## Vocabulary in Context
 
-::: vocabulary word="representative" pos="adjective" meaning="accurately reflecting the characteristics of a larger group or population (প্রতিনিধিত্বমূলক)" example="A representative sample makes a study's findings more likely to generalize beyond the people actually studied."
+::: vocabulary word="representative" pos="adjective" register="formal" meaning="accurately reflecting the characteristics of a larger group or population (প্রতিনিধিত্বমূলক)" collocation="representative sample, fully representative, not representative" example="Interviews with three drivers are not representative of the thousands who use the terminal."
 :::
 
-::: vocabulary word="bias" pos="noun" meaning="a systematic distortion in how a sample or study is put together, which skews its results (পক্ষপাত/পক্ষপাতিত্ব)" example="Surveying only top performers introduces selection bias into the results."
+::: vocabulary word="bias" pos="noun" register="formal" meaning="a systematic distortion in how a sample or study is put together, which skews its results (পক্ষপাত/পক্ষপাতিত্ব)" collocation="selection bias, unconscious bias, bias in" example="The survey suffered from selection bias because only satisfied customers replied."
 :::
 
-::: vocabulary word="replicate" pos="verb" meaning="to repeat a study independently to see whether it produces the same result (পুনরাবৃত্তি/পুনরায় সম্পাদন করা)" example="A finding that has been replicated across several independent studies is generally more trustworthy."
+::: vocabulary word="replicate" pos="verb" register="technical" meaning="to repeat a study independently to see whether it produces the same result (পুনরাবৃত্তি/পুনরায় সম্পাদন করা)" collocation="replicate a study, replicate the results, fail to replicate" example="Other laboratories could not replicate the results, which weakened confidence in the original claim."
 :::
 
-::: vocabulary word="triangulation" pos="noun" meaning="using several different kinds or sources of evidence to check whether they point toward the same conclusion (বহুমুখী যাচাই)" example="Triangulation across survey data, interviews, and transaction records strengthened the study's conclusion."
+::: vocabulary word="triangulation" pos="noun" register="technical" meaning="using several different kinds or sources of evidence to check whether they point toward the same conclusion (বহুমুখী যাচাই)" collocation="data triangulation, use triangulation, triangulation of" example="The auditors used triangulation, comparing invoices, gate logs, and driver interviews to verify the delay."
 :::
 
-::: vocabulary word="preliminary" pos="adjective" meaning="happening at an early stage, before a fuller or final result is available (প্রাথমিক)" example="Preliminary evidence suggests the intervention may help, but a final conclusion would require more research."
+::: vocabulary word="preliminary" pos="adjective" register="formal" meaning="happening at an early stage, before a fuller or final result is available (প্রাথমিক)" collocation="preliminary findings, preliminary results, preliminary report" example="The preliminary report suggests human error, but the full investigation is still under way."
 :::
 
-::: vocabulary word="robust" pos="adjective" meaning="strong and able to withstand reasonable challenges or scrutiny (মজবুত/সুদৃঢ়)" example="Robust evidence tends to hold up even when researchers test it with different methods."
+::: vocabulary word="robust" pos="adjective" register="formal" meaning="strong and able to withstand reasonable challenges or scrutiny (মজবুত/সুদৃঢ়)" collocation="robust evidence, robust system, highly robust" example="The conclusion is robust because three independent datasets point the same way."
 :::
 
-::: vocabulary word="generalize" pos="verb" meaning="to apply a finding from a specific sample or study to a broader population or context (সাধারণীকরণ করা)" example="A study of 50 developers cannot automatically be generalized to all workers."
+::: vocabulary word="generalize" pos="verb" register="formal" meaning="to apply a finding from a specific sample or study to a broader population or context (সাধারণীকরণ করা)" collocation="generalize from, cannot generalize, safely generalize" example="It is risky to generalize from one busy week to the performance of the whole year."
 :::
 
-::: vocabulary word="external validity" pos="noun phrase" meaning="the degree to which a study's findings can reasonably apply beyond the specific sample or context it examined (বহিঃস্থ বৈধতা)" example="A study's external validity is limited when its sample comes from only one unusual context."
+::: vocabulary word="external validity" pos="noun phrase" register="technical" meaning="the degree to which a study's findings can reasonably apply beyond the specific sample or context it examined (বহিঃস্থ বৈধতা)" collocation="limited external validity, threat to external validity, high external validity" example="The study's external validity is low: it examined only one port in one season."
 :::
 
-::: vocabulary word="anecdote" pos="noun" meaning="a single, informal example or story, generally weaker as evidence than systematic data (একক ঘটনা/কাহিনি)" example="One manager's anecdote about automation is useful context, but not strong general evidence."
+::: vocabulary word="anecdote" pos="noun" register="neutral" meaning="a single, informal example or story, generally weaker as evidence than systematic data (একক ঘটনা/কাহিনি)" collocation="rely on anecdote, personal anecdote, an anecdote about" example="A single anecdote about one delayed truck cannot support a claim about the whole gate system."
 :::
 
-::: vocabulary word="scope" pos="noun" meaning="the range or extent of people, situations, or conditions that a claim or study actually covers (পরিধি/সীমা)" example="A claim's scope should match the scope of the evidence actually collected for it."
+::: vocabulary word="scope" pos="noun" register="formal" meaning="the range or extent of people, situations, or conditions that a claim or study actually covers (পরিধি/সীমা)" collocation="scope of, limited scope, beyond the scope" example="The review's scope is limited to export operations; import processes were not examined."
 :::
 
 ## Guided Reading Practice

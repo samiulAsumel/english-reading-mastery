@@ -69,10 +69,10 @@ confirmed it." Check that both versions reported the exact same number.
 
 ## Vocabulary in Context
 
-::: vocabulary word="distancing language" pos="noun phrase" meaning="spoken wording like claims or has yet to be confirmed that signals doubt without changing the underlying fact — দূরত্ব সৃষ্টিকারী ভাষা" example="Swapping 'found' for 'claims' added distancing language without touching a single fact."
+::: vocabulary word="distancing language" pos="noun phrase" register="technical" meaning="spoken wording like claims or has yet to be confirmed that signals doubt without changing the underlying fact (দূরত্ব সৃষ্টিকারী ভাষা)" collocation="use distancing language, distancing language such as, signal with distancing language" example="Saying 'the company claims' is distancing language: I am not vouching for it."
 :::
 
-::: vocabulary word="objectivity" pos="noun" meaning="reporting a fact and its real limits without letting tone push the listener toward belief or doubt — নিরপেক্ষতা" example="True objectivity states the finding and its limits, in either tone."
+::: vocabulary word="objectivity" pos="noun" register="formal" meaning="reporting a fact and its real limits without letting tone push the listener toward belief or doubt (নিরপেক্ষতা)" collocation="maintain objectivity, journalistic objectivity, lack of objectivity" example="I tried to keep objectivity by stating both the results and their limits."
 :::
 
 ## Self-Check

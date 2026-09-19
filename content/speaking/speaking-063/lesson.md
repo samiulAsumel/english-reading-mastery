@@ -65,10 +65,10 @@ a trade-off without hesitating or needing a prompt.
 
 ## Vocabulary in Context
 
-::: vocabulary word="symptom" pos="noun" meaning="a visible sign of a problem, not the problem's underlying cause — লক্ষণ" example="Late deliveries were a symptom; the routing system was the root cause."
+::: vocabulary word="symptom" pos="noun" register="neutral" meaning="a visible sign of a problem, not the problem's underlying cause (লক্ষণ)" collocation="a symptom of, obvious symptom, treat the symptom" example="Long queues are a symptom of the underlying scheduling problem."
 :::
 
-::: vocabulary word="trade-off" pos="noun" meaning="a downside accepted in exchange for a benefit — বিনিময়ে ত্যাগ" example="Faster processing came with a trade-off: higher storage costs."
+::: vocabulary word="trade-off" pos="noun" register="neutral" meaning="a downside accepted in exchange for a benefit (বিনিময়ে ত্যাগ)" collocation="trade-off between, difficult trade-off, accept a trade-off" example="There is a trade-off between speed and thoroughness."
 :::
 
 ## Self-Check

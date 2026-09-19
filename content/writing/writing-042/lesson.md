@@ -57,10 +57,10 @@ itself.
 
 ## Vocabulary in Context
 
-::: vocabulary word="subordinate clause" pos="noun phrase" meaning="a dependent clause that cannot stand alone as a sentence — অধীনস্থ বাক্যাংশ" example="'Because the server overheated' is a subordinate clause."
+::: vocabulary word="subordinate clause" pos="noun phrase" register="technical" meaning="a dependent clause that cannot stand alone as a sentence (অধীনস্থ বাক্যাংশ)" collocation="add a subordinate clause, subordinate clause with although, embed a subordinate clause" example="'Although the vessel was late, the crew unloaded it quickly' contains a subordinate clause."
 :::
 
-::: vocabulary word="embedded clause" pos="noun phrase" meaning="a clause placed inside another clause, usually modifying one of its nouns — অন্তর্ভুক্ত বাক্যাংশ" example="A relative clause can be embedded inside a subordinate clause."
+::: vocabulary word="embedded clause" pos="noun phrase" register="technical" meaning="a clause placed inside another clause, usually modifying one of its nouns (অন্তর্ভুক্ত বাক্যাংশ)" collocation="embedded clause, place an embedded clause, embedded relative clause" example="In 'The report that the auditor wrote was long', 'that the auditor wrote' is an embedded clause."
 :::
 
 ## Model Answer

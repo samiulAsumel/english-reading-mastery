@@ -581,34 +581,34 @@ argumentative paragraph on a first read.
 
 ## Vocabulary in Context
 
-::: vocabulary word="claim" pos="noun" meaning="a proposition or position an author puts forward and must support, rather than a settled fact (দাবি/বক্তব্য)" example="Remote work can improve employee flexibility is a claim, not yet an established fact."
+::: vocabulary word="claim" pos="noun" register="formal" meaning="a proposition or position an author puts forward and must support, rather than a settled fact (দাবি/বক্তব্য)" collocation="make a claim, unsupported claim, dispute a claim" example="The vendor's claim that its software eliminates errors is not supported by the pilot data."
 :::
 
-::: vocabulary word="evidence" pos="noun" meaning="observable or documented support offered for a claim, such as data, studies, or examples (প্রমাণ)" example="A 2025 study of 300 employees is evidence; a manager's opinion alone is not."
+::: vocabulary word="evidence" pos="noun" register="formal" meaning="observable or documented support offered for a claim, such as data, studies, or examples (প্রমাণ)" collocation="strong evidence, provide evidence, evidence for" example="The finance team submitted invoices and bank statements as evidence of payment."
 :::
 
-::: vocabulary word="counterargument" pos="noun" meaning="a position that opposes or challenges the author's main claim, often voiced by the author before being answered (প্রতিতর্ক)" example="Some managers argue that training is expensive — that's a counterargument the author has to address."
+::: vocabulary word="counterargument" pos="noun" register="formal" meaning="a position that opposes or challenges the author's main claim, often voiced by the author before being answered (প্রতিতর্ক)" collocation="raise a counterargument, address a counterargument, strong counterargument" example="The author anticipates a counterargument about cost before presenting the long-term savings."
 :::
 
-::: vocabulary word="rebuttal" pos="noun" meaning="an author's response to a counterargument, aimed at showing why the main claim still stands (প্রতিউত্তর)" example="The rebuttal argued that long-term benefits outweigh the short-term costs raised by critics."
+::: vocabulary word="rebuttal" pos="noun" register="formal" meaning="an author's response to a counterargument, aimed at showing why the main claim still stands (প্রতিউত্তর)" collocation="offer a rebuttal, strong rebuttal, rebuttal to" example="The company's rebuttal pointed out that the audit had ignored the second half of the year."
 :::
 
-::: vocabulary word="concession" pos="noun" meaning="an author's acknowledgment that an opposing or limiting point has some validity (স্বীকৃতি)" example="Although the system is expensive is a concession — the author accepts the cost as real."
+::: vocabulary word="concession" pos="noun" register="formal" meaning="an author's acknowledgment that an opposing or limiting point has some validity (স্বীকৃতি)" collocation="make a concession, grant a concession, important concession" example="The union made a concession on overtime in exchange for guaranteed job security."
 :::
 
-::: vocabulary word="qualify" pos="verb" meaning="to limit or add conditions to a claim, making it more precise rather than abandoning it (সীমিত/শর্তসাপেক্ষ করা)" example="The author qualified the claim by adding 'under certain conditions.'"
+::: vocabulary word="qualify" pos="verb" register="formal" meaning="to limit or add conditions to a claim, making it more precise rather than abandoning it (সীমিত/শর্তসাপেক্ষ করা)" collocation="qualify a claim, heavily qualify, qualify a statement" example="The author qualifies the claim, noting that the results apply only to large ports."
 :::
 
-::: vocabulary word="overgeneralization" pos="noun" meaning="drawing a broad conclusion from evidence too narrow to support it (অতি-সাধারণীকরণ)" example="Concluding 'AI always improves productivity' from one company's experience is an overgeneralization."
+::: vocabulary word="overgeneralization" pos="noun" register="technical" meaning="drawing a broad conclusion from evidence too narrow to support it (অতি-সাধারণীকরণ)" collocation="avoid overgeneralization, risk of overgeneralization, sweeping overgeneralization" example="Concluding that all ports are inefficient from one poorly run terminal is a clear overgeneralization."
 :::
 
-::: vocabulary word="attribution" pos="noun" meaning="identifying whose claim or statement is being reported, rather than treating it as the author's own view (উৎস নির্দেশ)" example="Careful attribution tracking shows that 'critics argue' names the critics' position, not the author's."
+::: vocabulary word="attribution" pos="noun" register="formal" meaning="identifying whose claim or statement is being reported, rather than treating it as the author's own view (উৎস নির্দেশ)" collocation="clear attribution, source attribution, lack of attribution" example="The article's lack of attribution made it impossible to check who had made the claim."
 :::
 
-::: vocabulary word="anecdote" pos="noun" meaning="a single, informal example or story, generally weaker as evidence than systematic data (একক ঘটনা/কাহিনি)" example="One employee's success story is an anecdote, not proof that the policy works for everyone."
+::: vocabulary word="anecdote" pos="noun" register="neutral" meaning="a single, informal example or story, generally weaker as evidence than systematic data (একক ঘটনা/কাহিনি)" collocation="an anecdote about, personal anecdote, rely on anecdote" example="The manager's anecdote about one late shipment was not enough to prove a wider trend."
 :::
 
-::: vocabulary word="hierarchy" pos="noun" meaning="a ranking of items by relative strength or importance (ক্রম/পদক্রম)" example="Multiple replicated studies sit higher in the evidence hierarchy than a single anecdote."
+::: vocabulary word="hierarchy" pos="noun" register="formal" meaning="a ranking of items by relative strength or importance (ক্রম/পদক্রম)" collocation="evidence hierarchy, clear hierarchy, hierarchy of" example="In the hierarchy of evidence, a controlled trial carries more weight than a single case study."
 :::
 
 ## Guided Reading Practice

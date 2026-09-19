@@ -62,10 +62,10 @@ source + reporting verb + that + claim, spoken as one fluent unit.
 
 ## Vocabulary in Context
 
-::: vocabulary word="entry" pos="noun" meaning="an item of information entered into a record or system — এন্ট্রি/তথ্য লিপিবদ্ধকরণ" example="Manual data entry causes most of the recorded errors."
+::: vocabulary word="entry" pos="noun" register="neutral" meaning="an item of information entered into a record or system (এন্ট্রি/তথ্য লিপিবদ্ধকরণ)" collocation="make an entry, log entry, data entry" example="The clerk corrected the entry in the cargo register."
 :::
 
-::: vocabulary word="colleague" pos="noun" meaning="a person you work with — সহকর্মী" example="A colleague told me the new software reduces manual data entry."
+::: vocabulary word="colleague" pos="noun" register="neutral" meaning="a person you work with (সহকর্মী)" collocation="a colleague from, work with colleagues, senior colleague" example="My colleague says the entry in the system was wrong."
 :::
 
 ## Self-Check

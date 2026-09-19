@@ -541,22 +541,22 @@ dimensions.
 
 ## Vocabulary in Context
 
-::: vocabulary word="flexibility" pos="noun" meaning="the ability to change or adapt easily (নমনীয়তা)" example="Digital platforms can provide greater flexibility than traditional systems."
+::: vocabulary word="flexibility" pos="noun" register="neutral" meaning="the ability to change or adapt easily (নমনীয়তা)" collocation="operational flexibility, offer flexibility, greater flexibility" example="Flexible shift patterns give the terminal the flexibility to respond to sudden vessel delays."
 :::
 
-::: vocabulary word="capability" pos="noun" meaning="the ability to do something, especially something requiring skill (সক্ষমতা)" example="Greater technological capability does not always mean better performance."
+::: vocabulary word="capability" pos="noun" register="formal" meaning="the ability to do something, especially something requiring skill (সক্ষমতা)" collocation="technical capability, build capability, capability to" example="The upgrade will double the terminal's capability to handle refrigerated containers."
 :::
 
-::: vocabulary word="adapt" pos="verb" meaning="to change your approach to suit new conditions (খাপ খাওয়ানো)" example="Employees must adapt to new communication practices."
+::: vocabulary word="adapt" pos="verb" register="neutral" meaning="to change your approach to suit new conditions (খাপ খাওয়ানো)" collocation="adapt to, quickly adapt, adapt the approach" example="Shipping lines had to adapt their schedules quickly when the canal was blocked."
 :::
 
-::: vocabulary word="perspective" pos="noun" meaning="a particular way of thinking about or viewing something (দৃষ্টিভঙ্গি)" example="Good communication requires considering alternative perspectives."
+::: vocabulary word="perspective" pos="noun" register="formal" meaning="a particular way of thinking about or viewing something (দৃষ্টিভঙ্গি)" collocation="from a perspective, different perspective, broader perspective" example="From a legal perspective, the safest course is to notify the regulator immediately."
 :::
 
-::: vocabulary word="boundary" pos="noun" meaning="a limit that marks where one thing ends and another begins (সীমা)" example="Digital tools have created opportunities for collaboration across geographical boundaries."
+::: vocabulary word="boundary" pos="noun" register="formal" meaning="a limit that marks where one thing ends and another begins (সীমা)" collocation="boundary between, cross the boundary, clear boundary" example="The contract sets a clear boundary between the terminal's liability and the carrier's."
 :::
 
-::: vocabulary word="appropriate" pos="adjective" meaning="suitable or correct for a particular situation (উপযুক্ত)" example="Choosing the appropriate technology matters as much as adopting new technology at all."
+::: vocabulary word="appropriate" pos="adjective" register="formal" meaning="suitable or correct for a particular situation (উপযুক্ত)" collocation="appropriate action, appropriate measures, deemed appropriate" example="The regulator will take appropriate action against any operator that falsifies safety records."
 :::
 
 ::: note title="Chunks worth learning as whole units"

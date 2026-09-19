@@ -353,34 +353,34 @@ logic together.
 
 ## Vocabulary in Context
 
-::: vocabulary word="appositive" pos="noun" meaning="a noun phrase placed beside another noun to identify or explain it (ব্যাখ্যামূলক বিশেষ্যপদ)" example="'Dhaka, the capital of Bangladesh,' uses an appositive to identify Dhaka."
+::: vocabulary word="appositive" pos="noun" register="technical" meaning="a noun phrase placed beside another noun to identify or explain it (ব্যাখ্যামূলক বিশেষ্যপদ)" collocation="appositive phrase, use an appositive, noun appositive" example="In 'Ms Rahman, the terminal manager, signed the order', the phrase 'the terminal manager' is an appositive."
 :::
 
-::: vocabulary word="parenthetical" pos="adjective" meaning="describing extra, inserted information not essential to a sentence's main grammatical structure (কোষ্ঠকভুক্ত/অতিরিক্ত সংযোজিত তথ্য)" example="'However' is often used as a parenthetical, signalling contrast without changing the core sentence."
+::: vocabulary word="parenthetical" pos="adjective" register="technical" meaning="describing extra, inserted information not essential to a sentence's main grammatical structure (কোষ্ঠকভুক্ত/অতিরিক্ত সংযোজিত তথ্য)" collocation="parenthetical remark, parenthetical information, parenthetical phrase" example="The parenthetical remark about last year's figures can be removed without changing the sentence's main claim."
 :::
 
-::: vocabulary word="inversion" pos="noun" meaning="reversing the normal subject-verb word order, usually for emphasis, often triggered by a negative adverb (শব্দক্রম বিপরীতকরণ)" example="'Rarely does the system fail' uses inversion to emphasize how uncommon failure is."
+::: vocabulary word="inversion" pos="noun" register="technical" meaning="reversing the normal subject-verb word order, usually for emphasis, often triggered by a negative adverb (শব্দক্রম বিপরীতকরণ)" collocation="subject-verb inversion, negative inversion, use inversion" example="Inversion appears in 'Rarely do inspectors find a fault this early', where 'do' comes before the subject."
 :::
 
-::: vocabulary word="discontinuous" pos="adjective" meaning="describing a sentence structure whose parts are separated by inserted material rather than placed next to each other (অবিচ্ছিন্নভাবে বিভক্ত গঠন)" example="The policy, despite recent improvements, remains controversial is a discontinuous structure."
+::: vocabulary word="discontinuous" pos="adjective" register="technical" meaning="describing a sentence structure whose parts are separated by inserted material rather than placed next to each other (অবিচ্ছিন্নভাবে বিভক্ত গঠন)" collocation="discontinuous structure, discontinuous phrase, discontinuous dependency" example="In 'The report, though late, was thorough', the subject and verb form a discontinuous structure split by an insertion."
 :::
 
-::: vocabulary word="ellipsis" pos="noun" meaning="the deliberate omission of words that are recoverable from context (উহ্যকরণ)" example="'Some support the theory; others do not' relies on ellipsis to avoid repeating 'support the theory.'"
+::: vocabulary word="ellipsis" pos="noun" register="technical" meaning="the deliberate omission of words that are recoverable from context (উহ্যকরণ)" collocation="use ellipsis, ellipsis in, elliptical structure" example="In 'Some crews arrived early; others, late', ellipsis removes the repeated verb 'arrived'."
 :::
 
-::: vocabulary word="dummy subject" pos="noun phrase" meaning="a grammatical placeholder subject, such as 'it' or 'there', that carries no meaning of its own (অর্থহীন কাঠামোগত কর্তা)" example="In 'it is difficult to determine whether...', 'it' functions only as a dummy subject."
+::: vocabulary word="dummy subject" pos="noun phrase" register="technical" meaning="a grammatical placeholder subject, such as 'it' or 'there', that carries no meaning of its own (অর্থহীন কাঠামোগত কর্তা)" collocation="dummy subject 'it', use a dummy subject, dummy subject 'there'" example="In 'It is likely that costs will rise', the word 'it' is a dummy subject and refers to nothing."
 :::
 
-::: vocabulary word="cleft sentence" pos="noun phrase" meaning="a sentence deliberately split into two parts to place emphasis on one piece of information (গুরুত্ব আরোপকারী বিভাজিত বাক্যগঠন)" example="'It was the lack of data that caused the problem' is a cleft sentence emphasizing the lack of data."
+::: vocabulary word="cleft sentence" pos="noun phrase" register="technical" meaning="a sentence deliberately split into two parts to place emphasis on one piece of information (গুরুত্ব আরোপকারী বিভাজিত বাক্যগঠন)" collocation="cleft sentence structure, form a cleft sentence, it-cleft" example="'It was the delay, not the cost, that ended the contract' is a cleft sentence that stresses the delay."
 :::
 
-::: vocabulary word="reduced clause" pos="noun phrase" meaning="a shortened version of a full clause, usually with the subject and auxiliary verb removed (সংক্ষিপ্ত অধীনস্থ বাক্যাংশ)" example="'Once fully integrated' is a reduced clause standing in for 'once it is fully integrated.'"
+::: vocabulary word="reduced clause" pos="noun phrase" register="technical" meaning="a shortened version of a full clause, usually with the subject and auxiliary verb removed (সংক্ষিপ্ত অধীনস্থ বাক্যাংশ)" collocation="reduced relative clause, form a reduced clause, participial reduced clause" example="'Shipments delayed by weather' is a reduced clause meaning 'shipments that were delayed by weather'."
 :::
 
-::: vocabulary word="recoverable" pos="adjective" meaning="able to be reconstructed or supplied from surrounding context, even when omitted from the sentence itself (প্রসঙ্গ থেকে পুনরুদ্ধারযোগ্য)" example="The missing verb in an elliptical sentence is recoverable from the first clause."
+::: vocabulary word="recoverable" pos="adjective" register="technical" meaning="able to be reconstructed or supplied from surrounding context, even when omitted from the sentence itself (প্রসঙ্গ থেকে পুনরুদ্ধারযোগ্য)" collocation="recoverable information, easily recoverable, recoverable from context" example="In 'Some ports grew; others did not', the omitted verb is recoverable from the first clause."
 :::
 
-::: vocabulary word="skeleton" pos="noun" meaning="(in reading) the core subject-verb-object of a sentence, with all modifying material stripped away (মূল কাঠামো)" example="Finding a sentence's skeleton first makes even a very long sentence manageable."
+::: vocabulary word="skeleton" pos="noun" register="technical" meaning="(in reading) the core subject-verb-object of a sentence, with all modifying material stripped away (মূল কাঠামো)" collocation="sentence skeleton, core skeleton, strip to the skeleton" example="Stripped to its skeleton, the long sentence simply says: the committee rejected the proposal."
 :::
 
 ## Guided Reading Practice

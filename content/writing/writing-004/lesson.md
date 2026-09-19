@@ -59,10 +59,10 @@ punctuate the comma correctly.
 
 ## Vocabulary in Context
 
-::: vocabulary word="dependent clause" pos="noun" meaning="a clause with its own subject and verb that cannot stand alone as a full sentence — অধীন খণ্ডবাক্য" example="Because the ferry was late is a dependent clause on its own."
+::: vocabulary word="dependent clause" pos="noun" register="technical" meaning="a clause with its own subject and verb that cannot stand alone as a full sentence (অধীন খণ্ডবাক্য)" collocation="begin a dependent clause, dependent clause with because, attach a dependent clause" example="In 'Because the crane failed, the vessel waited', the first clause is a dependent clause."
 :::
 
-::: vocabulary word="condition" pos="noun" meaning="something that must be true before something else can happen — শর্ত" example="If you arrive early is the condition attached to catching the ferry."
+::: vocabulary word="condition" pos="noun" register="neutral" meaning="something that must be true before something else can happen (শর্ত)" collocation="meet a condition, on condition that, necessary condition" example="Payment is released on condition that the goods pass inspection."
 :::
 
 ## Model Answer

@@ -58,10 +58,10 @@ the problem is genuinely gone.
 
 ## Vocabulary in Context
 
-::: vocabulary word="root cause" pos="noun phrase" meaning="the underlying reason behind a problem, as opposed to its visible symptom — মূল কারণ" example="The delays were a symptom; the root cause was an outdated routing system."
+::: vocabulary word="root cause" pos="noun phrase" register="technical" meaning="the underlying reason behind a problem, as opposed to its visible symptom (মূল কারণ)" collocation="root cause analysis, identify the root cause, underlying root cause" example="The root cause of the delays was a shortage of trained operators."
 :::
 
-::: vocabulary word="mitigate" pos="verb" meaning="to make a problem less severe, without necessarily removing it — প্রশমিত করা" example="The new policy mitigates the risk of overbooking, but does not eliminate it."
+::: vocabulary word="mitigate" pos="verb" register="formal" meaning="to make a problem less severe, without necessarily removing it (প্রশমিত করা)" collocation="mitigate the risk, mitigate the impact, partly mitigate" example="A backup generator mitigates the risk of a power failure."
 :::
 
 ## Model Answer

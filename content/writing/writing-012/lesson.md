@@ -57,10 +57,10 @@ sentences about something that could have gone differently in the past.
 
 ## Vocabulary in Context
 
-::: vocabulary word="unload" pos="verb" meaning="to remove cargo from a ship, truck, or container — খালাস করা" example="If the port had more cranes, ships would unload faster."
+::: vocabulary word="unload" pos="verb" register="neutral" meaning="to remove cargo from a ship, truck, or container (খালাস করা)" collocation="unload cargo, unload a vessel, unload a truck" example="Crews began to unload the vessel as soon as it reached the berth."
 :::
 
-::: vocabulary word="schedule" pos="noun" meaning="a planned time for something to happen — সময়সূচি" example="The ship left on schedule despite the delay."
+::: vocabulary word="schedule" pos="noun" register="neutral" meaning="a planned time for something to happen (সময়সূচি)" collocation="on schedule, behind schedule, schedule of" example="The vessel arrived on schedule despite the storm."
 :::
 
 ## Model Answer

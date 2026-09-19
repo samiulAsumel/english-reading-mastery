@@ -117,9 +117,11 @@ the type before you even read the heading.
 
 ::: example title="Vocabulary Cards"
 When a lesson introduces a genuinely new word, it appears in its own
-card: the word, its part of speech, a plain-English meaning, and one
-short gloss in your language for that single word only — never a full
-translated sentence. This course only uses your language to confirm the
+card: the word, its part of speech, how formal it sounds (its register),
+a one-line plain-English meaning, the words it most often travels with
+(its collocations), and one realistic example sentence. A short gloss in
+your language appears for that single word only — never a full translated
+sentence. This course only uses your language to confirm the
 meaning of one word at a time; every explanation around it stays in
 English, because that is the skill you are here to build.
 :::
@@ -202,22 +204,22 @@ A handful of words you will see constantly across this course's
 interface — worth knowing before Lesson 1, even though none of them are
 English *lesson content* yet.
 
-::: vocabulary word="objective" pos="noun" meaning="a specific goal you are working toward (উদ্দেশ্য)" example="Each lesson lists its objectives at the top of the page."
+::: vocabulary word="objective" pos="noun" register="formal" meaning="a specific goal you are working toward (উদ্দেশ্য)" collocation="set an objective, primary objective, achieve an objective" example="The project's main objective is to cut average vessel waiting time by twenty percent within a year."
 :::
 
-::: vocabulary word="concept" pos="noun" meaning="a single main idea (ধারণা)" example="Every lesson explains one core concept before its examples."
+::: vocabulary word="concept" pos="noun" register="neutral" meaning="a single main idea (ধারণা)" collocation="a key concept, grasp a concept, basic concept" example="Before the training began, staff had to grasp the concept of dwell time."
 :::
 
-::: vocabulary word="practice" pos="noun" meaning="repeated exercise done to build a skill (অনুশীলন)" example="Finish the practice questions before moving to the next lesson."
+::: vocabulary word="practice" pos="noun" register="neutral" meaning="a repeated activity done to improve a skill (also: the usual way of doing something) (অনুশীলন)" collocation="good practice, put into practice, in practice" example="New crane operators must complete forty hours of supervised practice before working a live shift."
 :::
 
-::: vocabulary word="progress" pos="noun" meaning="movement forward toward a goal (অগ্রগতি)" example="You can check your progress on the Progress page at any time."
+::: vocabulary word="progress" pos="noun" register="neutral" meaning="movement forward toward a goal (অগ্রগতি)" collocation="make progress, steady progress, progress towards" example="The steering committee reviews the project's progress against its milestones every month."
 :::
 
-::: vocabulary word="review" pos="verb" meaning="to look at something again carefully (পুনরায় পরীক্ষা করা)" example="Review a lesson's Golden Rule if you forget it later."
+::: vocabulary word="review" pos="verb" register="formal" meaning="to look at something again carefully (পুনরায় পরীক্ষা করা)" collocation="review the evidence, annual review, carefully review" example="The safety officer will review every near-miss report at the end of the month."
 :::
 
-::: vocabulary word="streak" pos="noun" meaning="a number of days in a row that you have studied (ধারাবাহিকতা)" example="Studying one lesson a day, every day, builds your streak."
+::: vocabulary word="streak" pos="noun" register="neutral" meaning="a number of days in a row that you have studied (ধারাবাহিকতা)" collocation="winning streak, unbroken streak, keep a streak going" example="The terminal has kept an unbroken streak of two hundred days without a lost-time injury."
 :::
 
 ## Lesson Summary

@@ -340,25 +340,25 @@ concerns the ability to withstand disruption and recover.*
 
 ## Vocabulary in Context
 
-::: vocabulary word="refers to" pos="phrase" meaning="introduces a formal definition of a term (নির্দেশ করে/বোঝায়)" example="Resilience refers to the ability of a system to recover from disruption."
+::: vocabulary word="refers to" pos="phrase" register="formal" meaning="introduces a formal definition of a term (নির্দেশ করে/বোঝায়)" collocation="the term refers to, refers to a situation, the phrase refers to" example="In shipping, 'demurrage' refers to the charge for keeping a container beyond the free period."
 :::
 
-::: vocabulary word="be characterized by" pos="phrase" meaning="to be identified through a set of defining features or qualities (বৈশিষ্ট্যযুক্ত হওয়া)" example="Effective leadership is characterized by clear communication and accountability."
+::: vocabulary word="be characterized by" pos="phrase" register="formal" meaning="to be identified through a set of defining features or qualities (বৈশিষ্ট্যযুক্ত হওয়া)" collocation="be characterized by, is characterized by high, characterized by low" example="The market is characterized by thin margins and heavy dependence on a few large customers."
 :::
 
-::: vocabulary word="operational definition" pos="noun phrase" meaning="a specific, measurable definition of a concept, stated for the purposes of a particular study or analysis (কার্যকরী সংজ্ঞা)" example="For this study, the operational definition of success was completing the process within the target time."
+::: vocabulary word="operational definition" pos="noun phrase" register="technical" meaning="a specific, measurable definition of a concept, stated for the purposes of a particular study or analysis (কার্যকরী সংজ্ঞা)" collocation="give an operational definition, use an operational definition, operational definition of" example="For this study, the operational definition of 'delay' is any arrival more than two hours after the scheduled time."
 :::
 
-::: vocabulary word="necessary condition" pos="noun phrase" meaning="something required for an outcome to occur, though not enough on its own to guarantee it (আবশ্যিক শর্ত)" example="Accurate data is a necessary condition for reliable decisions, but it is not sufficient on its own."
+::: vocabulary word="necessary condition" pos="noun phrase" register="technical" meaning="something required for an outcome to occur, though not enough on its own to guarantee it (আবশ্যিক শর্ত)" collocation="a necessary condition, necessary but not sufficient, necessary condition for" example="Valid documentation is a necessary condition for customs clearance, but it does not guarantee release."
 :::
 
-::: vocabulary word="conceptual boundary" pos="noun phrase" meaning="the line separating one concept from a closely related one (ধারণাগত সীমারেখা)" example="Drawing the conceptual boundary between efficiency and effectiveness prevents readers from confusing the two."
+::: vocabulary word="conceptual boundary" pos="noun phrase" register="formal" meaning="the line separating one concept from a closely related one (ধারণাগত সীমারেখা)" collocation="blur the conceptual boundary, clear conceptual boundary, conceptual boundary between" example="The article blurs the conceptual boundary between a delay and a cancellation."
 :::
 
-::: vocabulary word="a subset of" pos="phrase" meaning="a smaller category fully contained within a larger one (একটি উপসেট/অংশবিশেষ)" example="Real-time monitoring is a subset of operational monitoring more broadly."
+::: vocabulary word="a subset of" pos="phrase" register="technical" meaning="a smaller category fully contained within a larger one (একটি উপসেট/অংশবিশেষ)" collocation="be a subset of, only a subset of, form a subset of" example="Hazardous goods are a subset of dangerous goods, subject to extra handling rules."
 :::
 
-::: vocabulary word="not simply...but" pos="phrase" meaning="rejecting a narrow or incomplete definition in favor of a fuller one (শুধু...নয় বরং)" example="Sustainability is understood not simply as minimizing harm, but as maintaining long-term capacity."
+::: vocabulary word="not simply...but" pos="phrase" register="formal" meaning="rejecting a narrow or incomplete definition in favor of a fuller one (শুধু...নয় বরং)" collocation="not simply X but Y, is not simply a matter of, not simply a problem but" example="Congestion is not simply a capacity problem but also a scheduling problem."
 :::
 
 ## Guided Reading Practice

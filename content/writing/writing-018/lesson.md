@@ -59,10 +59,10 @@ to."
 
 ## Vocabulary in Context
 
-::: vocabulary word="automate" pos="verb" meaning="to make a process work by machine, with little or no human control — স্বয়ংক্রিয় করা" example="The automation of the gate system reduced truck waiting times."
+::: vocabulary word="automate" pos="verb" register="technical" meaning="to make a process work by machine, with little or no human control (স্বয়ংক্রিয় করা)" collocation="automate a process, fully automate, automate the task" example="The finance team automated invoice matching to reduce data-entry errors."
 :::
 
-::: vocabulary word="error" pos="noun" meaning="a mistake, especially one made carelessly — ভুল" example="Staff training led to a noticeable reduction in data-entry errors."
+::: vocabulary word="error" pos="noun" register="neutral" meaning="a mistake, especially one made carelessly (ভুল)" collocation="human error, correct an error, error in" example="An error in the manifest delayed the release of two containers."
 :::
 
 ## Model Answer

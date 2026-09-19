@@ -67,10 +67,10 @@ built word by word, and it was composed directly in English.
 
 ## Vocabulary in Context
 
-::: vocabulary word="fluent" pos="adjective" meaning="able to speak smoothly and without long pauses — সাবলীল" example="Say the whole although-sentence fluently, not piece by piece."
+::: vocabulary word="fluent" pos="adjective" register="formal" meaning="able to speak smoothly and without long pauses (সাবলীল)" collocation="fluent speaker, become fluent, fluent in" example="Repeated practice makes your 'although' sentences fluent."
 :::
 
-::: vocabulary word="commit" pos="verb" meaning="to fully decide on something and follow through — প্রতিশ্রুতিবদ্ধ হওয়া" example="Commit to the whole sentence shape before you start speaking."
+::: vocabulary word="commit" pos="verb" register="formal" meaning="to fully decide on something and follow through (প্রতিশ্রুতিবদ্ধ হওয়া)" collocation="commit to a position, fully commit, commit to a view" example="After conceding one point, commit to your real position."
 :::
 
 ## Self-Check

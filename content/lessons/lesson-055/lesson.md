@@ -394,25 +394,25 @@ attributed solely to the new system.
 
 ## Vocabulary in Context
 
-::: vocabulary word="percentage point" pos="noun phrase" meaning="a unit for the absolute difference between two percentages, distinct from a relative percent change (শতাংশ পয়েন্ট)" example="A rise from 60% to 70% is a 10 percentage point increase, not simply a '10% increase.'"
+::: vocabulary word="percentage point" pos="noun phrase" register="technical" meaning="a unit for the absolute difference between two percentages, distinct from a relative percent change (শতাংশ পয়েন্ট)" collocation="rise by two percentage points, a percentage point drop, percentage point difference" example="Market share increased from ten percent to twelve percent, a rise of two percentage points."
 :::
 
-::: vocabulary word="baseline" pos="noun" meaning="the reference point a quantitative change is measured against (ভিত্তিরেখা)" example="Processing time fell by 20% — but relative to what baseline was never specified."
+::: vocabulary word="baseline" pos="noun" register="technical" meaning="the reference point a quantitative change is measured against (ভিত্তিরেখা)" collocation="baseline figure, set a baseline, measured against the baseline" example="Waiting times fell by twenty percent against last year's baseline."
 :::
 
-::: vocabulary word="confounding variable" pos="noun phrase" meaning="an uncontrolled factor that could account for an observed effect instead of, or alongside, the proposed cause (বিভ্রান্তিকর চলক)" example="Since staff training increased at the same time, it is a confounding variable in the automation study."
+::: vocabulary word="confounding variable" pos="noun phrase" register="technical" meaning="an uncontrolled factor that could account for an observed effect instead of, or alongside, the proposed cause (বিভ্রান্তিকর চলক)" collocation="control for a confounding variable, potential confounding variable, identify a confounding variable" example="Seasonal demand is a confounding variable that can make a policy look more effective than it was."
 :::
 
-::: vocabulary word="statistically significant" pos="phrase" meaning="describing a result unlikely to be explained by random variation, according to a formal statistical test — not the same as practically important (পরিসংখ্যানগতভাবে তাৎপর্যপূর্ণ)" example="The 0.2-second improvement was statistically significant but arguably not practically significant."
+::: vocabulary word="statistically significant" pos="phrase" register="technical" meaning="describing a result unlikely to be explained by random variation, according to a formal statistical test — not the same as practically important (পরিসংখ্যানগতভাবে তাৎপর্যপূর্ণ)" collocation="statistically significant difference, statistically significant result, not statistically significant" example="The improvement was statistically significant, but at half a percent it was too small to matter commercially."
 :::
 
-::: vocabulary word="up to" pos="phrase" meaning="stating a maximum possible amount, not a typical or average result (সর্বোচ্চ পর্যন্ত)" example="The system can reduce processing time by up to 40%, though most users see a smaller improvement."
+::: vocabulary word="up to" pos="phrase" register="neutral" meaning="stating a maximum possible amount, not a typical or average result (সর্বোচ্চ পর্যন্ত)" collocation="up to fifty percent, save up to, up to a maximum of" example="Shippers could save up to fifteen percent, but the typical saving was closer to five."
 :::
 
-::: vocabulary word="on average" pos="phrase" meaning="describing the mean value across a group, which individual cases may vary from considerably (গড়ে)" example="Users saved 15 minutes on average, though individual results ranged widely."
+::: vocabulary word="on average" pos="phrase" register="neutral" meaning="describing the mean value across a group, which individual cases may vary from considerably (গড়ে)" collocation="on average, increase on average, on average per day" example="On average, trucks waited forty minutes, though some waited over three hours."
 :::
 
-::: vocabulary word="representative sample" pos="noun phrase" meaning="a subset selected to reflect the characteristics of a larger population accurately (প্রতিনিধিত্বমূলক নমুনা)" example="The survey used a representative sample of small logistics firms, not just the largest companies."
+::: vocabulary word="representative sample" pos="noun phrase" register="technical" meaning="a subset selected to reflect the characteristics of a larger population accurately (প্রতিনিধিত্বমূলক নমুনা)" collocation="draw a representative sample, truly representative sample, representative sample of" example="Interviewing only night-shift drivers does not give a representative sample of all drivers."
 :::
 
 ## Guided Reading Practice

@@ -366,28 +366,28 @@ contradiction paralysis.
 
 ## Vocabulary in Context
 
-::: vocabulary word="primary source" pos="noun phrase" meaning="a source where original information or data can be found directly, such as a research paper, system record, or original interview (মূল উৎস)" example="The news article summarized the findings, but the primary source was the original audit report."
+::: vocabulary word="primary source" pos="noun phrase" register="formal" meaning="a source where original information or data can be found directly, such as a research paper, system record, or original interview (মূল উৎস)" collocation="consult a primary source, rely on a primary source, primary source of" example="The auditors went back to the primary source, the original gate log, rather than rely on the summary."
 :::
 
-::: vocabulary word="secondary source" pos="noun phrase" meaning="a source that summarises, analyses, or reports on someone else's original evidence, rather than presenting it firsthand (গৌণ উৎস)" example="A textbook chapter on the study is a secondary source; the original published study is the primary one."
+::: vocabulary word="secondary source" pos="noun phrase" register="formal" meaning="a source that summarises, analyses, or reports on someone else's original evidence, rather than presenting it firsthand (গৌণ উৎস)" collocation="cite a secondary source, rely on a secondary source, secondary source such as" example="A news article summarising the report is a secondary source, so check the original."
 :::
 
-::: vocabulary word="selection bias" pos="noun phrase" meaning="a distortion that arises when the group being studied or surveyed is not representative, often because of how participants came to be included (নির্বাচন পক্ষপাত)" example="Surveying only volunteers who chose to use the new system introduced selection bias into the satisfaction results."
+::: vocabulary word="selection bias" pos="noun phrase" register="technical" meaning="a distortion that arises when the group being studied or surveyed is not representative, often because of how participants came to be included (নির্বাচন পক্ষপাত)" collocation="selection bias, risk of selection bias, correct for selection bias" example="Surveying only customers who stayed with the company creates selection bias."
 :::
 
-::: vocabulary word="survivorship bias" pos="noun phrase" meaning="a reasoning error that draws conclusions only from cases that 'survived' or succeeded, while silently excluding the failures (টিকে থাকার পক্ষপাত)" example="Praising a strategy because all the surviving successful companies used it ignores the failed companies that used it too."
+::: vocabulary word="survivorship bias" pos="noun phrase" register="technical" meaning="a reasoning error that draws conclusions only from cases that 'survived' or succeeded, while silently excluding the failures (টিকে থাকার পক্ষপাত)" collocation="suffer from survivorship bias, avoid survivorship bias, survivorship bias in" example="Studying only companies still trading introduces survivorship bias, since failed ones are missing."
 :::
 
-::: vocabulary word="publication bias" pos="noun phrase" meaning="the tendency for studies with interesting or positive results to be published more often than studies finding no meaningful effect (প্রকাশনা পক্ষপাত)" example="Publication bias means a body of published research can look more supportive of a claim than the full body of research actually is."
+::: vocabulary word="publication bias" pos="noun phrase" register="technical" meaning="the tendency for studies with interesting or positive results to be published more often than studies finding no meaningful effect (প্রকাশনা পক্ষপাত)" collocation="publication bias, risk of publication bias, correct for publication bias" example="Publication bias may inflate the evidence, since trials showing no effect are rarely published."
 :::
 
-::: vocabulary word="proxy evidence" pos="noun phrase" meaning="a measurable stand-in used for a concept that is difficult to measure directly, which may not fully capture that concept (প্রক্সি প্রমাণ)" example="Processing time is proxy evidence for 'efficiency' — a narrower measure standing in for a broader concept."
+::: vocabulary word="proxy evidence" pos="noun phrase" register="technical" meaning="a measurable stand-in used for a concept that is difficult to measure directly, which may not fully capture that concept (প্রক্সি প্রমাণ)" collocation="rely on proxy evidence, weak proxy evidence, proxy evidence for" example="Complaint numbers are proxy evidence for customer satisfaction, though an imperfect measure."
 :::
 
-::: vocabulary word="construct validity" pos="noun phrase" meaning="the degree to which a measurement actually represents the concept it claims to measure (গঠন বৈধতা)" example="Measuring 'employee happiness' as hours worked raises a serious construct validity concern."
+::: vocabulary word="construct validity" pos="noun phrase" register="technical" meaning="the degree to which a measurement actually represents the concept it claims to measure (গঠন বৈধতা)" collocation="high construct validity, question construct validity, construct validity of" example="The survey has weak construct validity: it measures speed but claims to measure quality."
 :::
 
-::: vocabulary word="reporting verb" pos="noun phrase" meaning="the verb an author uses to relay a cited source's claim — such as demonstrated, found, suggested, or speculated — which signals how strongly that claim was made (প্রতিবেদনকারী ক্রিয়া)" example="Switching the reporting verb from 'suggested' to 'demonstrated' would overstate how strongly the original researchers made their claim."
+::: vocabulary word="reporting verb" pos="noun phrase" register="technical" meaning="the verb an author uses to relay a source's claim, such as found, suggested, or speculated; it shows how strong the claim is (প্রতিবেদনকারী ক্রিয়া)" collocation="choose a reporting verb, strong reporting verb, reporting verb such as" example="'The study demonstrated' is a stronger reporting verb than 'the study speculated'."
 :::
 
 ## Guided Reading Practice

@@ -67,10 +67,10 @@ claim and speaking the hedge naturally, not as an awkward afterthought.
 
 ## Vocabulary in Context
 
-::: vocabulary word="related to" pos="collocation" meaning="connected to something, without specifying exactly how — সম্পর্কিত" example="The traffic drop is probably related to the competitor's ad campaign."
+::: vocabulary word="related to" pos="collocation" register="neutral" meaning="connected to something, without specifying exactly how (সম্পর্কিত)" collocation="be related to, closely related to, directly related to" example="The complaints are related to the new gate procedure, though we cannot yet say it caused them."
 :::
 
-::: vocabulary word="evidence" pos="noun" meaning="facts or information that support a conclusion — প্রমাণ" example="There isn't enough evidence yet to say the campaign caused the drop."
+::: vocabulary word="evidence" pos="noun" register="formal" meaning="facts or information that support a conclusion (প্রমাণ)" collocation="strong evidence, evidence for, evidence suggests" example="We have evidence that the fault started before the storm."
 :::
 
 ## Self-Check

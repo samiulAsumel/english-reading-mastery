@@ -61,10 +61,10 @@ path, and end on the final state.
 
 ## Vocabulary in Context
 
-::: vocabulary word="trigger" pos="noun" meaning="the event that starts a process — সূচনা ঘটনা" example="A failed login attempt is the trigger for the account-lock process."
+::: vocabulary word="trigger" pos="noun" register="technical" meaning="the event that starts a process (সূচনা ঘটনা)" collocation="trigger an alert, immediate trigger, trigger for" example="A failed login is the trigger that starts the lock-out process."
 :::
 
-::: vocabulary word="the normal path" pos="phrase" meaning="the sequence of steps that happens when nothing goes wrong — স্বাভাবিক পথ" example="On the normal path, the request is approved in under a minute."
+::: vocabulary word="the normal path" pos="phrase" register="course term" meaning="the sequence of steps that happens when nothing goes wrong (স্বাভাবিক পথ)" collocation="follow the normal path, the normal path through, describe the normal path" example="Describe the normal path first, then explain what happens when a step fails."
 :::
 
 ## Model Answer

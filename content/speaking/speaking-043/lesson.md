@@ -70,10 +70,10 @@ never has to guess what a pronoun is pointing back to.
 
 ## Vocabulary in Context
 
-::: vocabulary word="given information" pos="noun phrase" meaning="content already established earlier, usually placed at the start of the next sentence — প্রদত্ত তথ্য" example="Opening each sentence with given information kept the spoken chain easy to follow."
+::: vocabulary word="given information" pos="noun phrase" register="technical" meaning="content already established earlier, usually placed at the start of the next sentence (প্রদত্ত তথ্য)" collocation="place given information first, given and new information, treat as given information" example="In speech, start with given information the listener already knows."
 :::
 
-::: vocabulary word="linear progression" pos="noun phrase" meaning="a pattern where each sentence's new information becomes the next sentence's given topic — ক্রমিক অগ্রগতি" example="The spoken chain followed linear progression, each sentence handing its new fact to the next."
+::: vocabulary word="linear progression" pos="noun phrase" register="technical" meaning="a pattern where each sentence's new information becomes the next sentence's given topic (ক্রমিক অগ্রগতি)" collocation="linear progression, follow a linear progression, spoken linear progression" example="Each sentence picks up the last sentence's new information, giving a linear progression."
 :::
 
 ## Self-Check

@@ -418,22 +418,22 @@ just something to translate.
 
 ## Vocabulary in Context
 
-::: vocabulary word="establish" pos="verb" meaning="to show something to be true through solid evidence (প্রতিষ্ঠিত করা)" example="The study established a clear link between stress and memory loss."
+::: vocabulary word="establish" pos="verb" register="formal" meaning="to show something to be true through solid evidence (প্রতিষ্ঠিত করা)" collocation="establish a fact, establish a link, firmly established" example="The inquiry established that the alarm had been switched off before the incident."
 :::
 
-::: vocabulary word="confirm" pos="verb" meaning="to state or show that something is definitely true (নিশ্চিত করা)" example="A follow-up study confirmed the original finding."
+::: vocabulary word="confirm" pos="verb" register="neutral" meaning="to state or show that something is definitely true (নিশ্চিত করা)" collocation="confirm receipt, officially confirm, confirm that" example="The agent confirmed that the vessel would arrive on Tuesday's morning tide."
 :::
 
-::: vocabulary word="maintain" pos="verb" meaning="to state firmly that something is true, often despite disagreement (দাবি করা/বজায় রাখা)" example="The author maintains that the policy is effective, even though critics disagree."
+::: vocabulary word="maintain" pos="verb" register="formal" meaning="to state firmly that something is true, especially when others disagree (দাবি করা/বজায় রাখা)" collocation="maintain that, maintain innocence, strongly maintain" example="The contractor maintains that the delay was caused by late design changes, not poor planning."
 :::
 
-::: vocabulary word="acknowledge" pos="verb" meaning="to accept or admit that something is true (স্বীকার করা)" example="The researchers acknowledge that their sample size was small."
+::: vocabulary word="acknowledge" pos="verb" register="formal" meaning="to accept or admit that something is true (স্বীকার করা)" collocation="acknowledge that, publicly acknowledge, acknowledge receipt" example="The company acknowledged that the outage had lasted longer than it first reported."
 :::
 
-::: vocabulary word="emphasize" pos="verb" meaning="to give special importance to something (জোর দেওয়া)" example="The report emphasizes that further research is needed."
+::: vocabulary word="emphasize" pos="verb" register="formal" meaning="to give special importance to something (জোর দেওয়া)" collocation="emphasize the importance, strongly emphasize, emphasize that" example="In the briefing, the safety lead emphasized that no one should enter the yard without a radio."
 :::
 
-::: vocabulary word="speculate" pos="verb" meaning="to form a theory without firm evidence (অনুমান করা)" example="Some scientists speculate that the pattern may be linked to diet."
+::: vocabulary word="speculate" pos="verb" register="formal" meaning="to form a theory without firm evidence (অনুমান করা)" collocation="speculate about, speculate that, widely speculated" example="Analysts speculate that the merger will lead to job cuts, though the company has not confirmed this."
 :::
 
 ::: note title="Chunks worth learning as whole units"

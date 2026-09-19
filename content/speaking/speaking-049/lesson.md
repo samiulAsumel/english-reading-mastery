@@ -67,10 +67,10 @@ planning pause beforehand.
 
 ## Vocabulary in Context
 
-::: vocabulary word="signpost" pos="verb" meaning="to use a word or phrase that shows a listener where an explanation is going — নির্দেশক শব্দ ব্যবহার করা" example="Use words like 'first' and 'second' to signpost your reasons."
+::: vocabulary word="signpost" pos="verb" register="technical" meaning="to use a word or phrase that shows a listener where an explanation is going (নির্দেশক শব্দ ব্যবহার করা)" collocation="signpost the transition, signpost clearly, signpost such as" example="Use a signpost like 'my main point is' so the listener knows where you are going."
 :::
 
-::: vocabulary word="arguable" pos="adjective" meaning="able to be reasonably disagreed with — তর্কযোগ্য" example="A good thesis is arguable, not just a plain fact."
+::: vocabulary word="arguable" pos="adjective" register="formal" meaning="able to be reasonably disagreed with (তর্কযোগ্য)" collocation="arguable claim, highly arguable, it is arguable that" example="That the merger cut costs is arguable, since the figures cover only six months."
 :::
 
 ## Self-Check

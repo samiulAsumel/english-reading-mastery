@@ -68,10 +68,10 @@ own conclusion didn't overreach what your evidence actually supports.
 
 ## Vocabulary in Context
 
-::: vocabulary word="label" pos="verb" meaning="to name what kind of statement something is, right after saying it — চিহ্নিত করা" example="She labelled each sentence as she went: premise, evidence, inference, conclusion."
+::: vocabulary word="label" pos="verb" register="neutral" meaning="to name what kind of statement something is, right after saying it (চিহ্নিত করা)" collocation="label a claim, clearly label, label as" example="After stating it, I label the sentence: 'That is my claim.'"
 :::
 
-::: vocabulary word="overreach" pos="verb" meaning="to claim more than the evidence actually supports — সীমা অতিক্রম করা" example="A conclusion that overreaches its evidence sounds confident but isn't earned."
+::: vocabulary word="overreach" pos="verb" register="formal" meaning="to claim more than the evidence actually supports (সীমা অতিক্রম করা)" collocation="risk overreach, overreach the evidence, avoid overreach" example="To say the policy works everywhere would overreach the evidence."
 :::
 
 ## Self-Check

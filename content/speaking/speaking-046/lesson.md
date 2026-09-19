@@ -67,10 +67,10 @@ real point, with maybe a short pause right before it.
 
 ## Vocabulary in Context
 
-::: vocabulary word="pace" pos="noun" meaning="the speed at which you speak — গতি" example="Change your pace to signal which sentence matters most."
+::: vocabulary word="pace" pos="noun" register="neutral" meaning="the speed at which you speak (গতি)" collocation="set the pace, steady pace, at a slower pace" example="Slow your pace when you reach the sentence that matters."
 :::
 
-::: vocabulary word="deliberate" pos="adjective" meaning="done on purpose, slowly and carefully — ইচ্ছাকৃত" example="Slow down deliberately on the sentence that carries your main point."
+::: vocabulary word="deliberate" pos="adjective" register="formal" meaning="done on purpose, slowly and carefully (ইচ্ছাকৃত)" collocation="deliberate pause, deliberate choice, deliberately slow" example="A deliberate pause before the key figure makes it stand out."
 :::
 
 ## Self-Check

@@ -68,10 +68,10 @@ conclusion are all there, live.
 
 ## Vocabulary in Context
 
-::: vocabulary word="hedge" pos="verb" meaning="to soften a claim so it doesn't overstate what the evidence supports — সতর্কভাবে দাবি করা" example="A careful speaker hedges: 'this suggests,' not 'this proves.'"
+::: vocabulary word="hedge" pos="verb" register="formal" meaning="to soften a claim so it doesn't overstate what the evidence supports (সতর্কভাবে দাবি করা)" collocation="hedge a claim, hedge carefully, hedge appropriately" example="I hedge the claim by saying 'roughly' and 'in most cases'."
 :::
 
-::: vocabulary word="stretch" pos="verb" meaning="(figurative) to push a conclusion further than the evidence actually allows — বেশি দূর টেনে নেওয়া" example="Don't stretch one good month into a claim about the whole year."
+::: vocabulary word="stretch" pos="verb" register="neutral" meaning="(figurative) to push a conclusion further than the evidence actually allows (বেশি দূর টেনে নেওয়া)" collocation="stretch the evidence, stretch the truth, stretch a point" example="It would stretch the evidence to say the policy works everywhere."
 :::
 
 ## Self-Check

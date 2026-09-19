@@ -65,10 +65,10 @@ concrete alternative cause, not just "other factors."
 
 ## Vocabulary in Context
 
-::: vocabulary word="gap" pos="noun" meaning="the missing logical step between evidence and a conclusion — যুক্তির ফাঁক" example="The gap between the data and the claim was never stated out loud."
+::: vocabulary word="gap" pos="noun" register="neutral" meaning="the missing logical step between evidence and a conclusion (যুক্তির ফাঁক)" collocation="logical gap, gap in the argument, bridge the gap" example="There is a gap between 'complaints fell' and 'customers are happy'."
 :::
 
-::: vocabulary word="expose" pos="verb" meaning="to reveal something that was hidden or unstated — উন্মোচন করা" example="Naming the assumption exposes the weakest point in the argument."
+::: vocabulary word="expose" pos="verb" register="formal" meaning="to reveal something that was hidden or unstated (উন্মোচন করা)" collocation="expose a weakness, expose an assumption, be exposed" example="The question exposed the assumption behind the forecast."
 :::
 
 ## Self-Check

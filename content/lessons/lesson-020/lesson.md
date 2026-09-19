@@ -597,19 +597,19 @@ The whole argument: access → limitation → solution/implication.
 
 ## Vocabulary in Context
 
-::: vocabulary word="cognitive" pos="adjective" meaning="relating to thinking, understanding, and mental processes (চিন্তা-সম্পর্কিত/বৌদ্ধিক)" example="Regular exercise may support cognitive performance."
+::: vocabulary word="cognitive" pos="adjective" register="technical" meaning="relating to thinking, understanding, and mental processes (চিন্তা-সম্পর্কিত/বৌদ্ধিক)" collocation="cognitive load, cognitive overload, cognitive bias" example="Interface designers try to reduce cognitive load so that operators can act quickly under pressure."
 :::
 
-::: vocabulary word="implication" pos="noun" meaning="something suggested or implied, without being stated directly (তাৎপর্য/ইঙ্গিত)" example="The findings carry an important implication for how schools use technology."
+::: vocabulary word="implication" pos="noun" register="formal" meaning="something suggested or implied, without being stated directly (তাৎপর্য/ইঙ্গিত)" collocation="have implications, far-reaching implications, implication for" example="The ruling has serious implications for how carriers write liability clauses."
 :::
 
-::: vocabulary word="overload" pos="noun" meaning="an amount too large to be dealt with comfortably (অতিরিক্ত চাপ/ভার)" example="Excessive digital communication can lead to information overload."
+::: vocabulary word="overload" pos="noun" register="formal" meaning="an amount too large to be dealt with comfortably (অতিরিক্ত চাপ/ভার)" collocation="information overload, sensory overload, risk of overload" example="The audit found that cognitive overload, not lack of training, explained why operators missed the berth-clash alerts."
 :::
 
-::: vocabulary word="architecture" pos="noun" meaning="the underlying structure of something, not just its surface content (গঠন/স্থাপত্য)" example="Reading a paragraph's architecture means seeing its claim, reason, and conclusion, not just its sentences."
+::: vocabulary word="architecture" pos="noun" register="technical" meaning="the underlying structure of something, not just its surface content (গঠন/স্থাপত্য)" collocation="system architecture, network architecture, architecture of" example="The proposed architecture separates the billing service from the gate-control system to limit failures."
 :::
 
-::: vocabulary word="qualification" pos="noun" meaning="a statement that limits or adds a condition to an earlier claim (সীমাবদ্ধতা/শর্ত)" example="A careful writer adds a qualification rather than letting a claim stand unlimited."
+::: vocabulary word="qualification" pos="noun" register="formal" meaning="a statement that limits or adds a condition to an earlier claim (সীমাবদ্ধতা/শর্ত)" collocation="with the qualification that, important qualification, without qualification" example="The analyst's forecast came with one qualification: it assumed no further strikes."
 :::
 
 ## Guided Reading Practice

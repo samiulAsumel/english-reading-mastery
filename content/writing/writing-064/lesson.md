@@ -56,10 +56,10 @@ one recommendation ("should"), one permission or possibility ("may" or
 
 ## Vocabulary in Context
 
-::: vocabulary word="obligation" pos="noun" meaning="something a rule requires, not merely suggests — বাধ্যবাধকতা" example="Wearing a safety vest on the dock is an obligation, not a suggestion."
+::: vocabulary word="obligation" pos="noun" register="formal" meaning="something a rule requires, not merely suggests (বাধ্যবাধকতা)" collocation="legal obligation, meet an obligation, obligation to" example="The carrier has an obligation to notify the consignee within a day."
 :::
 
-::: vocabulary word="exception" pos="noun" meaning="a stated case where the general rule does not apply — ব্যতিক্রম" example="All cargo must be inspected, unless it is already sealed by customs."
+::: vocabulary word="exception" pos="noun" register="neutral" meaning="a stated case where the general rule does not apply (ব্যতিক্রম)" collocation="with the exception of, make an exception, notable exception" example="With one exception, all berths met the target."
 :::
 
 ## Model Answer

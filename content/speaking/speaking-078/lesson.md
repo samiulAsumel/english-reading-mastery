@@ -65,10 +65,10 @@ something trivial that doesn't actually weaken the case at all.
 
 ## Vocabulary in Context
 
-::: vocabulary word="undercut" pos="verb" meaning="to weaken an argument or claim, often unintentionally — দুর্বল করা" example="A weak concession can undercut the whole argument if it's overstated."
+::: vocabulary word="undercut" pos="verb" register="formal" meaning="to weaken an argument or claim, often unintentionally (দুর্বল করা)" collocation="undercut the argument, undercut a claim, be undercut by" example="A single counterexample can undercut a universal claim."
 :::
 
-::: vocabulary word="credible" pos="adjective" meaning="believable, trustworthy — বিশ্বাসযোগ্য" example="Acknowledging a real limitation makes the argument sound more credible, not less."
+::: vocabulary word="credible" pos="adjective" register="formal" meaning="believable, trustworthy (বিশ্বাসযোগ্য)" collocation="credible source, highly credible, credible claim" example="The regulator treated the whistleblower's account as credible."
 :::
 
 ## Self-Check

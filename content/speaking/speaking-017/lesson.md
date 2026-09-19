@@ -64,10 +64,10 @@ spoken immediately, rather than a flat claim stated as certain fact.
 
 ## Vocabulary in Context
 
-::: vocabulary word="locked" pos="adjective" meaning="fastened shut, usually with a lock — তালাবদ্ধ" example="The door was locked, so the office may be closed today."
+::: vocabulary word="locked" pos="adjective" register="neutral" meaning="fastened shut, usually with a lock (তালাবদ্ধ)" collocation="locked gate, be locked, locked out" example="The gate was locked, so the driver had to wait outside."
 :::
 
-::: vocabulary word="holiday" pos="noun" meaning="a day of rest or celebration when normal work stops — ছুটির দিন" example="The staff have probably left early because of the holiday."
+::: vocabulary word="holiday" pos="noun" register="neutral" meaning="a day of rest or celebration when normal work stops (ছুটির দিন)" collocation="public holiday, on holiday, holiday schedule" example="The terminal runs a reduced schedule on public holidays."
 :::
 
 ## Self-Check

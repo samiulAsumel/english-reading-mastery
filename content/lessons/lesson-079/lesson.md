@@ -378,28 +378,28 @@ extended piece of text feel predictable rather than overwhelming.
 
 ## Vocabulary in Context
 
-::: vocabulary word="paragraph relationship" pos="noun phrase" meaning="the specific logical connection — such as qualification, cause, or solution — between one paragraph and the one before it (অনুচ্ছেদ সম্পর্ক)" example="The paragraph relationship here is trade-off: the previous paragraph's solution introduces a new cost in this one."
+::: vocabulary word="paragraph relationship" pos="noun phrase" register="formal" meaning="the specific logical connection — such as qualification, cause, or solution — between one paragraph and the one before it (অনুচ্ছেদ সম্পর্ক)" collocation="identify the paragraph relationship, paragraph relationship between, logical paragraph relationship" example="The relationship between paragraphs three and four is causal: the first states a problem and the second its result."
 :::
 
-::: vocabulary word="topic progression" pos="noun phrase" meaning="the pattern by which a topic develops across consecutive paragraphs, such as constant, linear, or split progression (বিষয়ের অগ্রগতি)" example="The section's topic progression was linear: each paragraph's new information became the next paragraph's topic."
+::: vocabulary word="topic progression" pos="noun phrase" register="technical" meaning="the pattern by which a topic develops across consecutive paragraphs, such as constant, linear, or split progression (বিষয়ের অগ্রগতি)" collocation="linear topic progression, constant topic progression, pattern of topic progression" example="Linear topic progression is visible when each paragraph opens with the last paragraph's conclusion."
 :::
 
-::: vocabulary word="section spine" pos="noun phrase" meaning="a compressed sequence of a few words or short phrases capturing a whole section's argument in its essential order (অনুচ্ছেদগুচ্ছের মেরুদণ্ড)" example="The section spine — technology, benefit, limitation, human factor, conditional value — held the whole argument in view at a glance."
+::: vocabulary word="section spine" pos="noun phrase" register="course term" meaning="a compressed sequence of a few words or short phrases capturing a whole section's argument in its essential order (অনুচ্ছেদগুচ্ছের মেরুদণ্ড)" collocation="write the section spine, section spine of, compress to a section spine" example="The section spine reads: problem, failed fix, working solution."
 :::
 
-::: vocabulary word="paragraph dependency" pos="noun phrase" meaning="the degree to which one paragraph relies on an earlier paragraph's content to be understood, as distinct from a paragraph that stands on its own (অনুচ্ছেদ নির্ভরতা)" example="Paragraph dependency was high here — the definition in paragraph 1 was necessary to make sense of paragraph 3's argument."
+::: vocabulary word="paragraph dependency" pos="noun phrase" register="course term" meaning="the degree to which one paragraph relies on an earlier paragraph's content to be understood, as distinct from a paragraph that stands on its own (অনুচ্ছেদ নির্ভরতা)" collocation="paragraph dependency, high paragraph dependency, paragraph dependency on" example="Paragraph five has high dependency on paragraph two, which defines the term it uses."
 :::
 
-::: vocabulary word="forward prediction" pos="noun phrase" meaning="anticipating a text's next move based on the paragraph just read, then checking that prediction against what actually follows (সম্মুখ পূর্বাভাস)" example="Forward prediction after the data-dependency claim correctly anticipated a paragraph on data-quality problems."
+::: vocabulary word="forward prediction" pos="noun phrase" register="formal" meaning="anticipating a text's next move based on the paragraph just read, then checking that prediction against what actually follows (সম্মুখ পূর্বাভাস)" collocation="make a forward prediction, forward prediction of, test the forward prediction" example="After a paragraph describing a problem, make a forward prediction that a solution will follow."
 :::
 
-::: vocabulary word="backward connection" pos="noun phrase" meaning="looking back at an earlier paragraph once a later one reveals why it was included in the first place (পশ্চাৎ সংযোগ)" example="Only the backward connection to paragraph 1 made clear that its benefit had been conditional all along."
+::: vocabulary word="backward connection" pos="noun phrase" register="formal" meaning="looking back at an earlier paragraph once a later one reveals why it was included in the first place (পশ্চাৎ সংযোগ)" collocation="make a backward connection, backward connection to, see the backward connection" example="The backward connection becomes clear when the conclusion explains why the early example was included."
 :::
 
-::: vocabulary word="lexical chain" pos="noun phrase" meaning="a sequence of related, though not identical, words that tracks one concept's development across sentences or paragraphs (আভিধানিক শৃঙ্খল)" example="The lexical chain moved from 'automation' to 'automated workflow' to 'billing accuracy,' tracing one continuous idea."
+::: vocabulary word="lexical chain" pos="noun phrase" register="technical" meaning="a sequence of related, though not identical, words that tracks one concept's development across sentences or paragraphs (আভিধানিক শৃঙ্খল)" collocation="build a lexical chain, follow a lexical chain, lexical chain of related words" example="The words 'delay', 'backlog', and 'queue' form a lexical chain across the section."
 :::
 
-::: vocabulary word="transition sentence" pos="noun phrase" meaning="a sentence that closes one idea while opening the next, bridging two paragraphs or sections rather than belonging entirely to either (স্থানান্তর বাক্য)" example="The transition sentence closed the speed discussion while opening the question of broader operational benefit."
+::: vocabulary word="transition sentence" pos="noun phrase" register="technical" meaning="a sentence that closes one idea while opening the next, bridging two paragraphs or sections rather than belonging entirely to either (স্থানান্তর বাক্য)" collocation="a transition sentence, use a transition sentence, transition sentence between" example="The transition sentence, 'Cost is only half the picture', closes the finance section and opens the safety one."
 :::
 
 ## Guided Reading Practice

@@ -312,22 +312,22 @@ always settle it.
 
 ## Vocabulary in Context
 
-::: vocabulary word="propose" pos="verb" meaning="to put forward an idea or explanation for consideration (প্রস্তাব করা)" example="Researchers proposed several explanations for the unexpected result."
+::: vocabulary word="propose" pos="verb" register="formal" meaning="to put forward an idea or explanation for consideration (প্রস্তাব করা)" collocation="propose a solution, propose a change, formally propose" example="The working group proposed a phased rollout of the new gate system, starting with export lanes."
 :::
 
-::: vocabulary word="publish" pos="verb" meaning="to make research, writing, or information publicly available (প্রকাশ করা)" example="The findings were published in a peer-reviewed journal."
+::: vocabulary word="publish" pos="verb" register="formal" meaning="to make research, writing, or information publicly available (প্রকাশ করা)" collocation="publish a report, publish findings, recently published" example="The port authority publishes its annual performance report every March."
 :::
 
-::: vocabulary word="construct" pos="verb" meaning="to build or put something together (নির্মাণ করা)" example="The building was constructed in 1890."
+::: vocabulary word="construct" pos="verb" register="formal" meaning="to build or put something together (নির্মাণ করা)" collocation="construct a terminal, construct an argument, newly constructed" example="The consortium will construct a deep-water berth capable of handling the largest container ships."
 :::
 
-::: vocabulary word="verify" pos="verb" meaning="to check that something is true or accurate (যাচাই করা)" example="Important claims should be verified before they are accepted."
+::: vocabulary word="verify" pos="verb" register="formal" meaning="to check that something is true or accurate (যাচাই করা)" collocation="verify identity, verify the data, independently verify" example="Clerks must verify every container number against the bill of lading before releasing cargo."
 :::
 
-::: vocabulary word="focus" pos="noun" meaning="the main point of attention in a sentence or paragraph (কেন্দ্রবিন্দু)" example="Passive voice lets a writer control which noun becomes the sentence's focus."
+::: vocabulary word="focus" pos="noun" register="formal" meaning="the main point of attention in a sentence, report, or discussion (কেন্দ্রবিন্দু)" collocation="main focus, shift the focus, in focus" example="The report's focus is on safety, not cost, so the budget figures appear only in the appendix."
 :::
 
-::: vocabulary word="receive" pos="verb" meaning="to be given, sent, or handed something (গ্রহণ করা)" example="The department received several complaints about the new system."
+::: vocabulary word="receive" pos="verb" register="neutral" meaning="to be given, sent, or handed something (গ্রহণ করা)" collocation="receive a notification, receive approval, receive payment" example="The shipping line received written confirmation that the berth had been reserved for Friday."
 :::
 
 ::: note title="Chunks worth learning as whole units"

@@ -59,10 +59,10 @@ conditional position — more precise than sentence 1, not a repeat of it.
 
 ## Vocabulary in Context
 
-::: vocabulary word="qualify" pos="verb" meaning="to limit or add a condition to a claim so it becomes more precise — শর্তযুক্ত করা" example="The second sentence qualifies the first claim rather than repeating it."
+::: vocabulary word="qualify" pos="verb" register="formal" meaning="to limit or add a condition to a claim so it becomes more precise (শর্তযুক্ত করা)" collocation="qualify a claim, heavily qualify, qualify a statement" example="Add 'in most cases' to qualify the claim."
 :::
 
-::: vocabulary word="refine" pos="verb" meaning="to make a claim more precise and accurate as evidence accumulates — পরিমার্জন করা" example="By the final sentence, the claim has been refined into a conditional statement."
+::: vocabulary word="refine" pos="verb" register="formal" meaning="to make a claim more precise and accurate as evidence accumulates (পরিমার্জন করা)" collocation="refine a claim, refine an argument, further refine" example="The author refines the claim as evidence accumulates."
 :::
 
 ## Model Answer

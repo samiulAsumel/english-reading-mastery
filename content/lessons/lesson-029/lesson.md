@@ -395,34 +395,34 @@ with the other member of its pair.
 
 ## Vocabulary in Context
 
-::: vocabulary word="hypothesis" pos="noun" meaning="a proposed explanation offered as a starting point for investigation, not yet established as fact (অনুকল্প)" example="Researchers tested the hypothesis that training, not automation, explained the improvement."
+::: vocabulary word="hypothesis" pos="noun" register="technical" meaning="a proposed explanation offered as a starting point for investigation, not yet established as fact (অনুকল্প)" collocation="test a hypothesis, working hypothesis, hypothesis that" example="The team's working hypothesis is that the outage was caused by a faulty network switch."
 :::
 
-::: vocabulary word="coincide" pos="verb" meaning="to happen at the same time as something else, without this alone proving a causal connection (একই সময়ে ঘটা)" example="The staffing change coincided with the automation rollout, complicating any simple causal claim."
+::: vocabulary word="coincide" pos="verb" register="formal" meaning="to happen at the same time as something else, without this alone proving a causal connection (একই সময়ে ঘটা)" collocation="coincide with, happen to coincide, closely coincide" example="The drop in bookings coincided with the introduction of the new fee schedule."
 :::
 
-::: vocabulary word="isolate" pos="verb" meaning="to separate one factor from others in order to examine its effect alone (পৃথক করা)" example="It is difficult to isolate automation's exact contribution when several changes happened at once."
+::: vocabulary word="isolate" pos="verb" register="technical" meaning="to separate one factor from others in order to examine its effect alone (পৃথক করা)" collocation="isolate the cause, isolate a variable, isolate a fault" example="Engineers isolated the fault to a single conveyor motor after testing each line separately."
 :::
 
-::: vocabulary word="threshold" pos="noun" meaning="the minimum level something must reach before a particular outcome or judgment applies (সীমারেখা/প্রান্তসীমা)" example="The evidence had not yet crossed the threshold required to establish causation."
+::: vocabulary word="threshold" pos="noun" register="formal" meaning="the minimum level something must reach before a particular outcome or judgment applies (সীমারেখা/প্রান্তসীমা)" collocation="reach a threshold, exceed the threshold, threshold for" example="Any transaction above the fifty-thousand-dollar threshold triggers an automatic compliance review."
 :::
 
-::: vocabulary word="simultaneous" pos="adjective" meaning="happening or existing at the same time as something else (সমকালীন/একযোগে ঘটমান)" example="Simultaneous changes to staffing and technology make the true cause of the improvement hard to pin down."
+::: vocabulary word="simultaneous" pos="adjective" register="formal" meaning="happening or existing at the same time as something else (সমকালীন/একযোগে ঘটমান)" collocation="simultaneous events, simultaneous rise, occur simultaneously" example="Two simultaneous system failures made it hard to identify which one caused the outage."
 :::
 
-::: vocabulary word="warrant" pos="verb" meaning="to justify or provide adequate grounds for a claim or conclusion (যথেষ্ট কারণ/সমর্থন দেওয়া)" example="A single case study rarely warrants a universal causal conclusion."
+::: vocabulary word="warrant" pos="verb" register="formal" meaning="to justify or provide adequate grounds for a claim or conclusion (যথেষ্ট কারণ/সমর্থন দেওয়া)" collocation="warrant investigation, warrant attention, hardly warrant" example="The number of complaints was high enough to warrant a full review of the process."
 :::
 
-::: vocabulary word="premature" pos="adjective" meaning="happening or being made before enough evidence is available to support it (অকালপক্ব/তাড়াহুড়ো করে নেওয়া)" example="Attributing the entire improvement to automation alone may be premature given the other changes underway."
+::: vocabulary word="premature" pos="adjective" register="formal" meaning="happening or being made before enough evidence is available to support it (অকালপক্ব/তাড়াহুড়ো করে নেওয়া)" collocation="premature conclusion, premature to say, prove premature" example="It is premature to blame the contractor before the investigation has reported."
 :::
 
-::: vocabulary word="recruitment" pos="noun" meaning="the process of finding and hiring new staff (নিয়োগ প্রক্রিয়া)" example="Additional recruitment during the same period offers a plausible alternative explanation for the improvement."
+::: vocabulary word="recruitment" pos="noun" register="neutral" meaning="the process of finding and hiring new staff (নিয়োগ প্রক্রিয়া)" collocation="recruitment drive, recruitment process, recruitment agency" example="A recruitment drive is under way to fill twenty vacancies in the operations department."
 :::
 
-::: vocabulary word="procedural" pos="adjective" meaning="relating to the established steps or methods used to carry out a task (পদ্ধতিগত)" example="Procedural changes, not just new technology, may have contributed to the faster processing times."
+::: vocabulary word="procedural" pos="adjective" register="formal" meaning="relating to the established steps or methods used to carry out a task (পদ্ধতিগত)" collocation="procedural error, procedural requirements, procedural delay" example="The appeal failed on a procedural error: the form was filed after the deadline."
 :::
 
-::: vocabulary word="feedback loop" pos="noun phrase" meaning="a chain in which an effect eventually loops back to influence the very factor that started the chain (প্রতিক্রিয়া চক্র)" example="Rising demand and falling customer satisfaction can form a feedback loop that lowers demand again."
+::: vocabulary word="feedback loop" pos="noun phrase" register="technical" meaning="a chain in which an effect eventually loops back to influence the very factor that started the chain (প্রতিক্রিয়া চক্র)" collocation="positive feedback loop, create a feedback loop, vicious feedback loop" example="Delays caused overtime, and overtime caused fatigue, creating a feedback loop that produced further delays."
 :::
 
 ## Guided Reading Practice

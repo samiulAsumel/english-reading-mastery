@@ -63,10 +63,10 @@ regression to the mean could be part of the explanation.
 
 ## Vocabulary in Context
 
-::: vocabulary word="counterfactual" pos="adjective" meaning="describing what would have happened in a world where the supposed cause did not occur — বাস্তবতা-বিরোধী" example="The counterfactual question asked what would have happened without the new policy."
+::: vocabulary word="counterfactual" pos="adjective" register="technical" meaning="describing what would have happened in a world where the supposed cause did not occur (বাস্তবতা-বিরোধী)" collocation="counterfactual scenario, counterfactual question, counterfactual reasoning" example="The counterfactual question is what would have happened without the new system."
 :::
 
-::: vocabulary word="regression to the mean" pos="noun phrase" meaning="the tendency for an unusually extreme result to drift back toward average on its own — গড়ের দিকে প্রত্যাবর্তন" example="Regression to the mean alone could explain some of the improvement after an unusually bad month."
+::: vocabulary word="regression to the mean" pos="noun phrase" register="technical" meaning="the tendency for an unusually extreme result to drift back toward average on its own (গড়ের দিকে প্রত্যাবর্তন)" collocation="due to regression to the mean, explain by regression to the mean, regression to the mean effect" example="A record-bad month may improve simply through regression to the mean."
 :::
 
 ## Model Answer

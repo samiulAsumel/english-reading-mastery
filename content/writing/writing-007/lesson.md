@@ -52,10 +52,10 @@ name who did the action, and two more using fixed pairs from this list:
 
 ## Vocabulary in Context
 
-::: vocabulary word="agent" pos="noun" meaning="the person or thing that performs an action in a passive sentence — কর্তা" example="In 'reviewed by the manager,' the manager is the agent."
+::: vocabulary word="agent" pos="noun" register="technical" meaning="the person or thing that performs an action in a passive sentence (কর্তা)" collocation="the agent of the action, name the agent, omit the agent" example="In 'The container was inspected by customs', 'customs' is the agent."
 :::
 
-::: vocabulary word="fixed pair" pos="noun" meaning="a verb or adjective that is conventionally followed by one specific preposition — নির্দিষ্ট শব্দগুচ্ছ" example="Depend on is a fixed pair; depend at is not correct English."
+::: vocabulary word="fixed pair" pos="noun" register="course term" meaning="a verb or adjective that is conventionally followed by one specific preposition (নির্দিষ্ট শব্দগুচ্ছ)" collocation="learn a fixed pair, common fixed pair, fixed pair such as" example="'Responsible for' is a fixed pair: writing 'responsible of' would be an error."
 :::
 
 ## Model Answer

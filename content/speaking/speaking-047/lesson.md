@@ -68,10 +68,10 @@ sentences.
 
 ## Vocabulary in Context
 
-::: vocabulary word="narrate" pos="verb" meaning="to describe something as it happens, out loud — বর্ণনা করা" example="Narrate each sentence's job right after you say it."
+::: vocabulary word="narrate" pos="verb" register="formal" meaning="to describe something as it happens, out loud (বর্ণনা করা)" collocation="narrate a process, narrate as you work, narrate aloud" example="I narrate each step aloud so the new colleague can follow."
 :::
 
-::: vocabulary word="reflex" pos="noun" meaning="an automatic response that no longer needs conscious thought — প্রতিবর্ত ক্রিয়া" example="With practice, naming a sentence's job becomes a reflex."
+::: vocabulary word="reflex" pos="noun" register="neutral" meaning="an automatic response that no longer needs conscious thought (প্রতিবর্ত ক্রিয়া)" collocation="reflex response, quick reflex, develop a reflex" example="With practice, the structure becomes a reflex rather than a decision."
 :::
 
 ## Self-Check

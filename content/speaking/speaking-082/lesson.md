@@ -69,10 +69,10 @@ change type (narrowing) and stating the excluded case clearly.
 
 ## Vocabulary in Context
 
-::: vocabulary word="exclude" pos="verb" meaning="to leave something out of a definition or category — বাদ দেওয়া" example="The narrower definition excludes harmless delays."
+::: vocabulary word="exclude" pos="verb" register="formal" meaning="to leave something out of a definition or category (বাদ দেওয়া)" collocation="exclude from, deliberately exclude, exclude cases" example="The definition excludes cases where the delay was weather-related."
 :::
 
-::: vocabulary word="condition" pos="noun" meaning="a requirement that must be true for something to count — শর্ত" example="A missed deadline is now a condition for something to count as risk."
+::: vocabulary word="condition" pos="noun" register="neutral" meaning="a requirement that must be true for something to count (শর্ত)" collocation="meet the condition, on condition that, necessary condition" example="A shipment counts as delayed only under one condition: arrival beyond two hours."
 :::
 
 ## Self-Check

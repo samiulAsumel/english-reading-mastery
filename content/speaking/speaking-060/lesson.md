@@ -69,10 +69,10 @@ named dimension, a clear contrast word, and an honest limit — all live.
 
 ## Vocabulary in Context
 
-::: vocabulary word="on that front" pos="phrase" meaning="regarding that specific dimension or aspect just mentioned — ওই ক্ষেত্রে" example="It's faster, but on that front alone — cost is a different story."
+::: vocabulary word="on that front" pos="phrase" register="neutral" meaning="regarding that specific dimension or aspect just mentioned (ওই ক্ষেত্রে)" collocation="on that front, progress on that front, nothing new on that front" example="On that front, the terminal has made real progress."
 :::
 
-::: vocabulary word="compared with" pos="phrase" meaning="introduces the baseline something is being measured against — তুলনায়" example="Compared with last year, response times have improved significantly."
+::: vocabulary word="compared with" pos="phrase" register="neutral" meaning="introduces the baseline something is being measured against (তুলনায়)" collocation="compared with, compared with last year, favourably compared with" example="Compared with last year, waiting times have fallen by a fifth."
 :::
 
 ## Self-Check

@@ -69,10 +69,10 @@ specific fallacy, not just a vague "this might not be true."
 
 ## Vocabulary in Context
 
-::: vocabulary word="not established" pos="phrase" meaning="a calibrated spoken judgment for a claim that is unproven, without claiming it's actually false — অপ্রমাণিত" example="Saying 'not established' instead of 'wrong' kept the spoken evaluation honest."
+::: vocabulary word="not established" pos="phrase" register="formal" meaning="a calibrated spoken judgment for a claim that is unproven, without claiming it's actually false (অপ্রমাণিত)" collocation="not yet established, remain not established, claim is not established" example="That the policy caused the drop is not established; we only know accidents fell afterwards."
 :::
 
-::: vocabulary word="post hoc reasoning" pos="noun phrase" meaning="assuming that because one event followed another, the first caused the second — পরবর্তী-অতএব-কারণ যুক্তি" example="Naming post hoc reasoning out loud stopped the sequence from being mistaken for proof."
+::: vocabulary word="post hoc reasoning" pos="noun phrase" register="technical" meaning="assuming that because one event followed another, the first caused the second (পরবর্তী-অতএব-কারণ যুক্তি)" collocation="avoid post hoc reasoning, fall into post hoc reasoning, example of post hoc reasoning" example="Crediting the new rule just because accidents fell afterwards is post hoc reasoning."
 :::
 
 ## Self-Check

@@ -441,22 +441,22 @@ the qualification preserved, and the final implication intact.
 
 ## Vocabulary in Context
 
-::: vocabulary word="paragraph architecture" pos="noun phrase" meaning="the underlying arrangement of topic, claim, support, and qualification that a paragraph's sentences build together (অনুচ্ছেদের কাঠামো)" example="Labelling each sentence's role revealed the paragraph's architecture: claim, reason, qualification, conclusion."
+::: vocabulary word="paragraph architecture" pos="noun phrase" register="formal" meaning="the underlying arrangement of topic, claim, support, and qualification that a paragraph's sentences build together (অনুচ্ছেদের কাঠামো)" collocation="clear paragraph architecture, analyse paragraph architecture, paragraph architecture of" example="The report's paragraph architecture is consistent: topic sentence, evidence, then qualification."
 :::
 
-::: vocabulary word="center of gravity" pos="noun phrase" meaning="the single concept that most of a paragraph's sentences orbit around, even without being named directly (মূলকেন্দ্র)" example="Although the paragraph mentioned speed, cost, and training, its center of gravity was automation's overall effectiveness."
+::: vocabulary word="center of gravity" pos="noun phrase" register="formal" meaning="the single concept that most of a paragraph's sentences orbit around, even without being named directly (মূলকেন্দ্র)" collocation="the paragraph's center of gravity, find the center of gravity, shift the center of gravity" example="Although the paragraph mentions cost, safety is its center of gravity."
 :::
 
-::: vocabulary word="topic shift" pos="noun phrase" meaning="a paragraph's move from one sub-topic to a related but distinct one, often marked by a contrastive connector (বিষয় পরিবর্তন)" example="The word 'however' marked a topic shift from processing speed to employee training."
+::: vocabulary word="topic shift" pos="noun phrase" register="technical" meaning="a paragraph's move from one sub-topic to a related but distinct one, often marked by a contrastive connector (বিষয় পরিবর্তন)" collocation="signal a topic shift, sudden topic shift, marked topic shift" example="The word 'however' signals a topic shift from the benefits to the risks."
 :::
 
-::: vocabulary word="sentence role" pos="noun phrase" meaning="the specific job a sentence performs within a paragraph's argument, such as background, evidence, or qualification (বাক্যের ভূমিকা)" example="The third sentence's role was qualification, limiting the claim made in the second sentence."
+::: vocabulary word="sentence role" pos="noun phrase" register="technical" meaning="the specific job a sentence performs within a paragraph's argument, such as background, evidence, or qualification (বাক্যের ভূমিকা)" collocation="identify the sentence role, sentence role in the paragraph, clear sentence role" example="Before summarizing, label each sentence's role: background, evidence, or qualification."
 :::
 
-::: vocabulary word="compress a paragraph" pos="phrase" meaning="to reduce a paragraph to its essential claim and qualification in one sentence, without losing modality, scope, or attribution (অনুচ্ছেদ সংক্ষিপ্ত করা)" example="Compressing the paragraph preserved both the claim and its qualification, unlike the earlier, oversimplified summary."
+::: vocabulary word="compress a paragraph" pos="phrase" register="neutral" meaning="to reduce a paragraph to its essential claim and qualification in one sentence, without losing modality, scope, or attribution (অনুচ্ছেদ সংক্ষিপ্ত করা)" collocation="compress a paragraph, compress into one sentence, compress without losing meaning" example="To compress the paragraph, keep the main claim and its qualification and drop the examples."
 :::
 
-::: vocabulary word="evidence strength" pos="noun phrase" meaning="how confidently a piece of evidence is reported, signaled by the reporting verb used (suggests, demonstrates, proves) (প্রমাণের দৃঢ়তা)" example="Changing 'suggests' to 'proves' in the summary inflated the evidence strength beyond what the original claimed."
+::: vocabulary word="evidence strength" pos="noun phrase" register="formal" meaning="how confidently a piece of evidence is reported, signaled by the reporting verb used (suggests, demonstrates, proves) (প্রমাণের দৃঢ়তা)" collocation="assess evidence strength, weak evidence strength, evidence strength signalled by" example="The verb 'suggests' indicates weaker evidence strength than 'proves'."
 :::
 
 ## Guided Reading Practice

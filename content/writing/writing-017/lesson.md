@@ -59,10 +59,10 @@ associated with" or "tends to."
 
 ## Vocabulary in Context
 
-::: vocabulary word="trust" pos="noun" meaning="firm belief in the reliability of someone or something — বিশ্বাস" example="Late deliveries may be associated with a gradual loss of customer trust."
+::: vocabulary word="trust" pos="noun" register="neutral" meaning="firm belief in the reliability of someone or something (বিশ্বাস)" collocation="build trust, trust in, lose trust" example="Reliable delivery builds trust between the terminal and its customers."
 :::
 
-::: vocabulary word="associated" pos="adjective" meaning="linked or connected with something, without necessarily causing it — সম্পর্কিত" example="Overtime is associated with reduced productivity, though the link isn't always direct."
+::: vocabulary word="associated" pos="adjective" register="formal" meaning="linked or connected with something, without necessarily causing it (সম্পর্কিত)" collocation="be associated with, closely associated, risks associated with" example="Higher storage charges are associated with longer dwell times."
 :::
 
 ## Model Answer

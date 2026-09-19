@@ -378,49 +378,49 @@ not just its sentences.
 
 ## Vocabulary in Context
 
-::: vocabulary word="cause" pos="verb" meaning="to make something happen (কারণ হওয়া)" example="Stress can cause a problem in decision-making."
+::: vocabulary word="cause" pos="verb" register="neutral" meaning="to make something happen, usually something negative (কারণ হওয়া)" collocation="cause a problem, cause delays, be caused by" example="A misconfigured firewall rule caused the customer portal to go offline for two hours."
 :::
 
-::: vocabulary word="result" pos="noun" meaning="something that happens because of something else (ফলাফল)" example="Improved performance was a direct result of regular practice."
+::: vocabulary word="result" pos="noun" register="neutral" meaning="something that happens because of something else (ফলাফল)" collocation="as a result, result in, positive result" example="As a result of the new booking system, average gate waiting time fell by twenty minutes."
 :::
 
-::: vocabulary word="reason" pos="noun" meaning="a cause or explanation for something (কারণ)" example="One reason for the disagreement was a lack of evidence."
+::: vocabulary word="reason" pos="noun" register="neutral" meaning="the explanation for why something happens (কারণ)" collocation="main reason, reason for, for this reason" example="The main reason for the backlog was a shortage of trained clerks in the billing office."
 :::
 
-::: vocabulary word="effect" pos="noun" meaning="a change that results from something else (প্রভাব)" example="The effect of feedback on learning speed is well documented."
+::: vocabulary word="effect" pos="noun" register="formal" meaning="a change produced by an action or event (প্রভাব)" collocation="effect on, have an effect, side effect" example="The new tariff had a noticeable effect on the volume of transhipment cargo."
 :::
 
-::: vocabulary word="consequence" pos="noun" meaning="a result or effect of an action (পরিণতি)" example="Ignoring the evidence can have serious consequences."
+::: vocabulary word="consequence" pos="noun" register="formal" meaning="an outcome that follows from an action (পরিণতি)" collocation="serious consequence, as a consequence, face consequences" example="Failure to declare hazardous goods can have serious legal consequences for the exporter."
 :::
 
-::: vocabulary word="evidence" pos="noun" meaning="facts or information showing whether something is true (প্রমাণ)" example="Good arguments provide evidence, not just claims."
+::: vocabulary word="evidence" pos="noun" register="formal" meaning="information that shows whether a claim is true (প্রমাণ)" collocation="provide evidence, strong evidence, evidence of" example="The inspector asked for evidence that the fire extinguishers had been serviced last quarter."
 :::
 
-::: vocabulary word="example" pos="noun" meaning="one specific instance that illustrates a general point (উদাহরণ)" example="The author gives an example to make the claim concrete."
+::: vocabulary word="example" pos="noun" register="neutral" meaning="one specific case that illustrates a general point (উদাহরণ)" collocation="for example, a good example, give an example" example="Late payment is a common problem; for example, three of our top clients regularly pay after ninety days."
 :::
 
-::: vocabulary word="contrast" pos="noun" meaning="a clear difference between two things (বৈপরীত্য)" example="The contrast between the two theories is the focus of this chapter."
+::: vocabulary word="contrast" pos="noun" register="formal" meaning="a clear difference between two things (বৈপরীত্য)" collocation="in contrast, stark contrast, contrast with" example="In contrast to last year, the terminal handled record volumes without a single berthing delay."
 :::
 
-::: vocabulary word="similarity" pos="noun" meaning="the quality of being alike (সাদৃশ্য)" example="Despite the similarity between the two studies, their conclusions differ."
+::: vocabulary word="similarity" pos="noun" register="formal" meaning="a way in which two things are alike (সাদৃশ্য)" collocation="striking similarity, similarity between, share similarities" example="There are notable similarities between the two contracts, particularly in their liability clauses."
 :::
 
-::: vocabulary word="conclusion" pos="noun" meaning="a judgment reached after considering evidence (সিদ্ধান্ত/উপসংহার)" example="The evidence supports only one reasonable conclusion."
+::: vocabulary word="conclusion" pos="noun" register="formal" meaning="a judgment reached after considering the evidence (সিদ্ধান্ত/উপসংহার)" collocation="reach a conclusion, draw a conclusion, in conclusion" example="The review reached the conclusion that the delay was caused by poor communication, not equipment failure."
 :::
 
-::: vocabulary word="claim" pos="noun" meaning="a statement asserted as true, which may or may not be backed by evidence (দাবি)" example="Every claim in the essay is followed by supporting evidence."
+::: vocabulary word="claim" pos="noun" register="formal" meaning="a statement that something is true, made without proof being shown (দাবি)" collocation="make a claim, dispute a claim, unsupported claim" example="The supplier's claim that all shipments arrive within forty-eight hours is not supported by the delivery data."
 :::
 
-::: vocabulary word="argument" pos="noun" meaning="a set of reasons offered to support a conclusion (যুক্তি)" example="A strong argument connects its claim to clear evidence."
+::: vocabulary word="argument" pos="noun" register="formal" meaning="a set of reasons offered to persuade others (যুক্তি)" collocation="make an argument, strong argument, argument against" example="The finance director's argument against the merger rested on integration costs."
 :::
 
-::: vocabulary word="support" pos="verb" meaning="to give evidence for a claim (সমর্থন করা)" example="The data supports the author's main argument."
+::: vocabulary word="support" pos="verb" register="formal" meaning="to provide evidence or reasons that strengthen a claim (সমর্থন করা)" collocation="support a claim, fully support, data supports" example="The test data supports the conclusion that the patch fixed the memory leak."
 :::
 
-::: vocabulary word="explain" pos="verb" meaning="to make something clear by giving a reason (ব্যাখ্যা করা)" example="The second sentence explains the reason behind the claim."
+::: vocabulary word="explain" pos="verb" register="neutral" meaning="to make something clear by giving reasons (ব্যাখ্যা করা)" collocation="explain why, explain the reason, clearly explain" example="The email explains why the invoice was reissued and what the customer needs to do next."
 :::
 
-::: vocabulary word="indicate" pos="verb" meaning="to point to or show something (নির্দেশ করা)" example="The results indicate a consistent pattern across studies."
+::: vocabulary word="indicate" pos="verb" register="formal" meaning="to show or point to something (নির্দেশ করা)" collocation="indicate that, clearly indicate, indicate a trend" example="Traffic logs indicate that most of the failed requests came from a single IP range."
 :::
 
 ::: note title="Combinations worth learning as whole units"

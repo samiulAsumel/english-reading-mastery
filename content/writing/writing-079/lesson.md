@@ -58,10 +58,10 @@ extending it, or giving an example.
 
 ## Vocabulary in Context
 
-::: vocabulary word="bridge" pos="noun" meaning="a word or phrase that explicitly connects one paragraph to the idea just before it — সংযোগকারী শব্দ" example="'This limitation' acts as a bridge between the two paragraphs."
+::: vocabulary word="bridge" pos="noun" register="neutral" meaning="a word or phrase that explicitly connects one paragraph to the idea just before it (সংযোগকারী শব্দ)" collocation="bridge the gap, a bridge between, bridge sentence" example="A bridge such as 'Cost is only half the picture' links the two paragraphs."
 :::
 
-::: vocabulary word="prompt" pos="verb" meaning="to cause or lead to a following action or decision — উদ্বুদ্ধ করা" example="The staffing shortage prompted a review of the scheduling system."
+::: vocabulary word="prompt" pos="verb" register="formal" meaning="to cause or lead to a following action or decision (উদ্বুদ্ধ করা)" collocation="prompt a response, prompt a review, prompted by" example="The complaint prompted a full review of the procedure."
 :::
 
 ## Model Answer

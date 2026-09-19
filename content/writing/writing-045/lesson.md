@@ -64,13 +64,13 @@ checkable.
 
 ## Vocabulary in Context
 
-::: vocabulary word="give rise to" pos="phrase" meaning="a formal way of saying 'create' or 'cause' — সৃষ্টি করা" example="Rapid growth in cargo volume gave rise to new congestion problems at the yard."
+::: vocabulary word="give rise to" pos="phrase" register="formal" meaning="a formal way of saying 'create' or 'cause' (সৃষ্টি করা)" collocation="give rise to problems, give rise to confusion, may give rise to" example="Unclear labelling can give rise to costly errors."
 :::
 
-::: vocabulary word="be associated with" pos="phrase" meaning="to occur together with something, signalling correlation rather than proven causation — সম্পর্কযুক্ত হওয়া" example="Higher automation levels are associated with shorter processing times, though the link is not necessarily causal."
+::: vocabulary word="be associated with" pos="phrase" register="formal" meaning="to occur together with something, signalling correlation rather than proven causation (সম্পর্কযুক্ত হওয়া)" collocation="be associated with, be strongly associated with, risks associated with" example="Long queues are associated with the noon peak."
 :::
 
-::: vocabulary word="with respect to" pos="phrase" meaning="restricting a claim to one named dimension, equivalent to 'regarding' — সম্পর্কে" example="With respect to cost, the new vendor was clearly preferable."
+::: vocabulary word="with respect to" pos="phrase" register="formal" meaning="restricting a claim to one named dimension, equivalent to 'regarding' (সম্পর্কে)" collocation="with respect to safety, with respect to cost, with respect to the contract" example="With respect to cost, Option B is cheaper."
 :::
 
 ## Model Answer

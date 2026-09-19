@@ -65,10 +65,10 @@ original words back unchanged.
 
 ## Vocabulary in Context
 
-::: vocabulary word="rely on" pos="phrasal verb" meaning="to depend on something or someone — নির্ভর করা" example="Staff rely less on manual checks now that the system handles most of the work."
+::: vocabulary word="rely on" pos="phrasal verb" register="neutral" meaning="to depend on something or someone (নির্ভর করা)" collocation="rely heavily on, rely on data, rely on a system" example="The terminal relies on manual checks when the scanner is offline."
 :::
 
-::: vocabulary word="manual" pos="adjective" meaning="done by hand, not automatically — হাতে করা / ম্যানুয়াল" example="The new scanner has replaced most of the manual checks at the gate."
+::: vocabulary word="manual" pos="adjective" register="neutral" meaning="done by hand, not automatically (হাতে করা / ম্যানুয়াল)" collocation="manual process, manual check, manual override" example="Staff switched to manual entry when the system went down."
 :::
 
 ## Self-Check

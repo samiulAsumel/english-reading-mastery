@@ -58,10 +58,10 @@ conclusion — in that order. Then, on a new line, label each sentence:
 
 ## Vocabulary in Context
 
-::: vocabulary word="premise" pos="noun" meaning="a starting statement an argument is built on — যুক্তির ভিত্তি" example="The premise here is that delays increase costs."
+::: vocabulary word="premise" pos="noun" register="formal" meaning="a starting statement an argument is built on (যুক্তির ভিত্তি)" collocation="a false premise, underlying premise, accept the premise" example="The argument's premise is that every delay is avoidable."
 :::
 
-::: vocabulary word="infer" pos="verb" meaning="to draw a reasoned conclusion from evidence, without it being directly stated — অনুমান করা" example="From the rise in delays, we can infer that costs likely rose too."
+::: vocabulary word="infer" pos="verb" register="formal" meaning="to draw a reasoned conclusion from evidence, without it being directly stated (অনুমান করা)" collocation="infer from, reasonably infer, infer that" example="From the logs, we can infer that the alarm was ignored."
 :::
 
 ## Model Answer

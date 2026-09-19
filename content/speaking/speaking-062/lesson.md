@@ -68,10 +68,10 @@ merely happened around the same time from one it actually caused.
 
 ## Vocabulary in Context
 
-::: vocabulary word="stage" pos="noun" meaning="one step or phase within a longer process — পর্যায়" example="Describe each stage of the process before jumping to the outcome."
+::: vocabulary word="stage" pos="noun" register="neutral" meaning="one step or phase within a longer process (পর্যায়)" collocation="early stage, next stage, stage of the process" example="At the first stage, the container is scanned at the gate."
 :::
 
-::: vocabulary word="overlap" pos="verb" meaning="to happen at the same time as something else, without necessarily being connected to it — একই সময়ে ঘটা" example="The two changes happened to overlap, but one didn't cause the other."
+::: vocabulary word="overlap" pos="verb" register="neutral" meaning="to happen at the same time as something else, without necessarily being connected to it (একই সময়ে ঘটা)" collocation="overlap with, partly overlap, tend to overlap" example="The two shifts overlap for an hour at handover."
 :::
 
 ## Self-Check

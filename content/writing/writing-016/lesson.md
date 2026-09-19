@@ -60,10 +60,10 @@ a different source using a cautious reporting verb (suggest, indicate).
 
 ## Vocabulary in Context
 
-::: vocabulary word="preliminary" pos="adjective" meaning="happening before the main or final part; not yet complete — প্রাথমিক" example="The preliminary data suggest that the new schedule reduces waiting time."
+::: vocabulary word="preliminary" pos="adjective" register="formal" meaning="happening before the main or final part; not yet complete (প্রাথমিক)" collocation="preliminary results, preliminary findings, preliminary report" example="The preliminary results suggest a mechanical fault, but testing continues."
 :::
 
-::: vocabulary word="attribute" pos="verb" meaning="to say that something comes from a particular source or cause — আরোপ করা" example="The report attributes the delay to a shortage of staff."
+::: vocabulary word="attribute" pos="verb" register="formal" meaning="to say that something comes from a particular source or cause (আরোপ করা)" collocation="attribute to, attribute the delay to, be attributed to" example="The report attributes the delay to a shortage of pilots."
 :::
 
 ## Model Answer

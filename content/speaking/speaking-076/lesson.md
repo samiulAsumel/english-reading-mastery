@@ -67,10 +67,10 @@ didn't slip in a fact that wasn't actually true.
 
 ## Vocabulary in Context
 
-::: vocabulary word="neutral" pos="adjective" meaning="stated plainly, without favoring a particular impression — নিরপেক্ষ" example="The neutral version of the sentence just states the number."
+::: vocabulary word="neutral" pos="adjective" register="neutral" meaning="stated plainly, without favoring a particular impression (নিরপেক্ষ)" collocation="neutral tone, remain neutral, neutral wording" example="Say 'the plan lacked approval' for a neutral version."
 :::
 
-::: vocabulary word="loaded" pos="adjective" meaning="carrying extra emotional weight beyond its literal meaning — আবেগপূর্ণ/পক্ষপাতমূলক" example="'Suffered a decline' is a loaded phrase compared to 'fell.'"
+::: vocabulary word="loaded" pos="adjective" register="neutral" meaning="carrying extra emotional weight beyond its literal meaning (আবেগপূর্ণ/পক্ষপাতমূলক)" collocation="loaded language, loaded word, loaded term" example="'Crackdown' is a loaded word; 'enforcement' is neutral."
 :::
 
 ## Self-Check

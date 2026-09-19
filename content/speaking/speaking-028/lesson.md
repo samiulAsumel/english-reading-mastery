@@ -70,10 +70,10 @@ tacked on as an afterthought, and that your source was named honestly.
 
 ## Vocabulary in Context
 
-::: vocabulary word="modal verb" pos="noun phrase" meaning="a verb like may, might, or could that marks how certain a statement is — মোডাল ক্রিয়া" example="Swapping 'is' for 'may be' turned a flat claim into a properly hedged one."
+::: vocabulary word="modal verb" pos="noun phrase" register="technical" meaning="a verb like may, might, or could that marks how certain a statement is (মোডাল ক্রিয়া)" collocation="use a modal verb, modal verb such as, weak modal verb" example="'Might' is a weaker modal verb than 'will'."
 :::
 
-::: vocabulary word="overclaim" pos="verb" meaning="to state something with more confidence than the evidence actually supports — অতিরিক্ত দাবি করা" example="Saying 'this proves it' when you only have one example is a clear overclaim."
+::: vocabulary word="overclaim" pos="verb" register="formal" meaning="to state something with more confidence than the evidence actually supports (অতিরিক্ত দাবি করা)" collocation="overclaim the results, risk overclaiming, accused of overclaiming" example="Saying the system 'eliminates errors' after one month would overclaim."
 :::
 
 ## Self-Check

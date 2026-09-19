@@ -354,34 +354,34 @@ between them.
 
 ## Vocabulary in Context
 
-::: vocabulary word="antecedent" pos="noun" meaning="the earlier word or idea that a pronoun or reference expression points back to (পূর্ববর্তী নির্দেশ্য)" example="Before deciding what 'this' means, first identify its antecedent in the previous sentence."
+::: vocabulary word="antecedent" pos="noun" register="technical" meaning="the earlier word or idea that a pronoun or reference expression points back to (পূর্ববর্তী নির্দেশ্য)" collocation="clear antecedent, identify the antecedent, unclear antecedent" example="In 'The committee approved the plan, but it was later withdrawn', the antecedent of 'it' is 'the plan'."
 :::
 
-::: vocabulary word="cataphoric" pos="adjective" meaning="describing reference that points forward to something explained later in the text, rather than backward (সম্মুখমুখী নির্দেশনা)" example="'This was the main problem: employees lacked training' uses cataphoric reference."
+::: vocabulary word="cataphoric" pos="adjective" register="technical" meaning="describing reference that points forward to something explained later in the text, rather than backward (সম্মুখমুখী নির্দেশনা)" collocation="cataphoric reference, cataphoric pronoun, cataphoric use" example="'Here is the problem: costs are rising' contains a cataphoric reference, since 'the problem' is explained afterwards."
 :::
 
-::: vocabulary word="exophoric" pos="adjective" meaning="describing reference that points outside the text, to shared context the reader must already know (বহিঃস্থ নির্দেশনা)" example="'This building' in a photo caption is exophoric, pointing to something outside the sentence."
+::: vocabulary word="exophoric" pos="adjective" register="technical" meaning="describing reference that points outside the text, to shared context the reader must already know (বহিঃস্থ নির্দেশনা)" collocation="exophoric reference, exophoric pronoun, exophoric use" example="'They have closed the gate again' uses exophoric reference: the reader must know who 'they' are from context."
 :::
 
-::: vocabulary word="substitute" pos="verb" meaning="to use one word or phrase in place of another to avoid repetition, while keeping the same referent (প্রতিস্থাপন করা)" example="'One' substitutes for 'system' in 'I prefer the newer one.'"
+::: vocabulary word="substitute" pos="verb" register="technical" meaning="to use one word or phrase in place of another to avoid repetition, while keeping the same referent (প্রতিস্থাপন করা)" collocation="substitute for, substitute word, substitute expression" example="In 'The first vessel was late; the second one was on time', 'one' substitutes for 'vessel'."
 :::
 
-::: vocabulary word="ellipsis" pos="noun" meaning="the deliberate omission of words that are recoverable from context (উহ্যকরণ)" example="'Others do not' relies on ellipsis, omitting the repeated 'support the theory.'"
+::: vocabulary word="ellipsis" pos="noun" register="technical" meaning="the deliberate omission of words that are recoverable from context (উহ্যকরণ)" collocation="ellipsis of, elliptical clause, use ellipsis" example="In 'Import volumes fell; exports, too', ellipsis leaves out the verb 'fell'."
 :::
 
-::: vocabulary word="resolve" pos="verb" meaning="to determine exactly what a reference expression or ambiguity actually points to or means (নিষ্পত্তি/সমাধান করা)" example="Careful readers resolve every 'this' and 'which' before moving on to the next sentence."
+::: vocabulary word="resolve" pos="verb" register="formal" meaning="to determine exactly what a reference expression or ambiguity actually points to or means (নিষ্পত্তি/সমাধান করা)" collocation="resolve the reference, resolve ambiguity, resolve an issue" example="Readers must resolve who 'they' refers to before the sentence makes sense."
 :::
 
-::: vocabulary word="bridging inference" pos="noun phrase" meaning="a connection a reader supplies using general world knowledge, when a text refers to something not explicitly introduced (সংযোগ-অনুমান)" example="Understanding 'the kitchen' after 'I entered a house' relies on a bridging inference."
+::: vocabulary word="bridging inference" pos="noun phrase" register="technical" meaning="a connection a reader supplies using general world knowledge, when a text refers to something not explicitly introduced (সংযোগ-অনুমান)" collocation="make a bridging inference, bridging inference required, rely on bridging inference" example="Mentioning 'the engine' after 'the truck arrived' requires a bridging inference that the truck has one."
 :::
 
-::: vocabulary word="recoverable" pos="adjective" meaning="able to be reconstructed from surrounding context, even though it isn't stated directly (প্রসঙ্গ থেকে পুনরুদ্ধারযোগ্য)" example="An omitted verb phrase in an elliptical sentence is recoverable from the clause before it."
+::: vocabulary word="recoverable" pos="adjective" register="technical" meaning="able to be reconstructed from surrounding context, even though it isn't stated directly (প্রসঙ্গ থেকে পুনরুদ্ধারযোগ্য)" collocation="easily recoverable, recoverable from context, recoverable information" example="The omitted subject in the second clause is recoverable from the first."
 :::
 
-::: vocabulary word="referent" pos="noun" meaning="the specific thing, event, or idea that a word or phrase actually refers to (নির্দেশিত বস্তু/বিষয়)" example="The referent of 'this improvement' is the reduction in assignment time, not the whole system."
+::: vocabulary word="referent" pos="noun" register="technical" meaning="the specific thing, event, or idea that a word or phrase actually refers to (নির্দেশিত বস্তু/বিষয়)" collocation="identify the referent, unclear referent, referent of" example="In 'The clerk gave the manager her report', the referent of 'her' may be either woman."
 :::
 
-::: vocabulary word="cohesive" pos="adjective" meaning="holding together through grammatical and lexical links, so a text reads as one connected whole (সংহত)" example="Reference, substitution, and ellipsis all make a paragraph cohesive without repeating words."
+::: vocabulary word="cohesive" pos="adjective" register="technical" meaning="holding together through grammatical and lexical links, so a text reads as one connected whole (সংহত)" collocation="cohesive text, cohesive device, highly cohesive" example="The memo reads as cohesive because each sentence picks up an idea from the previous one."
 :::
 
 ## Guided Reading Practice

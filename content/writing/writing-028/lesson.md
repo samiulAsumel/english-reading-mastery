@@ -65,10 +65,10 @@ your first sentence — don't let the claim harden as the paragraph goes on.
 
 ## Vocabulary in Context
 
-::: vocabulary word="hedge" pos="verb" meaning="to soften a claim with a modal verb or qualifying word so it matches the evidence's real strength — উপশমিত করে বলা" example="The report hedges its main finding with 'may,' rather than claiming it as fact."
+::: vocabulary word="hedge" pos="verb" register="formal" meaning="to soften a claim with a modal verb or qualifying word so it matches the evidence's real strength (উপশমিত করে বলা)" collocation="hedge a claim, hedge appropriately, hedge with a modal" example="The writer hedged the claim with 'appears to' because the data were limited."
 :::
 
-::: vocabulary word="attribute" pos="verb" meaning="to name the source of a claim explicitly, instead of presenting it as the writer's own certainty — কৃতিত্ব দেওয়া" example="The paragraph attributes the finding to a single small survey, not to the industry as a whole."
+::: vocabulary word="attribute" pos="verb" register="formal" meaning="to name the source of a claim explicitly, instead of presenting it as the writer's own certainty (কৃতিত্ব দেওয়া)" collocation="attribute a claim, attribute to a source, clearly attribute" example="The article clearly attributes the figure to the port authority."
 :::
 
 ## Model Answer

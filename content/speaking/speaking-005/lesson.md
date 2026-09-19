@@ -65,7 +65,7 @@ immediately, without a pause to think it through.
 
 ## Vocabulary in Context
 
-::: vocabulary word="timeframe" pos="noun" meaning="the period of time a statement refers to — সময়কাল" example="Match your verb form to the timeframe the question asks about."
+::: vocabulary word="timeframe" pos="noun" register="formal" meaning="the period of time a statement refers to (সময়কাল)" collocation="within the timeframe, realistic timeframe, set a timeframe" example="The team agreed on a realistic timeframe of six weeks for the upgrade."
 :::
 
 ## Self-Check

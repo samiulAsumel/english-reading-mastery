@@ -68,10 +68,10 @@ claim.
 
 ## Vocabulary in Context
 
-::: vocabulary word="evasive" pos="adjective" meaning="avoiding a clear answer — this is not the goal; a hedge should be honest, not vague — অস্পষ্ট" example="A good hedge is honest, not evasive."
+::: vocabulary word="evasive" pos="adjective" register="formal" meaning="deliberately vague in order to avoid giving a direct answer (অস্পষ্ট)" collocation="evasive answer, sound evasive, evasive reply" example="A hedge should be honest, not evasive: say how sure you are and why."
 :::
 
-::: vocabulary word="under time pressure" pos="phrase" meaning="while forced to respond quickly, with little time to plan — সময়ের চাপে" example="Hedge words often disappear under time pressure."
+::: vocabulary word="under time pressure" pos="phrase" register="neutral" meaning="while forced to respond quickly, with little time to plan (সময়ের চাপে)" collocation="work under time pressure, respond under time pressure, decide under time pressure" example="Under time pressure, keep the hedge short: 'probably, because...'."
 :::
 
 ## Self-Check

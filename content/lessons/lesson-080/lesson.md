@@ -399,28 +399,28 @@ strong.
 
 ## Vocabulary in Context
 
-::: vocabulary word="central question" pos="noun phrase" meaning="the underlying question a chapter is organised around answering, as distinct from its plain subject matter or topic (কেন্দ্রীয় প্রশ্ন)" example="The chapter's topic was automation, but its central question was under what conditions automation actually improves efficiency."
+::: vocabulary word="central question" pos="noun phrase" register="formal" meaning="the underlying question a chapter is organised around answering, as distinct from its plain subject matter or topic (কেন্দ্রীয় প্রশ্ন)" collocation="the central question, address the central question, central question of" example="The chapter's central question is why some ports recover faster from disruption than others."
 :::
 
-::: vocabulary word="centre of gravity" pos="noun phrase" meaning="the section or sections of a chapter that most directly support its final conclusion, regardless of how much space other sections occupy (মাধ্যাকর্ষণ কেন্দ্র)" example="Despite ten pages on technical history, the chapter's centre of gravity was its two pages on organizational limitations."
+::: vocabulary word="centre of gravity" pos="noun phrase" register="formal" meaning="the section or sections of a chapter that most directly support its final conclusion, regardless of how much space other sections occupy (মাধ্যাকর্ষণ কেন্দ্র)" collocation="the centre of gravity, shift the centre of gravity, centre of gravity of" example="The chapter's centre of gravity is section four, which contains the decisive evidence."
 :::
 
-::: vocabulary word="concept map" pos="noun phrase" meaning="a diagram showing how ideas relate to each other, as distinct from an argument map showing how evidence supports a conclusion (ধারণা মানচিত্র)" example="The concept map traced automation through data quality and billing accuracy to overall operational value."
+::: vocabulary word="concept map" pos="noun phrase" register="technical" meaning="a diagram showing how ideas relate to each other, as distinct from an argument map showing how evidence supports a conclusion (ধারণা মানচিত্র)" collocation="draw a concept map, build a concept map, concept map of" example="A concept map of the chapter shows how 'delay' links to 'congestion' and 'cost'."
 :::
 
-::: vocabulary word="steelmanning" pos="noun / verb" meaning="constructing the strongest, fairest possible version of someone's argument before evaluating or critiquing it (শক্তিশালীভাবে যুক্তি পুনর্গঠন)" example="Steelmanning the claim that 'automation doesn't always help' revealed a nuanced, conditional argument rather than outright opposition."
+::: vocabulary word="steelmanning" pos="noun / verb" register="technical" meaning="constructing the strongest, fairest possible version of someone's argument before evaluating or critiquing it (শক্তিশালীভাবে যুক্তি পুনর্গঠন)" collocation="practise steelmanning, steelmanning an opponent, steelmanning before criticism" example="The reviewer used steelmanning, restating the author's best argument before challenging it."
 :::
 
-::: vocabulary word="conceptual anchor" pos="noun phrase" meaning="an early definition or claim in a chapter that later sections build directly on, making it essential to remember (ধারণাগত ভিত্তিবিন্দু)" example="The chapter's early definition of 'operational efficiency' served as a conceptual anchor for every section that followed."
+::: vocabulary word="conceptual anchor" pos="noun phrase" register="formal" meaning="an early definition or claim in a chapter that later sections build directly on, making it essential to remember (ধারণাগত ভিত্তিবিন্দু)" collocation="serve as a conceptual anchor, key conceptual anchor, conceptual anchor of" example="The definition of 'resilience' on page ten is the conceptual anchor for every later chapter."
 :::
 
-::: vocabulary word="chapter architecture" pos="noun phrase" meaning="the overall structural pattern a chapter follows, often typical of its genre, such as problem → method → results → implications in scientific writing (অধ্যায়ের কাঠামো)" example="Recognising the chapter architecture as a business case — problem, strategy, results, risks — made the text far more predictable."
+::: vocabulary word="chapter architecture" pos="noun phrase" register="formal" meaning="the overall structural pattern a chapter follows, often typical of its genre, such as problem → method → results → implications in scientific writing (অধ্যায়ের কাঠামো)" collocation="clear chapter architecture, analyse chapter architecture, chapter architecture of" example="A scientific paper's chapter architecture runs from problem to method to results to implications."
 :::
 
-::: vocabulary word="thesis" pos="noun" meaning="a chapter's broadest, most fully developed claim, usually arrived at only after evidence and qualification (মূল অভিসন্দর্ভ)" example="The chapter's thesis — that automation helps only under specific conditions — only became fully clear by its final section."
+::: vocabulary word="thesis" pos="noun" register="formal" meaning="a chapter's broadest, most fully developed claim, usually arrived at only after evidence and qualification (মূল অভিসন্দর্ভ)" collocation="central thesis, main thesis, defend a thesis" example="The chapter's thesis is that reliability, not price, decides where shippers send their cargo."
 :::
 
-::: vocabulary word="concept refinement" pos="noun phrase" meaning="the gradual expansion or narrowing of a key term's meaning as a chapter develops, from a first, simple definition to a fuller one (ধারণার পরিমার্জন)" example="Concept refinement moved 'efficiency' from a narrow synonym for speed to a broader construct including accuracy and resource use."
+::: vocabulary word="concept refinement" pos="noun phrase" register="course term" meaning="the gradual expansion or narrowing of a key term's meaning as a chapter develops, from a first, simple definition to a fuller one (ধারণার পরিমার্জন)" collocation="concept refinement across, gradual concept refinement, concept refinement of" example="Through concept refinement, 'delay' begins as any lateness and ends as lateness beyond the agreed window."
 :::
 
 ## Guided Reading Practice

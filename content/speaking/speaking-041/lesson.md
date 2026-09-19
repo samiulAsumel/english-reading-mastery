@@ -66,7 +66,7 @@ original allowed.
 
 ## Vocabulary in Context
 
-::: vocabulary word="hedge" pos="noun" meaning="a word that softens a claim's certainty — সতর্কতাসূচক শব্দ" example="Dropping 'appears to' when explaining a claim overstates what's actually known."
+::: vocabulary word="hedge" pos="noun" register="technical" meaning="a word that softens a claim's certainty (সতর্কতাসূচক শব্দ)" collocation="use a hedge, hedge such as, soften with a hedge" example="'Roughly' and 'appears to' are hedges that soften a spoken claim."
 :::
 
 ## Self-Check

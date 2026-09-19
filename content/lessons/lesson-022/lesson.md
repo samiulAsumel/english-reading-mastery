@@ -550,34 +550,34 @@ prose actually looks like.
 
 ## Vocabulary in Context
 
-::: vocabulary word="extent" pos="noun" meaning="the degree or amount to which something happens or is true (পরিমাণ/মাত্রা)" example="The extent to which employees benefit from remote work varies considerably."
+::: vocabulary word="extent" pos="noun" register="formal" meaning="the degree or amount to which something happens or is true (পরিমাণ/মাত্রা)" collocation="to some extent, to what extent, the full extent" example="The audit will establish the full extent of the data breach."
 :::
 
-::: vocabulary word="capacity" pos="noun" meaning="the maximum amount something can hold, produce, or handle (ধারণক্ষমতা)" example="The terminal's cargo-handling capacity is affected by seasonal congestion."
+::: vocabulary word="capacity" pos="noun" register="neutral" meaning="the maximum amount something can hold, produce, or handle (ধারণক্ষমতা)" collocation="operating capacity, at full capacity, capacity to" example="The terminal is operating at ninety percent of its annual capacity."
 :::
 
-::: vocabulary word="tendency" pos="noun" meaning="a person's or thing's inclination to behave in a particular way (প্রবণতা)" example="Consumers show a tendency to prefer familiar products."
+::: vocabulary word="tendency" pos="noun" register="formal" meaning="a person's or thing's inclination to behave in a particular way (প্রবণতা)" collocation="a tendency to, growing tendency, general tendency" example="Analysts noted a tendency among carriers to shift volume to cheaper ports during slack months."
 :::
 
-::: vocabulary word="implementation" pos="noun" meaning="the process of putting a plan or system into actual practice (বাস্তবায়ন)" example="The successful implementation of new technologies requires employee training."
+::: vocabulary word="implementation" pos="noun" register="formal" meaning="the process of putting a plan or system into actual practice (বাস্তবায়ন)" collocation="implementation of, successful implementation, implementation plan" example="The implementation of the new billing system was completed in three phases."
 :::
 
-::: vocabulary word="integrate" pos="verb" meaning="to combine something fully with something else so it works as one system (সংযুক্ত/একীভূত করা)" example="Organizations must integrate new technologies into their existing business processes."
+::: vocabulary word="integrate" pos="verb" register="technical" meaning="to combine something fully with something else so it works as one system (সংযুক্ত/একীভূত করা)" collocation="integrate with, fully integrated, seamlessly integrate" example="The vendor claims the scanner will integrate with any terminal operating system."
 :::
 
-::: vocabulary word="operational" pos="adjective" meaning="relating to the practical running of a system or organization, day to day (কার্যক্ষম/পরিচালনাগত)" example="Digital systems can help companies improve operational efficiency."
+::: vocabulary word="operational" pos="adjective" register="formal" meaning="relating to the practical running of a system or organization, day to day (কার্যক্ষম/পরিচালনাগত)" collocation="operational efficiency, fully operational, operational costs" example="The second berth will be fully operational by the end of the year."
 :::
 
-::: vocabulary word="competitiveness" pos="noun" meaning="the ability to succeed or perform well against rivals in the same field (প্রতিযোগিতামূলক সক্ষমতা)" example="Adapting to new technology has become an important factor in long-term competitiveness."
+::: vocabulary word="competitiveness" pos="noun" register="formal" meaning="the ability to succeed or perform well against rivals in the same field (প্রতিযোগিতামূলক সক্ষমতা)" collocation="improve competitiveness, global competitiveness, competitiveness of" example="Reducing dwell time is central to the port's regional competitiveness."
 :::
 
-::: vocabulary word="congestion" pos="noun" meaning="a state of being overcrowded or blocked, slowing normal movement (যানজট/জটলা)" example="Seasonal congestion can significantly affect a port's cargo-handling capacity."
+::: vocabulary word="congestion" pos="noun" register="neutral" meaning="a state of being overcrowded or blocked, slowing normal movement (যানজট/জটলা)" collocation="traffic congestion, port congestion, relieve congestion" example="Port congestion pushed average vessel waiting time to almost four days."
 :::
 
-::: vocabulary word="reliability" pos="noun" meaning="the quality of being consistently good or dependable (নির্ভরযোগ্যতা)" example="Vessel waiting times depend on the reliability of the scheduling systems in use."
+::: vocabulary word="reliability" pos="noun" register="formal" meaning="the quality of being consistently good or dependable (নির্ভরযোগ্যতা)" collocation="system reliability, improve reliability, reliability of" example="The ministry ranks ports on schedule reliability, not just on cargo volume."
 :::
 
-::: vocabulary word="sufficient" pos="adjective" meaning="enough for a particular purpose (পর্যাপ্ত)" example="Organizations without sufficient resources may struggle to adopt new systems."
+::: vocabulary word="sufficient" pos="adjective" register="formal" meaning="enough for a particular purpose (পর্যাপ্ত)" collocation="sufficient evidence, sufficient funds, more than sufficient" example="The audit found no sufficient evidence that the safety checks had been carried out."
 :::
 
 ## Guided Reading Practice

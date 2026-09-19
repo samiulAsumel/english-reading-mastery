@@ -64,10 +64,10 @@ not an exception, rather than leaving the listener to work that out.
 
 ## Vocabulary in Context
 
-::: vocabulary word="carve out" pos="phrasal verb" meaning="to deliberately exclude a specific case from a general rule — বাদ দেওয়া" example="The policy carves out an exception for sealed containers."
+::: vocabulary word="carve out" pos="phrasal verb" register="neutral" meaning="to deliberately exclude a specific case from a general rule (বাদ দেওয়া)" collocation="carve out an exception, carve out from, deliberately carve out" example="The rule applies to all cargo, except that we carve out perishable goods."
 :::
 
-::: vocabulary word="constraint" pos="noun" meaning="a real limit on what is possible, separate from a rule's exclusions — সীমাবদ্ধতা" example="Battery life is a genuine constraint on the device, not an exception in its warranty."
+::: vocabulary word="constraint" pos="noun" register="formal" meaning="a real limit on what is possible, separate from a rule's exclusions (সীমাবদ্ধতা)" collocation="budget constraint, time constraint, work within constraints" example="The main constraint is that the berth is free only at night."
 :::
 
 ## Self-Check

@@ -437,66 +437,68 @@ vocabulary in this course is never taught as a bare equation —
 
 Twenty words for this lesson. Do not try to memorise the list — you will
 meet every one of them again, in context, in the reading passage below
-and in future lessons.
+and in future lessons. Each card shows the word's register (how formal it
+sounds), the words it most often travels with, and a sentence of the kind
+you would meet at work.
 
-::: vocabulary word="understand" pos="verb" meaning="to grasp the meaning of something (বোঝা)" example="I understand the problem."
+::: vocabulary word="understand" pos="verb" register="neutral" meaning="to grasp what something means or how it works (বোঝা)" collocation="understand the requirements, fully understand, understand why" example="Before signing the charter party, the operations manager wanted to understand exactly who paid for demurrage."
 :::
 
-::: vocabulary word="think" pos="verb" meaning="to use the mind to consider something (চিন্তা করা)" example="She stopped to think before answering."
+::: vocabulary word="think" pos="verb" register="neutral" meaning="to use your mind to form an opinion or work something out (চিন্তা করা)" collocation="think carefully, think ahead, think about" example="The duty officer asked the crew to think through the berthing sequence before the tide turned."
 :::
 
-::: vocabulary word="learn" pos="verb" meaning="to gain knowledge or a skill (শেখা)" example="Children learn language quickly."
+::: vocabulary word="learn" pos="verb" register="neutral" meaning="to gain knowledge or a skill through study or experience (শেখা)" collocation="learn from experience, learn a skill, quickly learn" example="New dispatchers learn the yard layout within their first fortnight on the job."
 :::
 
-::: vocabulary word="study" pos="verb" meaning="to examine a subject carefully in order to learn about it (অধ্যয়ন করা)" example="Researchers study human decision-making."
+::: vocabulary word="study" pos="verb" register="neutral" meaning="to examine a subject carefully in order to understand it (অধ্যয়ন করা)" collocation="study the data, study closely, study a problem" example="The engineering team studied six months of gate-transaction logs before redesigning the queue."
 :::
 
-::: vocabulary word="analyze" pos="verb" meaning="to examine something in detail to understand its parts (বিশ্লেষণ করা)" example="We analyze the data."
+::: vocabulary word="analyze" pos="verb" register="formal" meaning="to examine something in detail to understand its parts and how they fit together (বিশ্লেষণ করা)" collocation="analyze data, analyze the results, carefully analyze" example="The finance team analyzed last quarter's wharfage invoices to find why revenue had dipped."
 :::
 
-::: vocabulary word="decide" pos="verb" meaning="to choose something after thinking about it (সিদ্ধান্ত নেওয়া)" example="The team must decide which option is best."
+::: vocabulary word="decide" pos="verb" register="neutral" meaning="to choose one option after thinking about the alternatives (সিদ্ধান্ত নেওয়া)" collocation="decide between, decide whether, decide to proceed" example="The board will decide whether to extend the lease at its next quarterly meeting."
 :::
 
-::: vocabulary word="decision" pos="noun" meaning="a choice made after consideration (সিদ্ধান্ত)" example="Every decision has consequences."
+::: vocabulary word="decision" pos="noun" register="neutral" meaning="a choice made after considering the options (সিদ্ধান্ত)" collocation="make a decision, a final decision, decision-making process" example="The harbour master's decision to delay departure was based on the updated weather report."
 :::
 
-::: vocabulary word="influence" pos="verb" meaning="to affect how someone thinks or acts (প্রভাবিত করা)" example="Emotions influence decisions."
+::: vocabulary word="influence" pos="verb" register="formal" meaning="to have an effect on how someone thinks, acts, or how something develops (প্রভাবিত করা)" collocation="influence a decision, strongly influence, influence the outcome" example="Fuel prices heavily influence which shipping route a carrier chooses."
 :::
 
-::: vocabulary word="affect" pos="verb" meaning="to produce a change in something (প্রভাব ফেলা)" example="Stress can affect behavior."
+::: vocabulary word="affect" pos="verb" register="neutral" meaning="to cause a change in something (প্রভাব ফেলা)" collocation="adversely affect, directly affect, affect performance" example="Delays at the customs office directly affect how quickly containers leave the terminal."
 :::
 
-::: vocabulary word="behavior" pos="noun" meaning="the way a person acts (আচরণ)" example="The study focuses on human behavior."
+::: vocabulary word="behavior" pos="noun" register="neutral" meaning="the way a person, group, or system acts in a given situation (আচরণ)" collocation="consumer behavior, change behavior, unusual behavior" example="The security audit flagged unusual user behavior on the billing system after midnight."
 :::
 
-::: vocabulary word="communicate" pos="verb" meaning="to share information or ideas with someone (যোগাযোগ করা)" example="Good leaders communicate clearly with their team."
+::: vocabulary word="communicate" pos="verb" register="neutral" meaning="to share information or ideas with someone so that they understand (যোগাযোগ করা)" collocation="communicate clearly, communicate with stakeholders, communicate a message" example="During an incident, the on-call engineer must communicate status updates to management every thirty minutes."
 :::
 
-::: vocabulary word="observe" pos="verb" meaning="to watch something carefully (পর্যবেক্ষণ করা)" example="Good leaders observe people carefully."
+::: vocabulary word="observe" pos="verb" register="formal" meaning="to watch something carefully in order to learn from it (পর্যবেক্ষণ করা)" collocation="observe closely, observe a pattern, observe the rules" example="The inspector observed that crane operators skipped the pre-shift safety check on three occasions."
 :::
 
-::: vocabulary word="explain" pos="verb" meaning="to make something clear by describing it (ব্যাখ্যা করা)" example="Can you explain why the decision changed?"
+::: vocabulary word="explain" pos="verb" register="neutral" meaning="to make something clear by describing how or why it happens (ব্যাখ্যা করা)" collocation="explain the reason, explain how, briefly explain" example="The report explains why the migration to the new billing platform took two months longer than planned."
 :::
 
-::: vocabulary word="consider" pos="verb" meaning="to think carefully about something (বিবেচনা করা)" example="Leaders consider different opinions."
+::: vocabulary word="consider" pos="verb" register="formal" meaning="to think carefully about something before making a decision (বিবেচনা করা)" collocation="consider the options, seriously consider, consider whether" example="The committee will consider three bids before appointing a dredging contractor."
 :::
 
-::: vocabulary word="develop" pos="verb" meaning="to grow or improve over time (বিকশিত/উন্নত করা)" example="People develop new skills through practice."
+::: vocabulary word="develop" pos="verb" register="neutral" meaning="to grow, or to help something grow, into a more advanced form (বিকশিত করা)" collocation="develop a strategy, develop skills, develop rapidly" example="The company plans to develop a mobile app that lets drivers book gate slots in advance."
 :::
 
-::: vocabulary word="improve" pos="verb" meaning="to make or become better (উন্নত করা)" example="Practice improves performance."
+::: vocabulary word="improve" pos="verb" register="neutral" meaning="to make something better, or to become better (উন্নত করা)" collocation="improve efficiency, significantly improve, improve on" example="Adding a second scanning lane improved truck turnaround time by almost a third."
 :::
 
-::: vocabulary word="experience" pos="noun" meaning="knowledge or skill gained from doing something (অভিজ্ঞতা)" example="Experience teaches lessons that books cannot."
+::: vocabulary word="experience" pos="noun" register="neutral" meaning="knowledge or skill gained by doing something over time (অভিজ্ঞতা)" collocation="years of experience, hands-on experience, relevant experience" example="The job advert asks for at least five years of experience in terminal operations."
 :::
 
-::: vocabulary word="knowledge" pos="noun" meaning="information and understanding gained through learning (জ্ঞান)" example="Knowledge grows through practice, not memorisation alone."
+::: vocabulary word="knowledge" pos="noun" register="neutral" meaning="information and understanding that a person has gained (জ্ঞান)" collocation="technical knowledge, working knowledge, share knowledge" example="Her working knowledge of customs regulations made her the obvious choice to lead the compliance team."
 :::
 
-::: vocabulary word="effective" pos="adjective" meaning="producing the result that was intended (কার্যকর)" example="An effective leader listens before speaking."
+::: vocabulary word="effective" pos="adjective" register="formal" meaning="producing the result that was intended (কার্যকর)" collocation="highly effective, cost-effective, effective communication" example="A short daily briefing proved more effective than a long weekly report at preventing yard incidents."
 :::
 
-::: vocabulary word="important" pos="adjective" meaning="having great meaning, value, or significance (গুরুত্বপূর্ণ)" example="Making the right decision is important."
+::: vocabulary word="important" pos="adjective" register="neutral" meaning="having great value or a serious effect on what happens (গুরুত্বপূর্ণ)" collocation="extremely important, important to note, important factor" example="It is important to confirm the vessel's draft before assigning it a berth."
 :::
 
 ## How to Read Every Passage

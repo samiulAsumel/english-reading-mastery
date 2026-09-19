@@ -64,7 +64,7 @@ out in one connected breath, not as two disconnected facts.
 
 ## Vocabulary in Context
 
-::: vocabulary word="opposing" pos="adjective" meaning="pulling in a different or contrary direction — বিপরীতমুখী" example="But connects two opposing ideas in one sentence."
+::: vocabulary word="opposing" pos="adjective" register="formal" meaning="pulling in a different or contrary direction (বিপরীতমুখী)" collocation="opposing view, opposing force, opposing argument" example="The two reports reach opposing conclusions about the new tariff."
 :::
 
 ## Self-Check

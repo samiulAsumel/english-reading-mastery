@@ -65,7 +65,7 @@ of what you're talking about.
 
 ## Vocabulary in Context
 
-::: vocabulary word="reference" pos="noun" meaning="a word that points back to something already mentioned, instead of repeating it — নির্দেশ" example="'It' is a reference back to 'the app' in the previous sentence."
+::: vocabulary word="reference" pos="noun" register="neutral" meaning="a word that points back to something already mentioned, instead of repeating it (নির্দেশ)" collocation="clear reference, with reference to, pronoun reference" example="In speech, 'it' needs a clear reference so the listener knows what I mean."
 :::
 
 ## Self-Check

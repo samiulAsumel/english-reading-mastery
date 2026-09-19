@@ -56,10 +56,10 @@ the passive voice (*is/was + past participle*).
 
 ## Vocabulary in Context
 
-::: vocabulary word="head noun" pos="noun" meaning="the single core noun a whole noun phrase is built around — মূল বিশেষ্য" example="In 'the busy port,' port is the head noun."
+::: vocabulary word="head noun" pos="noun" register="technical" meaning="the single core noun a whole noun phrase is built around (মূল বিশেষ্য)" collocation="identify the head noun, head noun of the phrase, single head noun" example="In 'the new cargo-handling equipment', 'equipment' is the head noun."
 :::
 
-::: vocabulary word="past participle" pos="noun" meaning="the verb form used after have or be, such as finished or written — অতীত কৃদন্ত" example="Finished is the past participle in 'has finished.'"
+::: vocabulary word="past participle" pos="noun" register="technical" meaning="the verb form used after have or be, such as finished or written (অতীত কৃদন্ত)" collocation="form the past participle, past participle after have, regular past participle" example="'Approved' is the past participle in 'The plan has been approved'."
 :::
 
 ## Model Answer

@@ -65,13 +65,13 @@ other's.
 
 ## Vocabulary in Context
 
-::: vocabulary word="taken together" pos="phrase" meaning="a signal phrase showing that separate pieces of evidence are being combined into one conclusion — একত্রে বিবেচনা করলে" example="Taken together, the two studies suggest the effect depends on staff turnover."
+::: vocabulary word="taken together" pos="phrase" register="formal" meaning="a signal phrase showing that separate pieces of evidence are being combined into one conclusion (একত্রে বিবেচনা করলে)" collocation="taken together, the findings, taken together these results" example="Taken together, the two studies suggest a link."
 :::
 
-::: vocabulary word="reconcile" pos="verb" meaning="to show how two apparently conflicting findings can both be true, without dismissing either one — মীমাংসা করা" example="The paragraph reconciled the two studies by pointing to staff turnover as the missing variable."
+::: vocabulary word="reconcile" pos="verb" register="formal" meaning="to show how two apparently conflicting findings can both be true, without dismissing either one (মীমাংসা করা)" collocation="reconcile the findings, reconcile two claims, difficult to reconcile" example="The author reconciles the two findings by noting they cover different periods."
 :::
 
-::: vocabulary word="erase" pos="verb" meaning="to accidentally remove a hedge, condition, or disagreement while combining information — মুছে ফেলা" example="Writing 'signage reduces errors' as a flat fact would erase the second study's null result."
+::: vocabulary word="erase" pos="verb" register="neutral" meaning="to accidentally remove a hedge, condition, or disagreement while combining information (মুছে ফেলা)" collocation="erase a distinction, erase the hedge, accidentally erase" example="A careless summary can erase the hedge in the original claim."
 :::
 
 ## Model Answer

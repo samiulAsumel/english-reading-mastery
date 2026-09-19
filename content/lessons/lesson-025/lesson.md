@@ -598,34 +598,34 @@ already know and what you're about to learn.
 
 ## Vocabulary in Context
 
-::: vocabulary word="topic" pos="noun" meaning="the person, thing, or idea a sentence or paragraph is centrally about (বিষয়)" example="The topic of the sentence is the new billing system; everything else comments on it."
+::: vocabulary word="topic" pos="noun" register="neutral" meaning="the person, thing, or idea a sentence or paragraph is centrally about (বিষয়)" collocation="main topic, topic of, topic sentence" example="The topic of the memo is the proposed change to weekend shift patterns."
 :::
 
-::: vocabulary word="focus" pos="noun" meaning="the part of a sentence carrying the information the author most wants the reader to notice (গুরুত্ব/কেন্দ্রবিন্দু)" example="In the cleft sentence, the focus falls on 'the new billing system'."
+::: vocabulary word="focus" pos="noun" register="formal" meaning="the part of a sentence carrying the information the author most wants the reader to notice (গুরুত্ব/কেন্দ্রবিন্দু)" collocation="main focus, shift the focus, focus on" example="The report's focus is safety performance; financial results appear only in the appendix."
 :::
 
-::: vocabulary word="emphasize" pos="verb" meaning="to give special importance or prominence to a particular piece of information (গুরুত্ব দেওয়া)" example="The cleft structure exists specifically to emphasize one part of the sentence."
+::: vocabulary word="emphasize" pos="verb" register="formal" meaning="to give special importance or prominence to a particular piece of information (গুরুত্ব দেওয়া)" collocation="emphasize the importance, strongly emphasize, particularly emphasize" example="The regulator emphasized that the new rules apply to all operators without exception."
 :::
 
-::: vocabulary word="restrict" pos="verb" meaning="to limit something to a smaller group or range than it might otherwise cover (সীমিত করা)" example="'Only trained employees' restricts system access to one specific group."
+::: vocabulary word="restrict" pos="verb" register="formal" meaning="to limit something to a smaller group or range than it might otherwise cover (সীমিত করা)" collocation="restrict access, strictly restrict, restrict to" example="Access to the control room is restricted to authorised staff only."
 :::
 
-::: vocabulary word="progression" pos="noun" meaning="a gradual development or movement from one stage to the next (ক্রমবিকাশ)" example="Thematic progression describes how a paragraph's topic develops from sentence to sentence."
+::: vocabulary word="progression" pos="noun" register="formal" meaning="a gradual development or movement from one stage to the next (ক্রমবিকাশ)" collocation="logical progression, natural progression, career progression" example="The manual presents a logical progression from basic safety rules to emergency response."
 :::
 
-::: vocabulary word="qualification" pos="noun" meaning="a statement that limits or adds a condition to an earlier claim (সীমাবদ্ধতা/শর্ত)" example="'However, the value depends partly on data quality' is a qualification of the previous claim."
+::: vocabulary word="qualification" pos="noun" register="formal" meaning="a statement that limits or adds a condition to an earlier claim (সীমাবদ্ধতা/শর্ত)" collocation="important qualification, with one qualification, without qualification" example="The consultant's support for the plan came with one qualification: it depended on securing funding."
 :::
 
-::: vocabulary word="evaluate" pos="verb" meaning="to judge the quality, reliability, or value of something carefully (মূল্যায়ন করা)" example="Managers must evaluate the reliability of AI-generated recommendations."
+::: vocabulary word="evaluate" pos="verb" register="formal" meaning="to judge the quality, reliability, or value of something carefully (মূল্যায়ন করা)" collocation="evaluate performance, critically evaluate, evaluate options" example="The review team evaluated each supplier against the same scoring criteria."
 :::
 
-::: vocabulary word="procedure" pos="noun" meaning="an established way of carrying out a task or process (পদ্ধতি/কার্যপ্রণালী)" example="Adequate support can include training, technical assistance, and clear implementation procedures."
+::: vocabulary word="procedure" pos="noun" register="formal" meaning="an established way of carrying out a task or process (পদ্ধতি/কার্যপ্রণালী)" collocation="follow the procedure, standard procedure, safety procedure" example="The inspection procedure requires two signatures before any container is released."
 :::
 
-::: vocabulary word="reliability" pos="noun" meaning="the quality of being consistently accurate or dependable (নির্ভরযোগ্যতা)" example="Poor-quality data can undermine the reliability of a system's results."
+::: vocabulary word="reliability" pos="noun" register="formal" meaning="the quality of being consistently accurate or dependable (নির্ভরযোগ্যতা)" collocation="reliability of, data reliability, improve reliability" example="The report questions the reliability of self-reported emissions data."
 :::
 
-::: vocabulary word="rather than" pos="conjunction" meaning="used to show a preference for one option over another, naming the rejected option directly (তার পরিবর্তে)" example="The company focused on improving the existing system rather than replacing it."
+::: vocabulary word="rather than" pos="conjunction" register="neutral" meaning="used to show a preference for one option over another, naming the rejected option directly (তার পরিবর্তে)" collocation="rather than, focus on X rather than Y, prefer X rather than Y" example="The company chose to lease its cranes rather than buy them, to preserve cash."
 :::
 
 ## Guided Reading Practice

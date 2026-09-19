@@ -66,10 +66,10 @@ timer ended and without composing a Bangla sentence first.
 
 ## Vocabulary in Context
 
-::: vocabulary word="ring" pos="verb" meaning="to make a clear ringing sound — বাজা" example="The phone rings every few minutes."
+::: vocabulary word="ring" pos="verb" register="neutral" meaning="to make a clear ringing sound (বাজা)" collocation="the phone rings, ring loudly, keeps ringing" example="The phone in the gate office rings whenever a truck arrives without a booking."
 :::
 
-::: vocabulary word="turn" pos="verb" meaning="to move in a circle or change direction — ঘোরা" example="The fan turns slowly."
+::: vocabulary word="turn" pos="verb" register="neutral" meaning="to move in a circle or change direction (ঘোরা)" collocation="turn left, turn around, turn towards" example="The trucks turn left at the scale house and queue for the inspection lane."
 :::
 
 ## Self-Check

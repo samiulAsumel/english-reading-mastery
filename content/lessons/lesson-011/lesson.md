@@ -387,25 +387,25 @@ experiences they have had in the past* (relative clause on
 
 ## Vocabulary in Context
 
-::: vocabulary word="conduct" pos="verb" meaning="to carry out or organize an activity (পরিচালনা করা)" example="The team conducted a study across several hospitals."
+::: vocabulary word="conduct" pos="verb" register="formal" meaning="to carry out or organize an activity (পরিচালনা করা)" collocation="conduct a study, conduct an audit, conduct an inspection" example="The port authority will conduct an unannounced safety inspection of all bulk-handling sites this quarter."
 :::
 
-::: vocabulary word="interpret" pos="verb" meaning="to explain or understand the meaning of something (ব্যাখ্যা করা/অর্থ বোঝা)" example="People interpret new information differently depending on past experience."
+::: vocabulary word="interpret" pos="verb" register="formal" meaning="to explain or understand the meaning of something (ব্যাখ্যা করা/অর্থ বোঝা)" collocation="interpret the data, interpret a clause, open to interpretation" example="Lawyers disagreed on how to interpret the force majeure clause after the canal closure."
 :::
 
-::: vocabulary word="evaluate" pos="verb" meaning="to judge the value or quality of something carefully (মূল্যায়ন করা)" example="Readers must evaluate several competing alternatives before deciding."
+::: vocabulary word="evaluate" pos="verb" register="formal" meaning="to judge the value or quality of something carefully (মূল্যায়ন করা)" collocation="evaluate options, critically evaluate, evaluate performance" example="Before awarding the contract, the panel evaluated each bidder on price, safety record, and delivery time."
 :::
 
-::: vocabulary word="alternative" pos="noun" meaning="one option among two or more possible choices (বিকল্প)" example="The report considered several alternatives before reaching a conclusion."
+::: vocabulary word="alternative" pos="noun" register="neutral" meaning="one option among two or more possible choices (বিকল্প)" collocation="viable alternative, consider alternatives, alternative to" example="With the main berth closed for repairs, the agent proposed an alternative in the eastern terminal."
 :::
 
-::: vocabulary word="outcome" pos="noun" meaning="the result or effect of an action or process (ফলাফল)" example="Patients who received support showed a better outcome."
+::: vocabulary word="outcome" pos="noun" register="formal" meaning="the result or effect of an action or process (ফলাফল)" collocation="positive outcome, likely outcome, outcome of" example="The outcome of the arbitration was a partial refund of the demurrage charges."
 :::
 
-::: vocabulary word="challenge" pos="verb" meaning="to question whether something is true or correct (প্রশ্নবিদ্ধ করা)" example="The new findings challenge a widely accepted assumption."
+::: vocabulary word="challenge" pos="verb" register="formal" meaning="to question whether something is true, right, or legitimate (প্রশ্নবিদ্ধ করা)" collocation="challenge an assumption, challenge a decision, openly challenge" example="The union challenged the new roster, arguing that it breached the agreed rest-hour limits."
 :::
 
-::: vocabulary word="assumption" pos="noun" meaning="something accepted as true without being proven (অনুমান/ধারণা)" example="The experiment was designed to test a common assumption."
+::: vocabulary word="assumption" pos="noun" register="formal" meaning="something accepted as true without being proven (অনুমান/ধারণা)" collocation="underlying assumption, make an assumption, challenge an assumption" example="The budget rests on the assumption that fuel prices will stay flat for the year."
 :::
 
 ::: note title="Chunks worth learning as whole units"

@@ -359,34 +359,34 @@ a verdict, but a calibrated judgment.
 
 ## Vocabulary in Context
 
-::: vocabulary word="take for granted" pos="phrase" meaning="to accept something as true without examining or questioning it (পরীক্ষা না করে সত্য ধরে নেওয়া)" example="The argument takes for granted that faster processing always reflects higher productivity."
+::: vocabulary word="take for granted" pos="phrase" register="neutral" meaning="to accept something as true without examining or questioning it (পরীক্ষা না করে সত্য ধরে নেওয়া)" collocation="take it for granted, taken for granted, easily taken for granted" example="The plan takes for granted that every supplier will deliver on time, which the record does not justify."
 :::
 
-::: vocabulary word="underlying assumption" pos="noun phrase" meaning="an unstated idea beneath the surface of an argument, on which the argument's logic depends (অন্তর্নিহিত অনুমান)" example="The underlying assumption is that the two ports are being compared under similar conditions."
+::: vocabulary word="underlying assumption" pos="noun phrase" register="formal" meaning="an unstated idea beneath the surface of an argument, on which the argument's logic depends (অন্তর্নিহিত অনুমান)" collocation="challenge the underlying assumption, hidden underlying assumption, flawed underlying assumption" example="The underlying assumption of the forecast is that fuel prices will not rise, and the whole budget depends on it."
 :::
 
-::: vocabulary word="implicit" pos="adjective" meaning="suggested or understood without being directly stated (অন্তর্নিহিত/অব্যক্ত)" example="An implicit assumption doesn't appear in the text, but the argument still relies on it."
+::: vocabulary word="implicit" pos="adjective" register="formal" meaning="suggested or understood without being directly stated (অন্তর্নিহিত/অব্যক্ত)" collocation="implicit assumption, implicit criticism, implicit in" example="The memo contains an implicit criticism of the previous management team without naming anyone."
 :::
 
-::: vocabulary word="explicit" pos="adjective" meaning="stated directly and clearly, leaving nothing to be inferred (স্পষ্টভাবে বলা)" example="An explicit premise is one the author states outright, unlike a hidden one."
+::: vocabulary word="explicit" pos="adjective" register="formal" meaning="stated directly and clearly, leaving nothing to be inferred (স্পষ্টভাবে বলা)" collocation="explicit instructions, explicit warning, explicitly state" example="The tender document is explicit about penalties for late delivery."
 :::
 
-::: vocabulary word="logical gap" pos="noun phrase" meaning="a missing link in reasoning where a conclusion doesn't fully follow from its evidence (যুক্তির ফাঁক)" example="Moving from 'processing time decreased' to 'overall efficiency improved' leaves a logical gap."
+::: vocabulary word="logical gap" pos="noun phrase" register="formal" meaning="a missing link in reasoning where a conclusion doesn't fully follow from its evidence (যুক্তির ফাঁক)" collocation="a logical gap, fill a logical gap, gap in the argument" example="The report has a logical gap: it shows that costs rose but never explains why the terminal is to blame."
 :::
 
-::: vocabulary word="follow from" pos="phrase" meaning="to be a logical consequence of something stated earlier (যুক্তিসঙ্গতভাবে উদ্ভূত হওয়া)" example="The conclusion does not follow from the evidence without an additional, unstated assumption."
+::: vocabulary word="follow from" pos="phrase" register="formal" meaning="to be a logical consequence of something stated earlier (যুক্তিসঙ্গতভাবে উদ্ভূত হওয়া)" collocation="follow from the evidence, not necessarily follow, conclusion follows from" example="It does not follow from one late delivery that the supplier is unreliable."
 :::
 
-::: vocabulary word="rule out" pos="phrasal verb" meaning="to eliminate a possibility as unlikely or impossible (বাদ দেওয়া/অগ্রাহ্য করা)" example="The passage does not rule out the possibility that staffing changes explain the improvement."
+::: vocabulary word="rule out" pos="phrasal verb" register="neutral" meaning="to eliminate a possibility as unlikely or impossible (বাদ দেওয়া/অগ্রাহ্য করা)" collocation="rule out the possibility, cannot rule out, rule out a cause" example="Investigators have not ruled out human error as a contributing cause of the collision."
 :::
 
-::: vocabulary word="generalize" pos="verb" meaning="to apply a finding from a specific sample or study to a broader population or context (সাধারণীকরণ করা)" example="It is risky to generalize from one company's experience to an entire industry."
+::: vocabulary word="generalize" pos="verb" register="formal" meaning="to apply a finding from a specific sample or study to a broader population or context (সাধারণীকরণ করা)" collocation="generalize from, cannot generalize, safely generalize" example="It would be unsafe to generalize from a single pilot site to the entire network."
 :::
 
-::: vocabulary word="adequate" pos="adjective" meaning="sufficient or satisfactory for a particular purpose (যথেষ্ট/উপযুক্ত)" example="Processing time may not be an adequate measure of overall productivity."
+::: vocabulary word="adequate" pos="adjective" register="formal" meaning="sufficient or satisfactory for a particular purpose (যথেষ্ট/উপযুক্ত)" collocation="adequate evidence, wholly adequate, adequate safeguards" example="The regulator found that the operator had not put adequate safeguards in place."
 :::
 
-::: vocabulary word="overstate" pos="verb" meaning="to describe something as more significant, certain, or extensive than the evidence actually supports (অতিরঞ্জিত করা)" example="Concluding 'the system improved the entire organization' overstates what a 20% speed increase actually shows."
+::: vocabulary word="overstate" pos="verb" register="formal" meaning="to describe something as more significant, certain, or extensive than the evidence actually supports (অতিরঞ্জিত করা)" collocation="overstate the case, overstate the risk, significantly overstate" example="The press release overstates the benefits of the new system by ignoring its installation costs."
 :::
 
 ## Guided Reading Practice

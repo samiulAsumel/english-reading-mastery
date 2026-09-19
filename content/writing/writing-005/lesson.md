@@ -52,10 +52,10 @@ still matters right now, and one Future sentence making a prediction.
 
 ## Vocabulary in Context
 
-::: vocabulary word="relevance" pos="noun" meaning="the quality of still mattering to the present situation — প্রাসঙ্গিকতা" example="Present Perfect signals a past event's relevance to now."
+::: vocabulary word="relevance" pos="noun" register="formal" meaning="the quality of still mattering to the present situation (প্রাসঙ্গিকতা)" collocation="of relevance, direct relevance, lose relevance" example="The report explains the relevance of last year's delays to this year's budget."
 :::
 
-::: vocabulary word="prediction" pos="noun" meaning="a statement about something expected to happen in the future — পূর্বাভাস" example="Will is the simplest way to write a prediction."
+::: vocabulary word="prediction" pos="noun" register="formal" meaning="a statement about something expected to happen in the future (পূর্বাভাস)" collocation="make a prediction, accurate prediction, prediction of" example="The analyst's prediction that volumes would rise proved accurate."
 :::
 
 ## Model Answer

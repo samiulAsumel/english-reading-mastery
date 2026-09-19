@@ -63,10 +63,10 @@ claim on its own.
 
 ## Vocabulary in Context
 
-::: vocabulary word="illustrate" pos="verb" meaning="to make an abstract claim concrete with one case, without proving it holds universally — দৃষ্টান্ত দিয়ে বোঝানো" example="This case illustrates the mechanism, but a single company can't prove the effect is typical."
+::: vocabulary word="illustrate" pos="verb" register="formal" meaning="to make an abstract claim concrete with one case, without proving it holds universally (দৃষ্টান্ত দিয়ে বোঝানো)" collocation="illustrate the point, clearly illustrate, serve to illustrate" example="The delayed shipment illustrates what poor coordination costs."
 :::
 
-::: vocabulary word="representative" pos="adjective" meaning="genuinely reflecting the wider group a conclusion is being generalized to — প্রতিনিধিত্বমূলক" example="One large enterprise's result may not be representative of how small businesses would fare."
+::: vocabulary word="representative" pos="adjective" register="formal" meaning="genuinely reflecting the wider group a conclusion is being generalized to (প্রতিনিধিত্বমূলক)" collocation="representative sample, fully representative, not representative" example="One busy week is not representative of the whole year."
 :::
 
 ## Model Answer

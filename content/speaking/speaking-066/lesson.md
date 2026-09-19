@@ -65,10 +65,10 @@ matches the actual scenario rather than defaulting to "definitely" or
 
 ## Vocabulary in Context
 
-::: vocabulary word="probability" pos="noun" meaning="how likely something is to happen — সম্ভাবনা" example="The probability of a delay is low, but not zero."
+::: vocabulary word="probability" pos="noun" register="technical" meaning="how likely something is to happen (সম্ভাবনা)" collocation="high probability, low probability, probability of" example="The probability of a berth delay this month is about one in five."
 :::
 
-::: vocabulary word="severe" pos="adjective" meaning="serious in effect or consequence — গুরুতর" example="A single supplier failure could have a severe impact on the schedule."
+::: vocabulary word="severe" pos="adjective" register="formal" meaning="serious in effect or consequence (গুরুতর)" collocation="severe consequences, severe delay, less severe" example="The impact of a fuel spill would be severe, even though the probability is low."
 :::
 
 ## Self-Check

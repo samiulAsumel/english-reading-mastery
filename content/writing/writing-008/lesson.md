@@ -59,10 +59,10 @@ formal cousin (*however* or *therefore*) as two separate sentences.
 
 ## Vocabulary in Context
 
-::: vocabulary word="formal" pos="adjective" meaning="suited to serious or professional writing, rather than everyday speech — আনুষ্ঠানিক" example="Therefore is the more formal version of so."
+::: vocabulary word="formal" pos="adjective" register="neutral" meaning="suited to serious or professional writing, rather than everyday speech (আনুষ্ঠানিক)" collocation="formal tone, formal register, formal writing" example="A formal report says 'therefore', where a message to a friend might say 'so'."
 :::
 
-::: vocabulary word="cause" pos="noun" meaning="the reason something happens — কারণ" example="Heavy traffic was the cause of the delay."
+::: vocabulary word="cause" pos="noun" register="neutral" meaning="the reason something happens (কারণ)" collocation="root cause, cause of, cause and effect" example="The report names a faulty sensor as the cause of the shutdown."
 :::
 
 ## Model Answer

@@ -62,10 +62,10 @@ not justify).
 
 ## Vocabulary in Context
 
-::: vocabulary word="justify" pos="verb" meaning="for evidence to be strong enough to reasonably support a specific conclusion — যুক্তিসঙ্গত করা" example="The small survey does not justify an industry-wide conclusion."
+::: vocabulary word="justify" pos="verb" register="formal" meaning="for evidence to be strong enough to reasonably support a specific conclusion (যুক্তিসঙ্গত করা)" collocation="justify a conclusion, fully justify, justify the claim" example="The evidence does not justify such a strong conclusion."
 :::
 
-::: vocabulary word="overreach" pos="verb" meaning="to claim more than the evidence actually supports — অতিরিক্ত দাবি করা" example="The report overreaches by generalizing from one terminal to the whole industry."
+::: vocabulary word="overreach" pos="verb" register="formal" meaning="to claim more than the evidence actually supports (অতিরিক্ত দাবি করা)" collocation="risk overreach, overreach the evidence, avoid overreach" example="The report overreaches by claiming a permanent saving from six weeks of data."
 :::
 
 ## Model Answer

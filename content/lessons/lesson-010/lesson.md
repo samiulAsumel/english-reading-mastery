@@ -351,22 +351,22 @@ it deliberately whenever a reference feels unclear.
 
 ## Vocabulary in Context
 
-::: vocabulary word="represent" pos="verb" meaning="to stand for or be a symbol of something (প্রতিনিধিত্ব করা)" example="In this diagram, the arrow represents the flow of information."
+::: vocabulary word="represent" pos="verb" register="formal" meaning="to stand for or be a symbol of something (প্রতিনিধিত্ব করা)" collocation="represent a risk, represent a change, represent a proportion" example="The red segment of the chart represents overdue invoices, which now make up a fifth of all receivables."
 :::
 
-::: vocabulary word="identify" pos="verb" meaning="to recognise or establish exactly what something is (চিহ্নিত করা)" example="Careful readers can identify a pronoun's reference from context."
+::: vocabulary word="identify" pos="verb" register="formal" meaning="to recognise or establish exactly what something is (চিহ্নিত করা)" collocation="identify a problem, clearly identify, identify the cause" example="The security team identified the compromised account within ten minutes of the alert."
 :::
 
-::: vocabulary word="distinguish" pos="verb" meaning="to recognise a difference between two things (পার্থক্য করা)" example="Strong readers distinguish between a relative clause and a reason clause."
+::: vocabulary word="distinguish" pos="verb" register="formal" meaning="to recognise the difference between two things (পার্থক্য করা)" collocation="distinguish between, clearly distinguish, hard to distinguish" example="Customs officers must distinguish between personal effects and goods intended for resale."
 :::
 
-::: vocabulary word="relate" pos="verb" meaning="to show or form a connection between two things (সম্পর্কিত করা)" example="This paragraph relates to the study discussed earlier."
+::: vocabulary word="relate" pos="verb" register="formal" meaning="to be connected to something, or to show a connection (সম্পর্কিত করা)" collocation="relate to, closely related, directly relate" example="The complaints all relate to the same shipment, which was mislabelled at origin."
 :::
 
-::: vocabulary word="associate" pos="verb" meaning="to connect one thing with another in your mind (যুক্ত করা)" example="Researchers associate this pattern with a specific cause."
+::: vocabulary word="associate" pos="verb" register="formal" meaning="to connect one thing with another in your mind or in fact (যুক্ত করা)" collocation="be associated with, closely associated, associate with" example="Longer dwell times are usually associated with incomplete customs documentation."
 :::
 
-::: vocabulary word="lead" pos="verb" meaning="to result in something, or to cause a particular outcome (পরিচালিত করা/নিয়ে যাওয়া)" example="Emotional decisions can lead to unexpected mistakes."
+::: vocabulary word="lead" pos="verb" register="neutral" meaning="to result in something, or to be the cause of an outcome (পরিচালিত করা/নিয়ে যাওয়া)" collocation="lead to, ultimately lead, lead directly to" example="Poor data entry at the gate led to a chain of billing errors downstream."
 :::
 
 ::: note title="Chunks worth learning as whole units"

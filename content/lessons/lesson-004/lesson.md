@@ -349,40 +349,40 @@ understand complex ideas more easily.*
 
 ## Vocabulary in Context
 
-::: vocabulary word="recognize" pos="verb" meaning="to identify or become aware of something (চিনতে/উপলব্ধি করতে)" example="A trained reader can recognize a pattern across several sentences."
+::: vocabulary word="recognize" pos="verb" register="neutral" meaning="to identify something because it is familiar (চিনতে/উপলব্ধি করতে)" collocation="recognize that, readily recognize, widely recognized" example="The regulator recognized that the old reporting format no longer captured emissions accurately."
 :::
 
-::: vocabulary word="realize" pos="verb" meaning="to become fully aware of something (উপলব্ধি করা)" example="Readers often realize a problem in an argument only on a second reading."
+::: vocabulary word="realize" pos="verb" register="neutral" meaning="to become fully aware of a fact, often suddenly (উপলব্ধি করা)" collocation="realize that, fully realize, suddenly realize" example="The project manager realized that the vendor's timeline ignored the two-week customs holiday."
 :::
 
-::: vocabulary word="assume" pos="verb" meaning="to accept something as true without proof (ধরে নেওয়া)" example="Careful readers notice when a writer simply assumes that something is true."
+::: vocabulary word="assume" pos="verb" register="formal" meaning="to accept something as true without checking it (ধরে নেওয়া)" collocation="assume that, wrongly assume, safe to assume" example="The forecast assumes that container volumes will grow by four percent a year."
 :::
 
-::: vocabulary word="suggest" pos="verb" meaning="to indicate something indirectly (ইঙ্গিত দেওয়া/প্রস্তাব করা)" example="The evidence in this paragraph suggests that emotions affect judgment."
+::: vocabulary word="suggest" pos="verb" register="formal" meaning="to put forward an idea, or to indicate that something may be true (ইঙ্গিত দেওয়া/প্রস্তাব করা)" collocation="suggest that, evidence suggests, strongly suggest" example="The incident logs suggest that the outage began after the certificate expired."
 :::
 
-::: vocabulary word="indicate" pos="verb" meaning="to point to or show something (নির্দেশ করা)" example="A comma can indicate a relationship between two clauses."
+::: vocabulary word="indicate" pos="verb" register="formal" meaning="to show or point to a fact or likelihood (নির্দেশ করা)" collocation="indicate that, clearly indicate, data indicates" example="Survey results indicate that most drivers prefer booking gate slots through a mobile app."
 :::
 
-::: vocabulary word="describe" pos="verb" meaning="to give an account of something in words (বর্ণনা করা)" example="A relative clause can describe a situation in more detail."
+::: vocabulary word="describe" pos="verb" register="neutral" meaning="to say what something is like or how it happens (বর্ণনা করা)" collocation="describe how, briefly describe, describe in detail" example="The incident report describes how the forklift entered the restricted zone without authorisation."
 :::
 
-::: vocabulary word="explain" pos="verb" meaning="to make something clear by giving a reason (ব্যাখ্যা করা)" example="A reason clause can explain a reason behind the main idea."
+::: vocabulary word="explain" pos="verb" register="neutral" meaning="to make something clear by giving reasons or details (ব্যাখ্যা করা)" collocation="explain why, explain the reason, fully explain" example="The CFO explained why maintenance spending had risen sharply in the second quarter."
 :::
 
-::: vocabulary word="support" pos="verb" meaning="to give evidence for a claim (সমর্থন করা)" example="Good writers support an argument with clear evidence."
+::: vocabulary word="support" pos="verb" register="formal" meaning="to provide evidence that helps show a claim is true (সমর্থন করা)" collocation="support a claim, support a theory, data supports" example="The pilot results support the argument that automated gates reduce truck waiting time."
 :::
 
-::: vocabulary word="evidence" pos="noun" meaning="facts or information that show whether something is true (প্রমাণ)" example="The passage offers strong evidence for its main claim."
+::: vocabulary word="evidence" pos="noun" register="formal" meaning="facts or information that show whether something is true (প্রমাণ)" collocation="strong evidence, evidence suggests, provide evidence" example="There is little evidence that longer shifts improve productivity once fatigue is taken into account."
 :::
 
-::: vocabulary word="argument" pos="noun" meaning="a set of reasons offered to support a conclusion (যুক্তি)" example="A relative clause can add detail without weakening the main argument."
+::: vocabulary word="argument" pos="noun" register="formal" meaning="a set of reasons put forward to persuade others that a conclusion is correct (যুক্তি)" collocation="make an argument, a strong argument, argument for" example="The consultant's argument for outsourcing rested on a single cost comparison."
 :::
 
-::: vocabulary word="consequence" pos="noun" meaning="a result or effect of an action (ফলাফল/পরিণতি)" example="Before deciding, it helps to consider the consequences."
+::: vocabulary word="consequence" pos="noun" register="formal" meaning="a result of an action, often an unwelcome one (ফলাফল/পরিণতি)" collocation="serious consequences, consequence of, face the consequences" example="One consequence of the delay was a penalty clause payment of forty thousand dollars."
 :::
 
-::: vocabulary word="relationship" pos="noun" meaning="the way two or more things are connected (সম্পর্ক)" example="Today's lesson is about the relationship between clauses in a sentence."
+::: vocabulary word="relationship" pos="noun" register="neutral" meaning="the way two or more things are connected or affect each other (সম্পর্ক)" collocation="close relationship, relationship between, working relationship" example="The study found no clear relationship between overtime hours and accident rates."
 :::
 
 ::: note title="Watch for these exact combinations in non-fiction"

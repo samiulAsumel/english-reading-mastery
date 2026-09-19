@@ -559,28 +559,28 @@ reading actually consists of.
 
 ## Vocabulary in Context
 
-::: vocabulary word="evaluation criterion" pos="noun phrase" meaning="the specific standard or dimension — cost, speed, reliability, and so on — against which something is judged (মূল্যায়নের মানদণ্ড)" example="'Better' means nothing until you find its evaluation criterion — better at what, exactly?"
+::: vocabulary word="evaluation criterion" pos="noun phrase" register="formal" meaning="the specific standard or dimension — cost, speed, reliability, and so on — against which something is judged (মূল্যায়নের মানদণ্ড)" collocation="evaluation criteria, choose an evaluation criterion, single evaluation criterion" example="Reliability was the main evaluation criterion, ahead of price and speed."
 :::
 
-::: vocabulary word="cost-effective" pos="adjective" meaning="offering good value or outcome relative to cost, which is a different claim from simply being cheap (ব্যয়সাশ্রয়ী)" example="A more expensive system can still be more cost-effective if it saves substantially more money over time."
+::: vocabulary word="cost-effective" pos="adjective" register="formal" meaning="offering good value or outcome relative to cost, which is a different claim from simply being cheap (ব্যয়সাশ্রয়ী)" collocation="cost-effective solution, highly cost-effective, cost-effective way" example="Predictive maintenance proved cost-effective, saving more in repairs than it cost to install."
 :::
 
-::: vocabulary word="value for money" pos="noun phrase" meaning="the quality or benefit received relative to the price paid, distinct from low price alone (মূল্যের বিপরীতে মান)" example="Reviewers praised the device for its value for money, despite its higher price point."
+::: vocabulary word="value for money" pos="noun phrase" register="neutral" meaning="the quality or benefit received relative to the price paid, distinct from low price alone (মূল্যের বিপরীতে মান)" collocation="good value for money, offer value for money, poor value for money" example="The council judged the bid to offer better value for money than the cheaper alternative."
 :::
 
-::: vocabulary word="validity" pos="noun" meaning="the property of a measurement actually measuring what it claims to measure, as distinct from being merely consistent (বৈধতা)" example="The survey was reliable — consistent across repeated administrations — but its validity was questioned because it measured the wrong construct."
+::: vocabulary word="validity" pos="noun" register="technical" meaning="the property of a measurement actually measuring what it claims to measure, as distinct from being merely consistent (বৈধতা)" collocation="test validity, high validity, threat to validity" example="The survey lacks validity because it measures satisfaction only among customers who stayed."
 :::
 
-::: vocabulary word="weighted criteria" pos="noun phrase" meaning="an evaluation in which some criteria are explicitly treated as more important than others, rather than counted equally (ভারযুক্ত মানদণ্ড)" example="Under weighted criteria favouring reliability over cost, Option B was judged preferable despite being more expensive."
+::: vocabulary word="weighted criteria" pos="noun phrase" register="technical" meaning="an evaluation in which some criteria are explicitly treated as more important than others, rather than counted equally (ভারযুক্ত মানদণ্ড)" collocation="use weighted criteria, apply weighted criteria, scoring with weighted criteria" example="The bids were scored using weighted criteria, with safety counting twice as much as price."
 :::
 
-::: vocabulary word="evaluation matrix" pos="noun phrase" meaning="a structured comparison of several options against several criteria at once (মূল্যায়ন ম্যাট্রিক্স)" example="Building an evaluation matrix revealed that Option A led on cost and flexibility, while Option B led on reliability."
+::: vocabulary word="evaluation matrix" pos="noun phrase" register="technical" meaning="a structured comparison of several options against several criteria at once (মূল্যায়ন ম্যাট্রিক্স)" collocation="build an evaluation matrix, complete the evaluation matrix, evaluation matrix of" example="The panel filled in an evaluation matrix comparing four suppliers across six criteria."
 :::
 
-::: vocabulary word="quantifier hierarchy" pos="noun phrase" meaning="the ordered scale of quantity words — all, almost all, most, many, some, few, almost none, none — each making a distinct strength of claim (পরিমাণবাচক ক্রম)" example="Restating 'most users preferred it' as 'all users preferred it' silently jumps two steps up the quantifier hierarchy."
+::: vocabulary word="quantifier hierarchy" pos="noun phrase" register="course term" meaning="the ordered scale of quantity words — all, almost all, most, many, some, few, almost none, none — each making a distinct strength of claim (পরিমাণবাচক ক্রম)" collocation="the quantifier hierarchy, position on the quantifier hierarchy, climb the quantifier hierarchy" example="On the quantifier hierarchy, 'most' claims more than 'many', so a report saying 'most' needs stronger data."
 :::
 
-::: vocabulary word="hidden criterion" pos="noun phrase" meaning="an evaluation's actual basis for judgment, established earlier in a passage rather than stated in the evaluative sentence itself (অন্তর্নিহিত মানদণ্ড)" example="The paragraph never says 'simplicity,' but its earlier mention of limited technical staff reveals the hidden criterion behind 'the centralized system is preferable.'"
+::: vocabulary word="hidden criterion" pos="noun phrase" register="course term" meaning="an evaluation's actual basis for judgment, established earlier in a passage rather than stated in the evaluative sentence itself (অন্তর্নিহিত মানদণ্ড)" collocation="identify the hidden criterion, a hidden criterion, hidden criterion behind" example="The hidden criterion in the review was speed: 'best' quietly meant 'quickest', not 'cheapest'."
 :::
 
 ## Guided Reading Practice

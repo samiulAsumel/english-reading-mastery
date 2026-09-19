@@ -65,7 +65,7 @@ instead of repeating the noun, and the pronoun's number matched.
 
 ## Vocabulary in Context
 
-::: vocabulary word="reduced" pos="adjective" meaning="pronounced lightly and quickly, without stress — লঘুভাবে উচ্চারিত" example="Pronouns are usually reduced in natural, fast speech."
+::: vocabulary word="reduced" pos="adjective" register="technical" meaning="pronounced lightly and quickly, without stress (লঘুভাবে উচ্চারিত)" collocation="reduced form, reduced pronunciation, reduced vowel" example="In fast speech, 'them' is reduced to 'em'."
 :::
 
 ## Self-Check

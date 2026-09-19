@@ -330,25 +330,25 @@ redesign → task behavior → new feedback, looping continuously.
 
 ## Vocabulary in Context
 
-::: vocabulary word="trigger" pos="noun" meaning="the event or condition that starts a process (সূচনাকারী ঘটনা)" example="The trigger for the billing process is cargo information being entered into the system."
+::: vocabulary word="trigger" pos="noun" register="technical" meaning="the event or condition that starts a process (সূচনাকারী ঘটনা)" collocation="trigger an alert, automatic trigger, trigger for" example="The failed payment is the trigger that starts the account-suspension workflow."
 :::
 
-::: vocabulary word="based on" pos="phrase" meaning="using a specified factor as the determining basis for a decision or calculation (ভিত্তিতে)" example="The applicable tariff is retrieved based on the cargo category."
+::: vocabulary word="based on" pos="phrase" register="neutral" meaning="using a specified factor as the determining basis for a decision or calculation (ভিত্তিতে)" collocation="based on the data, based on criteria, decisions based on" example="Priority is assigned based on cargo type and the vessel's departure time."
 :::
 
-::: vocabulary word="provided that" pos="phrase" meaning="on the condition that; introduces a requirement that must be met (শর্তে)" example="The system will process the request provided that all required fields are complete."
+::: vocabulary word="provided that" pos="phrase" register="formal" meaning="on the condition that; introduces a requirement that must be met (শর্তে)" collocation="provided that, provided that the conditions are met, only provided that" example="The container will be released provided that all fees have been paid."
 :::
 
-::: vocabulary word="human-in-the-loop" pos="noun phrase" meaning="a design in which a human makes a decision at a specific point inside an otherwise automated process (মানবসংযুক্ত প্রক্রিয়া)" example="Unusual cargo categories are escalated to a human reviewer, making this a human-in-the-loop system."
+::: vocabulary word="human-in-the-loop" pos="noun phrase" register="technical" meaning="a design in which a human makes a decision at a specific point inside an otherwise automated process (মানবসংযুক্ত প্রক্রিয়া)" collocation="human-in-the-loop system, human-in-the-loop review, human-in-the-loop approval" example="The workflow is automated except for a human-in-the-loop check on payments over ten thousand dollars."
 :::
 
-::: vocabulary word="feedback loop" pos="noun phrase" meaning="a cycle in which a process's output becomes an input that influences its own future behavior (প্রতিক্রিয়া চক্র)" example="The monitoring system forms a feedback loop, using performance data to adjust its own thresholds."
+::: vocabulary word="feedback loop" pos="noun phrase" register="technical" meaning="a cycle in which a process's output becomes an input that influences its own future behavior (প্রতিক্রিয়া চক্র)" collocation="feedback loop, positive feedback loop, close the feedback loop" example="Reviewing incident reports each month creates a feedback loop that improves the safety procedure."
 :::
 
-::: vocabulary word="fallback" pos="noun" meaning="an alternative resource or path used automatically when the primary one becomes unavailable (বিকল্প ব্যবস্থা)" example="If the primary database becomes unavailable, the system switches to a fallback database."
+::: vocabulary word="fallback" pos="noun" register="technical" meaning="an alternative resource or path used automatically when the primary one becomes unavailable (বিকল্প ব্যবস্থা)" collocation="fallback option, automatic fallback, fallback plan" example="If the primary scanner fails, the system uses manual inspection as a fallback."
 :::
 
-::: vocabulary word="state change" pos="noun phrase" meaning="a transition from one defined condition of a system or record to another, typically triggered by an event (অবস্থা পরিবর্তন)" example="Payment verification triggers a state change from 'pending' to 'completed.'"
+::: vocabulary word="state change" pos="noun phrase" register="technical" meaning="a transition from one defined condition of a system or record to another, typically triggered by an event (অবস্থা পরিবর্তন)" collocation="trigger a state change, state change event, record a state change" example="An order moves from 'pending' to 'approved' when a state change is triggered by the manager's sign-off."
 :::
 
 ## Guided Reading Practice

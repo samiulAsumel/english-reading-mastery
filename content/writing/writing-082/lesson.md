@@ -61,10 +61,10 @@ exact words that mark it.
 
 ## Vocabulary in Context
 
-::: vocabulary word="narrow" pos="verb" meaning="to make a concept's meaning stricter or more limited than before — সংকুচিত করা" example="The report narrows the definition of risk."
+::: vocabulary word="narrow" pos="verb" register="neutral" meaning="to make a concept's meaning stricter or more limited than before (সংকুচিত করা)" collocation="narrow the definition, narrow the meaning, narrow down" example="The author narrows 'delay' to mean lateness beyond two hours."
 :::
 
-::: vocabulary word="boundary" pos="noun" meaning="what a concept includes and excludes — সীমা" example="The concept's boundary now excludes delays with no financial cost."
+::: vocabulary word="boundary" pos="noun" register="formal" meaning="what a concept includes and excludes (সীমা)" collocation="conceptual boundary, clear boundary, boundary of" example="The boundary of 'risk' widens in the second chapter."
 :::
 
 ## Model Answer

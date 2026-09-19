@@ -64,10 +64,10 @@ keeping all the earlier additions in place.
 
 ## Vocabulary in Context
 
-::: vocabulary word="modifier" pos="noun" meaning="a word or phrase that adds detail to another word without changing the sentence's core — পরিবর্তক" example="Carefully is a modifier describing how the manager reviewed the report."
+::: vocabulary word="modifier" pos="noun" register="technical" meaning="a word or phrase that adds detail to another word without changing the sentence's core (পরিবর্তক)" collocation="add a modifier, adverb modifier, modifier of the noun" example="In 'The manager quickly approved the request', the modifier 'quickly' shows how the action was done."
 :::
 
-::: vocabulary word="decoration" pos="noun" meaning="here, used informally for the modifiers wrapped around a sentence's core — অলঙ্করণ" example="Strip away the decoration and the core sentence is often quite short."
+::: vocabulary word="decoration" pos="noun" register="course term" meaning="the extra modifiers wrapped around a sentence's core; informal course shorthand (অলঙ্করণ)" collocation="strip away the decoration, remove the decoration, decoration around the core" example="Strip away the decoration and the core is simply: the committee approved the plan."
 :::
 
 ## Model Answer

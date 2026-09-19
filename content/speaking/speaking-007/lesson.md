@@ -64,7 +64,7 @@ arrived attached to the sentence, without a long searching pause.
 
 ## Vocabulary in Context
 
-::: vocabulary word="attach" pos="verb" meaning="to connect one thing directly to another — সংযুক্ত করা" example="A prepositional phrase should attach smoothly to the sentence before it."
+::: vocabulary word="attach" pos="verb" register="neutral" meaning="to connect one thing directly to another (সংযুক্ত করা)" collocation="attach to, attach a file, attach the detail" example="In speech, we attach the detail straight to the verb: 'arrived at noon'."
 :::
 
 ## Self-Check

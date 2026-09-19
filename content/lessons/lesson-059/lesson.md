@@ -394,25 +394,25 @@ it.
 
 ## Vocabulary in Context
 
-::: vocabulary word="illustrate" pos="verb" meaning="to use a concrete instance to make an abstract concept clearer, without necessarily proving it applies universally (দৃষ্টান্ত দিয়ে বোঝানো)" example="This case illustrates how poor data governance can undermine automation projects."
+::: vocabulary word="illustrate" pos="verb" register="formal" meaning="to use a concrete instance to make an abstract concept clearer, without necessarily proving it applies universally (দৃষ্টান্ত দিয়ে বোঝানো)" collocation="illustrate the point, clearly illustrate, serve to illustrate" example="The delayed vaccine shipment illustrates what poor coordination can cost."
 :::
 
-::: vocabulary word="representative sample" pos="noun phrase" meaning="a subset deliberately selected to reflect a larger population's characteristics accurately (প্রতিনিধিত্বমূলক নমুনা)" example="The sample was selected to be representative of small logistics firms, supporting a broader generalization."
+::: vocabulary word="representative sample" pos="noun phrase" register="technical" meaning="a subset deliberately selected to reflect a larger population's characteristics accurately (প্রতিনিধিত্বমূলক নমুনা)" collocation="draw a representative sample, truly representative sample, representative sample of" example="Interviews with three shippers are not a representative sample of the market."
 :::
 
-::: vocabulary word="counterexample" pos="noun" meaning="an example that contradicts a universal or general claim, limiting how far that claim can reach (প্রতি-উদাহরণ)" example="A fully autonomous system operating without continuous intervention serves as a counterexample to the claim that all automation requires it."
+::: vocabulary word="counterexample" pos="noun" register="technical" meaning="an example that contradicts a universal or general claim, limiting how far that claim can reach (প্রতি-উদাহরণ)" collocation="provide a counterexample, a single counterexample, counterexample to" example="One counterexample, a port that grew without automation, weakens the claim that automation is essential."
 :::
 
-::: vocabulary word="edge case" pos="noun phrase" meaning="an unusual or extreme situation not covered by a system's normal, everyday behavior (প্রান্তিক পরিস্থিতি)" example="The system performs reliably under normal load but fails as an edge case during extreme network congestion."
+::: vocabulary word="edge case" pos="noun phrase" register="technical" meaning="an unusual or extreme situation not covered by a system's normal, everyday behavior (প্রান্তিক পরিস্থিতি)" collocation="handle an edge case, rare edge case, edge case scenario" example="The billing system failed on an edge case: a container moved between two vessels on the same day."
 :::
 
-::: vocabulary word="anecdotal evidence" pos="noun phrase" meaning="evidence based on individual stories or experiences, which may not represent a broader population (উপাখ্যানমূলক প্রমাণ)" example="One manager's positive experience is anecdotal evidence, not proof that automation works for every organization."
+::: vocabulary word="anecdotal evidence" pos="noun phrase" register="formal" meaning="evidence based on individual stories or experiences, which may not represent a broader population (উপাখ্যানমূলক প্রমাণ)" collocation="rely on anecdotal evidence, anecdotal evidence suggests, merely anecdotal evidence" example="Anecdotal evidence from two drivers is not enough to conclude that the gate system is slow."
 :::
 
-::: vocabulary word="proxy measure" pos="noun phrase" meaning="a measurable indicator used to stand in for a broader, harder-to-measure concept (পরোক্ষ পরিমাপ)" example="Processing speed is often used as a proxy measure for the broader construct of efficiency."
+::: vocabulary word="proxy measure" pos="noun phrase" register="technical" meaning="a measurable indicator used to stand in for a broader, harder-to-measure concept (পরোক্ষ পরিমাপ)" collocation="use a proxy measure, imperfect proxy measure, proxy measure for" example="The number of complaints is a proxy measure for customer satisfaction, though an imperfect one."
 :::
 
-::: vocabulary word="steelman" pos="verb" meaning="to reconstruct the strongest, most reasonable version of an example or argument before evaluating it (যুক্তির সবচেয়ে শক্তিশালী রূপ পুনর্গঠন করা)" example="Before dismissing the case study, a careful reader steelmans its evidentiary claim rather than its weakest possible reading."
+::: vocabulary word="steelman" pos="verb" register="neutral" meaning="to reconstruct the strongest, most reasonable version of an example or argument before evaluating it (যুক্তির সবচেয়ে শক্তিশালী রূপ পুনর্গঠন করা)" collocation="steelman an argument, steelman the opposing view, steelman before criticising" example="Before rejecting the proposal, the committee steelmanned it by stating its strongest case."
 :::
 
 ## Guided Reading Practice

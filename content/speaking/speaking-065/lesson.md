@@ -64,10 +64,10 @@ where the answer changes — without needing to be prompted for it.
 
 ## Vocabulary in Context
 
-::: vocabulary word="in terms of" pos="phrase" meaning="used to name the specific dimension a claim applies to — যে দিক থেকে" example="In terms of cost, the older method is still cheaper."
+::: vocabulary word="in terms of" pos="phrase" register="formal" meaning="used to name the specific dimension a claim applies to (যে দিক থেকে)" collocation="in terms of cost, in terms of speed, in terms of safety" example="In terms of cost, Option A wins; in terms of reliability, Option B does."
 :::
 
-::: vocabulary word="justify" pos="verb" meaning="to give a good enough reason for something — যুক্তিসঙ্গত করা" example="The accuracy gain justifies the extra cost, for a large operation."
+::: vocabulary word="justify" pos="verb" register="formal" meaning="to give a good enough reason for something (যুক্তিসঙ্গত করা)" collocation="justify a decision, fully justify, justify the cost" example="The savings justify the higher upfront cost."
 :::
 
 ## Self-Check

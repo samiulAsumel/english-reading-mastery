@@ -379,28 +379,28 @@ at the same time.
 
 ## Vocabulary in Context
 
-::: vocabulary word="cohesion" pos="noun" meaning="the linguistic linking that connects sentences, through reference, substitution, or repeated/related vocabulary (সংযুক্তি)" example="Pronoun chains and repeated key terms both contribute to a paragraph's cohesion."
+::: vocabulary word="cohesion" pos="noun" register="technical" meaning="the linguistic linking that connects sentences, through reference, substitution, or repeated/related vocabulary (সংযুক্তি)" collocation="lexical cohesion, textual cohesion, create cohesion" example="The report has strong cohesion because each paragraph opens by picking up the key term from the last."
 :::
 
-::: vocabulary word="coherence" pos="noun" meaning="the underlying logical sense a set of ideas makes together, independent of how they are linguistically linked (সঙ্গতি)" example="A paragraph can achieve coherence even with minimal pronoun linking, if its ideas follow logically."
+::: vocabulary word="coherence" pos="noun" register="formal" meaning="the underlying logical sense a set of ideas makes together, independent of how they are linguistically linked (সঙ্গতি)" collocation="logical coherence, lack of coherence, coherent argument" example="A paragraph can be cohesive yet lack coherence if its linked sentences do not add up to a clear point."
 :::
 
-::: vocabulary word="topic progression" pos="noun phrase" meaning="the pattern by which a paragraph's subject develops from sentence to sentence — linearly, constantly, or by splitting (বিষয় অগ্রগতি)" example="Constant topic progression keeps returning to the same central subject across several sentences."
+::: vocabulary word="topic progression" pos="noun phrase" register="technical" meaning="the pattern by which a paragraph's subject develops from sentence to sentence — linearly, constantly, or by splitting (বিষয় অগ্রগতি)" collocation="linear topic progression, constant topic progression, pattern of topic progression" example="The memo shows linear topic progression: each sentence takes its subject from the end of the previous one."
 :::
 
-::: vocabulary word="given information" pos="noun phrase" meaning="content already established earlier in the text, typically placed at the start of the next sentence (প্রদত্ত তথ্য)" example="The subject of the second sentence is usually given information carried over from the first."
+::: vocabulary word="given information" pos="noun phrase" register="technical" meaning="content already established earlier in the text, typically placed at the start of the next sentence (প্রদত্ত তথ্য)" collocation="given and new information, treat as given information, place given information first" example="'The audit' is given information in the second sentence because the first sentence has already mentioned it."
 :::
 
-::: vocabulary word="lexical chain" pos="noun phrase" meaning="a sequence of related (not necessarily identical) words running through a text that all point to the same general concept (শব্দ-শৃঙ্খল)" example="System, technology, and digital solution form a lexical chain referring to the same platform."
+::: vocabulary word="lexical chain" pos="noun phrase" register="technical" meaning="a sequence of related (not necessarily identical) words running through a text that all point to the same general concept (শব্দ-শৃঙ্খল)" collocation="build a lexical chain, follow the lexical chain, lexical chain of related words" example="The words 'delay', 'backlog', and 'queue' form a lexical chain that keeps the reader focused on waiting time."
 :::
 
-::: vocabulary word="attributable to" pos="phrase" meaning="able to be credited or assigned as the cause of something (আরোপযোগ্য)" example="The improvement was not entirely attributable to automation alone."
+::: vocabulary word="attributable to" pos="phrase" register="formal" meaning="able to be credited or assigned as the cause of something (আরোপযোগ্য)" collocation="be attributable to, largely attributable, directly attributable to" example="Most of the increase is attributable to higher fuel prices, according to the report."
 :::
 
-::: vocabulary word="qualification" pos="noun" meaning="a statement that limits or narrows an earlier, broader claim (শর্তারোপ)" example="The author's qualification prevented the reader from concluding that automation was the sole cause."
+::: vocabulary word="qualification" pos="noun" register="formal" meaning="a statement that limits or narrows an earlier, broader claim (শর্তারোপ)" collocation="important qualification, add a qualification, without qualification" example="The final sentence adds a qualification: the results apply only to large terminals."
 :::
 
-::: vocabulary word="argument flow" pos="noun phrase" meaning="the logical progression of an author's reasoning through a paragraph, distinct from its surface information flow (যুক্তির প্রবাহ)" example="Tracking the argument flow revealed that the final sentence, not the first, carried the author's real position."
+::: vocabulary word="argument flow" pos="noun phrase" register="formal" meaning="the logical progression of an author's reasoning through a paragraph, distinct from its surface information flow (যুক্তির প্রবাহ)" collocation="follow the argument flow, clear argument flow, argument flow of a paragraph" example="Despite its many facts, the memo's argument flow was hard to follow because the recommendation came first."
 :::
 
 ## Guided Reading Practice

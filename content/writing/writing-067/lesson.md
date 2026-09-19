@@ -58,10 +58,10 @@ them.
 
 ## Vocabulary in Context
 
-::: vocabulary word="sufficient" pos="adjective" meaning="enough by itself to guarantee an outcome — পর্যাপ্ত" example="Payment before the deadline is sufficient for same-day shipping."
+::: vocabulary word="sufficient" pos="adjective" register="formal" meaning="enough by itself to guarantee an outcome (পর্যাপ্ত)" collocation="sufficient condition, sufficient evidence, not sufficient" example="A signed release is sufficient for the gate to open the container."
 :::
 
-::: vocabulary word="necessary" pos="adjective" meaning="required for an outcome, though not always enough by itself — আবশ্যক" example="Address verification is necessary for shipping, but not sufficient alone."
+::: vocabulary word="necessary" pos="adjective" register="formal" meaning="required for an outcome, though not always enough by itself (আবশ্যক)" collocation="necessary condition, strictly necessary, necessary but not sufficient" example="A valid licence is necessary but not sufficient to operate a crane."
 :::
 
 ## Model Answer

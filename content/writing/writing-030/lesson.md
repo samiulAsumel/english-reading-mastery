@@ -63,10 +63,10 @@ stating the claim's actual scope — who or what it does and doesn't cover.
 
 ## Vocabulary in Context
 
-::: vocabulary word="interpretation" pos="noun" meaning="what a writer thinks an observation means, kept separate from the observation itself — ব্যাখ্যা" example="The interpretation followed the data in its own sentence, not fused into it."
+::: vocabulary word="interpretation" pos="noun" register="formal" meaning="what a writer thinks an observation means, kept separate from the observation itself (ব্যাখ্যা)" collocation="offer an interpretation, alternative interpretation, open to interpretation" example="The data are clear, but their interpretation is open to debate."
 :::
 
-::: vocabulary word="scope" pos="noun" meaning="how far a claim is meant to apply — which group, place, or time it actually covers — পরিধি" example="The writer kept the claim's scope to one branch, not the whole chain."
+::: vocabulary word="scope" pos="noun" register="formal" meaning="how far a claim is meant to apply: the group, place, or time it covers (পরিধি)" collocation="scope of, limited scope, beyond the scope" example="The scope of the claim is limited to export cargo."
 :::
 
 ## Model Answer

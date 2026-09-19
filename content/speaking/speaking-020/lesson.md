@@ -70,10 +70,10 @@ clearly, with no planning pause.
 
 ## Vocabulary in Context
 
-::: vocabulary word="uninterrupted" pos="adjective" meaning="continuing without being stopped or broken — অবিচ্ছিন্ন" example="The mind gets tired after long, uninterrupted work."
+::: vocabulary word="uninterrupted" pos="adjective" register="formal" meaning="continuing without being stopped or broken (অবিচ্ছিন্ন)" collocation="uninterrupted flow, uninterrupted power, uninterrupted speech" example="The backup generator ensures uninterrupted power to the refrigerated containers."
 :::
 
-::: vocabulary word="worth" pos="adjective" meaning="deserving of, or good enough to justify, something (usually time, effort, or money) — মূল্যবান/যোগ্য" example="A short walk every hour is worth the time it costs."
+::: vocabulary word="worth" pos="adjective" register="neutral" meaning="deserving of, or good enough to justify, something (usually time, effort, or money) (মূল্যবান/যোগ্য)" collocation="worth the effort, worth considering, be worth" example="The extra inspection was worth the delay because it found a leak."
 :::
 
 ## Self-Check

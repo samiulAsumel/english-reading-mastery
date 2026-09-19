@@ -61,10 +61,10 @@ above.
 
 ## Vocabulary in Context
 
-::: vocabulary word="refine" pos="verb" meaning="to add precision to a claim without denying it — পরিমার্জন করা" example="The author refines the claim rather than contradicting it."
+::: vocabulary word="refine" pos="verb" register="formal" meaning="to add precision to a claim without denying it (পরিমার্জন করা)" collocation="refine a claim, refine the argument, further refine" example="The later chapters refine the claim without abandoning it."
 :::
 
-::: vocabulary word="on closer inspection" pos="phrase" meaning="a signal phrase marking that a claim is about to be corrected or narrowed — গভীরভাবে পর্যবেক্ষণ করলে" example="On closer inspection, the reduction was smaller than first claimed."
+::: vocabulary word="on closer inspection" pos="phrase" register="formal" meaning="a signal phrase marking that a claim is about to be corrected or narrowed (গভীরভাবে পর্যবেক্ষণ করলে)" collocation="on closer inspection, upon closer inspection, after closer inspection" example="On closer inspection, the improvement applied only to export cargo."
 :::
 
 ## Model Answer

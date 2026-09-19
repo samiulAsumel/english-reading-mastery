@@ -502,22 +502,22 @@ policy was and found several problems in how it worked in practice.
 
 ## Vocabulary in Context
 
-::: vocabulary word="adopt" pos="verb" meaning="to start using something, such as a method, idea, or technology (গ্রহণ করা)" example="Many companies have adopted digital collaboration tools."
+::: vocabulary word="adopt" pos="verb" register="formal" meaning="to start using something, such as a method, idea, or technology (গ্রহণ করা)" collocation="adopt a policy, adopt a method, widely adopted" example="The port will adopt a new tariff structure from the first of January."
 :::
 
-::: vocabulary word="transform" pos="verb" meaning="to change something completely, often for the better (রূপান্তর করা)" example="Digital technology has transformed the way people communicate."
+::: vocabulary word="transform" pos="verb" register="formal" meaning="to change something completely, often for the better (রূপান্তর করা)" collocation="transform the way, radically transform, transform into" example="Digital twins are transforming how terminals plan yard operations."
 :::
 
-::: vocabulary word="integrate" pos="verb" meaning="to combine something fully with something else so it works as one system (সংযুক্ত করা)" example="The company plans to integrate the new system into its daily operations."
+::: vocabulary word="integrate" pos="verb" register="technical" meaning="to combine something fully with something else so it works as one system (সংযুক্ত করা)" collocation="integrate with, fully integrated, integrate systems" example="The vendor promised to integrate the new scanner with the existing terminal operating system."
 :::
 
-::: vocabulary word="collaboration" pos="noun" meaning="the act of working together with others toward a shared goal (সহযোগিতা)" example="Digital tools have created new opportunities for remote collaboration."
+::: vocabulary word="collaboration" pos="noun" register="formal" meaning="the act of working together with others toward a shared goal (সহযোগিতা)" collocation="in collaboration with, close collaboration, collaboration between" example="The study was carried out in collaboration with three universities and the national shipping council."
 :::
 
-::: vocabulary word="availability" pos="noun" meaning="the state of being able to be obtained or used (প্রাপ্যতা)" example="The increased availability of digital communication created new opportunities."
+::: vocabulary word="availability" pos="noun" register="technical" meaning="the state of being able to be obtained or used (প্রাপ্যতা)" collocation="availability of, high availability, subject to availability" example="The contract guarantees system availability of ninety-nine point nine percent."
 :::
 
-::: vocabulary word="consideration" pos="noun" meaning="careful thought given to something before a decision is made (বিবেচনা)" example="Successful integration requires careful consideration of organizational needs."
+::: vocabulary word="consideration" pos="noun" register="formal" meaning="careful thought given to something before a decision is made (বিবেচনা)" collocation="give consideration to, careful consideration, under consideration" example="The proposal is under consideration and will be discussed at next month's board meeting."
 :::
 
 ::: note title="Chunks worth learning as whole units"

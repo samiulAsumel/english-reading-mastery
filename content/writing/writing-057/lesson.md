@@ -62,13 +62,13 @@ with one concrete example for each category.
 
 ## Vocabulary in Context
 
-::: vocabulary word="criterion" pos="noun" meaning="the single rule or standard a classification is built on — মানদণ্ড" example="Before judging the categories, name the criterion the author used to build them."
+::: vocabulary word="criterion" pos="noun" register="formal" meaning="the single rule or standard a classification is built on (মানদণ্ড)" collocation="classification criterion, meet the criterion, single criterion" example="The criterion for the classification is vessel size."
 :::
 
-::: vocabulary word="mutually exclusive" pos="phrase" meaning="categories that don't overlap, so nothing belongs to more than one at once — পরস্পর বর্জনশীল" example="Keep the categories mutually exclusive — a system shouldn't fit two of them at once."
+::: vocabulary word="mutually exclusive" pos="phrase" register="technical" meaning="categories that don't overlap, so nothing belongs to more than one at once (পরস্পর বর্জনশীল)" collocation="mutually exclusive categories, are mutually exclusive, not mutually exclusive" example="The categories must be mutually exclusive so that no incident is counted twice."
 :::
 
-::: vocabulary word="falls into" pos="phrasal verb" meaning="belongs to a particular category within a classification — এই শ্রেণিভুক্ত হয়" example="A container ship falls into the vessel category, not the cargo category."
+::: vocabulary word="falls into" pos="phrasal verb" register="neutral" meaning="belongs to a particular category within a classification (এই শ্রেণিভুক্ত হয়)" collocation="falls into a category, falls into two groups, falls into the category of" example="Each incident falls into exactly one category."
 :::
 
 ## Model Answer

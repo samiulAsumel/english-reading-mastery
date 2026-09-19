@@ -57,10 +57,10 @@ refined position.
 
 ## Vocabulary in Context
 
-::: vocabulary word="concede" pos="verb" meaning="to admit a point is true, even while defending a larger claim — স্বীকার করা" example="The report concedes that costs rose, while still defending the project's overall value."
+::: vocabulary word="concede" pos="verb" register="formal" meaning="to admit a point is true, even while defending a larger claim (স্বীকার করা)" collocation="concede that, concede a point, willingly concede" example="The author concedes that the trial was small but argues the trend is clear."
 :::
 
-::: vocabulary word="over-generalise" pos="verb" meaning="to draw a broader conclusion than the evidence actually supports — অতিসাধারণীকরণ করা" example="Don't over-generalise one success into a promise that it will always work."
+::: vocabulary word="over-generalise" pos="verb" register="formal" meaning="to draw a broader conclusion than the evidence actually supports (অতিসাধারণীকরণ করা)" collocation="tend to over-generalise, risk over-generalising, over-generalise from" example="Concluding that all ports are slow from one delay would over-generalise."
 :::
 
 ## Model Answer

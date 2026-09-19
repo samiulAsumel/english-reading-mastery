@@ -463,28 +463,28 @@ limitation — exactly the parts a careless summary drops first.
 
 ## Vocabulary in Context
 
-::: vocabulary word="premise" pos="noun" meaning="a statement offered as the reason a conclusion should be believed (আশ্রয়বাক্য/পূর্বশর্ত)" example="'Current equipment frequently causes failures' is the premise behind the conclusion that the network should be upgraded."
+::: vocabulary word="premise" pos="noun" register="formal" meaning="a statement offered as the reason a conclusion should be believed (আশ্রয়বাক্য/পূর্বশর্ত)" collocation="a false premise, underlying premise, accept the premise" example="The argument's premise, that all delays are avoidable, is doubtful."
 :::
 
-::: vocabulary word="argument gap" pos="noun phrase" meaning="the missing logical bridge between a premise and a conclusion that the premise alone does not establish (যুক্তির শূন্যতা)" example="'Widely used, therefore best for us' has an argument gap — popularity doesn't establish fit for this specific organization."
+::: vocabulary word="argument gap" pos="noun phrase" register="course term" meaning="the missing logical bridge between a premise and a conclusion that the premise alone does not establish (যুক্তির শূন্যতা)" collocation="an argument gap, spot the argument gap, fill the argument gap" example="The report has an argument gap: it shows costs rose but never shows the change caused them."
 :::
 
-::: vocabulary word="necessary assumption" pos="noun phrase" meaning="an unstated premise without which an argument's conclusion no longer follows, as distinct from one that merely strengthens it (আবশ্যিক অনুমান)" example="The necessary assumption behind 'adopt it because it's faster' is that speed actually matters for this company's goals."
+::: vocabulary word="necessary assumption" pos="noun phrase" register="technical" meaning="an unstated premise without which an argument's conclusion no longer follows, as distinct from one that merely strengthens it (আবশ্যিক অনুমান)" collocation="identify the necessary assumption, a necessary assumption, hidden necessary assumption" example="The plan's necessary assumption is that suppliers will deliver on time; without it, the schedule fails."
 :::
 
-::: vocabulary word="scope shift" pos="noun phrase" meaning="a conclusion that quietly claims a broader scope than its supporting premise actually covers (পরিধির স্থানান্তর)" example="'Most employees prefer it, therefore it's better' commits a scope shift from preference to overall quality."
+::: vocabulary word="scope shift" pos="noun phrase" register="course term" meaning="a conclusion that quietly claims a broader scope than its supporting premise actually covers (পরিধির স্থানান্তর)" collocation="commit a scope shift, subtle scope shift, scope shift from" example="A scope shift occurs when data on one terminal is used to draw conclusions about every terminal."
 :::
 
-::: vocabulary word="hidden inference" pos="noun phrase" meaning="a conclusion an author invites the reader to draw without stating it directly (অন্তর্নিহিত অনুসিদ্ধান্ত)" example="The passage never says 'more training will be needed,' but the hidden inference is clearly invited by its two stated facts."
+::: vocabulary word="hidden inference" pos="noun phrase" register="course term" meaning="a conclusion an author invites the reader to draw without stating it directly (অন্তর্নিহিত অনুসিদ্ধান্ত)" collocation="draw a hidden inference, make a hidden inference, hidden inference behind" example="The advert's hidden inference is that competing terminals are unsafe, though it never says so."
 :::
 
-::: vocabulary word="argument strength" pos="noun phrase" meaning="a rating of how well an argument's evidence, assumptions, and scope actually support its conclusion, from unsupported to strong (যুক্তির শক্তি)" example="Rating the pilot study's argument strength as 'moderate' reflected real evidence alongside real, unaddressed limitations."
+::: vocabulary word="argument strength" pos="noun phrase" register="formal" meaning="a rating of how well an argument's evidence, assumptions, and scope actually support its conclusion, from unsupported to strong (যুক্তির শক্তি)" collocation="assess argument strength, judge argument strength, argument strength of" example="Argument strength depends on how much of the conclusion the evidence actually covers."
 :::
 
-::: vocabulary word="case study" pos="noun phrase" meaning="a report of what happened in one specific instance, which supports a claim about that instance but not automatically a general claim (কেস স্টাডি)" example="The port's case study showed a 30% reduction in waiting times there — not proof the same system works everywhere."
+::: vocabulary word="case study" pos="noun phrase" register="neutral" meaning="a report of what happened in one specific instance, which supports a claim about that instance but not automatically a general claim (কেস স্টাডি)" collocation="a case study, a case study of, use a case study" example="The chapter uses a case study of one Asian port to illustrate a wider trend."
 :::
 
-::: vocabulary word="inference bridge" pos="noun phrase" meaning="a phrase such as 'this suggests' or 'therefore' that carries a reader from one part of an argument to the next, such as from evidence to interpretation (অনুসিদ্ধান্ত সেতু)" example="'This suggests' functions as an inference bridge between the observed decline in errors and the interpretation about employee capability."
+::: vocabulary word="inference bridge" pos="noun phrase" register="course term" meaning="a phrase such as 'this suggests' or 'therefore' that carries the reader from evidence to interpretation (অনুসিদ্ধান্ত সেতু)" collocation="an inference bridge, use an inference bridge, inference bridge such as" example="'This suggests that' is an inference bridge from the data to the author's interpretation."
 :::
 
 ## Guided Reading Practice

@@ -55,10 +55,10 @@ to refer back to the whole idea, not one noun.
 
 ## Vocabulary in Context
 
-::: vocabulary word="antecedent" pos="noun" meaning="the noun or idea a pronoun refers back to — পূর্ববর্তী নির্দেশ্য" example="In 'The manager approved it,' report is the antecedent of it."
+::: vocabulary word="antecedent" pos="noun" register="technical" meaning="the noun or idea a pronoun refers back to (পূর্ববর্তী নির্দেশ্য)" collocation="clear antecedent, identify the antecedent, unclear antecedent" example="In 'The auditor reviewed the file and approved it', the antecedent of 'it' is 'the file'."
 :::
 
-::: vocabulary word="reference chain" pos="noun" meaning="a series of pronouns pointing back to the same noun or idea across several sentences — নির্দেশ শৃঙ্খল" example="A reference chain lets a writer avoid repeating the same noun."
+::: vocabulary word="reference chain" pos="noun" register="course term" meaning="a series of pronouns pointing back to the same noun or idea across several sentences (নির্দেশ শৃঙ্খল)" collocation="follow the reference chain, build a reference chain, reference chain of pronouns" example="The reference chain 'the supplier, it, its' keeps the paragraph focused on one company."
 :::
 
 ## Model Answer

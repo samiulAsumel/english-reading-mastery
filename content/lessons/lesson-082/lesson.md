@@ -438,28 +438,28 @@ meaning changed since the concept was first introduced?
 
 ## Vocabulary in Context
 
-::: vocabulary word="concept evolution" pos="noun phrase" meaning="the way a term's underlying meaning changes — through expansion, narrowing, refinement, or reframing — as a book develops (ধারণার বিবর্তন)" example="Tracking the concept evolution of 'efficiency' revealed it grew from a synonym for speed into a four-dimensional construct."
+::: vocabulary word="concept evolution" pos="noun phrase" register="formal" meaning="the way a term's underlying meaning changes — through expansion, narrowing, refinement, or reframing — as a book develops (ধারণার বিবর্তন)" collocation="trace concept evolution, concept evolution across, gradual concept evolution" example="Concept evolution is clear: 'resilience' begins as recovery speed and ends as adaptive capacity."
 :::
 
-::: vocabulary word="conceptual identity" pos="noun phrase" meaning="the property of two differently worded expressions referring to the same underlying idea, verified by shared context, function, and causal role (ধারণাগত পরিচয়)" example="Despite different wording, 'automated billing system' and 'digital billing infrastructure' shared conceptual identity in this chapter."
+::: vocabulary word="conceptual identity" pos="noun phrase" register="technical" meaning="the property of two differently worded expressions referring to the same underlying idea, verified by shared context, function, and causal role (ধারণাগত পরিচয়)" collocation="conceptual identity, establish conceptual identity, conceptual identity of" example="'Dwell time' and 'container waiting period' share conceptual identity: both name the same idea."
 :::
 
-::: vocabulary word="conceptual role" pos="noun phrase" meaning="the job a concept performs within an argument at a given point — such as input, evidence, risk, or resource — which can shift even while the concept's identity stays constant (ধারণাগত ভূমিকা)" example="'Data' kept its conceptual identity across the book while its conceptual role moved from input to evidence to strategic resource."
+::: vocabulary word="conceptual role" pos="noun phrase" register="technical" meaning="the job a concept does in an argument at a given point, such as risk or resource, which can change while the concept stays the same (ধারণাগত ভূমিকা)" collocation="conceptual role, change the conceptual role, conceptual role of" example="Fuel cost plays the conceptual role of a risk in chapter two and of a constraint in chapter five."
 :::
 
-::: vocabulary word="concept boundary" pos="noun phrase" meaning="what a concept includes and excludes, as explicitly or implicitly defined by an author, which can itself expand or shift over a book (ধারণার সীমা)" example="The concept boundary of 'operational efficiency' excluded employee satisfaction directly, though it later reappeared as an indirect influence."
+::: vocabulary word="concept boundary" pos="noun phrase" register="formal" meaning="what a concept includes and excludes, as explicitly or implicitly defined by an author, which can itself expand or shift over a book (ধারণার সীমা)" collocation="the concept boundary, expand the concept boundary, concept boundary of" example="The author widens the concept boundary of 'delay' to include waiting outside the gate."
 :::
 
-::: vocabulary word="lexical variation" pos="noun phrase" meaning="an author's use of different words or phrases — synonyms, paraphrase, nominalisation — to refer to the same underlying concept (আভিধানিক বৈচিত্র্য)" example="Lexical variation across automation, automated systems, and technology-enabled processes obscured a single continuous concept."
+::: vocabulary word="lexical variation" pos="noun phrase" register="technical" meaning="an author's use of different words or phrases — synonyms, paraphrase, nominalisation — to refer to the same underlying concept (আভিধানিক বৈচিত্র্য)" collocation="lexical variation, use lexical variation, lexical variation in" example="Lexical variation makes the report readable: 'delay', 'backlog', and 'holdup' name one idea."
 :::
 
-::: vocabulary word="definition tracking" pos="noun phrase" meaning="the practice of noting a concept's initial, contextual, and final definitions separately, rather than assuming the first one holds throughout (সংজ্ঞা অনুসরণ)" example="Definition tracking revealed that the author's initial, narrow definition had been substantially refined by the book's final chapter."
+::: vocabulary word="definition tracking" pos="noun phrase" register="course term" meaning="the practice of noting a concept's initial, contextual, and final definitions separately, rather than assuming the first one holds throughout (সংজ্ঞা অনুসরণ)" collocation="practise definition tracking, definition tracking across, careful definition tracking" example="Definition tracking showed that 'efficiency' meant speed in chapter one but cost in chapter four."
 :::
 
-::: vocabulary word="conceptual turning point" pos="noun phrase" meaning="a moment in a text, often marked by phrases like 'however' or 'more precisely,' where a concept's meaning or framing visibly shifts (ধারণাগত মোড়)" example="'A better way to understand this is...' marked a clear conceptual turning point, reframing the entire discussion."
+::: vocabulary word="conceptual turning point" pos="noun phrase" register="formal" meaning="a moment in a text, often marked by phrases like 'however' or 'more precisely,' where a concept's meaning or framing visibly shifts (ধারণাগত মোড়)" collocation="a conceptual turning point, mark a conceptual turning point, conceptual turning point in" example="The phrase 'more precisely' marks a conceptual turning point in how the author uses 'risk'."
 :::
 
-::: vocabulary word="model revision" pos="noun phrase" meaning="the replacement of an earlier explanatory model with a more complete one, typically signalled by phrases like 'this model does not fully explain' (মডেলের সংশোধন)" example="The shift from a purely technological model to a socio-technical one was a clear case of model revision."
+::: vocabulary word="model revision" pos="noun phrase" register="technical" meaning="the replacement of an earlier explanatory model with a more complete one, typically signalled by phrases like 'this model does not fully explain' (মডেলের সংশোধন)" collocation="model revision, propose a model revision, model revision after" example="The chapter closes with a model revision: the earlier two-factor model gives way to a three-factor one."
 :::
 
 ## Guided Reading Practice

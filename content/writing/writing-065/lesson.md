@@ -55,10 +55,10 @@ state one dimension where the "better" option is actually worse.
 
 ## Vocabulary in Context
 
-::: vocabulary word="criterion" pos="noun" meaning="the specific standard used to judge something — মাপকাঠি" example="Speed was the criterion for this comparison, not cost."
+::: vocabulary word="criterion" pos="noun" register="formal" meaning="the specific standard used to judge something (মাপকাঠি)" collocation="evaluation criterion, meet the criterion, main criterion" example="Cost was the main criterion used to compare the bids."
 :::
 
-::: vocabulary word="trade-off" pos="noun" meaning="a disadvantage accepted in exchange for an advantage — বিনিময়ে ত্যাগ" example="Faster processing came with a trade-off: a much higher setup cost."
+::: vocabulary word="trade-off" pos="noun" register="neutral" meaning="a disadvantage accepted in exchange for an advantage (বিনিময়ে ত্যাগ)" collocation="trade-off between, accept a trade-off, difficult trade-off" example="The cheaper option involves a trade-off in reliability."
 :::
 
 ## Model Answer

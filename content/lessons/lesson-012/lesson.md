@@ -410,19 +410,19 @@ blur that difference.
 
 ## Vocabulary in Context
 
-::: vocabulary word="guarantee" pos="verb" meaning="to promise that something will definitely happen or be true (নিশ্চয়তা দেওয়া)" example="More information does not guarantee a better decision."
+::: vocabulary word="guarantee" pos="verb" register="formal" meaning="to promise that something will definitely happen or be true (নিশ্চয়তা দেওয়া)" collocation="guarantee delivery, cannot guarantee, money-back guarantee" example="The carrier will not guarantee a delivery date if the cargo misses the vessel's cut-off time."
 :::
 
-::: vocabulary word="reliable" pos="adjective" meaning="able to be trusted to be accurate or to work correctly (বিশ্বাসযোগ্য/নির্ভরযোগ্য)" example="Researchers prefer to build conclusions on reliable evidence."
+::: vocabulary word="reliable" pos="adjective" register="neutral" meaning="able to be trusted to be accurate or to work correctly (বিশ্বাসযোগ্য/নির্ভরযোগ্য)" collocation="reliable source, highly reliable, reliable service" example="The forecasting model is only as reliable as the vessel arrival data that feeds it."
 :::
 
-::: vocabulary word="accurate" pos="adjective" meaning="correct and true in every detail (নির্ভুল)" example="Even accurate information can be interpreted differently by different people."
+::: vocabulary word="accurate" pos="adjective" register="neutral" meaning="correct and true in every detail (নির্ভুল)" collocation="accurate information, highly accurate, accurate record" example="Accurate weight declarations are essential for safe stowage planning."
 :::
 
-::: vocabulary word="unreliable" pos="adjective" meaning="not able to be trusted to be accurate or consistent (অবিশ্বাস্য/অনির্ভরযোগ্য)" example="Unreliable information can make decision-making more complicated, not less."
+::: vocabulary word="unreliable" pos="adjective" register="neutral" meaning="not able to be trusted to be accurate or consistent (অবিশ্বাস্য/অনির্ভরযোগ্য)" collocation="unreliable data, prove unreliable, unreliable source" example="The audit rejected the survey because the response rate was low and the sample data proved unreliable."
 :::
 
-::: vocabulary word="interpret" pos="verb" meaning="to explain or decide the meaning of something (ব্যাখ্যা করা)" example="Two readers can interpret the same accurate information quite differently."
+::: vocabulary word="interpret" pos="verb" register="formal" meaning="to explain or decide the meaning of something (ব্যাখ্যা করা)" collocation="interpret results, interpret correctly, interpret as" example="Analysts interpreted the drop in bookings as a sign that customers were switching to a rival terminal."
 :::
 
 ::: note title="Chunks worth learning as whole units"

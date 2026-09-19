@@ -67,10 +67,10 @@ third item.
 
 ## Vocabulary in Context
 
-::: vocabulary word="signal" pos="verb" meaning="to give a sign showing what you're about to do — সংকেত দেওয়া" example="A good driver checks the mirrors and signals early before turning."
+::: vocabulary word="signal" pos="verb" register="neutral" meaning="to give a sign showing what you're about to do (সংকেত দেওয়া)" collocation="signal a change, clear signal, signal that" example="Use 'first' and 'then' to signal each step in your explanation."
 :::
 
-::: vocabulary word="ahead" pos="adverb" meaning="in front, further along in space or time — সামনে" example="Watching the road ahead helps a driver react early."
+::: vocabulary word="ahead" pos="adverb" register="neutral" meaning="in front, further along in space or time (সামনে)" collocation="ahead of schedule, plan ahead, ahead of time" example="The project is ahead of schedule by two weeks."
 :::
 
 ## Self-Check

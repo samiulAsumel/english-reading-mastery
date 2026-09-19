@@ -69,10 +69,10 @@ confound, honest conclusion — all delivered live, without a script.
 
 ## Vocabulary in Context
 
-::: vocabulary word="confound" pos="verb" meaning="to make it hard to tell which of two things happening together is actually the cause — জটিল করে তোলা" example="The advertising push confounds any simple claim that the redesign alone improved bounce rate."
+::: vocabulary word="confound" pos="verb" register="formal" meaning="to make it hard to tell which of two things happening together is actually the cause (জটিল করে তোলা)" collocation="confound the results, confounded by, confound the analysis" example="Weather can confound the comparison, because it changes both variables."
 :::
 
-::: vocabulary word="hold off on" pos="phrasal verb" meaning="to delay making a strong claim until there's enough evidence — বিরত থাকা" example="I'd hold off on saying the new system caused the improvement — too much else changed at once."
+::: vocabulary word="hold off on" pos="phrasal verb" register="neutral" meaning="to delay making a strong claim until there's enough evidence (বিরত থাকা)" collocation="hold off on a conclusion, hold off on a decision, hold off until" example="I would hold off on a firm conclusion until we have more data."
 :::
 
 ## Self-Check

@@ -62,10 +62,10 @@ happens to your conclusion if that assumption turns out to be false.
 
 ## Vocabulary in Context
 
-::: vocabulary word="premise" pos="noun" meaning="a statement offered as support for a conclusion, whether written down or left unstated — যুক্তির ভিত্তি" example="The hidden premise never appeared in the paragraph, but the conclusion depended on it."
+::: vocabulary word="premise" pos="noun" register="formal" meaning="a statement offered as support for a conclusion, whether written down or left unstated (যুক্তির ভিত্তি)" collocation="a false premise, underlying premise, accept the premise" example="The premise that all delays are avoidable is doubtful."
 :::
 
-::: vocabulary word="negation test" pos="noun phrase" meaning="checking whether an argument survives when its assumption is assumed false — অস্বীকার-পরীক্ষা" example="The negation test showed the argument collapsed once the assumption was denied."
+::: vocabulary word="negation test" pos="noun phrase" register="course term" meaning="checking whether an argument survives when its assumption is assumed false (অস্বীকার-পরীক্ষা)" collocation="apply the negation test, run the negation test, negation test for" example="The negation test asks: if this assumption were false, would the argument survive?"
 :::
 
 ## Model Answer

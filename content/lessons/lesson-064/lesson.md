@@ -507,28 +507,28 @@ its actual instruction entirely.
 
 ## Vocabulary in Context
 
-::: vocabulary word="obligation" pos="noun" meaning="a requirement to act in a certain way, typically signalled by 'must' or 'need to' (বাধ্যবাধকতা)" example="'Employees must wear protective equipment' states an obligation, not a suggestion."
+::: vocabulary word="obligation" pos="noun" register="formal" meaning="a requirement to act in a certain way, typically signalled by 'must' or 'need to' (বাধ্যবাধকতা)" collocation="legal obligation, meet an obligation, obligation to" example="Under the contract, the carrier has an obligation to notify the consignee within twenty-four hours."
 :::
 
-::: vocabulary word="permission" pos="noun" meaning="authorization to do something, one of the two common meanings of 'may' alongside possibility (অনুমতি)" example="'Employees may work remotely' grants permission; 'employees may experience delays' states a possibility instead."
+::: vocabulary word="permission" pos="noun" register="neutral" meaning="authorization to do something, one of the two common meanings of 'may' alongside possibility (অনুমতি)" collocation="give permission, require permission, written permission" example="Visitors need written permission from the security office before entering the yard."
 :::
 
-::: vocabulary word="policy scope" pos="noun phrase" meaning="the specific population or set of situations a rule or policy is stated to apply to (নীতির পরিধি)" example="The training requirement's policy scope was narrowed from 'all employees' to 'employees who handle customer payments.'"
+::: vocabulary word="policy scope" pos="noun phrase" register="formal" meaning="the specific population or set of situations a rule or policy is stated to apply to (নীতির পরিধি)" collocation="define the policy scope, policy scope of, outside the policy scope" example="The policy scope covers all contractors working on port premises, not just employees."
 :::
 
-::: vocabulary word="exception clause" pos="noun phrase" meaning="the part of a rule or policy that states when the main rule does not apply (ব্যতিক্রম ধারা)" example="The exception clause allowed billing to proceed if the missing information did not affect the charge calculation."
+::: vocabulary word="exception clause" pos="noun phrase" register="formal" meaning="the part of a rule or policy that states when the main rule does not apply (ব্যতিক্রম ধারা)" collocation="an exception clause, include an exception clause, invoke the exception clause" example="An exception clause in the tender waives the deadline in cases of force majeure."
 :::
 
-::: vocabulary word="qualification" pos="noun" meaning="a limitation or condition added to a claim or recommendation that narrows how strongly or widely it applies (শর্তাধীনতা)" example="'However, automation should not be introduced without first evaluating data quality' is a qualification of the recommendation before it."
+::: vocabulary word="qualification" pos="noun" register="formal" meaning="a limitation or condition added to a claim or recommendation that narrows how strongly or widely it applies (শর্তাধীনতা)" collocation="important qualification, add a qualification, with one qualification" example="The recommendation carries one qualification: it applies only to terminals handling over a million containers."
 :::
 
-::: vocabulary word="evidentiary strength" pos="noun phrase" meaning="how strongly a piece of language is backed by proof, ranging from a stated intention to a demonstrated result (প্রমাণের শক্তি)" example="'Designed to improve efficiency' has far weaker evidentiary strength than 'has been shown to improve efficiency.'"
+::: vocabulary word="evidentiary strength" pos="noun phrase" register="formal" meaning="how strongly a piece of language is backed by proof, ranging from a stated intention to a demonstrated result (প্রমাণের শক্তি)" collocation="greater evidentiary strength, evidentiary strength of, weak evidentiary strength" example="'Is designed to reduce errors' has less evidentiary strength than 'has reduced errors by a third'."
 :::
 
-::: vocabulary word="phased implementation" pos="noun phrase" meaning="introducing a change gradually, in stages, rather than all at once (পর্যায়ক্রমিক বাস্তবায়ন)" example="A phased implementation began with low-risk processes and expanded as reliability improved."
+::: vocabulary word="phased implementation" pos="noun phrase" register="formal" meaning="introducing a change gradually, in stages, rather than all at once (পর্যায়ক্রমিক বাস্তবায়ন)" collocation="a phased implementation, plan a phased implementation, phased implementation of" example="The authority opted for phased implementation, starting with export lanes before extending to imports."
 :::
 
-::: vocabulary word="subjunctive construction" pos="noun phrase" meaning="a formal grammatical pattern using the base verb form after phrases like 'it is recommended that,' rather than the usual present-tense form (সাবজাংটিভ গঠন)" example="'It is essential that the system remain available' uses a subjunctive construction: 'remain,' not 'remains.'"
+::: vocabulary word="subjunctive construction" pos="noun phrase" register="technical" meaning="a formal grammatical pattern using the base verb form after phrases like 'it is recommended that,' rather than the usual present-tense form (সাবজাংটিভ গঠন)" collocation="use the subjunctive construction, formal subjunctive construction, subjunctive construction after" example="'The committee recommends that the manager be replaced' uses a subjunctive construction after 'recommends that'."
 :::
 
 ## Guided Reading Practice

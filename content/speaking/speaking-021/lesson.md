@@ -67,10 +67,10 @@ certain fact.
 
 ## Vocabulary in Context
 
-::: vocabulary word="probably" pos="adverb" meaning="likely, though not certain — সম্ভবত" example="The truck is probably stuck in traffic; it's rarely this late without a reason."
+::: vocabulary word="probably" pos="adverb" register="neutral" meaning="likely, though not certain (সম্ভবত)" collocation="probably because, probably not, most probably" example="The gate is probably closed because the system is down."
 :::
 
-::: vocabulary word="might" pos="modal verb" meaning="a weaker possibility than may or could — হয়তো (দুর্বল সম্ভাবনা)" example="The driver might have taken a different route."
+::: vocabulary word="might" pos="modal verb" register="neutral" meaning="a weaker possibility than may or could (হয়তো (দুর্বল সম্ভাবনা))" collocation="might be, might not, might have" example="The vessel might arrive late if the storm continues."
 :::
 
 ## Self-Check

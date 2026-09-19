@@ -59,10 +59,10 @@ ellipsis (a dropped, recoverable word).
 
 ## Vocabulary in Context
 
-::: vocabulary word="antecedent" pos="noun" meaning="the earlier word an idea a pronoun points back to — পূর্ববর্তী নির্দেশ্য" example="Before writing 'this,' make sure its antecedent is unmistakable."
+::: vocabulary word="antecedent" pos="noun" register="technical" meaning="the earlier word an idea a pronoun points back to (পূর্ববর্তী নির্দেশ্য)" collocation="clear antecedent, identify the antecedent, unclear antecedent" example="The antecedent of 'they' in the second sentence is 'the auditors'."
 :::
 
-::: vocabulary word="cohesive" pos="adjective" meaning="holding together through grammatical and lexical links, without repeating words — সংহত" example="Reference and substitution make a paragraph cohesive."
+::: vocabulary word="cohesive" pos="adjective" register="technical" meaning="holding together through grammatical and lexical links, without repeating words (সংহত)" collocation="cohesive paragraph, highly cohesive, cohesive text" example="A cohesive paragraph links each sentence to the last without repeating words."
 :::
 
 ## Model Answer

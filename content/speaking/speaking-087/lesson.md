@@ -71,10 +71,10 @@ loosely related fact.
 
 ## Vocabulary in Context
 
-::: vocabulary word="removal test" pos="noun phrase" meaning="checking a sentence's importance by mentally deleting it and seeing what breaks — the main idea, the argument, or nothing at all (অপসারণ পরীক্ষা)" example="Running the removal test live, mid-sentence, is harder than doing it on the page — but it's the same question."
+::: vocabulary word="removal test" pos="noun phrase" register="course term" meaning="a way to judge a sentence's importance by imagining it deleted and seeing what, if anything, is lost (অপসারণ পরীক্ষা)" collocation="apply the removal test, use the removal test, removal test for" example="Apply the removal test: if cutting the sentence changes nothing, leave it out."
 :::
 
-::: vocabulary word="tangent" pos="noun" meaning="a spoken sentence that relates loosely to the topic but doesn't actually support the main idea — মূল বিষয় থেকে বিচ্যুতি" example="He caught himself drifting into a tangent about the technology's history and pulled back to his main point."
+::: vocabulary word="tangent" pos="noun" register="neutral" meaning="a spoken sentence that relates loosely to the topic but doesn't actually support the main idea (মূল বিষয় থেকে বিচ্যুতি)" collocation="go off on a tangent, tangent from, brief tangent" example="A sentence about parking is a tangent in a talk about gate delays."
 :::
 
 ## Self-Check

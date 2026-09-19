@@ -64,10 +64,10 @@ paragraph, add one line: "Slow-down sentence: [copy it here]."
 
 ## Vocabulary in Context
 
-::: vocabulary word="density" pos="noun" meaning="how much information is packed into a small space — ঘনত্ব" example="A claim sentence usually has higher information density than a context sentence."
+::: vocabulary word="density" pos="noun" register="formal" meaning="how much information is packed into a small space (ঘনত্ব)" collocation="information density, high density, density of information" example="The report's density made it hard to read quickly."
 :::
 
-::: vocabulary word="surprising" pos="adjective" meaning="unexpected given what came before — অপ্রত্যাশিত" example="The result was surprising because the port had just invested in new equipment."
+::: vocabulary word="surprising" pos="adjective" register="neutral" meaning="unexpected given what came before (অপ্রত্যাশিত)" collocation="surprising result, somewhat surprising, hardly surprising" example="The result was surprising given the earlier trend."
 :::
 
 ## Model Answer

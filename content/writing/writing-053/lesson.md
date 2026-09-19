@@ -59,10 +59,10 @@ able to infer the term's meaning without looking it up.
 
 ## Vocabulary in Context
 
-::: vocabulary word="appositive" pos="noun" meaning="a phrase set off by commas or dashes that renames or explains the noun before it — সমানাধিকরণ" example="Demurrage, a fee for keeping a container too long, adds up fast."
+::: vocabulary word="appositive" pos="noun" register="technical" meaning="a phrase set off by commas or dashes that renames or explains the noun before it (সমানাধিকরণ)" collocation="appositive phrase, use an appositive, appositive explanation" example="'Demurrage, a charge for delay, applies after five days' uses an appositive to explain the term."
 :::
 
-::: vocabulary word="infer" pos="verb" meaning="to work out a meaning from context rather than being told directly — অনুমান করা" example="A well-written sentence lets the reader infer a new word's meaning."
+::: vocabulary word="infer" pos="verb" register="formal" meaning="to work out a meaning from context rather than being told directly (অনুমান করা)" collocation="infer from, infer meaning, reasonably infer" example="Readers can infer that 'demurrage' refers to a charge from the context."
 :::
 
 ## Model Answer

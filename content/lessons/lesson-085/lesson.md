@@ -311,28 +311,28 @@ all named explicitly in the same breath.
 
 ## Vocabulary in Context
 
-::: vocabulary word="legitimate inference range" pos="noun phrase" meaning="the specific set of conclusions a piece of evidence can actually support, as distinct from broader claims that exceed it (বৈধ অনুসিদ্ধান্তের পরিসর)" example="A four-department pilot's legitimate inference range covers those departments' short-term results, not company-wide, permanent outcomes."
+::: vocabulary word="legitimate inference range" pos="noun phrase" register="course term" meaning="the specific set of conclusions a piece of evidence can actually support, as distinct from broader claims that exceed it (বৈধ অনুসিদ্ধান্তের পরিসর)" collocation="stay within the legitimate inference range, the legitimate inference range, legitimate inference range of" example="A one-terminal study has a narrow legitimate inference range: it cannot support claims about all ports."
 :::
 
-::: vocabulary word="null result" pos="noun phrase" meaning="a study's failure to detect a significant effect, which narrows what can be claimed without proving the effect doesn't exist (নিরর্থক ফলাফল)" example="The null result ruled out a large effect in this sample, but small sample size meant a modest effect couldn't be ruled out."
+::: vocabulary word="null result" pos="noun phrase" register="technical" meaning="a study's failure to detect a significant effect, which narrows what can be claimed without proving the effect doesn't exist (নিরর্থক ফলাফল)" collocation="report a null result, publish a null result, a null result does not mean" example="A null result does not prove the training was useless; it shows only that no effect was detected."
 :::
 
-::: vocabulary word="silent strengthening" pos="noun phrase" meaning="the comprehension error of mentally restating a hedged claim in stronger, unhedged language without noticing the substitution (নীরব শক্তিবৃদ্ধি)" example="Remembering 'may contribute to' as 'causes' is a classic case of silent strengthening."
+::: vocabulary word="silent strengthening" pos="noun phrase" register="course term" meaning="the comprehension error of mentally restating a hedged claim in stronger, unhedged language without noticing the substitution (নীরব শক্তিবৃদ্ধি)" collocation="avoid silent strengthening, guard against silent strengthening, silent strengthening of" example="Silent strengthening occurs when 'may reduce costs' is remembered as 'reduces costs'."
 :::
 
-::: vocabulary word="evidence tier" pos="noun phrase" meaning="one of three levels — strongly established, reasonably supported, plausible but uncertain — used to sort a book's claims by how well their evidence actually holds up (প্রমাণের স্তর)" example="The book's central mechanism sat in the strongly established evidence tier; its cost projections sat in the plausible-but-uncertain tier."
+::: vocabulary word="evidence tier" pos="noun phrase" register="course term" meaning="one of three levels (established, reasonably supported, plausible but uncertain) for sorting claims by the strength of their evidence (প্রমাণের স্তর)" collocation="classify by evidence tier, top evidence tier, evidence tier of" example="The author sorts claims into three evidence tiers, from firmly established to merely plausible."
 :::
 
-::: vocabulary word="degree modifier" pos="noun phrase" meaning="a word like partly, primarily, solely, largely, or entirely that scales how much of an outcome a stated cause is responsible for (মাত্রা নির্দেশক)" example="Swapping the degree modifier from 'primarily' to 'solely' turned a moderate causal claim into an absolute one."
+::: vocabulary word="degree modifier" pos="noun phrase" register="technical" meaning="a word like partly, primarily, solely, largely, or entirely that scales how much of an outcome a stated cause is responsible for (মাত্রা নির্দেশক)" collocation="choose a degree modifier, degree modifier such as, watch the degree modifier" example="'Partly' is a degree modifier: 'partly caused by weather' credits weather with only some of the delay."
 :::
 
-::: vocabulary word="conditional claim" pos="noun phrase" meaning="a claim that holds only if a stated condition is met, which becomes an overgeneralisation the moment the condition is dropped (শর্তাধীন দাবি)" example="'Automation can improve performance when reliable data are available' is a conditional claim, not a universal one."
+::: vocabulary word="conditional claim" pos="noun phrase" register="technical" meaning="a claim that holds only if a stated condition is met, which becomes an overgeneralisation the moment the condition is dropped (শর্তাধীন দাবি)" collocation="a conditional claim, state a conditional claim, conditional claim about" example="'Automation pays off if volumes exceed a million containers' is a conditional claim."
 :::
 
-::: vocabulary word="evidentiary verb ladder" pos="noun phrase" meaning="the ranked sequence of verbs — consistent with, suggests, indicates, demonstrates, proves — authors use to signal how strongly evidence supports a claim (প্রমাণসূচক ক্রিয়ার ক্রম)" example="Moving up the evidentiary verb ladder from 'suggests' to 'demonstrates' is itself a claim that deserves scrutiny."
+::: vocabulary word="evidentiary verb ladder" pos="noun phrase" register="course term" meaning="the ranked verbs authors use to show how strongly evidence supports a claim: consistent with, suggests, indicates, demonstrates, proves (প্রমাণসূচক ক্রিয়ার ক্রম)" collocation="climb the evidentiary verb ladder, position on the evidentiary verb ladder, evidentiary verb ladder from" example="On the evidentiary verb ladder, 'suggests' sits well below 'demonstrates'."
 :::
 
-::: vocabulary word="calibrated reading" pos="noun phrase" meaning="the practice of preserving an author's exact certainty level when restating their claim, neither strengthening nor weakening it (সুসমন্বিত পঠন)" example="Calibrated reading kept 'preliminary evidence suggests' intact, instead of silently upgrading it to 'research proves.'"
+::: vocabulary word="calibrated reading" pos="noun phrase" register="course term" meaning="the practice of preserving an author's exact certainty level when restating their claim, neither strengthening nor weakening it (সুসমন্বিত পঠন)" collocation="practise calibrated reading, calibrated reading of, careful calibrated reading" example="Calibrated reading means restating 'may have contributed' as exactly that, not as 'caused'."
 :::
 
 ## Guided Reading Practice

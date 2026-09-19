@@ -65,7 +65,7 @@ clause, without a long pause or a Bangla sentence formed first.
 
 ## Vocabulary in Context
 
-::: vocabulary word="attached" pos="adjective" meaning="joined closely to something else, with no gap — সংযুক্ত" example="The reason clause should sound attached to the main clause, not separate."
+::: vocabulary word="attached" pos="adjective" register="neutral" meaning="joined closely to something else, with no gap (সংযুক্ত)" collocation="attached to, firmly attached, attached document" example="The reason is attached directly to the claim with 'because'."
 :::
 
 ## Self-Check

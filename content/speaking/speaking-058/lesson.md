@@ -71,10 +71,10 @@ spoken live, in order.
 
 ## Vocabulary in Context
 
-::: vocabulary word="trigger" pos="noun" meaning="the immediate event that sets a process or problem in motion, distinct from its deeper cause — তাৎক্ষণিক সূচনাকারী ঘটনা" example="The outage's trigger was a failed deployment, though the root cause ran deeper."
+::: vocabulary word="trigger" pos="noun" register="technical" meaning="the immediate event that sets a process or problem in motion, distinct from its deeper cause (তাৎক্ষণিক সূচনাকারী ঘটনা)" collocation="trigger an alert, immediate trigger, trigger for" example="The trigger was a midnight software update, not the underlying fault."
 :::
 
-::: vocabulary word="by means of" pos="phrase" meaning="through the use of a specific method or tool — মাধ্যমে" example="The system flags fraud by means of a pattern-matching algorithm running in the background."
+::: vocabulary word="by means of" pos="phrase" register="formal" meaning="through the use of a specific method or tool (মাধ্যমে)" collocation="by means of, achieved by means of, by means of a system" example="Cargo is tracked by means of a barcode system."
 :::
 
 ## Self-Check

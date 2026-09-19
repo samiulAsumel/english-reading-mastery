@@ -60,10 +60,10 @@ interchangeable with a stronger or weaker one.
 
 ## Vocabulary in Context
 
-::: vocabulary word="scope" pos="noun" meaning="the specific part of a sentence a word's logical effect actually reaches — পরিসর" example="Moving 'only' changes its scope from the subject to the object."
+::: vocabulary word="scope" pos="noun" register="technical" meaning="the specific part of a sentence a word's logical effect actually reaches (পরিসর)" collocation="scope of negation, wide scope, narrow scope" example="In 'Not all containers were delayed', the scope of 'not' covers 'all'."
 :::
 
-::: vocabulary word="quantifier" pos="noun" meaning="a word indicating amount or proportion without an exact number — পরিমাণবাচক শব্দ" example="Choosing 'most' instead of 'almost all' changes how strong the claim is."
+::: vocabulary word="quantifier" pos="noun" register="technical" meaning="a word indicating amount or proportion without an exact number (পরিমাণবাচক শব্দ)" collocation="use a quantifier, quantifier such as, precise quantifier" example="'Most', 'some', and 'few' are quantifiers that state a proportion without a number."
 :::
 
 ## Model Answer

@@ -63,7 +63,7 @@ able to repeat back exactly what was and wasn't tested.
 
 ## Vocabulary in Context
 
-::: vocabulary word="scope" pos="noun" meaning="the specific part of a sentence a word's logical effect actually reaches — পরিসর" example="Stress and word order both signal 'only's' scope when speaking."
+::: vocabulary word="scope" pos="noun" register="technical" meaning="the specific part of a sentence a word's logical effect actually reaches (পরিসর)" collocation="scope of negation, wide scope, narrow scope" example="In 'Not all containers were delayed', the scope of 'not' covers 'all'."
 :::
 
 ## Self-Check

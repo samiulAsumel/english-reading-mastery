@@ -58,10 +58,10 @@ naming which is more trustworthy and the specific reason why.
 
 ## Vocabulary in Context
 
-::: vocabulary word="independent" pos="adjective" meaning="not connected to, or benefiting from, the outcome being reported — স্বাধীন/নিরপেক্ষ" example="An independent lab has no financial stake in the product's test results."
+::: vocabulary word="independent" pos="adjective" register="formal" meaning="not connected to, or benefiting from, the outcome being reported (স্বাধীন/নিরপেক্ষ)" collocation="independent source, independent review, independent of" example="An independent auditor confirmed the figures."
 :::
 
-::: vocabulary word="converge" pos="verb" meaning="when separate, independent pieces of evidence point to the same conclusion — একত্রিত হওয়া" example="Three unrelated studies converge on the same result, which strengthens the claim considerably."
+::: vocabulary word="converge" pos="verb" register="formal" meaning="when separate, independent pieces of evidence point to the same conclusion (একত্রিত হওয়া)" collocation="converge on, findings converge, evidence converges" example="Three independent studies converge on the same conclusion."
 :::
 
 ## Model Answer

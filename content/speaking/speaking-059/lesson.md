@@ -69,10 +69,10 @@ honest limitation — all delivered live.
 
 ## Vocabulary in Context
 
-::: vocabulary word="anecdotal" pos="adjective" meaning="based on one story or case, and not necessarily representative of the wider group — উপাখ্যানমূলক" example="One happy client is anecdotal — it's not proof the tool works for everyone."
+::: vocabulary word="anecdotal" pos="adjective" register="formal" meaning="based on one story or case, and not necessarily representative of the wider group (উপাখ্যানমূলক)" collocation="anecdotal evidence, merely anecdotal, anecdotal account" example="The story about one late driver is anecdotal, not proof of a trend."
 :::
 
-::: vocabulary word="hold up" pos="phrasal verb" meaning="to remain true or valid when tested more broadly — প্রযোজ্য থাকা" example="I'm not sure that result would hold up across a bigger, more varied group."
+::: vocabulary word="hold up" pos="phrasal verb" register="neutral" meaning="to remain true or valid when tested more broadly (প্রযোজ্য থাকা)" collocation="hold up under scrutiny, hold up well, may not hold up" example="I doubt the finding will hold up on a larger sample."
 :::
 
 ## Self-Check

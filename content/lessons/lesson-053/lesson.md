@@ -339,25 +339,25 @@ You do not need to know every word to understand a difficult English text — un
 
 ## Vocabulary in Context
 
-::: vocabulary word="redundant" pos="adjective" meaning="describing a duplicate component kept as a backup so a system can keep functioning if the primary one fails (অপ্রয়োজনীয় অথচ ব্যাকআপ হিসেবে রক্ষিত)" example="The system uses redundant nodes to maintain availability during hardware failures."
+::: vocabulary word="redundant" pos="adjective" register="technical" meaning="describing a duplicate component kept as a backup so a system can keep functioning if the primary one fails (অপ্রয়োজনীয় অথচ ব্যাকআপ হিসেবে রক্ষিত)" collocation="redundant system, redundant power supply, redundant component" example="The server room has a redundant power supply, so one failure will not cause an outage."
 :::
 
-::: vocabulary word="latency" pos="noun" meaning="a delay between an action and its response, especially in a network or system (বিলম্ব)" example="High network latency reduces how quickly an application responds to requests."
+::: vocabulary word="latency" pos="noun" register="technical" meaning="a delay between an action and its response, especially in a network or system (বিলম্ব)" collocation="low latency, network latency, reduce latency" example="High network latency made the gate cameras lag behind real time."
 :::
 
-::: vocabulary word="throughput" pos="noun" meaning="the amount of work or data a system can process in a given period (কার্যক্ষমতা/প্রক্রিয়াকরণ হার)" example="Adding more servers can improve throughput, but only up to a point."
+::: vocabulary word="throughput" pos="noun" register="technical" meaning="the amount of work or data a system can process in a given period (কার্যক্ষমতা/প্রক্রিয়াকরণ হার)" collocation="high throughput, terminal throughput, maximum throughput" example="The terminal's throughput reached two million containers a year."
 :::
 
-::: vocabulary word="mitigate" pos="verb" meaning="to reduce the severity, seriousness, or likelihood of something negative (প্রশমিত করা)" example="Regular backups help mitigate the risk of permanent data loss."
+::: vocabulary word="mitigate" pos="verb" register="formal" meaning="to reduce the severity, seriousness, or likelihood of something negative (প্রশমিত করা)" collocation="mitigate the risk, mitigate the impact, partly mitigate" example="A second data centre mitigates the risk of a single point of failure."
 :::
 
-::: vocabulary word="trade-off" pos="noun" meaning="an exchange in which a gain in one dimension comes at the cost of a loss in another (ছাড়-বিনিময়/লেনদেন)" example="The architecture involves a trade-off between scalability and coordination complexity."
+::: vocabulary word="trade-off" pos="noun" register="neutral" meaning="an exchange in which a gain in one dimension comes at the cost of a loss in another (ছাড়-বিনিময়/লেনদেন)" collocation="trade-off between, involve a trade-off, unavoidable trade-off" example="The design involves a trade-off between speed and accuracy."
 :::
 
-::: vocabulary word="confounding variable" pos="noun phrase" meaning="an uncontrolled factor that could account for an observed effect, undermining a causal claim (বিভ্রান্তিকর চলক)" example="The conclusion depends on a confounding variable that the study did not control for."
+::: vocabulary word="confounding variable" pos="noun phrase" register="technical" meaning="an uncontrolled factor that could account for an observed effect, undermining a causal claim (বিভ্রান্তিকর চলক)" collocation="control for a confounding variable, potential confounding variable, identify a confounding variable" example="Weather is a confounding variable: it affects both vessel delays and crane productivity."
 :::
 
-::: vocabulary word="domain-specific" pos="adjective" meaning="having a meaning or use that is particular to one specialized field, rather than general usage (ক্ষেত্র-নির্দিষ্ট)" example="'Significant' carries a domain-specific technical meaning in statistics that differs from its everyday sense."
+::: vocabulary word="domain-specific" pos="adjective" register="technical" meaning="having a meaning or use that is particular to one specialized field, rather than general usage (ক্ষেত্র-নির্দিষ্ট)" collocation="domain-specific knowledge, domain-specific term, domain-specific language" example="'Berth window' is domain-specific language that outsiders may not understand."
 :::
 
 ## Guided Reading Practice

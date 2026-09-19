@@ -58,10 +58,10 @@ a third sentence naming exactly which words created the slant.
 
 ## Vocabulary in Context
 
-::: vocabulary word="slant" pos="verb" meaning="to present true information in a way that favors one impression over another — পক্ষপাতমূলকভাবে উপস্থাপন করা" example="The headline slanted the same number to sound far more alarming."
+::: vocabulary word="slant" pos="verb" register="neutral" meaning="to present true information in a way that favors one impression over another (পক্ষপাতমূলকভাবে উপস্থাপন করা)" collocation="slant the facts, slant the story, slant towards" example="The article slants the story by quoting only management."
 :::
 
-::: vocabulary word="emphasis" pos="noun" meaning="the relative weight or importance given to a particular part of a statement — গুরুত্ব" example="The emphasis on 'worrying' made a routine drop sound like a crisis."
+::: vocabulary word="emphasis" pos="noun" register="formal" meaning="the relative weight or importance given to a particular part of a statement (গুরুত্ব)" collocation="place emphasis on, strong emphasis, shift the emphasis" example="The report puts more emphasis on cost than on safety."
 :::
 
 ## Model Answer

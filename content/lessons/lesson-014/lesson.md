@@ -399,19 +399,19 @@ looks like.
 
 ## Vocabulary in Context
 
-::: vocabulary word="capable" pos="adjective" meaning="having the ability or skill to do something (সক্ষম)" example="The participants were capable of recognizing complex patterns."
+::: vocabulary word="capable" pos="adjective" register="formal" meaning="having the ability or skill to do something (সক্ষম)" collocation="capable of, fully capable, highly capable" example="The new cranes are capable of lifting loads of up to sixty tonnes."
 :::
 
-::: vocabulary word="attempt" pos="verb" meaning="to try to do something, especially something difficult (চেষ্টা করা)" example="Researchers attempted to determine the cause of the pattern."
+::: vocabulary word="attempt" pos="verb" register="formal" meaning="to try to do something, especially something difficult (চেষ্টা করা)" collocation="attempt to, make an attempt, failed attempt" example="Several users attempted to log in with expired credentials, triggering the security alert."
 :::
 
-::: vocabulary word="confidence" pos="noun" meaning="a feeling of trust in your own ability to do something (আত্মবিশ্বাস)" example="Regular reading gradually builds a learner's confidence."
+::: vocabulary word="confidence" pos="noun" register="neutral" meaning="a feeling of trust in your own ability to do something (আত্মবিশ্বাস)" collocation="have confidence in, lack confidence, confidence in" example="Consistent on-time delivery has given customers greater confidence in the terminal."
 :::
 
-::: vocabulary word="benefit" pos="verb" meaning="to gain an advantage from something (উপকৃত হওয়া)" example="Learners benefit from practicing the same pattern in several sentences."
+::: vocabulary word="benefit" pos="verb" register="neutral" meaning="to gain an advantage or improvement from something (উপকৃত হওয়া)" collocation="benefit from, greatly benefit, mutually benefit" example="Small exporters benefit from the single-window system because it removes duplicate paperwork."
 :::
 
-::: vocabulary word="succeed" pos="verb" meaning="to achieve something you were trying to do (সফল হওয়া)" example="Readers who succeed in identifying the head noun decode sentences faster."
+::: vocabulary word="succeed" pos="verb" register="neutral" meaning="to achieve something you were trying to do (সফল হওয়া)" collocation="succeed in, successfully, succeed at" example="The team succeeded in restoring the billing system before the month-end deadline."
 :::
 
 ::: note title="Chunks worth learning as whole units"

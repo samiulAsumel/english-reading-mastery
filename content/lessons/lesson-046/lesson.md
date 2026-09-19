@@ -452,22 +452,22 @@ comprehension actually looks like.
 
 ## Vocabulary in Context
 
-::: vocabulary word="automaticity" pos="noun" meaning="the ability to process a familiar structure or word instantly, without conscious effort (স্বয়ংক্রিয়তা)" example="Automaticity with connectors like 'however' and 'therefore' frees attention for harder parts of a sentence."
+::: vocabulary word="automaticity" pos="noun" register="technical" meaning="the ability to process a familiar structure or word instantly, without conscious effort (স্বয়ংক্রিয়তা)" collocation="develop automaticity, reach automaticity, automaticity in reading" example="With practice, experienced readers reach automaticity and spot a sentence's subject and verb without thinking."
 :::
 
-::: vocabulary word="chunking" pos="noun" meaning="processing a group of words as one meaningful unit rather than as separate words (গুচ্ছ প্রক্রিয়াকরণ)" example="Chunking 'as a result of' into one unit is faster than translating each word separately."
+::: vocabulary word="chunking" pos="noun" register="technical" meaning="processing a group of words as one meaningful unit rather than as separate words (গুচ্ছ প্রক্রিয়াকরণ)" collocation="chunking of words, effective chunking, reading in chunks" example="Chunking lets a reader take in 'as a result of the delay' as one unit, rather than six separate words."
 :::
 
-::: vocabulary word="regression" pos="noun" meaning="in reading, repeatedly returning to an earlier point in the text before continuing forward (পশ্চাদ্গমন)" example="Excessive regression after every unfamiliar word slows reading far more than continuing and inferring meaning."
+::: vocabulary word="regression" pos="noun" register="technical" meaning="in reading, repeatedly returning to an earlier point in the text before continuing forward (পশ্চাদ্গমন)" collocation="reading regression, frequent regression, regression to earlier text" example="Constant regression to earlier sentences slows reading and usually signals unfamiliar structures."
 :::
 
-::: vocabulary word="active recall" pos="noun phrase" meaning="deliberately retrieving information from memory, such as summarizing a passage from memory, rather than simply rereading it (সক্রিয় স্মরণ)" example="Active recall after each paragraph builds stronger comprehension than rereading it twice."
+::: vocabulary word="active recall" pos="noun phrase" register="technical" meaning="deliberately retrieving information from memory, such as summarizing a passage from memory, rather than simply rereading it (সক্রিয় স্মরণ)" collocation="practise active recall, use active recall, active recall of key points" example="After each paragraph, use active recall: close the page and state its main claim from memory."
 :::
 
-::: vocabulary word="skim" pos="verb" meaning="to read quickly for overall structure and main idea, rather than for full detail (দ্রুত ভাসাভাসা পড়া)" example="Skimming the headings revealed the chapter's four-part structure before any close reading began."
+::: vocabulary word="skim" pos="verb" register="neutral" meaning="to read quickly for overall structure and main idea, rather than for full detail (দ্রুত ভাসাভাসা পড়া)" collocation="skim the text, skim quickly, skim for the main idea" example="Managers usually skim a long report first to find its recommendation before reading the detail."
 :::
 
-::: vocabulary word="attention budget" pos="noun phrase" meaning="the limited mental focus available during reading, which should be allocated to the most important sentences rather than spent equally on all of them (মনোযোগ-বাজেট)" example="Spending the attention budget on the paragraph's qualification, not its repeated examples, is what advanced reading actually looks like."
+::: vocabulary word="attention budget" pos="noun phrase" register="neutral" meaning="the limited mental focus available during reading, which should be allocated to the most important sentences rather than spent equally on all of them (মনোযোগ-বাজেট)" collocation="spend the attention budget, limited attention budget, manage the attention budget" example="Spend your attention budget on the topic and concluding sentences and give less to the examples."
 :::
 
 ## Guided Reading Practice

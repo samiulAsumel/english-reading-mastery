@@ -596,34 +596,34 @@ you place any comparison sentence you meet.
 
 ## Vocabulary in Context
 
-::: vocabulary word="concession" pos="noun" meaning="an author's acknowledgment that an opposing or limiting point has some validity, without abandoning their own claim (স্বীকৃতি)" example="Although the system is expensive is a concession, not a retraction of the author's main argument."
+::: vocabulary word="concession" pos="noun" register="formal" meaning="an author's acknowledgment that an opposing or limiting point has some validity, without abandoning their own claim (স্বীকৃতি)" collocation="make a concession, grant a concession, partial concession" example="The supplier's concession on delivery times made the higher price easier to accept."
 :::
 
-::: vocabulary word="trade-off" pos="noun" meaning="a balance between a benefit and a cost, where gaining one typically means giving up some of the other (লাভ-ক্ষতির ভারসাম্য)" example="The new system improves speed at the expense of accuracy — a classic trade-off."
+::: vocabulary word="trade-off" pos="noun" register="neutral" meaning="a balance between a benefit and a cost, where gaining one typically means giving up some of the other (লাভ-ক্ষতির ভারসাম্য)" collocation="trade-off between, make a trade-off, difficult trade-off" example="There is a trade-off between speed and safety when loading dangerous goods."
 :::
 
-::: vocabulary word="priority" pos="noun" meaning="something treated as more important than an alternative, especially when a choice must be made (অগ্রাধিকার)" example="Managers should treat long-term outcomes as a higher priority than short-term costs."
+::: vocabulary word="priority" pos="noun" register="neutral" meaning="something treated as more important than an alternative, especially when a choice must be made (অগ্রাধিকার)" collocation="top priority, set priorities, priority over" example="Safety is the terminal's first priority, ahead of speed and cost."
 :::
 
-::: vocabulary word="asymmetrical" pos="adjective" meaning="not balanced or equal on both sides (অসামঞ্জস্যপূর্ণ)" example="The paragraph's asymmetrical comparison gave far more evidence to one side than the other."
+::: vocabulary word="asymmetrical" pos="adjective" register="technical" meaning="not balanced or equal on both sides (অসামঞ্জস্যপূর্ণ)" collocation="asymmetrical relationship, asymmetrical information, highly asymmetrical" example="The negotiation was asymmetrical: the carrier held far more market power than the exporter."
 :::
 
-::: vocabulary word="scalable" pos="adjective" meaning="able to be expanded or adapted to a much larger size without losing effectiveness (সম্প্রসারণযোগ্য)" example="Automated methods are often described as more scalable than traditional, manual ones."
+::: vocabulary word="scalable" pos="adjective" register="technical" meaning="able to be expanded or adapted to a much larger size without losing effectiveness (সম্প্রসারণযোগ্য)" collocation="scalable solution, highly scalable, scalable architecture" example="The team chose a scalable design that can handle ten times today's traffic without a rebuild."
 :::
 
-::: vocabulary word="intuitive" pos="adjective" meaning="easy to use or understand without needing much explanation (সহজবোধ্য/স্বতঃস্ফূর্তভাবে বোধগম্য)" example="As a system becomes more complex, it may also become less intuitive."
+::: vocabulary word="intuitive" pos="adjective" register="neutral" meaning="easy to use or understand without needing much explanation (সহজবোধ্য/স্বতঃস্ফূর্তভাবে বোধগম্য)" collocation="intuitive interface, intuitive design, highly intuitive" example="Clerks adopted the new billing screen quickly because its layout was intuitive."
 :::
 
-::: vocabulary word="alternative" pos="noun" meaning="another option that could be chosen instead of the one being discussed (বিকল্প)" example="The company considered upgrading the system as an alternative to replacing it entirely."
+::: vocabulary word="alternative" pos="noun" register="formal" meaning="another option that could be chosen instead of the one being discussed (বিকল্প)" collocation="viable alternative, alternative to, consider an alternative" example="Rail is a viable alternative to road haulage for bulk cargo over long distances."
 :::
 
-::: vocabulary word="decentralize" pos="verb" meaning="to shift authority or decision-making away from a single central point toward local units (বিকেন্দ্রীকরণ করা)" example="Decentralized systems give local managers greater authority to respond to changing conditions."
+::: vocabulary word="decentralize" pos="verb" register="formal" meaning="to shift authority or decision-making away from a single central point toward local units (বিকেন্দ্রীকরণ করা)" collocation="decentralize decision-making, partly decentralize, decentralize authority" example="The authority decided to decentralize purchasing so that each terminal could order urgent spares."
 :::
 
-::: vocabulary word="comparatively" pos="adverb" meaning="in relation to something else, rather than in an absolute sense (তুলনামূলকভাবে)" example="The new platform is comparatively flexible, though this depends on what it's being compared with."
+::: vocabulary word="comparatively" pos="adverb" register="formal" meaning="in relation to something else, rather than in an absolute sense (তুলনামূলকভাবে)" collocation="comparatively low, comparatively speaking, comparatively new" example="Compared with rival ports, the fees here are comparatively low."
 :::
 
-::: vocabulary word="superlative" pos="adjective" meaning="expressing the highest or lowest degree of a quality, implicitly comparing against every relevant alternative (সর্বোচ্চ/সর্বনিম্ন মাত্রাসূচক)" example="A superlative claim like 'the most effective option' needs comparison evidence covering every real alternative."
+::: vocabulary word="superlative" pos="adjective" register="technical" meaning="expressing the highest or lowest degree of a quality, implicitly comparing against every relevant alternative (সর্বোচ্চ/সর্বনিম্ন মাত্রাসূচক)" collocation="use a superlative, superlative form, superlative claim" example="'The fastest port in the region' is a superlative claim that needs data to back it up."
 :::
 
 ## Guided Reading Practice

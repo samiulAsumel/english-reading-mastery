@@ -450,22 +450,22 @@ onward.
 
 ## Vocabulary in Context
 
-::: vocabulary word="thesis" pos="noun" meaning="the specific position an author takes on their topic, as distinct from the topic itself (মূল বক্তব্য/থিসিস)" example="The book's topic is artificial intelligence, but its thesis is that institutional adaptation matters more than raw technological capability."
+::: vocabulary word="thesis" pos="noun" register="formal" meaning="the specific position an author takes on their topic, as distinct from the topic itself (মূল বক্তব্য/থিসিস)" collocation="central thesis, main thesis, defend a thesis" example="The book's central thesis is that ports compete on reliability, not on price."
 :::
 
-::: vocabulary word="conceptual anchor" pos="noun phrase" meaning="a term an author defines early and then reuses as a fixed reference point throughout the rest of the book (ধারণাগত ভিত্তি)" example="Once defined in Chapter 1, 'organizational readiness' functioned as a conceptual anchor for the rest of the book."
+::: vocabulary word="conceptual anchor" pos="noun phrase" register="formal" meaning="a term an author defines early and then reuses as a fixed reference point throughout the rest of the book (ধারণাগত ভিত্তি)" collocation="serve as a conceptual anchor, key conceptual anchor, conceptual anchor of" example="The term 'dwell time' serves as the book's conceptual anchor and reappears in every chapter."
 :::
 
-::: vocabulary word="argument evolution" pos="noun phrase" meaning="the gradual refinement of an author's position across a book, from a broad early claim to a more precise, qualified final one (যুক্তির ক্রমবিকাশ)" example="The book's argument evolution moved from 'technology is promising' to 'technology helps only under specific organizational conditions.'"
+::: vocabulary word="argument evolution" pos="noun phrase" register="formal" meaning="the gradual refinement of an author's position across a book, from a broad early claim to a more precise, qualified final one (যুক্তির ক্রমবিকাশ)" collocation="trace the argument evolution, gradual argument evolution, argument evolution across" example="Across the book, the argument evolves from 'delays are costly' to 'delays are mostly preventable'."
 :::
 
-::: vocabulary word="triangulation" pos="noun" meaning="supporting one broad claim using several independent types of evidence, such as statistics, interviews, and case studies together (ত্রিভুজীকরণ/বহুমাত্রিক সমর্থন)" example="The author used triangulation, combining historical records, statistics, and interviews to support the same central claim."
+::: vocabulary word="triangulation" pos="noun" register="technical" meaning="supporting one broad claim using several independent types of evidence, such as statistics, interviews, and case studies together (ত্রিভুজীকরণ/বহুমাত্রিক সমর্থন)" collocation="data triangulation, use triangulation, triangulation of evidence" example="The author uses triangulation, combining port statistics, interviews, and case studies to support one claim."
 :::
 
-::: vocabulary word="steelman" pos="verb" meaning="to reconstruct the strongest, most reasonable version of an argument before evaluating or challenging it (যুক্তির সবচেয়ে শক্তিশালী রূপ পুনর্গঠন করা)" example="Before critiquing the thesis, a careful reader steelmans it, stating it in its most persuasive possible form."
+::: vocabulary word="steelman" pos="verb" register="neutral" meaning="to reconstruct the strongest, most reasonable version of an argument before evaluating or challenging it (যুক্তির সবচেয়ে শক্তিশালী রূপ পুনর্গঠন করা)" collocation="steelman an argument, steelman the opposing view, steelman before you criticise" example="Before criticising the report, steelman it: state its best case in the fairest possible terms."
 :::
 
-::: vocabulary word="carry-forward information" pos="noun phrase" meaning="the one idea from a completed chapter most likely to matter for understanding the chapters that follow (পরবর্তী অংশের জন্য প্রাসঙ্গিক তথ্য)" example="The carry-forward information from Chapter 2 was its definition of organizational readiness."
+::: vocabulary word="carry-forward information" pos="noun phrase" register="technical" meaning="the one idea from a completed chapter most likely to matter for understanding the chapters that follow (পরবর্তী অংশের জন্য প্রাসঙ্গিক তথ্য)" collocation="key carry-forward information, note the carry-forward information, carry-forward point" example="The definition of 'throughput' in chapter two is the carry-forward information needed for chapter five."
 :::
 
 ## Guided Reading Practice

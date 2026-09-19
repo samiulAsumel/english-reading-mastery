@@ -552,28 +552,28 @@ case excluded from the general rule. Unless: if not.
 
 ## Vocabulary in Context
 
-::: vocabulary word="prerequisite" pos="noun" meaning="a necessary condition that must be satisfied before something else becomes possible, carrying a built-in sense of sequence (পূর্বশর্ত)" example="Completing the security training is a prerequisite for requesting system authorization."
+::: vocabulary word="prerequisite" pos="noun" register="formal" meaning="a necessary condition that must be satisfied before something else becomes possible, carrying a built-in sense of sequence (পূর্বশর্ত)" collocation="a prerequisite for, essential prerequisite, prerequisite of" example="A safety induction is a prerequisite for entering the yard."
 :::
 
-::: vocabulary word="contingent on" pos="adjective phrase" meaning="dependent on a specified condition, typically a strong dependency signal in formal or business writing (শর্তসাপেক্ষ)" example="The agreement is contingent on regulatory approval, which has not yet been granted."
+::: vocabulary word="contingent on" pos="adjective phrase" register="formal" meaning="dependent on a specified condition, typically a strong dependency signal in formal or business writing (শর্তসাপেক্ষ)" collocation="be contingent on, entirely contingent on, contingent on approval" example="The loan is contingent on the terminal passing its safety audit."
 :::
 
-::: vocabulary word="counterfactual conditional" pos="noun phrase" meaning="a conditional sentence that imagines an alternative past that did not actually happen (বাস্তবতা-বিরোধী শর্তবাক্য)" example="'If the organization had invested earlier, it might have avoided the problem' is a counterfactual conditional about a past that never occurred."
+::: vocabulary word="counterfactual conditional" pos="noun phrase" register="technical" meaning="a conditional sentence that imagines an alternative past that did not actually happen (বাস্তবতা-বিরোধী শর্তবাক্য)" collocation="a counterfactual conditional, form a counterfactual conditional, counterfactual conditional about" example="'If the alarm had sounded, the collision would have been avoided' is a counterfactual conditional."
 :::
 
-::: vocabulary word="biconditional" pos="noun / adjective" meaning="a relationship holding in both directions at once, expressed by 'if and only if' or 'iff' (দ্বিমুখী শর্তসম্পর্ক)" example="The definition of 'complete' in the policy is biconditional: complete if and only if both payment and receipt conditions are met."
+::: vocabulary word="biconditional" pos="noun / adjective" register="technical" meaning="a relationship holding in both directions at once, expressed by 'if and only if' or 'iff' (দ্বিমুখী শর্তসম্পর্ক)" collocation="a biconditional, state a biconditional, biconditional relationship" example="'The gate opens if and only if the booking is valid' is a biconditional: it works in both directions."
 :::
 
-::: vocabulary word="concessive conditional" pos="noun phrase" meaning="a conditional built with 'even if,' where the stated outcome holds regardless of whether the condition occurs (ছাড়যুক্ত শর্তবাক্য)" example="'Even if demand increases, the system should remain operational' is a concessive conditional — the outcome doesn't depend on the condition."
+::: vocabulary word="concessive conditional" pos="noun phrase" register="technical" meaning="a conditional built with 'even if,' where the stated outcome holds regardless of whether the condition occurs (ছাড়যুক্ত শর্তবাক্য)" collocation="a concessive conditional, form a concessive conditional, use of a concessive conditional" example="'Even if prices fall, the project will proceed' is a concessive conditional."
 :::
 
-::: vocabulary word="eligibility" pos="noun" meaning="the state of having met the requirements to qualify for something, distinct from having formally received it (যোগ্যতা)" example="Completing the training establishes eligibility for access, but authorization must still be separately granted."
+::: vocabulary word="eligibility" pos="noun" register="formal" meaning="the state of having met the requirements to qualify for something, distinct from having formally received it (যোগ্যতা)" collocation="eligibility criteria, check eligibility, determine eligibility" example="Eligibility for the rebate depends on the vessel's annual call count."
 :::
 
-::: vocabulary word="exactly one" pos="quantifier phrase" meaning="a quantity bound combining 'at least one' and 'at most one' — one, and only one (ঠিক একটি)" example="The form requires exactly one signature: not zero, and not two or more."
+::: vocabulary word="exactly one" pos="quantifier phrase" register="neutral" meaning="a quantity bound combining 'at least one' and 'at most one' — one, and only one (ঠিক একটি)" collocation="exactly one, require exactly one, exactly one of" example="Each application must have exactly one authorised signatory."
 :::
 
-::: vocabulary word="scope restriction" pos="noun phrase" meaning="the specific part of a sentence a limiting word like 'only' actually narrows, which can shift depending on its placement (পরিধি সীমাবদ্ধতা)" example="Moving 'only' from before 'trained employees' to before 'during working hours' completely changes the sentence's scope restriction."
+::: vocabulary word="scope restriction" pos="noun phrase" register="technical" meaning="the specific part of a sentence a limiting word like 'only' actually narrows, which can shift depending on its placement (পরিধি সীমাবদ্ধতা)" collocation="a scope restriction, apply a scope restriction, scope restriction of" example="'Only managers may approve refunds' places a scope restriction on who approves, not on what is refunded."
 :::
 
 ## Guided Reading Practice

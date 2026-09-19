@@ -71,6 +71,14 @@ course is trying to build.
 5. Run `npm run build` (validates + generates `dist/`) before considering
    the lesson done, and mention anything the validator caught.
 
+## Vocabulary cards: professional and realistic
+
+Every `::: vocabulary` card follows the "Vocabulary card standard" in
+`CONTENT_GUIDE.md`: a real professional word, a one-line dictionary-quality
+meaning, `register`, `collocation`, and one realistic workplace/report/news
+example. Apply this to every new lesson automatically, and never write
+textbook-style examples ("I understand the problem.").
+
 ## Everything else
 
 Code style, the block-type reference, and the technical add-a-lesson

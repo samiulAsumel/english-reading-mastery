@@ -61,10 +61,10 @@ ready to explain why.
 
 ## Vocabulary in Context
 
-::: vocabulary word="inspect" pos="verb" meaning="to look at something carefully to check its condition — পরিদর্শন করা" example="Every container was inspected before it left the terminal."
+::: vocabulary word="inspect" pos="verb" register="formal" meaning="to look at something carefully to check its condition (পরিদর্শন করা)" collocation="inspect the cargo, carefully inspect, inspect for damage" example="Officers inspect every refrigerated container before it is loaded."
 :::
 
-::: vocabulary word="faulty" pos="adjective" meaning="not working correctly, because of a defect — ত্রুটিপূর্ণ" example="The faulty sensor was replaced before the line restarted."
+::: vocabulary word="faulty" pos="adjective" register="neutral" meaning="not working correctly, because of a defect (ত্রুটিপূর্ণ)" collocation="faulty equipment, faulty wiring, faulty component" example="A faulty sensor caused the gate to stay closed."
 :::
 
 ## Model Answer

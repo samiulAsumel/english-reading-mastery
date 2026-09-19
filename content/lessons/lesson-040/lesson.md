@@ -325,34 +325,34 @@ not.
 
 ## Vocabulary in Context
 
-::: vocabulary word="scope" pos="noun" meaning="the specific part of a sentence that a word's logical effect actually reaches, rather than the sentence as a whole (পরিসর/সীমা)" example="Moving 'only' from before 'the manager' to before 'the proposal' changes its entire scope."
+::: vocabulary word="scope" pos="noun" register="technical" meaning="the specific part of a sentence that a word's logical effect actually reaches, rather than the sentence as a whole (পরিসর/সীমা)" collocation="scope of negation, wide scope, narrow scope" example="In 'All the gates did not fail', the scope of the negation is unclear."
 :::
 
-::: vocabulary word="quantifier" pos="noun" meaning="a word indicating an amount or proportion, such as some, many, most, or all, without giving an exact number (পরিমাণবাচক শব্দ)" example="Treating the quantifiers 'many' and 'most' as identical overstates what the evidence actually shows."
+::: vocabulary word="quantifier" pos="noun" register="technical" meaning="a word indicating an amount or proportion, such as some, many, most, or all, without giving an exact number (পরিমাণবাচক শব্দ)" collocation="universal quantifier, quantifier such as, use a quantifier" example="'Some', 'most', and 'all' are quantifiers that state how many, without giving a number."
 :::
 
-::: vocabulary word="not necessarily" pos="phrase" meaning="rejects certainty about a claim without denying that it could still be true (অগত্যা নয়)" example="Automation does not necessarily improve efficiency — it might, but improvement is not guaranteed."
+::: vocabulary word="not necessarily" pos="phrase" register="neutral" meaning="rejects certainty about a claim without denying that it could still be true (অগত্যা নয়)" collocation="not necessarily true, not necessarily mean, not necessarily the case" example="A higher price does not necessarily mean a better service."
 :::
 
-::: vocabulary word="by no means" pos="phrase" meaning="absolutely not; used to deny something firmly, more strongly than a plain 'not' (কোনোভাবেই না)" example="The result is by no means certain, despite the encouraging early data."
+::: vocabulary word="by no means" pos="phrase" register="formal" meaning="absolutely not; used to deny something firmly, more strongly than a plain 'not' (কোনোভাবেই না)" collocation="by no means certain, by no means unusual, by no means all" example="The outcome is by no means certain, despite the early positive results."
 :::
 
-::: vocabulary word="far from" pos="phrase" meaning="definitely not the case, and often further from it than the reader might assume (মোটেও নয়)" example="The results are far from conclusive, despite the confident tone of the report."
+::: vocabulary word="far from" pos="phrase" register="neutral" meaning="definitely not the case, and often further from it than the reader might assume (মোটেও নয়)" collocation="far from certain, far from ideal, far from over" example="The recovery is far from complete; volumes remain twenty percent below last year."
 :::
 
-::: vocabulary word="all but" pos="phrase" meaning="almost all of a group, with a small, specified number of exceptions (একটি ব্যতিক্রম বাদে প্রায় সবই)" example="All but two employees completed the mandatory training."
+::: vocabulary word="all but" pos="phrase" register="formal" meaning="almost all of a group, with a small, specified number of exceptions (একটি ব্যতিক্রম বাদে প্রায় সবই)" collocation="all but finished, all but impossible, all but a few" example="The project is all but complete, with only the final safety inspection outstanding."
 :::
 
-::: vocabulary word="a small proportion of" pos="phrase" meaning="a minor share of a total, smaller than 'some' typically implies (একটি ক্ষুদ্র অংশ)" example="Only a small proportion of the observed differences can be attributed to the intervention."
+::: vocabulary word="a small proportion of" pos="phrase" register="formal" meaning="a minor share of a total, smaller than 'some' typically implies (একটি ক্ষুদ্র অংশ)" collocation="only a small proportion of, a small proportion of cases, a small proportion of the total" example="Only a small proportion of containers are physically inspected; the rest are cleared on documents."
 :::
 
-::: vocabulary word="hardly" pos="adverb" meaning="almost not at all; barely, and often paired with inverted word order when placed first in a sentence (প্রায় না বললেই চলে)" example="The system hardly ever fails, even under heavy load."
+::: vocabulary word="hardly" pos="adverb" register="formal" meaning="almost not at all; barely, and often paired with inverted word order when placed first in a sentence (প্রায় না বললেই চলে)" collocation="hardly ever, hardly any, hardly surprising" example="Hardly had the vessel berthed when the crane failed."
 :::
 
-::: vocabulary word="qualify a claim" pos="phrase" meaning="to limit, soften, or add conditions to how strongly a claim is being made (দাবিকে সীমিত/শর্তসাপেক্ষ করা)" example="The author qualifies the claim by adding 'under certain conditions' to the end of the sentence."
+::: vocabulary word="qualify a claim" pos="phrase" register="formal" meaning="to limit, soften, or add conditions to how strongly a claim is being made (দাবিকে সীমিত/শর্তসাপেক্ষ করা)" collocation="qualify a claim, carefully qualify, qualify a statement" example="Adding 'in most cases' qualifies the claim and makes it easier to defend."
 :::
 
-::: vocabulary word="resolve the scope" pos="phrase" meaning="to determine exactly which part of a sentence a negation, quantifier, or limiter actually applies to (পরিসর নির্ধারণ করা)" example="Before translating the sentence, resolve the scope of 'only' — does it modify the subject or the object?"
+::: vocabulary word="resolve the scope" pos="phrase" register="technical" meaning="to determine exactly which part of a sentence a negation, quantifier, or limiter actually applies to (পরিসর নির্ধারণ করা)" collocation="resolve the scope of, resolve scope ambiguity, resolve the scope of negation" example="To resolve the scope of 'only', ask which word or phrase it is meant to limit."
 :::
 
 ## Guided Reading Practice

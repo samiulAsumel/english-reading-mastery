@@ -359,22 +359,22 @@ row below in your head before moving on:
 Three of today's head nouns haven't had their own vocabulary card yet,
 and three more are worth adding for words this lesson leans on heavily:
 
-::: vocabulary word="information" pos="noun" meaning="facts or details about something; uncountable (তথ্য)" example="People often need more information before they can make a good decision."
+::: vocabulary word="information" pos="noun" register="neutral" meaning="facts or details about something; uncountable, so it never takes a plural (তথ্য)" collocation="provide information, sensitive information, further information" example="The customs portal asks importers to submit information about the cargo at least 24 hours before arrival."
 :::
 
-::: vocabulary word="research" pos="noun" meaning="careful study of a subject to discover new facts; uncountable, used with no article for the general activity (গবেষণা)" example="Research on decision-making has continued to develop for decades."
+::: vocabulary word="research" pos="noun" register="formal" meaning="careful study of a subject to discover new facts; uncountable when it means the general activity (গবেষণা)" collocation="conduct research, market research, research shows" example="Market research showed that shippers care more about reliability than about price."
 :::
 
-::: vocabulary word="study" pos="noun" meaning="a piece of research that examines a specific question — countable, unlike research itself (গবেষণা/সমীক্ষা)" example="A study of two hundred participants produced an unexpected result."
+::: vocabulary word="study" pos="noun" register="formal" meaning="a piece of research that examines a specific question; countable, unlike research (গবেষণা/সমীক্ষা)" collocation="a recent study, conduct a study, the study found" example="A recent study of thirty ports found that automation reduced gate delays by a quarter."
 :::
 
-::: vocabulary word="specific" pos="adjective" meaning="particular and clearly identified, not general (সুনির্দিষ্ট)" example="The article is used before a specific, already-identified noun."
+::: vocabulary word="specific" pos="adjective" register="neutral" meaning="clearly identified and particular, not general (সুনির্দিষ্ট)" collocation="specific requirements, specific example, be specific" example="The contract lists specific penalties for late delivery, not just a general clause."
 :::
 
-::: vocabulary word="context" pos="noun" meaning="the situation or circumstances that help explain a word's or sentence's meaning (প্রসঙ্গ)" example="Whether 'the' or 'a' is correct often depends entirely on context."
+::: vocabulary word="context" pos="noun" register="formal" meaning="the situation or surrounding circumstances that help explain what something means (প্রসঙ্গ)" collocation="in context, in the context of, political context" example="Taken out of context, the manager's comment about cutting costs sounded far harsher than intended."
 :::
 
-::: vocabulary word="unique" pos="adjective" meaning="being the only one of its kind (অদ্বিতীয়/একক)" example="A superlative names a unique, one-of-a-kind ranking, which is why it almost always takes 'the'."
+::: vocabulary word="unique" pos="adjective" register="formal" meaning="being the only one of its kind (অদ্বিতীয়/একক)" collocation="unique opportunity, unique identifier, uniquely positioned" example="Every shipment is assigned a unique reference number that follows it from origin to delivery."
 :::
 
 ## Guided Reading Practice — Reference Tracking

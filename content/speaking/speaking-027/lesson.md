@@ -67,10 +67,10 @@ moving straight through to the second clause.
 
 ## Vocabulary in Context
 
-::: vocabulary word="despite" pos="preposition" meaning="in spite of something, followed directly by a noun rather than a full clause — সত্ত্বেও" example="Despite the cost, the software paid for itself within a year."
+::: vocabulary word="despite" pos="preposition" register="formal" meaning="in spite of something, followed directly by a noun rather than a full clause (সত্ত্বেও)" collocation="despite the delay, despite the fact that, despite this" example="Despite the storm, the vessel berthed on time."
 :::
 
-::: vocabulary word="whereas" pos="conjunction" meaning="a word for stating a plain contrast between two things, with no concession implied — পক্ষান্তরে" example="The old system was slow, whereas the new one processes orders instantly."
+::: vocabulary word="whereas" pos="conjunction" register="formal" meaning="a word for stating a plain contrast between two things, with no concession implied (পক্ষান্তরে)" collocation="whereas, contrast with whereas, whereas the other" example="Route A is quick, whereas Route B is cheap."
 :::
 
 ## Self-Check

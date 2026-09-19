@@ -59,13 +59,13 @@ resist the pull toward a vague, all-purpose "better."
 
 ## Vocabulary in Context
 
-::: vocabulary word="dimension" pos="noun" meaning="the specific respect or criterion a comparison is being made along, such as speed, cost, or reliability — মাত্রা" example="Before agreeing the new system is better, ask which dimension it's better on."
+::: vocabulary word="dimension" pos="noun" register="formal" meaning="the specific respect or criterion a comparison is being made along, such as speed, cost, or reliability (মাত্রা)" collocation="along one dimension, key dimension, comparison dimension" example="The two ports are compared along one dimension: waiting time."
 :::
 
-::: vocabulary word="whereas" pos="conjunction" meaning="introduces a clean, two-sided contrast between two things — যেখানে/অথচ" example="Manual entry is slow to correct, whereas the automated system flags errors instantly."
+::: vocabulary word="whereas" pos="conjunction" register="formal" meaning="introduces a clean, two-sided contrast between two things (যেখানে/অথচ)" collocation="whereas, contrast with whereas, whereas the other" example="Port A is fast, whereas Port B is cheap."
 :::
 
-::: vocabulary word="trade-off" pos="noun" meaning="a situation where gaining an advantage on one dimension costs something on another — ছাড়/বিনিময়" example="The trade-off for faster check-in was a higher upfront equipment cost."
+::: vocabulary word="trade-off" pos="noun" register="neutral" meaning="a situation where gaining an advantage on one dimension costs something on another (ছাড়/বিনিময়)" collocation="trade-off between, difficult trade-off, accept a trade-off" example="Speed comes at a trade-off with inspection quality."
 :::
 
 ## Model Answer

@@ -68,10 +68,10 @@ definition.
 
 ## Vocabulary in Context
 
-::: vocabulary word="on the fly" pos="phrase" meaning="done immediately, without preparation — তাৎক্ষণিকভাবে" example="She explained the term on the fly, without ever stopping to plan it."
+::: vocabulary word="on the fly" pos="phrase" register="neutral" meaning="done immediately, without preparation (তাৎক্ষণিকভাবে)" collocation="on the fly, decide on the fly, explain on the fly" example="You often have to explain a technical term on the fly."
 :::
 
-::: vocabulary word="in other words" pos="phrase" meaning="a spoken signal that a simpler restatement is coming — অন্য কথায়" example="It's asynchronous — in other words, it doesn't wait for the first task to finish."
+::: vocabulary word="in other words" pos="phrase" register="neutral" meaning="a spoken signal that a simpler restatement is coming (অন্য কথায়)" collocation="in other words, say in other words, and in other words" example="'Demurrage is a delay charge; in other words, a fee for keeping a container too long.'"
 :::
 
 ## Self-Check

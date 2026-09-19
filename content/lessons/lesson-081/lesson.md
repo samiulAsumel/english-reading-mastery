@@ -465,28 +465,28 @@ slogan, you have genuinely understood it.
 
 ## Vocabulary in Context
 
-::: vocabulary word="book thesis" pos="noun phrase" meaning="a book's most fully developed answer to its central question, usually more precise and conditional than its opening claim (গ্রন্থের মূল অভিসন্দর্ভ)" example="The book thesis emerged only in its final chapters: automation's value is conditional on organizational readiness, not automatic."
+::: vocabulary word="book thesis" pos="noun phrase" register="formal" meaning="a book's most fully developed answer to its central question, usually more precise and conditional than its opening claim (গ্রন্থের মূল অভিসন্দর্ভ)" collocation="state the book thesis, book thesis of, central book thesis" example="The book thesis emerges only in the last chapter: reliability, not price, decides where cargo goes."
 :::
 
-::: vocabulary word="chapter relationship" pos="noun phrase" meaning="the specific logical connection — dependency, evidence, contrast, refinement, expansion — between one chapter and the one before it (অধ্যায় সম্পর্ক)" example="The chapter relationship here was refinement: chapter 5 replaced chapter 2's simple model with a more complex one."
+::: vocabulary word="chapter relationship" pos="noun phrase" register="formal" meaning="the specific logical connection — dependency, evidence, contrast, refinement, expansion — between one chapter and the one before it (অধ্যায় সম্পর্ক)" collocation="identify the chapter relationship, chapter relationship between, logical chapter relationship" example="The relationship between chapters three and four is refinement: the second narrows the first chapter's claim."
 :::
 
-::: vocabulary word="distributed thesis" pos="noun phrase" meaning="a thesis built up gradually across many chapters rather than stated completely in the book's opening pages (বিস্তৃত অভিসন্দর্ভ)" example="Because the thesis was distributed, no single chapter could be read in isolation and expected to reveal the author's full position."
+::: vocabulary word="distributed thesis" pos="noun phrase" register="course term" meaning="a thesis built up gradually across many chapters rather than stated completely in the book's opening pages (বিস্তৃত অভিসন্দর্ভ)" collocation="a distributed thesis, build a distributed thesis, distributed thesis across" example="The author builds a distributed thesis, so no single chapter states the complete argument."
 :::
 
-::: vocabulary word="conceptual network" pos="noun phrase" meaning="the full set of connections between a book's key concepts, showing how they relate to and depend on each other (ধারণাগত নেটওয়ার্ক)" example="Mapping the conceptual network revealed that 'efficiency' connected outward to measurement, cost, reliability, and organizational capability alike."
+::: vocabulary word="conceptual network" pos="noun phrase" register="formal" meaning="the full set of connections between a book's key concepts, showing how they relate to and depend on each other (ধারণাগত নেটওয়ার্ক)" collocation="map the conceptual network, conceptual network of, complex conceptual network" example="The conceptual network links 'dwell time', 'congestion', and 'cost' across all six chapters."
 :::
 
-::: vocabulary word="structural blueprint" pos="noun phrase" meaning="a table of contents read as a deliberate map of a book's intellectual architecture, rather than a simple page-number index (কাঠামোগত নকশা)" example="Reading the table of contents as a structural blueprint predicted the book's problem-to-recommendation arc before the first chapter began."
+::: vocabulary word="structural blueprint" pos="noun phrase" register="formal" meaning="a table of contents read as a deliberate map of a book's intellectual architecture, rather than a simple page-number index (কাঠামোগত নকশা)" collocation="read as a structural blueprint, structural blueprint of, use as a structural blueprint" example="Read carefully, the table of contents is a structural blueprint for the book's argument."
 :::
 
-::: vocabulary word="book-level implication" pos="noun phrase" meaning="the practical consequence that follows from a book's thesis, distinct from the thesis itself and from any evaluation of its argument (গ্রন্থ-পর্যায়ের প্রভাব)" example="The book-level implication of the thesis was that organizations should invest in training alongside any automation rollout."
+::: vocabulary word="book-level implication" pos="noun phrase" register="course term" meaning="the practical consequence that follows from a book's thesis, distinct from the thesis itself and from any evaluation of its argument (গ্রন্থ-পর্যায়ের প্রভাব)" collocation="draw a book-level implication, book-level implication of, main book-level implication" example="The book-level implication is that ports should invest in reliability before capacity."
 :::
 
-::: vocabulary word="intellectual architecture" pos="noun phrase" meaning="the overall structure of how a book's ideas connect and build on each other, from central question through chapters to final thesis (বুদ্ধিবৃত্তিক কাঠামো)" example="Understanding the book's intellectual architecture meant seeing all twelve chapters as one connected system, not twelve separate essays."
+::: vocabulary word="intellectual architecture" pos="noun phrase" register="formal" meaning="the overall structure of how a book's ideas connect and build on each other, from central question through chapters to final thesis (বুদ্ধিবৃত্তিক কাঠামো)" collocation="clear intellectual architecture, map the intellectual architecture, intellectual architecture of" example="The intellectual architecture runs from a central question through five chapters to a final thesis."
 :::
 
-::: vocabulary word="thesis refinement" pos="noun phrase" meaning="the process by which a book's central claim becomes progressively more precise and conditional across successive chapters (অভিসন্দর্ভের পরিমার্জন)" example="Thesis refinement took the book from 'automation increases productivity' to a claim conditioned on process design and organizational capability."
+::: vocabulary word="thesis refinement" pos="noun phrase" register="formal" meaning="the process by which a book's central claim becomes progressively more precise and conditional across successive chapters (অভিসন্দর্ভের পরিমার্জন)" collocation="thesis refinement, gradual thesis refinement, thesis refinement across" example="Thesis refinement is visible: a broad claim in chapter one becomes a conditional one by chapter six."
 :::
 
 ## Guided Reading Practice

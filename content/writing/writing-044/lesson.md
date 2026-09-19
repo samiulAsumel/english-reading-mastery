@@ -63,10 +63,10 @@ and its qualification intact.
 
 ## Vocabulary in Context
 
-::: vocabulary word="illustration" pos="noun" meaning="a single concrete example used to make an idea vivid, weaker on its own than systematic evidence — দৃষ্টান্ত" example="One warehouse's story is an illustration, not evidence, that the new system works everywhere."
+::: vocabulary word="illustration" pos="noun" register="formal" meaning="a single concrete example used to make an idea vivid, weaker on its own than systematic evidence (দৃষ্টান্ত)" collocation="a vivid illustration, illustration of, serve as an illustration" example="The delayed shipment serves as an illustration of poor coordination."
 :::
 
-::: vocabulary word="attribute to" pos="phrasal verb" meaning="to credit something as the cause of an outcome, often limited by a hedge like 'partly' — আরোপ করা" example="The improvement should not be attributed to the software alone."
+::: vocabulary word="attribute to" pos="phrasal verb" register="formal" meaning="to credit something as the cause of an outcome, often limited by a hedge like 'partly' (আরোপ করা)" collocation="attribute to, be attributed to, partly attribute to" example="The improvement was partly attributed to the new roster."
 :::
 
 ## Model Answer

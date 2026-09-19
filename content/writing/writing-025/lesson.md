@@ -61,10 +61,10 @@ the spotlight on *the shipment* as what was affected.
 
 ## Vocabulary in Context
 
-::: vocabulary word="emphasize" pos="verb" meaning="to give special importance to one part of a sentence or idea — গুরুত্ব দেওয়া" example="A cleft sentence lets a writer emphasize exactly which cause they mean."
+::: vocabulary word="emphasize" pos="verb" register="formal" meaning="to give special importance to one part of a sentence or idea (গুরুত্ব দেওয়া)" collocation="emphasize the importance, strongly emphasize, emphasize that" example="The memo emphasizes that the deadline cannot move."
 :::
 
-::: vocabulary word="spotlight" pos="noun" meaning="here, the part of a sentence the reader's attention is directed toward — মনোযোগের কেন্দ্র" example="Passive voice can put the spotlight on the result rather than on who caused it."
+::: vocabulary word="spotlight" pos="noun" register="neutral" meaning="the part of a sentence that receives the reader's attention (মনোযোগের কেন্দ্র)" collocation="in the spotlight, put the spotlight on, spotlight on" example="Placing 'safety' at the start of the sentence puts the spotlight on it."
 :::
 
 ## Model Answer

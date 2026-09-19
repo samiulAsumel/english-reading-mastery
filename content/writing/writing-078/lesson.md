@@ -57,10 +57,10 @@ genuine limitation or cost. Then label each sentence with its job:
 
 ## Vocabulary in Context
 
-::: vocabulary word="concede" pos="verb" meaning="to admit a point, often a limitation, that weakens your own case slightly — স্বীকার করা" example="The author concedes that the method has a real cost before defending its overall value."
+::: vocabulary word="concede" pos="verb" register="formal" meaning="to admit a point, often a limitation, that weakens your own case slightly (স্বীকার করা)" collocation="concede a point, concede that, concede a limitation" example="The report concedes a limitation: the sample was small."
 :::
 
-::: vocabulary word="function" pos="noun" meaning="the job a sentence performs within an argument, separate from its literal content — কাজ/ভূমিকা" example="Two sentences can look similar but serve a completely different function in the paragraph."
+::: vocabulary word="function" pos="noun" register="formal" meaning="the job a sentence performs within an argument, separate from its literal content (কাজ/ভূমিকা)" collocation="the function of, perform a function, rhetorical function" example="The function of the last sentence is to qualify the claim."
 :::
 
 ## Model Answer

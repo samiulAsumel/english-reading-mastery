@@ -329,28 +329,28 @@ into a critical-reading skill.
 
 ## Vocabulary in Context
 
-::: vocabulary word="generalization gap" pos="noun phrase" meaning="the missing bridge between a claim about a sample and a broader claim about the whole population it's drawn from (সাধারণীকরণের শূন্যতা)" example="Four teams improving under the new system leaves a generalization gap before concluding the whole organization will improve too."
+::: vocabulary word="generalization gap" pos="noun phrase" register="course term" meaning="the missing bridge between a claim about a sample and a broader claim about the whole population it's drawn from (সাধারণীকরণের শূন্যতা)" collocation="a generalization gap, spot a generalization gap, generalization gap between" example="A generalization gap exists when a study of one port is used to make claims about all ports."
 :::
 
-::: vocabulary word="measurement gap" pos="noun phrase" meaning="the mismatch between what was actually measured or reported and the broader concept a conclusion claims to establish (পরিমাপের শূন্যতা)" example="'Users reported it was faster' has a measurement gap before it can support 'processing time objectively improved.'"
+::: vocabulary word="measurement gap" pos="noun phrase" register="course term" meaning="the mismatch between what was actually measured or reported and the broader concept a conclusion claims to establish (পরিমাপের শূন্যতা)" collocation="a measurement gap, spot a measurement gap, measurement gap between" example="The report's measurement gap is that it records complaints but claims to measure satisfaction."
 :::
 
-::: vocabulary word="definition gap" pos="noun phrase" meaning="an argument weakness arising from a key term being defined more narrowly than the claim built on it requires (সংজ্ঞাগত শূন্যতা)" example="Defining 'efficient' as only 'fast' creates a definition gap if the argument then claims broader resource efficiency."
+::: vocabulary word="definition gap" pos="noun phrase" register="course term" meaning="an argument weakness arising from a key term being defined more narrowly than the claim built on it requires (সংজ্ঞাগত শূন্যতা)" collocation="a definition gap, spot a definition gap, definition gap in" example="A definition gap arose because 'delay' was defined as two hours, yet the conclusion covered all lateness."
 :::
 
-::: vocabulary word="material assumption" pos="noun phrase" meaning="an assumption confirmed as necessary by the 'if this were false' test — one whose falsity would collapse the argument's conclusion (তাৎপর্যপূর্ণ অনুমান)" example="Testing it as false revealed that 'the savings justify the cost' was a material assumption, not just a helpful one."
+::: vocabulary word="material assumption" pos="noun phrase" register="technical" meaning="an assumption confirmed as necessary by the 'if this were false' test — one whose falsity would collapse the argument's conclusion (তাৎপর্যপূর্ণ অনুমান)" collocation="identify a material assumption, a material assumption, material assumption behind" example="The forecast's material assumption is stable fuel prices; if that fails, the whole budget fails."
 :::
 
-::: vocabulary word="self-reported measure" pos="noun phrase" meaning="data based on what someone said, felt, or perceived, as distinct from an independently, objectively measured quantity (স্ব-প্রতিবেদিত পরিমাপ)" example="A self-reported measure of satisfaction is not the same evidence as an objectively measured drop in processing time."
+::: vocabulary word="self-reported measure" pos="noun phrase" register="technical" meaning="data based on what someone said, felt, or perceived, as distinct from an independently, objectively measured quantity (স্ব-প্রতিবেদিত পরিমাপ)" collocation="rely on a self-reported measure, self-reported measure of, limits of self-reported measures" example="Job satisfaction was a self-reported measure, so it may not reflect actual behaviour."
 :::
 
-::: vocabulary word="comparison gap" pos="noun phrase" meaning="the missing criterion in a claim that one option is 'better' than another, without which the comparison can't actually be judged (তুলনার শূন্যতা)" example="'System A is cheaper, therefore better' has a comparison gap: better according to which criterion besides cost?"
+::: vocabulary word="comparison gap" pos="noun phrase" register="course term" meaning="the missing criterion in a claim that one option is 'better' than another, without which the comparison can't actually be judged (তুলনার শূন্যতা)" collocation="a comparison gap, spot a comparison gap, comparison gap in" example="Calling one system 'better' without naming a criterion leaves a comparison gap."
 :::
 
-::: vocabulary word="insufficient evidence" pos="noun phrase" meaning="evidence that does not, by itself, establish a conclusion — a more precise and defensible claim than declaring the conclusion false (অপর্যাপ্ত প্রমাণ)" example="Rather than call the claim false, the honest verdict was that the evidence was insufficient to establish it either way."
+::: vocabulary word="insufficient evidence" pos="noun phrase" register="formal" meaning="evidence that does not, by itself, establish a conclusion — a more precise and defensible claim than declaring the conclusion false (অপর্যাপ্ত প্রমাণ)" collocation="insufficient evidence, on the grounds of insufficient evidence, find insufficient evidence" example="The court found insufficient evidence that the carrier had breached the contract."
 :::
 
-::: vocabulary word="argument bridge" pos="noun phrase" meaning="the explicit, statable link — often an unstated assumption — connecting an argument's evidence to its conclusion (যুক্তির সেতু)" example="Naming the argument bridge turned a vague sense of doubt into the precise claim: speed alone doesn't establish 'better.'"
+::: vocabulary word="argument bridge" pos="noun phrase" register="course term" meaning="the explicit, statable link — often an unstated assumption — connecting an argument's evidence to its conclusion (যুক্তির সেতু)" collocation="build an argument bridge, state the argument bridge, argument bridge between" example="The argument bridge is the unstated claim that fewer complaints mean higher satisfaction."
 :::
 
 ## Guided Reading Practice

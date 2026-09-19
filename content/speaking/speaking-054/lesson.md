@@ -67,10 +67,10 @@ all spoken live, in order.
 
 ## Vocabulary in Context
 
-::: vocabulary word="walk through" pos="phrasal verb" meaning="to explain something step by step — ধাপে ধাপে বুঝিয়ে দেওয়া" example="Can you walk me through what happens after I click submit?"
+::: vocabulary word="walk through" pos="phrasal verb" register="neutral" meaning="to explain something step by step (ধাপে ধাপে বুঝিয়ে দেওয়া)" collocation="walk through a process, walk through the steps, walk someone through" example="Let me walk you through what happens when a container arrives."
 :::
 
-::: vocabulary word="hallway" pos="noun" meaning="(figurative, in 'hallway explanation') a quick, informal spoken explanation, not a formal presentation — অনানুষ্ঠানিক ব্যাখ্যা" example="Give me the hallway version — no slides, just the steps."
+::: vocabulary word="hallway" pos="noun" register="neutral" meaning="(in 'hallway explanation') a quick, informal spoken explanation given in passing, not a formal presentation (অনানুষ্ঠানিক ব্যাখ্যা)" collocation="hallway explanation, hallway conversation, in the hallway" example="Give a hallway explanation: one clear sentence you could say between meetings."
 :::
 
 ## Self-Check

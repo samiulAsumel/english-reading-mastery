@@ -65,10 +65,10 @@ tacked on at the end.
 
 ## Vocabulary in Context
 
-::: vocabulary word="requirement" pos="noun" meaning="something that must happen, not merely something advised — প্রয়োজনীয়তা" example="A signed form is a requirement before the shipment can leave."
+::: vocabulary word="requirement" pos="noun" register="formal" meaning="something that must happen, not merely something advised (প্রয়োজনীয়তা)" collocation="meet the requirement, legal requirement, requirement for" example="A safety induction is a requirement for entering the yard."
 :::
 
-::: vocabulary word="advisable" pos="adjective" meaning="worth doing, though not strictly required — উপদেশযোগ্য" example="It's advisable to double-check the address, even though it isn't required."
+::: vocabulary word="advisable" pos="adjective" register="formal" meaning="worth doing, though not strictly required (উপদেশযোগ্য)" collocation="highly advisable, strongly advisable, it is advisable to" example="It is advisable to book a slot, though it is not required."
 :::
 
 ## Self-Check

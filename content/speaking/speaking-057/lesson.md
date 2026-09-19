@@ -70,10 +70,10 @@ never drift onto a different rule like interview length or seniority.
 
 ## Vocabulary in Context
 
-::: vocabulary word="broadly" pos="adverb" meaning="signals that a classification is high-level, and finer subcategories likely exist underneath it — বিস্তৃতভাবে" example="Support requests can broadly be classified as technical or billing-related."
+::: vocabulary word="broadly" pos="adverb" register="formal" meaning="signals that a classification is high-level, and finer subcategories likely exist underneath it (বিস্তৃতভাবে)" collocation="broadly speaking, broadly consistent, broadly similar" example="Broadly, incidents fall into two groups: equipment faults and human error."
 :::
 
-::: vocabulary word="consists of" pos="phrase" meaning="presents a relatively complete, closed description of what something is made up of — গঠিত হওয়া" example="The onboarding process consists of three stages: setup, training, and review."
+::: vocabulary word="consists of" pos="phrase" register="formal" meaning="presents a relatively complete, closed description of what something is made up of (গঠিত হওয়া)" collocation="consists of, the team consists of, consists of three parts" example="The terminal consists of four berths and two storage yards."
 :::
 
 ## Self-Check

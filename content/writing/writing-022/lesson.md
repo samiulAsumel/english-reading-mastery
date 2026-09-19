@@ -54,10 +54,10 @@ reduced the extent to which Y").
 
 ## Vocabulary in Context
 
-::: vocabulary word="reduce" pos="verb" meaning="to make something smaller in amount or degree — কমানো" example="The new system has reduced the extent to which trucks wait at the gate."
+::: vocabulary word="reduce" pos="verb" register="neutral" meaning="to make something smaller in amount or degree (কমানো)" collocation="reduce costs, reduce risk, significantly reduce" example="A second gate lane reduced waiting time by half."
 :::
 
-::: vocabulary word="compress" pos="verb" meaning="to fit a larger amount of meaning into fewer words — সংকুচিত করা" example="A dense noun phrase compresses three sentences' worth of information into one."
+::: vocabulary word="compress" pos="verb" register="formal" meaning="to fit a larger amount of meaning into fewer words (সংকুচিত করা)" collocation="compress a sentence, compress the schedule, heavily compress" example="Writers compress long explanations into a single precise sentence."
 :::
 
 ## Model Answer

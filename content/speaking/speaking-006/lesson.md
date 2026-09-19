@@ -63,7 +63,7 @@ spelling rule.
 
 ## Vocabulary in Context
 
-::: vocabulary word="glide" pos="verb" meaning="to move smoothly and continuously — মসৃণভাবে চলা" example="'An' glides into the vowel sound that follows it."
+::: vocabulary word="glide" pos="verb" register="neutral" meaning="to move smoothly and continuously (মসৃণভাবে চলা)" collocation="glide smoothly, glide into, glide over" example="In fluent speech, the article glides into the noun without a pause."
 :::
 
 ## Self-Check

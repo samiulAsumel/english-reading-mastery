@@ -57,10 +57,10 @@ risk from its potential impact.
 
 ## Vocabulary in Context
 
-::: vocabulary word="likely" pos="adjective" meaning="probable, though not certain — সম্ভাব্য" example="Delays are likely if the supplier misses the deadline, though not guaranteed."
+::: vocabulary word="likely" pos="adjective" register="neutral" meaning="probable, though not certain (সম্ভাব্য)" collocation="highly likely, likely to, most likely" example="A delay is likely if the storm continues."
 :::
 
-::: vocabulary word="impact" pos="noun" meaning="the size or seriousness of an effect, separate from how probable it is — প্রভাব" example="The risk has a low probability but a high impact if it occurs."
+::: vocabulary word="impact" pos="noun" register="formal" meaning="the size or seriousness of an effect, separate from how probable it is (প্রভাব)" collocation="significant impact, impact on, potential impact" example="The impact of a fuel spill would be severe even though the probability is low."
 :::
 
 ## Model Answer

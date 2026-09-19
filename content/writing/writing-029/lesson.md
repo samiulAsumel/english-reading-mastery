@@ -64,10 +64,10 @@ variable you cannot fully rule out. Use "largely responsible for" or
 
 ## Vocabulary in Context
 
-::: vocabulary word="mechanism" pos="noun" meaning="the actual process by which a cause produces its effect, not just the fact that it does — প্রক্রিয়া/কার্যপদ্ধতি" example="The paragraph names the mechanism: fewer wasted-heat bulbs, not just 'LEDs help.'"
+::: vocabulary word="mechanism" pos="noun" register="technical" meaning="the actual process by which a cause produces its effect, not just the fact that it does (প্রক্রিয়া/কার্যপদ্ধতি)" collocation="causal mechanism, underlying mechanism, mechanism by which" example="The report describes the mechanism by which understaffing raises error rates."
 :::
 
-::: vocabulary word="confounding variable" pos="noun phrase" meaning="a third factor changing alongside the claimed cause that could explain the effect instead — সহ-পরিবর্তনশীল কারণ" example="Shorter operating hours are a confounding variable the writer honestly admits."
+::: vocabulary word="confounding variable" pos="noun phrase" register="technical" meaning="a third factor changing alongside the claimed cause that could explain the effect instead (সহ-পরিবর্তনশীল কারণ)" collocation="control for a confounding variable, possible confounding variable, identify a confounding variable" example="Seasonal demand is a confounding variable that could explain both changes."
 :::
 
 ## Model Answer

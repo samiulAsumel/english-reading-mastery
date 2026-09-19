@@ -406,25 +406,25 @@ caused the improvement.*
 
 ## Vocabulary in Context
 
-::: vocabulary word="confounding" pos="adjective" meaning="describing a factor that changes alongside the proposed cause, making it hard to isolate which one produced the observed effect (বিভ্রান্তিকর)" example="Rising employee training is a confounding factor in the claim that technology alone raised productivity."
+::: vocabulary word="confounding" pos="adjective" register="technical" meaning="describing a factor that changes alongside the proposed cause, making it hard to isolate which one produced the observed effect (বিভ্রান্তিকর)" collocation="confounding factor, confounding effect, confounding variable" example="Unusually good weather was a confounding factor that inflated the trial's results."
 :::
 
-::: vocabulary word="outlier" pos="noun" meaning="a data point far removed from the rest of the values, capable of distorting an average or trend (ব্যতিক্রমী মান)" example="The single unusually high value was an outlier that inflated the reported average."
+::: vocabulary word="outlier" pos="noun" register="technical" meaning="a data point far removed from the rest of the values, capable of distorting an average or trend (ব্যতিক্রমী মান)" collocation="statistical outlier, remove an outlier, extreme outlier" example="One extreme outlier, a container that waited forty days, distorted the average dwell time."
 :::
 
-::: vocabulary word="volatility" pos="noun" meaning="the degree to which a value fluctuates, independent of whether its overall level is high or low (অস্থিরতা)" example="Prices remained high but showed considerable volatility from month to month."
+::: vocabulary word="volatility" pos="noun" register="formal" meaning="the degree to which a value fluctuates, independent of whether its overall level is high or low (অস্থিরতা)" collocation="price volatility, market volatility, high volatility" example="Fuel price volatility makes long-term freight contracts hard to price."
 :::
 
-::: vocabulary word="of these" pos="phrase" meaning="restricting a following percentage to a previously named subgroup, not the full original population (এদের মধ্যে)" example="70% completed the training; of these, 80% passed — meaning 56% of everyone passed, not 80%."
+::: vocabulary word="of these" pos="phrase" register="neutral" meaning="restricting a following percentage to a previously named subgroup, not the full original population (এদের মধ্যে)" collocation="of these, of these respondents, of these cases" example="Sixty percent of drivers replied; of these, a third reported long waits at the gate."
 :::
 
-::: vocabulary word="response rate" pos="noun phrase" meaning="the proportion of an invited or eligible population that actually responded, not a proportion of the respondents themselves (প্রতিক্রিয়ার হার)" example="A 35% response rate means over a third of those invited answered — it says nothing about what percentage agreed."
+::: vocabulary word="response rate" pos="noun phrase" register="technical" meaning="the proportion of an invited or eligible population that actually responded, not a proportion of the respondents themselves (প্রতিক্রিয়ার হার)" collocation="low response rate, survey response rate, improve the response rate" example="The survey had a response rate of only twelve percent, so its findings may not represent all drivers."
 :::
 
-::: vocabulary word="survivorship bias" pos="noun phrase" meaning="a distortion caused by studying only the cases that succeeded or persisted, while the failed or missing cases are left out of the sample (উত্তরজীবী পক্ষপাত)" example="Studying only companies that survived AI adoption, while ignoring those that failed, produces survivorship bias."
+::: vocabulary word="survivorship bias" pos="noun phrase" register="technical" meaning="a distortion caused by studying only the cases that succeeded or persisted, while the failed or missing cases are left out of the sample (উত্তরজীবী পক্ষপাত)" collocation="suffer from survivorship bias, avoid survivorship bias, survivorship bias in" example="Studying only surviving firms introduces survivorship bias, since failed firms are not in the sample."
 :::
 
-::: vocabulary word="selection bias" pos="noun phrase" meaning="a distortion arising because the sample studied is not representative of the population a conclusion is being generalized to (নির্বাচন পক্ষপাত)" example="Surveying only technology managers and generalizing to all workers introduces selection bias."
+::: vocabulary word="selection bias" pos="noun phrase" register="technical" meaning="a distortion arising because the sample studied is not representative of the population a conclusion is being generalized to (নির্বাচন পক্ষপাত)" collocation="selection bias, risk of selection bias, correct for selection bias" example="Surveying only customers who stayed with the company creates selection bias."
 :::
 
 ## Guided Reading Practice

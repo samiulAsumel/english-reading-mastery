@@ -367,28 +367,28 @@ single up-or-down judgment.
 
 ## Vocabulary in Context
 
-::: vocabulary word="strawman" pos="noun" meaning="a weaker, easier-to-defeat version of an opposing argument, attacked in place of the argument's actual strongest form (মিথ্যা প্রতিপক্ষ)" example="Characterising critics as wanting to 'eliminate all human workers' when they actually argued for reducing routine tasks is a strawman."
+::: vocabulary word="strawman" pos="noun" register="neutral" meaning="a weaker, easier-to-defeat version of an opposing argument, attacked in place of the argument's actual strongest form (মিথ্যা প্রতিপক্ষ)" collocation="attack a strawman, build a strawman, a strawman argument" example="The critic attacked a strawman: he claimed the report wanted all tariffs abolished, when it proposed only a cap."
 :::
 
-::: vocabulary word="principle of charity" pos="noun phrase" meaning="the practice of constructing an argument's strongest, most reasonable interpretation before evaluating or critiquing it (উদারতার নীতি)" example="Applying the principle of charity revealed a far more defensible, conditional claim than the critic's dismissive summary suggested."
+::: vocabulary word="principle of charity" pos="noun phrase" register="formal" meaning="the practice of constructing an argument's strongest, most reasonable interpretation before evaluating or critiquing it (উদারতার নীতি)" collocation="apply the principle of charity, principle of charity in, use the principle of charity" example="Applying the principle of charity, the reviewer restated the author's best argument before criticising it."
 :::
 
-::: vocabulary word="three-level evaluation" pos="noun phrase" meaning="separately judging whether evidence is reliable, whether it supports a specific claim, and whether a final conclusion is justified, rather than treating argument quality as one single judgment (ত্রি-স্তরীয় মূল্যায়ন)" example="Three-level evaluation showed reliable evidence supporting a narrow claim, attached to an unjustified, much broader conclusion."
+::: vocabulary word="three-level evaluation" pos="noun phrase" register="course term" meaning="judging separately whether the evidence is reliable, whether it supports the claim, and whether the conclusion is justified (ত্রি-স্তরীয় মূল্যায়ন)" collocation="a three-level evaluation, carry out a three-level evaluation, three-level evaluation of" example="A three-level evaluation checks the evidence, the claim it supports, and the final conclusion in turn."
 :::
 
-::: vocabulary word="overclaim" pos="noun / verb" meaning="a conclusion stated more strongly or broadly than its supporting evidence actually earns (অতিরিক্ত দাবি)" example="Calling a four-department pilot proof that 'all billing operations' should be automated is a clear overclaim."
+::: vocabulary word="overclaim" pos="noun / verb" register="formal" meaning="a conclusion stated more strongly or broadly than its supporting evidence actually earns (অতিরিক্ত দাবি)" collocation="overclaim the results, risk overclaiming, accused of overclaiming" example="The press release overclaims: a six-week pilot cannot prove a permanent cost saving."
 :::
 
-::: vocabulary word="underclaim" pos="noun / verb" meaning="a conclusion stated more cautiously than strong, well-replicated evidence would actually justify (স্বল্প দাবি)" example="Writing 'may reduce processing time' after multiple independent studies confirm a 15-20% reduction is arguably an underclaim."
+::: vocabulary word="underclaim" pos="noun / verb" register="formal" meaning="a conclusion stated more cautiously than strong, well-replicated evidence would actually justify (স্বল্প দাবি)" collocation="underclaim the results, tendency to underclaim, risk of underclaiming" example="The report underclaims, saying results 'may suggest' a link despite three replicated studies."
 :::
 
-::: vocabulary word="earned conclusion" pos="noun phrase" meaning="a conclusion whose certainty and scope are properly matched to the strength and scope of its supporting evidence (অর্জিত সিদ্ধান্ত)" example="The revised sentence was a genuinely earned conclusion, unlike the original's overreach past a small, narrow pilot."
+::: vocabulary word="earned conclusion" pos="noun phrase" register="formal" meaning="a conclusion whose certainty and scope are properly matched to the strength and scope of its supporting evidence (অর্জিত সিদ্ধান্ত)" collocation="reach an earned conclusion, an earned conclusion, earned conclusion from" example="The book's final position is an earned conclusion because its wording matches its evidence."
 :::
 
-::: vocabulary word="argument quality matrix" pos="noun phrase" meaning="a structured set of dimensions — clarity, relevance, reliability, sufficiency, scope, and others — used to evaluate an argument systematically rather than impressionistically (যুক্তির গুণমান ম্যাট্রিক্স)" example="Running the chapter's central claim through the argument quality matrix surfaced a genuine causality gap the summary alone had missed."
+::: vocabulary word="argument quality matrix" pos="noun phrase" register="course term" meaning="a checklist of dimensions such as clarity, reliability, sufficiency, and scope for judging an argument systematically (যুক্তির গুণমান ম্যাট্রিক্স)" collocation="build an argument quality matrix, use an argument quality matrix, argument quality matrix of" example="An argument quality matrix rates the case on clarity, reliability, sufficiency, and scope."
 :::
 
-::: vocabulary word="claim calibration scale" pos="noun phrase" meaning="a three-tier ranking of claim language — very strong (proves, always), moderate (demonstrates, generally), cautious (suggests, may) — used to check whether wording matches evidence strength (দাবি সমন্বয় স্কেল)" example="Checked against the claim calibration scale, 'proves' was too strong a word for evidence that only 'suggests' a pattern."
+::: vocabulary word="claim calibration scale" pos="noun phrase" register="course term" meaning="a three-tier ranking of claim wording (very strong, moderate, cautious) used to check that language matches the evidence (দাবি সমন্বয় স্কেল)" collocation="apply the claim calibration scale, claim calibration scale of, use a claim calibration scale" example="On the claim calibration scale, 'proves' is very strong, 'demonstrates' is moderate, and 'suggests' is cautious."
 :::
 
 ## Guided Reading Practice

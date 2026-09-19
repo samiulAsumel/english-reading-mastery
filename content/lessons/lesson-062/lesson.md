@@ -779,28 +779,28 @@ subsequent years
 
 ## Vocabulary in Context
 
-::: vocabulary word="turning point" pos="noun phrase" meaning="a moment after which a trajectory or direction changes significantly (মোড় ঘোরার মুহূর্ত)" example="The introduction of automation marked a turning point in the organization's development."
+::: vocabulary word="turning point" pos="noun phrase" register="neutral" meaning="a moment after which a trajectory or direction changes significantly (মোড় ঘোরার মুহূর্ত)" collocation="a turning point, mark a turning point, critical turning point" example="The 2019 canal closure was a turning point that pushed many carriers to reroute permanently."
 :::
 
-::: vocabulary word="reference point" pos="noun phrase" meaning="the moment or period a time expression like 'then,' 'previously,' or 'at the time' is implicitly measured against (তুলনার সময়বিন্দু)" example="'By then' only makes sense once you identify the reference point it's pointing back to."
+::: vocabulary word="reference point" pos="noun phrase" register="formal" meaning="the moment or period a time expression like 'then,' 'previously,' or 'at the time' is implicitly measured against (তুলনার সময়বিন্দু)" collocation="a reference point, fixed reference point, use as a reference point" example="'Since then' takes the signing of the contract as its reference point."
 :::
 
-::: vocabulary word="state change" pos="noun phrase" meaning="a shift from one ongoing condition to a different one, as distinct from a single occurrence or event (অবস্থার পরিবর্তন)" example="The launch was a single event, but 'the system became operational' describes a state change."
+::: vocabulary word="state change" pos="noun phrase" register="technical" meaning="a shift from one ongoing condition to a different one, as distinct from a single occurrence or event (অবস্থার পরিবর্তন)" collocation="a state change, undergo a state change, record a state change" example="An order's state change from 'pending' to 'shipped' is recorded automatically."
 :::
 
-::: vocabulary word="duration" pos="noun" meaning="the length of time something lasts, as distinct from how often it happens (স্থিতিকাল)" example="'For three hours' states duration; 'three times' states frequency — the two are not interchangeable."
+::: vocabulary word="duration" pos="noun" register="formal" meaning="the length of time something lasts, as distinct from how often it happens (স্থিতিকাল)" collocation="the duration of, for the duration of, average duration" example="The average duration of a berth stay fell from three days to two."
 :::
 
-::: vocabulary word="plateau" pos="noun / verb" meaning="a relatively stable level reached after a period of change, where further increase slows or stops (স্থিতিশীল স্তর)" example="Productivity reached a plateau after several years of steady improvement."
+::: vocabulary word="plateau" pos="noun / verb" register="neutral" meaning="a relatively stable level reached after a period of change, where further increase slows or stops (স্থিতিশীল স্তর)" collocation="reach a plateau, remain on a plateau, plateau at" example="After rapid growth, container volumes have plateaued at around two million a year."
 :::
 
-::: vocabulary word="trigger" pos="verb" meaning="to set off an immediate response or event, without necessarily being that event's deeper or root cause (তাৎক্ষণিক কারণ হওয়া)" example="The announcement triggered a rapid political response, though its deeper causes ran further back."
+::: vocabulary word="trigger" pos="verb" register="neutral" meaning="to set off an immediate response or event, without necessarily being that event's deeper or root cause (তাৎক্ষণিক কারণ হওয়া)" collocation="trigger a response, trigger an alert, trigger a review" example="A single failed audit can trigger a full regulatory review."
 :::
 
-::: vocabulary word="causal map" pos="noun phrase" meaning="a diagram of what actually produced what, distinct from a timeline that only records the order events occurred in (কার্যকারণ মানচিত্র)" example="The timeline showed four events in order, but the causal map showed one of them had no causal effect on the rest."
+::: vocabulary word="causal map" pos="noun phrase" register="course term" meaning="a diagram of what actually produced what, distinct from a timeline that only records the order events occurred in (কার্যকারণ মানচিত্র)" collocation="draw a causal map, build a causal map, causal map of" example="A causal map of the incident showed how a late pilot led to a missed tide and then a berth clash."
 :::
 
-::: vocabulary word="multi-causal" pos="adjective" meaning="resulting from several contributing factors together, rather than from one single cause (বহু-কারণজনিত)" example="'Contributed to' signals a multi-causal claim — one factor among several, not the sole explanation."
+::: vocabulary word="multi-causal" pos="adjective" register="technical" meaning="resulting from several contributing factors together, rather than from one single cause (বহু-কারণজনিত)" collocation="multi-causal explanation, multi-causal problem, multi-causal event" example="The outage was multi-causal: an expired certificate, a missed alert, and a slow response all contributed."
 :::
 
 ## Guided Reading Practice

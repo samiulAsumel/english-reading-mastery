@@ -501,28 +501,28 @@ HUMAN REVIEW MAY BE NECESSARY
 
 ## Vocabulary in Context
 
-::: vocabulary word="concession" pos="noun" meaning="an author's acknowledgment of a true or reasonable point that does not overturn their main claim (স্বীকৃতি/ছাড়)" example="The concession that automation reduces costs doesn't stop the author from raising a separate coordination problem."
+::: vocabulary word="concession" pos="noun" register="formal" meaning="an author's acknowledgment of a true or reasonable point that does not overturn their main claim (স্বীকৃতি/ছাড়)" collocation="make a concession, partial concession, concession before the main claim" example="The author's concession, that the pilot was small, does not weaken the main claim."
 :::
 
-::: vocabulary word="inference block" pos="noun phrase" meaning="a phrase like 'this does not mean' or 'does not imply' that explicitly rules out a specific, over-strong conclusion a reader might otherwise draw (অনুসিদ্ধান্ত প্রতিরোধ)" example="'This does not mean human workers are no longer necessary' is an inference block preventing an over-strong reading of the sentence before it."
+::: vocabulary word="inference block" pos="noun phrase" register="course term" meaning="a phrase like 'this does not mean' or 'does not imply' that explicitly rules out a specific, over-strong conclusion a reader might otherwise draw (অনুসিদ্ধান্ত প্রতিরোধ)" collocation="use an inference block, an inference block such as, inference block against" example="'This does not mean the system is unsafe' is an inference block against an over-strong conclusion."
 :::
 
-::: vocabulary word="qualification" pos="noun" meaning="a word or phrase that narrows a claim's scope or lowers its certainty, such as 'generally,' 'may,' or 'to some extent' (সীমাবদ্ধকরণ)" example="Adding the qualification 'under certain conditions' turns an absolute claim into a defensible, scoped one."
+::: vocabulary word="qualification" pos="noun" register="formal" meaning="a word or phrase that narrows a claim's scope or lowers its certainty, such as 'generally,' 'may,' or 'to some extent' (সীমাবদ্ধকরণ)" collocation="add a qualification, important qualification, with one qualification" example="The word 'generally' is a qualification that limits how far the claim reaches."
 :::
 
-::: vocabulary word="contributing cause" pos="noun phrase" meaning="one factor among several that helps produce an outcome, as distinct from its sole cause (আংশিক কারণ)" example="'Partly caused by reduced demand' names reduced demand as a contributing cause, not the only one."
+::: vocabulary word="contributing cause" pos="noun phrase" register="technical" meaning="one factor among several that helps produce an outcome, as distinct from its sole cause (আংশিক কারণ)" collocation="a contributing cause, identify a contributing cause, contributing cause of" example="Fatigue was a contributing cause of the accident, but not the only one."
 :::
 
-::: vocabulary word="evidentiary verb" pos="noun phrase" meaning="a verb like 'suggests,' 'indicates,' or 'shows' that reports how strongly evidence supports a claim (প্রমাণসূচক ক্রিয়া)" example="Swapping 'suggests' for 'shows' silently strengthens a claim's evidentiary verb without adding any new evidence."
+::: vocabulary word="evidentiary verb" pos="noun phrase" register="technical" meaning="a verb like 'suggests,' 'indicates,' or 'shows' that reports how strongly evidence supports a claim (প্রমাণসূচক ক্রিয়া)" collocation="choose an evidentiary verb, weak evidentiary verb, strong evidentiary verb" example="'Proves' is a strong evidentiary verb; 'suggests' is a weaker one."
 :::
 
-::: vocabulary word="reframing" pos="noun" meaning="restating a claim in a more precise or different form, often signalled by 'rather,' without necessarily rejecting the original claim outright (পুনর্গঠন)" example="'Not a lack of data. Rather, a lack of reliable data' is a reframing that sharpens the original claim rather than reversing it."
+::: vocabulary word="reframing" pos="noun" register="formal" meaning="restating a claim in a more precise or different form, often signalled by 'rather,' without necessarily rejecting the original claim outright (পুনর্গঠন)" collocation="a reframing of, offer a reframing, useful reframing" example="The minister offered a reframing: delays were not a failure but a sign of high demand."
 :::
 
-::: vocabulary word="universal claim" pos="noun phrase" meaning="a claim asserted to hold in every case, without exception, as distinct from a general tendency (সার্বিক দাবি)" example="'Not all automated systems improve efficiency' rejects a universal claim without saying how many systems actually do."
+::: vocabulary word="universal claim" pos="noun phrase" register="formal" meaning="a claim asserted to hold in every case, without exception, as distinct from a general tendency (সার্বিক দাবি)" collocation="a universal claim, make a universal claim, challenge a universal claim" example="'All ports are inefficient' is a universal claim, and a single efficient port disproves it."
 :::
 
-::: vocabulary word="hedged generalization" pos="noun phrase" meaning="a broad claim deliberately weakened with a qualifier like 'generally' or 'typically' to avoid an absolute, exception-free statement (মৃদুকৃত সাধারণীকরণ)" example="'Automation generally reduces repetitive work' is a hedged generalization, not a claim about every single case."
+::: vocabulary word="hedged generalization" pos="noun phrase" register="technical" meaning="a broad claim deliberately weakened with a qualifier like 'generally' or 'typically' to avoid an absolute, exception-free statement (মৃদুকৃত সাধারণীকরণ)" collocation="a hedged generalization, make a hedged generalization, careful hedged generalization" example="'Ports generally benefit from automation' is a hedged generalization; the word 'generally' allows exceptions."
 :::
 
 ## Guided Reading Practice

@@ -680,34 +680,34 @@ flagged as weak.
 
 ## Vocabulary in Context
 
-::: vocabulary word="imply" pos="verb" meaning="to communicate something indirectly, without stating it outright (ইঙ্গিত করা)" example="The report repeatedly emphasizes maintenance costs, implying that the system may not be cost-effective."
+::: vocabulary word="imply" pos="verb" register="formal" meaning="to communicate something indirectly, without stating it outright (ইঙ্গিত করা)" collocation="imply that, strongly imply, seem to imply" example="By declining to comment on the audit, the director seemed to imply that the findings were accurate."
 :::
 
-::: vocabulary word="infer" pos="verb" meaning="to reach a conclusion from evidence and reasoning rather than from a direct statement (অনুমান করা)" example="From the locked doors and empty parking lot, we can infer that the office is closed today."
+::: vocabulary word="infer" pos="verb" register="formal" meaning="to reach a conclusion from evidence and reasoning rather than from a direct statement (অনুমান করা)" collocation="infer from, infer that, reasonably infer" example="From the missing gate records, investigators inferred that the trucks had entered after hours."
 :::
 
-::: vocabulary word="suggest" pos="verb" meaning="(of evidence) to point toward an interpretation without proving it outright (ইঙ্গিত দেওয়া)" example="The findings suggest that stress affects decision-making, though further research is needed."
+::: vocabulary word="suggest" pos="verb" register="formal" meaning="(of evidence) to point toward an interpretation without proving it outright (ইঙ্গিত দেওয়া)" collocation="suggest that, evidence suggests, strongly suggest" example="The maintenance log suggests that the fault began weeks before the crane failed."
 :::
 
-::: vocabulary word="indicate" pos="verb" meaning="to point toward a conclusion, with a strength similar to 'suggest' rather than 'prove' (নির্দেশ করা)" example="Falling sales figures indicate weakening demand."
+::: vocabulary word="indicate" pos="verb" register="formal" meaning="to point toward a conclusion, with a strength similar to 'suggest' rather than 'prove' (নির্দেশ করা)" collocation="indicate that, clearly indicate, data indicates" example="Sensor readings indicate that the bearing was overheating well before the shutdown."
 :::
 
-::: vocabulary word="assumption" pos="noun" meaning="something accepted as true without direct proof, often left unstated (অনুমিত বিষয়/পূর্বধারণা)" example="The plan rests on the assumption that costs will remain stable."
+::: vocabulary word="assumption" pos="noun" register="formal" meaning="something accepted as true without direct proof, often left unstated (অনুমিত বিষয়/পূর্বধারণা)" collocation="underlying assumption, challenge an assumption, based on the assumption" example="The forecast rests on the assumption that no new competitor will enter the market this year."
 :::
 
-::: vocabulary word="implication" pos="noun" meaning="a conclusion that follows from a statement without being directly stated (তাৎপর্য/পরোক্ষ ফলাফল)" example="One implication of the study is that longer training periods may reduce error rates."
+::: vocabulary word="implication" pos="noun" register="formal" meaning="a conclusion that follows from a statement without being directly stated (তাৎপর্য/পরোক্ষ ফলাফল)" collocation="far-reaching implication, implication for, have implications" example="The court's ruling has implications for every carrier operating under similar contract terms."
 :::
 
-::: vocabulary word="presumably" pos="adverb" meaning="probably true, based on reasonable expectation rather than direct evidence (সম্ভবত, এমনটা ধরে নেওয়া যায়)" example="The office was locked and dark; presumably, everyone had already left."
+::: vocabulary word="presumably" pos="adverb" register="formal" meaning="probably true, based on reasonable expectation rather than direct evidence (সম্ভবত, এমনটা ধরে নেওয়া যায়)" collocation="presumably because, presumably not, and presumably" example="The invoice was left unpaid, presumably because the client's accounts team never received it."
 :::
 
-::: vocabulary word="contribute to" pos="phrasal verb" meaning="to act as one of several factors that help cause something, without being the sole cause (অবদান রাখা)" example="Poor lighting may have contributed to the accident, though it was not the only factor."
+::: vocabulary word="contribute to" pos="phrasal verb" register="formal" meaning="to act as one of several factors that help cause something, without being the sole cause (অবদান রাখা)" collocation="contribute to a decline, contribute significantly, partly contribute to" example="Understaffing contributed to the delays, but it was not the only cause."
 :::
 
-::: vocabulary word="associated with" pos="collocation" meaning="to occur together in a pattern, without this alone proving that one causes the other (এর সাথে সম্পর্কযুক্ত)" example="Higher stress levels were associated with lower sleep quality."
+::: vocabulary word="associated with" pos="collocation" register="formal" meaning="to occur together in a pattern, without this alone proving that one causes the other (এর সাথে সম্পর্কযুক্ত)" collocation="strongly associated with, be associated with, risks associated with" example="Higher container dwell times are associated with incomplete customs documentation."
 :::
 
-::: vocabulary word="consistent with" pos="collocation" meaning="fitting reasonably well with a piece of evidence or explanation, without fully confirming it (সামঞ্জস্যপূর্ণ)" example="The delayed shipment is consistent with reports of congestion at the port."
+::: vocabulary word="consistent with" pos="collocation" register="formal" meaning="fitting reasonably well with a piece of evidence or explanation, without fully confirming it (সামঞ্জস্যপূর্ণ)" collocation="consistent with the evidence, broadly consistent, entirely consistent with" example="The damage pattern is consistent with a collision at low speed, not a structural failure."
 :::
 
 ## Guided Reading Practice

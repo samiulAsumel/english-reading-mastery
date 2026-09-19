@@ -58,10 +58,10 @@ compresses them into one coherent position — not a separate list.
 
 ## Vocabulary in Context
 
-::: vocabulary word="spine" pos="noun" meaning="the single underlying question or argument that structures a longer piece of writing — মেরুদণ্ড/মূল কাঠামো" example="Finding the chapter's spine made the whole argument much easier to follow."
+::: vocabulary word="spine" pos="noun" register="neutral" meaning="the single underlying question or argument that structures a longer piece of writing (মেরুদণ্ড/মূল কাঠামো)" collocation="the spine of, chapter spine, spine of the argument" example="The spine of the chapter is: problem, failed fix, working solution."
 :::
 
-::: vocabulary word="compress" pos="verb" meaning="to reduce several ideas into a shorter, more concentrated statement without losing their real meaning — সংকুচিত করা" example="She compressed five paragraphs of evidence into one precise sentence."
+::: vocabulary word="compress" pos="verb" register="formal" meaning="to reduce several ideas into a shorter, more concentrated statement without losing their real meaning (সংকুচিত করা)" collocation="compress a chapter, compress into one sentence, compress without losing meaning" example="Compress the chapter into one question the reader can remember."
 :::
 
 ## Model Answer

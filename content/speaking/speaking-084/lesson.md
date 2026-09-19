@@ -70,10 +70,10 @@ without collapsing them into one sentence.
 
 ## Vocabulary in Context
 
-::: vocabulary word="represent" pos="verb" meaning="for a small sample to stand in accurately for a much larger group — প্রতিনিধিত্ব করা" example="Twenty-five workers cannot represent an entire industry."
+::: vocabulary word="represent" pos="verb" register="formal" meaning="for a small sample to stand in accurately for a much larger group (প্রতিনিধিত্ব করা)" collocation="represent a sample, accurately represent, fail to represent" example="Three interviews cannot represent thousands of drivers."
 :::
 
-::: vocabulary word="finding" pos="noun" meaning="a specific result a study actually shows, narrower than its conclusion — ফলাফল" example="The finding was narrow; the conclusion was not."
+::: vocabulary word="finding" pos="noun" register="formal" meaning="a specific result a study actually shows, narrower than its conclusion (ফলাফল)" collocation="key finding, research finding, finding that" example="The finding is narrow: waiting time fell at one gate."
 :::
 
 ## Self-Check
