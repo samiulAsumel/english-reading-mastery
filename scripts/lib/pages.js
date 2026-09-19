@@ -382,14 +382,32 @@ function lessonsIndexPage(publishedLessons) {
 // used on /lessons/.
 // ---------------------------------------------------------------------------
 function trackLandingPage(collection, publishedItems, hero) {
+  const first = publishedItems[0];
+  const ctaHtml = first
+    ? `<div class="hero-actions">
+        <a href="${collection.routeBase}${first.frontmatter.number}/" class="btn btn-accent btn-lg">Start ${escapeHtml(collection.itemNoun)} ${first.frontmatter.number} &#8594;</a>
+        <a href="/lessons/" class="btn btn-outline btn-lg">Browse Reading Lessons</a>
+      </div>`
+    : '';
+
   const body = `
-    <section class="hero" style="padding-block:3.5rem;text-align:left;">
-      <div class="container-md" style="margin-inline:0;">
+    <section class="hero">
+      <div class="container-md">
         <p class="xs muted" style="text-transform:uppercase;letter-spacing:0.04em;">${escapeHtml(hero.eyebrow)}</p>
-        <h1 class="h1" style="margin-top:0.75rem;max-width:38rem;">${escapeHtml(hero.heading)}</h1>
-        <p class="lede" style="margin:1rem 0 0;">${escapeHtml(hero.lede)}</p>
+        <h1 class="h1" style="margin-top:0.75rem;">${escapeHtml(hero.heading)}</h1>
+        <p class="lede" style="margin-inline:auto;">${escapeHtml(hero.lede)}</p>
+        ${ctaHtml}
       </div>
     </section>
+
+    <section class="section container">
+      <div class="stats-grid">
+        <div class="stat-card"><div><div class="stat-value">${publishedItems.length}</div><div class="stat-label">${escapeHtml(collection.itemNounPlural)} published</div></div></div>
+        <div class="stat-card"><div><div class="stat-value">1:1</div><div class="stat-label">Paired with every reading lesson</div></div></div>
+        <div class="stat-card"><div><div class="stat-value">0</div><div class="stat-label">Grading — self-check only</div></div></div>
+      </div>
+    </section>
+
     <div class="container section-tight" style="padding-top:0;">
       ${breadcrumbsHtml([{ label: 'Home', href: '/' }, { label: collection.itemNounPlural }])}
       <h2 class="h2" style="margin-top:2rem;">${escapeHtml(hero.browseHeading)}</h2>
