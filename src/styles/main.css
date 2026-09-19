@@ -572,6 +572,13 @@ mark.collocation { background: color-mix(in oklab, var(--brand-accent) 22%, tran
 .objectives-box li span { text-align: justify; text-justify: inter-word; hyphens: auto; }
 .objectives-box li .icon { color: var(--brand-accent); flex-shrink: 0; margin-top: 0.2em; }
 
+/* ---- Reading <-> writing/speaking pair links ----------------------------*/
+.pair-links { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem 1.25rem; margin-bottom: 2rem; padding-bottom: 1.25rem; border-bottom: 1px solid var(--border); }
+.pair-links-label { font-size: 0.8125rem; color: var(--muted-fg); }
+.pair-links a { display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.875rem; font-weight: 500; color: var(--brand-primary); text-decoration: none; }
+.pair-links a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.pair-links .icon { width: 1rem; height: 1rem; }
+
 /* ---- Lesson layout ------------------------------------------------------*/
 .lesson-layout { display: grid; grid-template-columns: 1fr; gap: 2.5rem; }
 @media (min-width: 1024px) { .lesson-layout { grid-template-columns: minmax(0, 1fr) 14rem; } }

@@ -60,7 +60,9 @@ There's no hot-reload/HMR; it's a full static rebuild, and it's fast.
 | `npm run build` | Validate content, then generate the full site into `dist/` |
 | `npm run serve` | Serve the already-built `dist/` (no rebuilding) |
 | `npm run validate:content` | Check every lesson file against the content schema (see CONTENT_GUIDE.md) |
-| `npm run new:lesson -- --title "..."` | Scaffold the next lesson file with number/level/module pre-filled |
+| `npm run new:lesson -- --title "..."` | Scaffold the next reading lesson, plus its matching writing/speaking pair at the same number (`--no-pair` to skip) |
+| `npm run new:writing -- --title "..." --number N` | Scaffold (or backfill) a single writing task by number |
+| `npm run new:speaking -- --title "..." --number N` | Scaffold (or backfill) a single speaking drill by number |
 
 ## Deploying
 
@@ -75,10 +77,16 @@ domain instead of `http://localhost:4000`.
 
 ```
 content/
-  curriculum/       Levels, modules, skills — the taxonomy lessons plug into (plain .js data)
+  curriculum/       Levels, modules, skills per collection — the taxonomy lessons plug into (plain .js data)
   lessons/
     _template/       Reference lesson.md showing every content block (not a real page)
-    lesson-XXX/       One folder per lesson, numbered, containing lesson.md
+    lesson-XXX/       One folder per reading lesson, numbered, containing lesson.md
+  writing/
+    _template/       Reference writing task showing the writing-only blocks
+    writing-XXX/      One folder per writing task — paired 1:1 by number with lesson-XXX
+  speaking/
+    _template/       Reference speaking drill showing the speaking-only blocks
+    speaking-XXX/     One folder per speaking drill — paired 1:1 by number with lesson-XXX
 src/
   styles/main.css     The entire hand-written design system (no build step)
   scripts/            Vanilla JS shipped to the browser (theme, search, progress, TOC, nav)
@@ -92,7 +100,7 @@ scripts/               Node build tooling — none of this ships to the browser
   serve.js               Zero-dependency static file server
   dev.js                  build + serve + rebuild on change
   validate-content.js    Content integrity checks (also runs before every build)
-  new-lesson.js           Scaffold a new lesson
+  new-lesson.js           Scaffold a new lesson (and its writing/speaking pair)
 dist/                     Generated output (gitignored) — this is what you deploy
 ```
 

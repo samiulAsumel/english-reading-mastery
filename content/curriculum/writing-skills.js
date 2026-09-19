@@ -12,10 +12,18 @@ const skills = [
   { slug: 'sentence-accuracy', name: 'Sentence Accuracy', group: 'foundation' },
   { slug: 'connecting-ideas', name: 'Connecting Ideas', group: 'foundation' },
   { slug: 'paragraph-writing', name: 'Paragraph Writing', group: 'foundation' },
+  { slug: 'cohesive-writing', name: 'Cohesive Writing', group: 'intermediate' },
+  { slug: 'argument-writing', name: 'Argument Writing', group: 'upper-intermediate' },
+  { slug: 'academic-writing', name: 'Academic Writing', group: 'advanced' },
+  { slug: 'technical-writing', name: 'Technical Writing', group: 'advanced' },
+  { slug: 'evidence-writing', name: 'Evidence-Based Writing', group: 'advanced' },
 ];
 
 const GROUP_LABELS = {
   foundation: 'Foundation',
+  intermediate: 'Intermediate',
+  'upper-intermediate': 'Upper Intermediate',
+  advanced: 'Advanced',
 };
 
 function getSkill(slug) {

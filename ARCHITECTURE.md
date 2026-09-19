@@ -56,6 +56,23 @@ their own `modules.js`/`skills.js` in a separate file specifically so a
 slug collision between tracks is structurally impossible, not just
 unlikely.
 
+**Pairing.** Writing and speaking tasks are paired 1:1 by number with a
+reading lesson — writing-NNN and speaking-NNN practice exactly what
+reading lesson-NNN just taught (lesson 0, course orientation, is exempt).
+`writing-modules.js`/`speaking-modules.js` mirror `modules.js`'s
+level/module ranges for this reason, one writing and one speaking module
+per reading module. This is a numbering *convention* plus a scaffold —
+not a routing table (see "Why no lesson-number routing table" below for
+why that distinction matters): `scripts/new-lesson.js` scaffolds all
+three files together for a plain `npm run new:lesson`, and
+`scripts/validate-content.js` warns (never fails the build) when a
+published reading lesson is missing its pair. Detail pages cross-link
+their counterpart(s) — `scripts/build.js` builds a `Map` of published
+items by number per collection and passes each page's matching
+writing/speaking (or reading) item into `itemDetailPage` as `pair`; the
+link only renders when the counterpart exists and is published, so a
+lesson can ship before its pair is ready without a broken link appearing.
+
 Writing and speaking tasks use content blocks reading never needed:
 `::: prompt` (the task), `::: draft` (a plain textarea, nothing
 persisted), `::: model-answer` and `::: rubric` (self-check, no grading

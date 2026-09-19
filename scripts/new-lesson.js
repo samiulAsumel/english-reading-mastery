@@ -4,12 +4,22 @@
  * Scaffolds the next lesson folder. Usage:
  *
  *   npm run new:lesson -- --title "Evidence Boundaries and Calibrated Conclusions"
- *   npm run new:writing -- --title "Describing a Daily Routine"
- *   npm run new:speaking -- --title "Naming Objects Under Time Pressure"
+ *   npm run new:writing -- --title "Describing a Daily Routine" --number 12
+ *   npm run new:speaking -- --title "Naming Objects Under Time Pressure" --number 12
+ *
+ * A plain `new:lesson` run also scaffolds the matching writing-NNN and
+ * speaking-NNN pair at the same number (skipped for number 0, the course
+ * orientation lesson, which has no writing/speaking pair) — see
+ * ARCHITECTURE.md "Writing & speaking tracks: one platform, three
+ * collections" for why the pairing is a numbering convention plus this
+ * scaffold, not a routing table. Pass --no-pair to skip that and scaffold
+ * only the reading lesson; use `new:writing`/`new:speaking` with
+ * --number to fill in a single missing pair by hand.
  *
  * Optional flags: --type reading|writing|speaking (default reading)
  * --level <slug> --module <slug> --number <n> (override the auto-detected
- * next number). See CONTENT_GUIDE.md for the full workflow.
+ * next number) --no-pair (reading only: skip auto-scaffolding the pair).
+ * See CONTENT_GUIDE.md for the full workflow.
  */
 const fs = require('node:fs');
 const path = require('node:path');
@@ -57,7 +67,7 @@ const DIFFICULTY_BY_LEVEL = {
   'near-native': 'c2',
 };
 
-const READING_BODY = `
+const READING_BODY = () => `
 ## Introduction
 
 TODO.
@@ -98,15 +108,17 @@ TODO golden rule, one memorable sentence.
 TODO.
 `;
 
-const WRITING_BODY = `
+const WRITING_BODY = (readingNumber) => `
 ## Introduction
 
-TODO — what this task practices and why it matters.
+TODO — what this task practices, and a link back to what it pairs with:
+[Lesson ${readingNumber}](/lessons/${readingNumber}/) — TODO reading lesson title.
 
 ## Your Turn
 
 ::: prompt words="TODO" time="TODO"
-TODO the writing task itself.
+TODO the writing task itself — it should require producing the exact
+structure the paired reading lesson taught.
 :::
 
 ::: draft
@@ -132,11 +144,12 @@ TODO a model answer to compare your own writing against.
 :::
 `;
 
-const SPEAKING_BODY = `
+const SPEAKING_BODY = (readingNumber) => `
 ## Introduction
 
-TODO — what this drill practices and why it matters (frame it around
-speaking without translating from Bangla first).
+TODO — what this drill practices, and a link back to what it pairs with:
+[Lesson ${readingNumber}](/lessons/${readingNumber}/) — TODO reading lesson title
+(frame it around speaking without translating from Bangla first).
 
 ## Your Turn
 
@@ -167,27 +180,17 @@ TODO a model spoken response to compare yourself against.
 
 const BODY_BY_TYPE = { reading: READING_BODY, writing: WRITING_BODY, speaking: SPEAKING_BODY };
 
-function main() {
-  const args = parseArgs(process.argv.slice(2));
-  const title = args.title;
-  const type = args.type || 'reading';
+/** Creates one scaffolded item. Throws if the target folder already exists. */
+function scaffold({ type, title, number, prerequisites, placementOverride }) {
   const collection = COLLECTIONS[type];
-  if (!title || !collection) {
-    console.error('Usage: npm run new:lesson -- --title "Lesson Title" [--type reading|writing|speaking] [--level slug] [--module slug] [--number n]');
-    process.exit(1);
-  }
-
-  const highest = getHighestNumber(collection);
-  const number = args.number ? Number(args.number) : highest + 1;
   const dirName = `${collection.dirPrefix}-${String(number).padStart(3, '0')}`;
   const dir = path.join(CONTENT_ROOT, collection.dirName, dirName);
 
   if (fs.existsSync(dir)) {
-    console.error(`content/${collection.dirName}/${dirName} already exists.`);
-    process.exit(1);
+    throw new Error(`content/${collection.dirName}/${dirName} already exists.`);
   }
 
-  const placement = args.level && args.module ? { level: args.level, module: args.module } : collection.suggestPlacement(number);
+  const placement = placementOverride || collection.suggestPlacement(number);
   const level = getLevel(placement.level);
   const slug = slugify(title);
 
@@ -201,7 +204,7 @@ level: "${placement.level}"
 module: "${placement.module}"
 estimatedTime: "20 min"
 difficulty: "${DIFFICULTY_BY_LEVEL[placement.level] || 'intermediate'}"
-prerequisites: [${highest > 0 ? highest : ''}]
+prerequisites: [${prerequisites.join(', ')}]
 skills: []
 objectives:
   - "TODO: first learning objective"
@@ -211,13 +214,81 @@ status: "draft"
 ---
 `;
 
+  const body = type === 'reading' ? BODY_BY_TYPE[type]() : BODY_BY_TYPE[type](number);
   fs.mkdirSync(dir, { recursive: true });
-  fs.writeFileSync(path.join(dir, collection.fileName), frontmatter + BODY_BY_TYPE[type], 'utf-8');
+  fs.writeFileSync(path.join(dir, collection.fileName), frontmatter + body, 'utf-8');
 
+  return { dirName, collection, level, placement };
+}
+
+function report({ dirName, collection, level, placement }) {
   console.log(`Created content/${collection.dirName}/${dirName}/${collection.fileName}`);
   console.log(`  level: ${level ? level.name : placement.level}`);
   console.log(`  module: ${placement.module}`);
   console.log('  status: draft — flip to "published" when the content is ready.');
+}
+
+function main() {
+  const args = parseArgs(process.argv.slice(2));
+  const title = args.title;
+  const type = args.type || 'reading';
+  const collection = COLLECTIONS[type];
+  if (!title || !collection) {
+    console.error(
+      'Usage: npm run new:lesson -- --title "Lesson Title" [--type reading|writing|speaking] [--level slug] [--module slug] [--number n] [--no-pair]'
+    );
+    process.exit(1);
+  }
+
+  const highest = getHighestNumber(collection);
+  const number = args.number ? Number(args.number) : highest + 1;
+  const prerequisites = highest > 0 ? [highest] : [];
+
+  const shouldPair = type === 'reading' && number > 0 && args['no-pair'] !== 'true';
+
+  // Pre-flight: if pairing, make sure the writing/speaking numbers are free
+  // too, before creating anything — a partial scaffold (reading created,
+  // writing/speaking failed) would be worse than failing up front.
+  if (shouldPair) {
+    for (const pairType of ['writing', 'speaking']) {
+      const pairCollection = COLLECTIONS[pairType];
+      const pairDirName = `${pairCollection.dirPrefix}-${String(number).padStart(3, '0')}`;
+      const pairDir = path.join(CONTENT_ROOT, pairCollection.dirName, pairDirName);
+      if (fs.existsSync(pairDir)) {
+        console.error(`content/${pairCollection.dirName}/${pairDirName} already exists — cannot auto-pair.`);
+        console.error('Pass --no-pair to scaffold only the reading lesson.');
+        process.exit(1);
+      }
+    }
+  }
+
+  const placementOverride = args.level && args.module ? { level: args.level, module: args.module } : null;
+
+  try {
+    const readingResult = scaffold({ type, title, number, prerequisites, placementOverride });
+    report(readingResult);
+
+    if (shouldPair) {
+      const pairPrerequisites = number > 1 ? [number - 1] : [];
+      const writingResult = scaffold({
+        type: 'writing',
+        title: `Writing Practice — ${title}`,
+        number,
+        prerequisites: pairPrerequisites,
+      });
+      report(writingResult);
+      const speakingResult = scaffold({
+        type: 'speaking',
+        title: `Speaking Drill — ${title}`,
+        number,
+        prerequisites: pairPrerequisites,
+      });
+      report(speakingResult);
+    }
+  } catch (err) {
+    console.error(err.message);
+    process.exit(1);
+  }
 }
 
 main();

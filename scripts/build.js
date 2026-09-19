@@ -163,6 +163,14 @@ function main() {
   }
 
   // ---- Item detail pages, all three collections -----------------------
+  // Writing/speaking tasks pair 1:1 by number with a reading lesson (see
+  // ARCHITECTURE.md "Writing & speaking tracks"), so each detail page can
+  // cross-link its counterpart(s) — only when they exist and are published.
+  const byNumber = {};
+  for (const collection of COLLECTION_LIST) {
+    byNumber[collection.key] = new Map(publishedByCollection[collection.key].map((item) => [item.frontmatter.number, item]));
+  }
+
   for (const collection of COLLECTION_LIST) {
     const items = publishedByCollection[collection.key];
     items.forEach((item, i) => {
@@ -170,7 +178,12 @@ function main() {
       const toc = extractToc(item.rawBody);
       const previous = items[i - 1];
       const next = items[i + 1];
-      writePage(`${collection.routeBase}${item.frontmatter.number}/`, pages.itemDetailPage({ item, bodyHtml, toc, previous, next, collection }));
+      const number = item.frontmatter.number;
+      const pair =
+        collection.key === 'reading'
+          ? { writing: byNumber.writing.get(number), speaking: byNumber.speaking.get(number) }
+          : { reading: byNumber.reading.get(number) };
+      writePage(`${collection.routeBase}${number}/`, pages.itemDetailPage({ item, bodyHtml, toc, previous, next, collection, pair }));
     });
   }
 

@@ -1,18 +1,20 @@
 # Content Guide — Adding a Lesson
 
-This is the exact workflow for adding a lesson (86, 87, or any future
-number) with Claude Code, or by hand. Nothing outside `content/lessons/`
-needs to change for a normal new lesson.
+This is the exact workflow for adding a lesson (88, or any future number)
+with Claude Code, or by hand.
 
 > Three parallel content collections exist: **reading**
 > (`content/lessons/`, this guide's default examples), **writing**
-> (`content/writing/`), and **speaking** (`content/speaking/`). Same
-> file shape and workflow throughout — swap `npm run new:lesson` for
-> `npm run new:writing` or `npm run new:speaking`, and the folders for
-> `content/writing/writing-NNN/` or `content/speaking/speaking-NNN/`.
-> Numbering is independent per collection (writing-001 and lesson-001
-> are unrelated). See ARCHITECTURE.md for why the platform is built this
-> way and the writing/speaking-only block types further down.
+> (`content/writing/`), and **speaking** (`content/speaking/`). Same file
+> shape throughout. Writing and speaking are paired 1:1 by number with
+> reading — writing-NNN and speaking-NNN practice exactly what reading
+> lesson-NNN just taught (lesson 0, course orientation, is exempt — it has
+> no pair). A plain `npm run new:lesson` scaffolds all three files at once
+> for this reason; pass `--no-pair` to scaffold only the reading lesson,
+> or use `npm run new:writing` / `npm run new:speaking` with `--number` to
+> fill a single missing pair by hand. See ARCHITECTURE.md for why the
+> pairing is a numbering convention plus this scaffold, not a routing
+> table, and the writing/speaking-only block types further down.
 
 > This guide covers the *mechanics* — file structure, frontmatter,
 > available blocks. For the *voice* the lesson body should be written in
@@ -34,24 +36,43 @@ This:
    guess is wrong — the ranges are approximate, not authoritative).
 3. Writes `content/lessons/lesson-NNN/lesson.md` with frontmatter filled in
    and every content block stubbed out with `TODO`s, `status: "draft"`.
+4. Scaffolds the matching `content/writing/writing-NNN/lesson.md` and
+   `content/speaking/speaking-NNN/lesson.md` at the same number, each
+   linking back to the reading lesson and placed via that track's own
+   `suggestPlacement()` — skipped automatically for number 0, and skippable
+   entirely with `--no-pair`.
 
-Then:
+Then, for each of the (up to three) files it created:
 
-1. Open the new file and replace every `TODO` with real content.
-2. Set `prerequisites`, `skills` (see `content/curriculum/skills.js` for the
-   valid slugs), `objectives`, and `tags`.
+1. Open the file and replace every `TODO` with real content — for the
+   writing/speaking pair, the task must require *producing* or *speaking*
+   the exact structure the reading lesson just taught, not generic
+   practice at that level.
+2. Set `prerequisites` (the reading collection's convention is the full
+   cumulative array of every earlier number, not just `n-1` — check a
+   recent lesson for the pattern), `skills` (see `content/curriculum/skills.js`,
+   `writing-skills.js`, or `speaking-skills.js` for the valid slugs per
+   collection), `objectives`, and `tags`.
 3. Change `status` to `"published"` when it's ready to appear in navigation,
    search, and the lessons index.
-4. `npm run build` (runs `validate:content` first automatically).
+4. `npm run build` (runs `validate:content` first automatically — it also
+   warns, without failing the build, about any published reading lesson
+   still missing its writing or speaking pair).
 
-That's it. The lesson automatically:
+That's it. Each item automatically:
 
-- appears in `/lessons/`, its level page, and its module page
-- gets previous/next navigation (by lesson number, among published lessons)
+- appears in its collection's index (`/lessons/`, `/writing/`, or
+  `/speaking/`), its level page, and (reading only) its module page
+- gets previous/next navigation (by number, among published items in that
+  collection)
+- cross-links to/from its pair automatically once both exist and are
+  published (a "Practice this lesson" bar on the reading page, a back-link
+  on the writing/speaking page) — no manual wiring needed
 - is searchable (title, description, tags, skills) via `/search-index.json`
 - has any `::: vocabulary` blocks it uses aggregated into `/vocabulary/`
 - is included in `sitemap.xml`
-- gets a real static page at `/lessons/<number>/index.html` with SEO metadata from its `title`/`description`
+- gets a real static page (e.g. `/lessons/<number>/index.html`) with SEO
+  metadata from its `title`/`description`
 
 No other file needs editing. If you find yourself editing a template
 function or a routing bit of `scripts/build.js` to "add" a lesson, stop —
@@ -148,12 +169,19 @@ if:
   `scripts/lib/content.js`'s `validateFrontmatter()`)
 - `level` or `module` isn't defined in `content/curriculum/`, or the module
   belongs to a different level than the lesson declares
-- two lessons share a `number`, `slug`, or `id`
-- a `prerequisites` entry references a lesson number that doesn't exist
+- two lessons share a `number`, `slug`, or `id` (scoped per collection —
+  `lesson-001` and `writing-001` sharing a number is not a collision)
+- a `prerequisites` entry references a number that doesn't exist yet
+  *within that same collection*
 - the Markdown body is empty
 
 Fix the reported file and re-run — the error message names the exact file
 and field.
+
+Separately, it **warns without failing the build** when a published
+reading lesson numbered 1+ has no matching writing-NNN and/or
+speaking-NNN — a nudge to close the gap, not a hard requirement while a
+pair is still being authored.
 
 ## Preserving existing content
 

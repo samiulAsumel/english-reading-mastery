@@ -427,11 +427,26 @@ function speakingLandingPage(publishedItems) {
 // Item detail (generalized over collection: a lesson, a writing task, or a
 // speaking drill — same layout, same TOC/objectives/mark-complete chrome)
 // ---------------------------------------------------------------------------
-function itemDetailPage({ item, bodyHtml, toc, previous, next, collection = COLLECTIONS.reading }) {
+function itemDetailPage({ item, bodyHtml, toc, previous, next, collection = COLLECTIONS.reading, pair = {} }) {
   const fm = item.frontmatter;
   const level = getLevel(fm.level);
   const mod = collection.getModule(fm.module);
   const noun = collection.itemNoun;
+
+  const pairHtml =
+    collection.key === 'reading'
+      ? (pair.writing || pair.speaking
+          ? `<div class="pair-links">
+              <span class="pair-links-label">Practice this lesson:</span>
+              ${pair.writing ? `<a href="/writing/${pair.writing.frontmatter.number}/">${icon('edit')}<span>Writing Task</span></a>` : ''}
+              ${pair.speaking ? `<a href="/speaking/${pair.speaking.frontmatter.number}/">${icon('mic')}<span>Speaking Drill</span></a>` : ''}
+            </div>`
+          : '')
+      : pair.reading
+        ? `<div class="pair-links">
+            <a href="/lessons/${pair.reading.frontmatter.number}/">${icon('arrowLeft')}<span>Practicing Lesson ${pair.reading.frontmatter.number}: ${escapeHtml(pair.reading.frontmatter.title)}</span></a>
+          </div>`
+        : '';
 
   const objectivesHtml = fm.objectives.length
     ? `<div class="objectives-box">
@@ -483,6 +498,7 @@ function itemDetailPage({ item, bodyHtml, toc, previous, next, collection = COLL
             </div>
           </header>
 
+          ${pairHtml}
           ${objectivesHtml}
 
           <div class="prose">

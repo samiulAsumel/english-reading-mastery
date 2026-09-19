@@ -77,6 +77,7 @@ function validateCollection(collection, levelSlugs, errors) {
       slug: data.slug,
       id: data.id,
       prerequisites: data.prerequisites || [],
+      status: data.status || 'published',
     });
   }
 
@@ -104,19 +105,49 @@ function validateCollection(collection, levelSlugs, errors) {
   return parsed;
 }
 
+/**
+ * Every published reading lesson numbered 1+ should have a matching
+ * writing-NNN and speaking-NNN (lesson 0, course orientation, is exempt —
+ * it has no writing/speaking pair by design). This is a warning, not a
+ * build failure, so a lesson mid-authoring doesn't block everything else.
+ */
+function reportMissingPairs(byCollection) {
+  const reading = byCollection.reading || [];
+  const writingNumbers = new Set((byCollection.writing || []).map((l) => l.number));
+  const speakingNumbers = new Set((byCollection.speaking || []).map((l) => l.number));
+
+  const missing = [];
+  for (const l of reading) {
+    if (l.number === 0 || l.status !== 'published') continue;
+    const gaps = [];
+    if (!writingNumbers.has(l.number)) gaps.push('writing');
+    if (!speakingNumbers.has(l.number)) gaps.push('speaking');
+    if (gaps.length > 0) missing.push(`  - lesson-${String(l.number).padStart(3, '0')}: missing ${gaps.join(' & ')}`);
+  }
+
+  if (missing.length > 0) {
+    console.warn(`\n⚠ ${missing.length} published reading lesson(s) without a full writing/speaking pair:`);
+    console.warn(missing.join('\n'));
+    console.warn('');
+  }
+}
+
 function main() {
   const levelSlugs = new Set(levels.map((l) => l.slug));
   const errors = [];
   const counts = [];
+  const byCollection = {};
 
   for (const collection of COLLECTION_LIST) {
     const parsed = validateCollection(collection, levelSlugs, errors);
     counts.push(`${parsed.length} ${collection.key}`);
+    byCollection[collection.key] = parsed;
   }
 
   if (errors.length > 0) fail(errors);
 
   console.log(`✓ Content validation passed — ${counts.join(', ')}.`);
+  reportMissingPairs(byCollection);
 }
 
 main();
